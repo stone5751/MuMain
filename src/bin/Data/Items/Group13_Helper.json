@@ -969,7 +969,7 @@
         "es": "Rollo de Arcángel",
         "pl": "Zwój Archanioła",
         "pt": "Pergaminho do arcanjo",
-        "zh-CN": "大天使之书"
+        "zh-CN": "血灵之书"
       },
       "tags": ["bloodCastleTicketPart"],
       "description": [
@@ -2186,7 +2186,7 @@
         "es": "Astilla de Armadura",
         "pl": "Odłamek Zbroi",
         "pt": "Estilhaço da armadura",
-        "zh-CN": "兽角碎片"
+        "zh-CN": "破烂的铠甲"
       },
       "description": [
         {
@@ -2241,7 +2241,7 @@
         "es": "Bendición de Guardián",
         "pl": "Błogosławieństwo Strażnika",
         "pt": "Bênção do guardião",
-        "zh-CN": "守护宝石碎片"
+        "zh-CN": "女神的祝福"
       },
       "description": [
         {
@@ -2296,7 +2296,7 @@
         "es": "Garra de Bestia",
         "pl": "Pazur Bestii",
         "pt": "Garra da besta",
-        "zh-CN": "猛兽的脚爪"
+        "zh-CN": "猛兽的脚甲"
       },
       "tags": ["valuable"],
       "description": [
@@ -2343,7 +2343,7 @@
         "es": "Fragmento de Cuerno",
         "pl": "Fragment Rogu",
         "pt": "Fragmento de chifre",
-        "zh-CN": "兽角"
+        "zh-CN": "碎角片"
       },
       "tags": ["valuable"],
       "description": [
@@ -2384,7 +2384,7 @@
         "es": "Cuerno Partido",
         "pl": "Złamany Róg",
         "pt": "Chifre quebrado",
-        "zh-CN": "断角"
+        "zh-CN": "折断的角"
       },
       "tags": ["valuable"],
       "description": [

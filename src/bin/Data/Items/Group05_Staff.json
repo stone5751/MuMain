@@ -884,8 +884,7 @@
         "de": "Göttlicher Stock des Erzengels",
         "es": "Bastón Divino de Arcángel",
         "pl": "Boska Różdżka Archanioła",
-        "pt": "Bastão Divino do Arcanjo",
-        "zh-CN": "大天使之棒"
+        "pt": "Bastão Divino do Arcanjo"
       },
       "tags": ["divineArchangelWeapon", "valuable"],
       "options": ["luck"],

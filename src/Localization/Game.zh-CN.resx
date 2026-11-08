@@ -835,10 +835,10 @@
     <value>触发技能</value>
   </data>
   <data name="Activation Skill 1" xml:space="preserve">
-    <value>触发技能 1</value>
+    <value>触发1</value>
   </data>
   <data name="Activation Skill 2" xml:space="preserve">
-    <value>触发技能 2</value>
+    <value>触发2</value>
   </data>
   <data name="Add" xml:space="preserve">
     <value>添加</value>
@@ -868,7 +868,7 @@
     <value>自动接受入盟请求</value>
   </data>
   <data name="Basic Skill" xml:space="preserve">
-    <value>基础技能</value>
+    <value>主技能</value>
   </data>
   <data name="BasicAttackFallback" xml:space="preserve">
     <value>无法施放时普通攻击</value>
@@ -1966,7 +1966,7 @@
     <value>生命值：%d</value>
   </data>
   <data name="Defend skill (Mana:%d)" xml:space="preserve">
-    <value>防御技能（魔法值：%d）</value>
+    <value>圣盾防御（魔法值：%d）</value>
   </data>
   <data name="Falling Slash skill (Mana:%d)" xml:space="preserve">
     <value>地裂斩技能（魔法值：%d）</value>
@@ -1981,7 +1981,7 @@
     <value>旋风斩技能（魔法值：%d）</value>
   </data>
   <data name="Slashing skill (Mana:%d)" xml:space="preserve">
-    <value>斩击技能（魔法值：%d）</value>
+    <value>天地十字剑（魔法值：%d）</value>
   </data>
   <data name="Triple Shot skill (Mana:%d)" xml:space="preserve">
     <value>多重箭技能（魔法值：%d）</value>
