@@ -113,6 +113,17 @@ jobs:
             Write-Output "Verified $($dependency.Archive): $actual"
           }
 
+      - name: Fetch pinned miniaudio archive
+        shell: pwsh
+        run: |
+          $commit = '9634bedb5b5a2ca38c1ee7108a9358a4e233f14d'
+          $downloadDir = 'out/build/zh-cn-windows/_deps/miniaudio-subbuild/miniaudio-populate-prefix/src'
+          New-Item -ItemType Directory -Path $downloadDir -Force | Out-Null
+          $archive = Join-Path $downloadDir "$commit.tar.gz"
+          Invoke-WebRequest -Uri "https://codeload.github.com/mackron/miniaudio/tar.gz/$commit" -OutFile $archive -MaximumRetryCount 3 -RetryIntervalSec 5
+          $actual = (Get-FileHash -LiteralPath $archive -Algorithm SHA256).Hash
+          if ($actual -ne '1a3a79b80fc6f0b0cc155e28b954a598e0ddfa2db64e2afa8466be88c476fa55') { throw 'Pinned miniaudio hash mismatch.' }
+
       - name: Configure player build
         run: >
           python scripts/ci_warnings.py run
