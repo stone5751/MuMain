@@ -85,6 +85,28 @@ jobs:
           key: vcpkg-windows-x64-v2-${{ steps.vcpkg.outputs.identity }}-${{ hashFiles('vcpkg.json', 'toolchain-x64.cmake', 'cmake/triplets/**') }}
           restore-keys: vcpkg-windows-x64-v2-
 
+      # The browser release URL repeatedly returned HTTP 504 on this runner.
+      # Seed the exact FetchContent archive via the release API; CMake still
+      # verifies its pinned hash and runs all original unpack/patch commands.
+      - name: Fetch pinned SDL_ttf release archive
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $downloadDir = 'out/build/zh-cn-windows/_deps/sdl3_ttf-subbuild/sdl3_ttf-populate-prefix/src'
+          $archive = 'SDL3_ttf-3.2.2.tar.gz'
+          $expected = '63547d58d0185c833213885b635a2c0548201cc8f301e6587c0be1a67e1e045d'
+          New-Item -ItemType Directory -Path $downloadDir -Force | Out-Null
+          for ($attempt = 1; $attempt -le 3; $attempt++) {
+            gh release download release-3.2.2 --repo libsdl-org/SDL_ttf --pattern $archive --dir $downloadDir --clobber
+            if ($LASTEXITCODE -eq 0) { break }
+            if ($attempt -eq 3) { throw 'Failed to fetch the pinned SDL_ttf archive.' }
+            Start-Sleep -Seconds 5
+          }
+          $actual = (Get-FileHash -LiteralPath (Join-Path $downloadDir $archive) -Algorithm SHA256).Hash
+          if ($actual -ne $expected) { throw 'SDL_ttf archive hash differs from the pinned source.' }
+          Write-Output "Verified SDL_ttf release archive: $actual"
+
       - name: Configure player build
         run: >
           python scripts/ci_warnings.py run
