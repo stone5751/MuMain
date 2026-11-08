@@ -4,9 +4,9 @@
 
 ## 保留原文的范围
 
-- Game 仍有 2398 个缺失键，涉及大量活动、特殊道具、进阶系统及其他未覆盖界面；没有用机翻填满。
+- 第三轮后 Game 仍有 2128 个缺失键，涉及大量活动、特殊道具、进阶系统及其他未覆盖界面；没有用机翻填满。最新模块覆盖见 `ROUND3.zh-CN.md`。
 - Editor 1417 项、Metadata 59 项尚未翻译，玩家无编辑器构建优先。
-- 物品 456 组、怪物 122 组、NPC 44 组仍无中文；包括版本差异明显的后期装备、套装、专名及历史空白占位。完整清单以 TSV 为准。
+- 第三轮后物品 396 组、怪物 100 组、NPC 38 组仍无中文；包括版本差异明显的后期装备、套装、专名及历史空白占位。完整清单以 TSV 为准。
 - `Divine Stick of the Archangel` 未确认对应的大陆名称，本轮撤回试译并保留英文，避免与大天使法杖等装备混淆。
 - Dialog 对话中的 Muren、Sekneum、Lunedil、Etramu、Arka、Semeden、Elbe、Apocalypse、Benelope、Gaion、Secromicon、Lugard、Eresia、Baz 等未确认专名保留原文。翻译句子不等于这些名称已审核。
 - 玩家名、队名、服务端动态消息、技术命令、文件名、协议标识不做自动翻译。
@@ -36,3 +36,5 @@
 `baseline/wide-literal-candidates.tsv` 和 `supplemental/{narrow-display-candidates,rml-text-candidates}.tsv` 是候选，不是确认漏翻数。补充扫描包括编辑器/第三方源码；RML `<title>` 常是内部文档名，ImGui `##...` 常是控件 ID，必须先判定是否可见。
 当前补充扫描记录 14286 个窄字面量候选，其中 405 个处于显示相关调用行；RML 文本候选 248 个。正则不能完整解析跨行文本、宏、注释和动态数据。
 已改结果弹窗 OK；连接失败/渲染器错误等早期错误提示、幸运物品兑换韩文标题仍待处理。后者所属功能原项目尚未完成，避免为翻译扩大业务改动。
+
+第三轮P2已提供独立8条离线覆盖样本，见 `experiments/zh-cn-bmd-overlay/README.zh-CN.md`；这些样本不计入客户端技能/任务已译覆盖率。客户端覆盖加载及缓存刷新未实施，BMD仍未修改。
