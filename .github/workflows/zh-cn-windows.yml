@@ -19,6 +19,14 @@ jobs:
       VCPKG_ROOT: C:/vcpkg
       DOTNET_CLI_TELEMETRY_OPTOUT: '1'
       DOTNET_GENERATE_ASPNET_CERTIFICATE: 'false'
+      PYTHONIOENCODING: utf-8
+      # Match upstream CI: dependency checkouts should not emit advisory notes
+      # that the project's strict diagnostic wrapper treats as build failures.
+      GIT_CONFIG_COUNT: 2
+      GIT_CONFIG_KEY_0: init.defaultBranch
+      GIT_CONFIG_VALUE_0: main
+      GIT_CONFIG_KEY_1: advice.detachedHead
+      GIT_CONFIG_VALUE_1: 'false'
     steps:
       - uses: actions/checkout@v7
         with:
@@ -92,13 +100,14 @@ jobs:
         run: python scripts/ci_warnings.py run cmake --build out/build/zh-cn-windows --config Release
 
       - name: Run native tests
-        run: ctest --test-dir out/build/zh-cn-windows --build-config Release --output-on-failure --no-tests=error --label-exclude static --parallel 4
+        run: ctest --test-dir out/build/zh-cn-windows --build-config Release --output-on-failure --no-tests=error --label-exclude static --parallel 4 --output-junit "${{ github.workspace }}/out/build/zh-cn-windows/ctest-results.xml"
 
       - name: Stage runtime and translated names
         shell: pwsh
         run: |
           $runtime = 'out/build/zh-cn-windows/src/Release'
           $package = 'out/zh-cn-client-update'
+          if (Test-Path -LiteralPath $package) { throw 'Refusing to mix a new package with an existing staging directory.' }
           New-Item -ItemType Directory -Path $package -Force | Out-Null
           foreach ($file in @('Main.exe', 'MUnique.Client.Library.dll')) {
             if (-not (Test-Path -LiteralPath "$runtime/$file")) { throw "Missing runtime file: $file" }
@@ -110,15 +119,40 @@ jobs:
           $crt = @(Get-ChildItem -LiteralPath "$env:VCToolsRedistDir/x64" -Directory -Filter 'Microsoft.VC*.CRT')
           if ($crt.Count -ne 1) { throw 'Expected one MSVC redistributable CRT directory.' }
           Get-ChildItem -LiteralPath $crt[0].FullName -Filter '*.dll' | Copy-Item -Destination $package
+          ./scripts/validate_zh_cn_runtime.ps1 -RuntimeDirectory $package
           New-Item -ItemType Directory -Path "$package/Data/Items", "$package/Data/Monsters" -Force | Out-Null
-          Copy-Item -Path 'src/bin/Data/Items/Group*.json' -Destination "$package/Data/Items"
-          Copy-Item -LiteralPath 'src/bin/Data/Monsters/Monsters.json' -Destination "$package/Data/Monsters"
-          Copy-Item -LiteralPath 'docs/localization-audit/BUILD-AND-VERIFY.zh-CN.md' -Destination "$package/README.zh-CN.md"
-          @("source=$env:GITHUB_SHA", 'base=v1.37.0', 'native-build-and-ctest=passed', 'in-game-and-openmu-connection=NOT-TESTED') | Set-Content "$package/localization-build.txt" -Encoding utf8
+          $names = @(git diff --name-only v1.37.0 HEAD -- src/bin/Data/Items src/bin/Data/Monsters)
+          if ($LASTEXITCODE -ne 0 -or $names.Count -eq 0) { throw 'Unable to identify the translated name files.' }
+          foreach ($name in $names) {
+            if ($name -notmatch '^src/bin/Data/(Items/Group[0-9]+_[A-Za-z]+\.json|Monsters/Monsters\.json)$') { throw "Unexpected data file: $name" }
+            Copy-Item -LiteralPath $name -Destination (Join-Path $package $name.Substring('src/bin/'.Length))
+          }
+          Copy-Item -LiteralPath 'docs/localization-audit/WINDOWS-UPDATE-README.zh-CN.md' -Destination "$package/README.zh-CN.md"
+          $source = (git rev-parse HEAD).Trim()
+          if ($LASTEXITCODE -ne 0 -or $source -ne $env:GITHUB_SHA) { throw 'Checkout does not match the dispatched commit.' }
+          @("source=$source", "run=$env:GITHUB_SERVER_URL/$env:GITHUB_REPOSITORY/actions/runs/$env:GITHUB_RUN_ID", 'base=v1.37.0', 'architecture=x64', 'configuration=Release', 'native-build-and-ctest=passed', 'in-game-and-openmu-connection=NOT-TESTED') | Set-Content "$package/localization-build.txt" -Encoding utf8
+          Copy-Item -LiteralPath 'out/build/zh-cn-windows/ctest-results.xml' -Destination "$package/ctest-results.xml"
+          python scripts/validate_zh_cn_package.py $package
+          if ($LASTEXITCODE -ne 0) { throw 'Update package validation failed.' }
           Compress-Archive -Path "$package/*" -DestinationPath 'out/MuMain-v1.37.0-zh-CN-windows-x64-update.zip'
+          $zipHash = (Get-FileHash -LiteralPath 'out/MuMain-v1.37.0-zh-CN-windows-x64-update.zip' -Algorithm SHA256).Hash.ToLowerInvariant()
+          "$zipHash  MuMain-v1.37.0-zh-CN-windows-x64-update.zip" | Set-Content out/SHA256SUMS.txt -Encoding utf8
 
       - uses: actions/upload-artifact@v7
         with:
           name: MuMain-v1.37.0-zh-CN-windows-x64-update
-          path: out/MuMain-v1.37.0-zh-CN-windows-x64-update.zip
+          path: |
+            out/MuMain-v1.37.0-zh-CN-windows-x64-update.zip
+            out/SHA256SUMS.txt
           if-no-files-found: error
+
+      - name: Upload test and configure diagnostics
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: zh-cn-windows-diagnostics-${{ github.run_attempt }}
+          path: |
+            out/build/zh-cn-windows/ctest-results.xml
+            out/build/zh-cn-windows/Testing/Temporary/*.log
+            out/build/zh-cn-windows/CMakeFiles/CMakeConfigureLog.yaml
+          if-no-files-found: ignore
