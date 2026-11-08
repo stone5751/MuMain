@@ -424,7 +424,8 @@
         "de": "Sturmkrähenrüstung",
         "es": "Armadura Cuervo de Tormenta",
         "pl": "Zbroja Burzowej Wrony",
-        "pt": "Arm. do Corvo da Tempestade"
+        "pt": "Arm. do Corvo da Tempestade",
+        "zh-CN": "亚特兰蒂斯之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -477,7 +478,8 @@
         "de": "Dunkelphönixrüstung",
         "es": "Armadura Fénix Oscuro",
         "pl": "Zbroja Mrocznego Feniksa",
-        "pt": "Armadura da fênix negra"
+        "pt": "Armadura da fênix negra",
+        "zh-CN": "黑凤凰之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -582,7 +584,8 @@
         "de": "Großartige Drachenrüstung",
         "es": "Armadura Gran Dragón",
         "pl": "Zbroja Wielkiego Smoka",
-        "pt": "Armadura do grande dragão"
+        "pt": "Armadura do grande dragão",
+        "zh-CN": "龙炎之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -608,7 +611,8 @@
         "de": "Dunkelseelenrüstung",
         "es": "Armadura Gran Oscura",
         "pl": "Zbroja Mrocznej Duszy",
-        "pt": "Armadura da alma negra"
+        "pt": "Armadura da alma negra",
+        "zh-CN": "圣魂之铠"
       },
       "options": ["luck"],
       "width": 2,

@@ -2409,7 +2409,8 @@
         "de": "Ticket für seltenen Gegenstand 1",
         "es": "Boleto de Ítem Raro1",
         "pl": "Bilet na rzadki przedmiot 1",
-        "pt": "Bilhete de item raro1"
+        "pt": "Bilhete de item raro1",
+        "zh-CN": "稀有物品兑换券1"
       },
       "tags": ["cashShop"],
       "description": [
@@ -2435,7 +2436,8 @@
         "de": "Ticket für seltenen Gegenstand 2",
         "es": "Boleto de Ítem Raro2",
         "pl": "Bilet na rzadki przedmiot 2",
-        "pt": "Bilhete de item raro2"
+        "pt": "Bilhete de item raro2",
+        "zh-CN": "稀有物品兑换券2"
       },
       "tags": ["cashShop"],
       "description": [
@@ -2461,7 +2463,8 @@
         "de": "Ticket für seltenen Gegenstand 3",
         "es": "Boleto de Ítem Raro3",
         "pl": "Bilet na rzadki przedmiot 3",
-        "pt": "Bilhete de item raro3"
+        "pt": "Bilhete de item raro3",
+        "zh-CN": "稀有物品兑换券3"
       },
       "tags": ["cashShop"],
       "description": [
@@ -2487,7 +2490,8 @@
         "de": "Ticket für seltenen Gegenstand 4",
         "es": "Boleto de Ítem Raro4",
         "pl": "Bilet na rzadki przedmiot 4",
-        "pt": "Bilhete de item raro4"
+        "pt": "Bilhete de item raro4",
+        "zh-CN": "稀有物品兑换券4"
       },
       "tags": ["cashShop"],
       "description": [
@@ -2513,7 +2517,8 @@
         "de": "Ticket für seltenen Gegenstand 5",
         "es": "Boleto de Ítem Raro5",
         "pl": "Bilet na rzadki przedmiot 5",
-        "pt": "Bilhete de item raro5"
+        "pt": "Bilhete de item raro5",
+        "zh-CN": "稀有物品兑换券5"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5227,7 +5232,8 @@
         "de": "Ticket für seltenen Gegenstand 7",
         "es": "Boleto de Ítem Raro 7",
         "pl": "Bilet na rzadki przedmiot 7",
-        "pt": "Bilhete de item raro7"
+        "pt": "Bilhete de item raro7",
+        "zh-CN": "稀有物品兑换券7"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5253,7 +5259,8 @@
         "de": "Ticket für seltenen Gegenstand 8",
         "es": "Boleto de Ítem Raro 8",
         "pl": "Bilet na rzadki przedmiot 8",
-        "pt": "Bilhete de item raro8"
+        "pt": "Bilhete de item raro8",
+        "zh-CN": "稀有物品兑换券8"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5279,7 +5286,8 @@
         "de": "Ticket für seltenen Gegenstand 9",
         "es": "Boleto de Ítem Raro 9",
         "pl": "Bilet na rzadki przedmiot 9",
-        "pt": "Bilhete de item raro9"
+        "pt": "Bilhete de item raro9",
+        "zh-CN": "稀有物品兑换券9"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5305,7 +5313,8 @@
         "de": "Ticket für seltenen Gegenstand 10",
         "es": "Boleto de Ítem Raro 10",
         "pl": "Bilet na rzadki przedmiot 10",
-        "pt": "Bilhete de item raro10"
+        "pt": "Bilhete de item raro10",
+        "zh-CN": "稀有物品兑换券10"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5331,7 +5340,8 @@
         "de": "Ticket für seltenen Gegenstand 11",
         "es": "Boleto de Ítem Raro 11",
         "pl": "Bilet na rzadki przedmiot 11",
-        "pt": "Bilhete de item raro11"
+        "pt": "Bilhete de item raro11",
+        "zh-CN": "稀有物品兑换券11"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5357,7 +5367,8 @@
         "de": "Ticket für seltenen Gegenstand 12",
         "es": "Boleto de Ítem Raro 12",
         "pl": "Bilet na rzadki przedmiot 12",
-        "pt": "Bilhete de item raro12"
+        "pt": "Bilhete de item raro12",
+        "zh-CN": "稀有物品兑换券12"
       },
       "tags": ["cashShop"],
       "description": [

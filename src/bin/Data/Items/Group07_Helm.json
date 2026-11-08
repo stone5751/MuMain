@@ -441,7 +441,8 @@
         "de": "Dunkelphönixhelm",
         "es": "Yelmo Fénix Oscuro",
         "pl": "Hełm Mrocznego Feniksa",
-        "pt": "Elmo da fênix negra"
+        "pt": "Elmo da fênix negra",
+        "zh-CN": "黑凤凰之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -520,7 +521,8 @@
         "de": "Großartiger Drachenhelm",
         "es": "Yelmo Gran Dragón",
         "pl": "Hełm Wielkiego Smoka",
-        "pt": "Grande elmo do dragão"
+        "pt": "Grande elmo do dragão",
+        "zh-CN": "龙炎之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -546,7 +548,8 @@
         "de": "Dunkelseelenhelm",
         "es": "Yelmo Alma Oscura",
         "pl": "Hełm Mrocznej Duszy",
-        "pt": "Elmo da alma negra"
+        "pt": "Elmo da alma negra",
+        "zh-CN": "圣魂之盔"
       },
       "options": ["luck"],
       "width": 2,

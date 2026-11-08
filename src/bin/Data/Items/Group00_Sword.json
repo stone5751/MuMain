@@ -114,7 +114,8 @@
         "de": "Katana",
         "es": "Katana",
         "pl": "Katana",
-        "pt": "Cataná"
+        "pt": "Cataná",
+        "zh-CN": "东洋刀"
       },
       "options": ["luck"],
       "width": 1,
@@ -146,7 +147,8 @@
         "de": "Schwert des Assassinen",
         "es": "Espada de Asesino",
         "pl": "Miecz Zabójcy",
-        "pt": "Espada do assassino"
+        "pt": "Espada do assassino",
+        "zh-CN": "暗杀者"
       },
       "options": ["luck"],
       "width": 1,
@@ -178,7 +180,8 @@
         "de": "Klinge",
         "es": "Espada",
         "pl": "Ostrze",
-        "pt": "Lâmina"
+        "pt": "Lâmina",
+        "zh-CN": "极光刀"
       },
       "options": ["luck"],
       "width": 1,
@@ -212,7 +215,8 @@
         "de": "Gladius",
         "es": "Gladius",
         "pl": "Gladius",
-        "pt": "Gládio"
+        "pt": "Gládio",
+        "zh-CN": "拉丁剑"
       },
       "options": ["luck"],
       "width": 1,
@@ -370,7 +374,8 @@
         "de": "Legendäres Schwert",
         "es": "Espada Legendaria",
         "pl": "Legendarny miecz",
-        "pt": "Espada lendária"
+        "pt": "Espada lendária",
+        "zh-CN": "传说之剑"
       },
       "options": ["luck"],
       "width": 2,
@@ -401,7 +406,8 @@
         "de": "Sonnenschwert",
         "es": "Espada Helíaca",
         "pl": "Słoneczny miecz",
-        "pt": "Espada helíaca"
+        "pt": "Espada helíaca",
+        "zh-CN": "太阳之剑"
       },
       "options": ["luck"],
       "width": 2,
@@ -464,7 +470,8 @@
         "de": "Blitzschwert",
         "es": "Espada Lumínica",
         "pl": "Miecz błyskawic",
-        "pt": "Espada de luz"
+        "pt": "Espada de luz",
+        "zh-CN": "雷神之剑"
       },
       "options": ["luck"],
       "width": 1,

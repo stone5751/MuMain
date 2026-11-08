@@ -5645,7 +5645,8 @@
         "de": "Saphirring",
         "es": "Anillo de Zafiro",
         "pl": "Szafirowy pierścień",
-        "pt": "Anel de safira"
+        "pt": "Anel de safira",
+        "zh-CN": "蓝宝石戒指"
       },
       "tags": ["cashShop", "gemJewelry", "valuable"],
       "description": [
@@ -5695,7 +5696,8 @@
         "de": "Rubinring",
         "es": "Anillo de Rubí",
         "pl": "Rubinowy pierścień",
-        "pt": "Anel de rubi"
+        "pt": "Anel de rubi",
+        "zh-CN": "红宝石戒指"
       },
       "tags": ["cashShop", "gemJewelry", "valuable"],
       "description": [
@@ -5745,7 +5747,8 @@
         "de": "Topasring",
         "es": "Anillo de Topacio",
         "pl": "Topazowy pierścień",
-        "pt": "Anel de topázio"
+        "pt": "Anel de topázio",
+        "zh-CN": "黄玉戒指"
       },
       "tags": ["cashShop", "gemJewelry", "valuable"],
       "description": [
@@ -5795,7 +5798,8 @@
         "de": "Amethystring",
         "es": "Anillo de Amatista",
         "pl": "Ametystowy pierścień",
-        "pt": "Anel de ametista"
+        "pt": "Anel de ametista",
+        "zh-CN": "紫水晶戒指"
       },
       "tags": ["cashShop", "gemJewelry", "valuable"],
       "description": [
@@ -5845,7 +5849,8 @@
         "de": "Rubinhalskette",
         "es": "Collar de Rubíes",
         "pl": "Rubinowy naszyjnik",
-        "pt": "Colar de rubi"
+        "pt": "Colar de rubi",
+        "zh-CN": "红宝石项链"
       },
       "tags": ["cashShop", "gemJewelry", "valuable"],
       "description": [
@@ -5895,7 +5900,8 @@
         "de": "Smaragdhalskette",
         "es": "Collar de Esmeraldas",
         "pl": "Szmaragdowy naszyjnik",
-        "pt": "Colar de esmeralda"
+        "pt": "Colar de esmeralda",
+        "zh-CN": "绿宝石项链"
       },
       "tags": ["cashShop", "gemJewelry", "valuable"],
       "description": [
@@ -5945,7 +5951,8 @@
         "de": "Saphirhalskette",
         "es": "Collar de Zafiros",
         "pl": "Szafirowy naszyjnik",
-        "pt": "Colar de safira"
+        "pt": "Colar de safira",
+        "zh-CN": "蓝宝石项链"
       },
       "tags": ["cashShop", "gemJewelry", "valuable"],
       "description": [
@@ -6030,7 +6037,8 @@
         "de": "Minimaler Vitalitätstrank",
         "es": "Pócima de Vitalidad Mínima",
         "pl": "Minimalna mikstura witalności",
-        "pt": "Poção de vitalidade mínima"
+        "pt": "Poção de vitalidade mínima",
+        "zh-CN": "微型体力药水"
       },
       "width": 1,
       "height": 1,
@@ -6051,7 +6059,8 @@
         "de": "Niedriger Vitalitätstrank",
         "es": "Pócima de Vitalidad Baja",
         "pl": "Słaba mikstura witalności",
-        "pt": "Poção de vitalidade baixa"
+        "pt": "Poção de vitalidade baixa",
+        "zh-CN": "小型体力药水"
       },
       "width": 1,
       "height": 1,
@@ -6072,7 +6081,8 @@
         "de": "Mittlerer Vitalitätstrank",
         "es": "Pócima de Vitalidad Media",
         "pl": "Średnia mikstura witalności",
-        "pt": "Poção de vitalidade média"
+        "pt": "Poção de vitalidade média",
+        "zh-CN": "中型体力药水"
       },
       "width": 1,
       "height": 1,
@@ -6093,7 +6103,8 @@
         "de": "Hoher Vitalitätstrank",
         "es": "Pócima de Vitalidad Alta",
         "pl": "Silna mikstura witalności",
-        "pt": "Poção de vitalidade alta"
+        "pt": "Poção de vitalidade alta",
+        "zh-CN": "大型体力药水"
       },
       "width": 1,
       "height": 1,
@@ -6114,7 +6125,8 @@
         "de": "Freikarte für Chaos Castle",
         "es": "Boleto Abierto; Castillo Caos",
         "pl": "Bilet wolnego wstępu do Chaos Castle",
-        "pt": "Bilhete Ac. Livre Cast. Caos"
+        "pt": "Bilhete Ac. Livre Cast. Caos",
+        "zh-CN": "赤色要塞自由入场券"
       },
       "tags": ["cashShop"],
       "description": [
@@ -6417,7 +6429,8 @@
         "de": "Zugangsticket für Bezahlkanal",
         "es": "Boleto Canal de Acceso Pago",
         "pl": "Bilet wstępu na płatny kanał",
-        "pt": "Bilhete Ac. a Canal Pago"
+        "pt": "Bilhete Ac. a Canal Pago",
+        "zh-CN": "付费频道通行证"
       },
       "tags": ["cashShop"],
       "description": [
@@ -6838,7 +6851,8 @@
         "de": "1. Glücksticket: Rüstung",
         "es": "1er Boleto Armadura de la Suerte",
         "pl": "Bilet szczęścia I na zbroję",
-        "pt": "1º Bilhete de Armadura da Sorte"
+        "pt": "1º Bilhete de Armadura da Sorte",
+        "zh-CN": "一代幸运铠甲兑换券"
       },
       "tags": ["luckyItemTicket"],
       "description": [
@@ -6880,7 +6894,8 @@
         "de": "1. Glücksticket: Hose",
         "es": "1er Boleto Pantalones de la Suerte",
         "pl": "Bilet szczęścia I na spodnie",
-        "pt": "1º Bilhete de Calças da Sorte"
+        "pt": "1º Bilhete de Calças da Sorte",
+        "zh-CN": "一代幸运护腿兑换券"
       },
       "tags": ["luckyItemTicket"],
       "description": [
@@ -6922,7 +6937,8 @@
         "de": "1. Glücksticket: Helm",
         "es": "1er Boleto Yelmo de la Suerte",
         "pl": "Bilet szczęścia I na hełm",
-        "pt": "1º Bilhete de Elmo da Sorte"
+        "pt": "1º Bilhete de Elmo da Sorte",
+        "zh-CN": "一代幸运头盔兑换券"
       },
       "tags": ["luckyItemTicket"],
       "description": [
@@ -6964,7 +6980,8 @@
         "de": "1. Glücksticket: Handschuhe",
         "es": "1er Boleto Guantes de la Suerte",
         "pl": "Bilet szczęścia I na rękawice",
-        "pt": "1º Bilhete de Luvas da Sorte"
+        "pt": "1º Bilhete de Luvas da Sorte",
+        "zh-CN": "一代幸运护手兑换券"
       },
       "tags": ["luckyItemTicket"],
       "description": [
@@ -7006,7 +7023,8 @@
         "de": "1. Glücksticket: Stiefel",
         "es": "1er Boleto Botas de la Suerte",
         "pl": "Bilet szczęścia I na buty",
-        "pt": "1º Bilhete de Botas da Sorte"
+        "pt": "1º Bilhete de Botas da Sorte",
+        "zh-CN": "一代幸运靴子兑换券"
       },
       "tags": ["luckyItemTicket"],
       "description": [
@@ -7048,7 +7066,8 @@
         "de": "2. Glücksticket: Rüstung",
         "es": "2º Boleto Armadura de la Suerte",
         "pl": "Bilet szczęścia II na zbroję",
-        "pt": "2º Bilhete de Armadura da Sorte"
+        "pt": "2º Bilhete de Armadura da Sorte",
+        "zh-CN": "二代幸运铠甲兑换券"
       },
       "tags": ["luckyItemTicket"],
       "description": [
@@ -7090,7 +7109,8 @@
         "de": "2. Glücksticket: Hose",
         "es": "2º Boleto Pantalones de la Suerte",
         "pl": "Bilet szczęścia II na spodnie",
-        "pt": "2º Bilhete de Calças da Sorte"
+        "pt": "2º Bilhete de Calças da Sorte",
+        "zh-CN": "二代幸运护腿兑换券"
       },
       "tags": ["luckyItemTicket"],
       "description": [
@@ -7132,7 +7152,8 @@
         "de": "2. Glücksticket: Helm",
         "es": "2º Boleto Yelmo de la Suerte",
         "pl": "Bilet szczęścia II na hełm",
-        "pt": "2º Bilhete de Elmo da Sorte"
+        "pt": "2º Bilhete de Elmo da Sorte",
+        "zh-CN": "二代幸运头盔兑换券"
       },
       "tags": ["luckyItemTicket"],
       "description": [
@@ -7174,7 +7195,8 @@
         "de": "2. Glücksticket: Handschuhe",
         "es": "2º Boleto Guantes de la Suerte",
         "pl": "Bilet szczęścia II na rękawice",
-        "pt": "2º Bilhete de Luvas da Sorte"
+        "pt": "2º Bilhete de Luvas da Sorte",
+        "zh-CN": "二代幸运护手兑换券"
       },
       "tags": ["luckyItemTicket"],
       "description": [
@@ -7216,7 +7238,8 @@
         "de": "2. Glücksticket: Stiefel",
         "es": "2º Boleto Botas de la Suerte",
         "pl": "Bilet szczęścia II na buty",
-        "pt": "2º Bilhete de Botas da Sorte"
+        "pt": "2º Bilhete de Botas da Sorte",
+        "zh-CN": "二代幸运靴子兑换券"
       },
       "tags": ["luckyItemTicket"],
       "description": [

@@ -431,7 +431,8 @@
         "de": "Sturmkrähenhandschuhe",
         "es": "Guantes Cuervo de Tormenta",
         "pl": "Rękawice Burzowej Wrony",
-        "pt": "Luvas do corvo da tempestade"
+        "pt": "Luvas do corvo da tempestade",
+        "zh-CN": "亚特兰蒂斯护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -486,7 +487,8 @@
         "de": "Dunkelphönixhandschuhe",
         "es": "Guantes Fénix Oscuro",
         "pl": "Rękawice Mrocznego Feniksa",
-        "pt": "Luvas da fênix negra"
+        "pt": "Luvas da fênix negra",
+        "zh-CN": "黑凤凰护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -595,7 +597,8 @@
         "de": "Großartige Drachenhandschuhe",
         "es": "Guantes Gran Dragón",
         "pl": "Rękawice Wielkiego Smoka",
-        "pt": "Luvas do grande dragão"
+        "pt": "Luvas do grande dragão",
+        "zh-CN": "龙炎护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -622,7 +625,8 @@
         "de": "Dunkelseelenhandschuhe",
         "es": "Guantes Alma Oscura",
         "pl": "Rękawice Mrocznej Duszy",
-        "pt": "Luvas da alma negra"
+        "pt": "Luvas da alma negra",
+        "zh-CN": "圣魂护手"
       },
       "options": ["luck"],
       "width": 2,

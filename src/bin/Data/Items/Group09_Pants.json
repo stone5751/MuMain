@@ -424,7 +424,8 @@
         "de": "Sturmkrähenhose",
         "es": "Pantalones Cuervo de Tormenta",
         "pl": "Spodnie Burzowej Wrony",
-        "pt": "Calças do corvo da tempestade"
+        "pt": "Calças do corvo da tempestade",
+        "zh-CN": "亚特兰蒂斯护腿"
       },
       "options": ["luck"],
       "width": 2,
@@ -477,7 +478,8 @@
         "de": "Dunkelphönixhose",
         "es": "Pantalones Fénix Oscuro",
         "pl": "Spodnie Mrocznego Feniksa",
-        "pt": "Calças da fênix negra"
+        "pt": "Calças da fênix negra",
+        "zh-CN": "黑凤凰护腿"
       },
       "options": ["luck"],
       "width": 2,
@@ -582,7 +584,8 @@
         "de": "Großartige Drachenhose",
         "es": "Pantalones Gran Dragón",
         "pl": "Spodnie Wielkiego Smoka",
-        "pt": "Calças do grande dragão"
+        "pt": "Calças do grande dragão",
+        "zh-CN": "龙炎护腿"
       },
       "options": ["luck"],
       "width": 2,
@@ -608,7 +611,8 @@
         "de": "Dunkelseelenhose",
         "es": "Pantalones Alma Oscura",
         "pl": "Spodnie Mrocznej Duszy",
-        "pt": "Calças da alma negra"
+        "pt": "Calças da alma negra",
+        "zh-CN": "圣魂护腿"
       },
       "options": ["luck"],
       "width": 2,

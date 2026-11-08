@@ -1487,7 +1487,7 @@
       ]
     },
     {
-      "name": {"en": "Thompson Kenel", "es": "Thompson Kenel", "pt": "Thompson Kenel"},
+      "name": {"en": "Thompson Kenel", "es": "Thompson Kenel", "pt": "Thompson Kenel", "zh-CN": "武器商人托姆绅" },
       "kind": "npc",
       "model": "MODEL_DEVIAS_TRADER",
       "numbers": [
@@ -1627,7 +1627,7 @@
       ]
     },
     {
-      "name": {"en": "Wandering Merchant Martin", "es": "Mercader Errante Martin", "pt": "Martin, o Mercador itinerante"},
+      "name": {"en": "Wandering Merchant Martin", "es": "Mercader Errante Martin", "pt": "Martin, o Mercador itinerante", "zh-CN": "流浪商人马丁" },
       "kind": "npc",
       "model": "MODEL_MERCHANT_MAN",
       "numbers": [
@@ -2099,7 +2099,7 @@
       ]
     },
     {
-      "name": {"en": "Berserker", "es": "Energúmeno", "pt": "Berserker"},
+      "name": {"en": "Berserker", "es": "Energúmeno", "pt": "Berserker", "zh-CN": "疯魔" },
       "kind": "monster",
       "model": "MONSTER_MODEL_BERSERK",
       "soundSet": "Berserker",
@@ -2113,7 +2113,7 @@
       ]
     },
     {
-      "name": {"en": "Splinter Wolf", "es": "Lobo Esquirla", "pt": "Lobo de espinhos"},
+      "name": {"en": "Splinter Wolf", "es": "Lobo Esquirla", "pt": "Lobo de espinhos", "zh-CN": "裂角狼" },
       "kind": "monster",
       "model": "MONSTER_MODEL_SPLINTER_WOLF",
       "soundSet": "Splinter Wolf",
@@ -2126,7 +2126,7 @@
       ]
     },
     {
-      "name": {"en": "Iron Rider", "es": "Jinete de Hierro", "pt": "Cavaleiro de ferro"},
+      "name": {"en": "Iron Rider", "es": "Jinete de Hierro", "pt": "Cavaleiro de ferro", "zh-CN": "金甲兽" },
       "kind": "monster",
       "model": "MONSTER_MODEL_IRON_RIDER",
       "soundSet": "Iron Rider",
@@ -2139,7 +2139,7 @@
       ]
     },
     {
-      "name": {"en": "Satyros", "es": "Sátiros", "pt": "Sátiro"},
+      "name": {"en": "Satyros", "es": "Sátiros", "pt": "Sátiro", "zh-CN": "半兽人" },
       "kind": "monster",
       "model": "MONSTER_MODEL_SATYROS",
       "soundSet": "Satyros",
@@ -2148,7 +2148,7 @@
       ]
     },
     {
-      "name": {"en": "Blade Hunter", "es": "Cazador Blade", "pt": "Caçador de espada"},
+      "name": {"en": "Blade Hunter", "es": "Cazador Blade", "pt": "Caçador de espada", "zh-CN": "刀刃猎手" },
       "kind": "monster",
       "model": "MONSTER_MODEL_BLADE_HUNTER",
       "soundSet": "Blade Hunter",
@@ -2157,7 +2157,7 @@
       ]
     },
     {
-      "name": {"en": "Kentauros", "es": "Centauros", "pt": "Kentauros"},
+      "name": {"en": "Kentauros", "es": "Centauros", "pt": "Kentauros", "zh-CN": "寒冰刺客" },
       "kind": "monster",
       "model": "MONSTER_MODEL_KENTAUROS",
       "soundSet": "Kentauros",
@@ -2171,7 +2171,7 @@
       ]
     },
     {
-      "name": {"en": "Gigantis", "es": "Gigantis", "pt": "Gigantis"},
+      "name": {"en": "Gigantis", "es": "Gigantis", "pt": "Gigantis", "zh-CN": "狂巨人" },
       "kind": "monster",
       "model": "MONSTER_MODEL_GIGANTIS",
       "soundSet": "Gigantis",
@@ -2185,7 +2185,7 @@
       ]
     },
     {
-      "name": {"en": "Genocider", "es": "Genocida", "pt": "Genocida"},
+      "name": {"en": "Genocider", "es": "Genocida", "pt": "Genocida", "zh-CN": "屠杀者" },
       "kind": "monster",
       "model": "MONSTER_MODEL_GENOCIDER",
       "soundSet": "Genocider",
@@ -2310,7 +2310,7 @@
       ]
     },
     {
-      "name": {"en": "Elpis", "es": "Elpis", "pt": "Elpis"},
+      "name": {"en": "Elpis", "es": "Elpis", "pt": "Elpis", "zh-CN": "艾尔菲丝" },
       "kind": "npc",
       "model": "MODEL_SMELTING_NPC",
       "numbers": [
@@ -2318,7 +2318,7 @@
       ]
     },
     {
-      "name": {"en": "Osbourne", "es": "Osbourne", "pt": "Osbourne"},
+      "name": {"en": "Osbourne", "es": "Osbourne", "pt": "Osbourne", "zh-CN": "奥斯本" },
       "kind": "npc",
       "model": "MODEL_REFINERY_NPC",
       "numbers": [
@@ -2326,7 +2326,7 @@
       ]
     },
     {
-      "name": {"en": "Jerridon", "es": "Jerridon", "pt": "Jerridon"},
+      "name": {"en": "Jerridon", "es": "Jerridon", "pt": "Jerridon", "zh-CN": "杰瑞敦" },
       "kind": "npc",
       "model": "MODEL_RECOVERY_NPC",
       "numbers": [
@@ -2342,7 +2342,7 @@
       ]
     },
     {
-      "name": {"en": "Elite Skull Soldier", "es": "Soldado Calavera de Élite", "pt": "Soldado elite da caveira"},
+      "name": {"en": "Elite Skull Soldier", "es": "Soldado Calavera de Élite", "pt": "Soldado elite da caveira", "zh-CN": "精英骷髅兵" },
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -2358,7 +2358,7 @@
       ]
     },
     {
-      "name": {"en": "Santa", "es": "Santa", "pt": "Papai Noel"},
+      "name": {"en": "Santa", "es": "Santa", "pt": "Papai Noel", "zh-CN": "圣诞老人" },
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -2446,7 +2446,7 @@
       ]
     },
     {
-      "name": {"en": "Mirage", "es": "Espejismo", "pt": "Miragem"},
+      "name": {"en": "Mirage", "es": "Espejismo", "pt": "Miragem", "zh-CN": "弥拉邱" },
       "kind": "npc",
       "model": "MODEL_CURSEDTEMPLE_ENTER_NPC",
       "numbers": [
@@ -2665,7 +2665,7 @@
       ]
     },
     {
-      "name": {"en": "Cursed Lich", "es": "Lich Maldito", "pt": "Liche amaldiçoado"},
+      "name": {"en": "Cursed Lich", "es": "Lich Maldito", "pt": "Liche amaldiçoado", "zh-CN": "诅咒巫妖" },
       "kind": "monster",
       "model": "MONSTER_MODEL_CURSED_LICH",
       "soundSet": "Cursed Lich",
@@ -2674,7 +2674,7 @@
       ]
     },
     {
-      "name": {"en": "Totem Golem", "es": "Gólem Tótem", "pt": "Totem Golem "},
+      "name": {"en": "Totem Golem", "es": "Gólem Tótem", "pt": "Totem Golem ", "zh-CN": "图腾石巨人" },
       "kind": "monster",
       "model": "MONSTER_MODEL_TOTEM_GOLEM",
       "soundSet": "Totem Golem",
@@ -2906,7 +2906,7 @@
       ]
     },
     {
-      "name": {"en": "Selupan", "es": "Selupan", "pt": "Selupan"},
+      "name": {"en": "Selupan", "es": "Selupan", "pt": "Selupan", "zh-CN": "冰霜巨蛛" },
       "kind": "monster",
       "model": "MONSTER_MODEL_SELUPAN",
       "soundSet": "Selupan",
@@ -2968,7 +2968,7 @@
       ]
     },
     {
-      "name": {"en": "Cursed Goblin", "es": "Lich Maldito", "pt": "Goblin amaldiçoado"},
+      "name": {"en": "Cursed Goblin", "es": "Lich Maldito", "pt": "Goblin amaldiçoado", "zh-CN": "诅咒哥布林" },
       "kind": "monster",
       "model": "MONSTER_MODEL_EVIL_GOBLIN",
       "soundSet": "Goblin",
@@ -3049,7 +3049,7 @@
       ]
     },
     {
-      "name": {"en": "Cursed Santa", "es": "Santa Maldito", "pt": "Papai Noel Amaldiçoado"},
+      "name": {"en": "Cursed Santa", "es": "Santa Maldito", "pt": "Papai Noel Amaldiçoado", "zh-CN": "诅咒圣诞老人" },
       "kind": "monster",
       "model": "MONSTER_MODEL_CURSED_SANTA",
       "soundSet": "Cursed Santa",
@@ -3084,7 +3084,7 @@
       ]
     },
     {
-      "name": {"en": "Zombie Fighter", "es": "Luchador Zombie", "pt": "Lutador zumbi"},
+      "name": {"en": "Zombie Fighter", "es": "Luchador Zombie", "pt": "Lutador zumbi", "zh-CN": "僵尸战士" },
       "kind": "monster",
       "model": "MONSTER_MODEL_ZOMBIE_FIGHTER",
       "soundSet": "Zombie Fighter",
@@ -3114,7 +3114,7 @@
       ]
     },
     {
-      "name": {"en": "Blood Assassin", "es": "Soldado Sangriento", "pt": "Assassino sanguinário"},
+      "name": {"en": "Blood Assassin", "es": "Soldado Sangriento", "pt": "Assassino sanguinário", "zh-CN": "血腥刺客" },
       "kind": "monster",
       "model": "MONSTER_MODEL_BLOOD_ASSASSIN",
       "soundSet": "Blood Assassin",
@@ -3123,7 +3123,7 @@
       ]
     },
     {
-      "name": {"en": "Cruel Blood Assassin", "es": "Asesino Sangriento Cruel", "pt": "Assassino sanguinário cruel"},
+      "name": {"en": "Cruel Blood Assassin", "es": "Asesino Sangriento Cruel", "pt": "Assassino sanguinário cruel", "zh-CN": "残暴血腥刺客" },
       "kind": "monster",
       "model": "MONSTER_MODEL_CRUEL_BLOOD_ASSASSIN",
       "soundSet": "Cruel Blood Assassin",
@@ -3133,7 +3133,7 @@
       ]
     },
     {
-      "name": {"en": "Burning Lava Giant", "es": "Gigante de Lava Ardiente", "pt": "Gigante de lava incandescente"},
+      "name": {"en": "Burning Lava Giant", "es": "Gigante de Lava Ardiente", "pt": "Gigante de lava incandescente", "zh-CN": "燃烧熔岩巨人" },
       "kind": "monster",
       "model": "MONSTER_MODEL_BURNING_LAVA_GIANT",
       "soundSet": "Burning Lava Giant",
@@ -3142,7 +3142,7 @@
       ]
     },
     {
-      "name": {"en": "Ruthless Lava Giant", "es": "Gigante de Lava Despiadado", "pt": "Gigante de lava cruel"},
+      "name": {"en": "Ruthless Lava Giant", "es": "Gigante de Lava Despiadado", "pt": "Gigante de lava cruel", "zh-CN": "无情熔岩巨人" },
       "kind": "monster",
       "model": "MONSTER_MODEL_LAVA_GIANT",
       "soundSet": "Ruthless Lava Giant",
@@ -3955,7 +3955,7 @@
       ]
     },
     {
-      "name": {"en": "Venomous Chain Scorpion", "es": "Escorpión de Cadena Venenosa", "pt": "Escorpião Cadeia Venenosa"},
+      "name": {"en": "Venomous Chain Scorpion", "es": "Escorpión de Cadena Venenosa", "pt": "Escorpião Cadeia Venenosa", "zh-CN": "剧毒链蝎" },
       "kind": "monster",
       "model": "MONSTER_MODEL_VENOMOUS_CHAIN_SCORPION",
       "soundSet": "Venomous Chain Scorpion",
@@ -3964,7 +3964,7 @@
       ]
     },
     {
-      "name": {"en": "Bone Scorpion", "es": "Escorpión de Hueso", "pt": "Escorpião de Osso"},
+      "name": {"en": "Bone Scorpion", "es": "Escorpión de Hueso", "pt": "Escorpião de Osso", "zh-CN": "骸骨蝎" },
       "kind": "monster",
       "model": "MONSTER_MODEL_BONE_SCORPION",
       "soundSet": "Bone Scorpion",

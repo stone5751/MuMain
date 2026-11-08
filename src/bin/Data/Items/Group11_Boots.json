@@ -433,7 +433,8 @@
         "de": "Sturmkrähenstiefel",
         "es": "Botas Cuervo de Tormenta",
         "pl": "Buty Burzowej Wrony",
-        "pt": "Botas do corvo da tempestade"
+        "pt": "Botas do corvo da tempestade",
+        "zh-CN": "亚特兰蒂斯之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -488,7 +489,8 @@
         "de": "Dunkelphönixstiefel",
         "es": "Botas Fénix Oscuro",
         "pl": "Buty Mrocznego Feniksa",
-        "pt": "Botas da fênix negra"
+        "pt": "Botas da fênix negra",
+        "zh-CN": "黑凤凰之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -595,7 +597,8 @@
         "de": "Großartige Drachenstiefel",
         "es": "Botas Gran Dragón",
         "pl": "Buty Wielkiego Smoka",
-        "pt": "Botas do grande dragão"
+        "pt": "Botas do grande dragão",
+        "zh-CN": "龙炎之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -621,7 +624,8 @@
         "de": "Dunkelseelenstiefel",
         "es": "Botas Alma Oscura",
         "pl": "Buty Mrocznej Duszy",
-        "pt": "Botas da alma negra"
+        "pt": "Botas da alma negra",
+        "zh-CN": "圣魂之靴"
       },
       "options": ["luck"],
       "width": 2,

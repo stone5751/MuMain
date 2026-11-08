@@ -1,0 +1,89 @@
+kind	ids	english	zh-CN	source
+item	0,3	Katana	东洋刀	https://mu.dvg.cn/v2_item_info.php?id=2329
+item	0,4	Sword of Assassin	暗杀者	https://mu.dvg.cn/v2_item_info.php?id=2330
+item	0,5	Blade	极光刀	https://mu.dvg.cn/item_info.php?id=2331
+item	0,6	Gladius	拉丁剑	https://mu.dvg.cn/v2_item_info.php?id=2332
+item	0,11	Legendary Sword	传说之剑	https://mu.dvg.cn/v2_item_info.php?id=2337&region=CN
+item	0,12	Heliacal Sword	太阳之剑	https://mu.dvg.cn/v2_item_info.php?id=2338&region=CN
+item	0,14	Lighting Sword	雷神之剑	https://mu.dvg.cn/item_info.php?id=2340 (source spelling Lighting retained)
+item	7,17	Dark Phoenix Helm	黑凤凰之盔	https://mu.dvg.cn/item_info.php?id=7137; same named armor family, explicit ID
+item	8,17	Dark Phoenix Armor	黑凤凰之铠	https://mu.dvg.cn/v2_item_info.php?id=5438&region=CN
+item	9,17	Dark Phoenix Pants	黑凤凰护腿	https://mu.dvg.cn/v2_item_info.php?id=2985
+item	10,17	Dark Phoenix Gloves	黑凤凰护手	https://mu.dvg.cn/v2_item_info.php?id=5438&region=CN; same named armor family, explicit ID
+item	11,17	Dark Phoenix Boots	黑凤凰之靴	https://mu.dvg.cn/item_info.php?id=7137; same named armor family, explicit ID
+item	7,21	Great Dragon Helm	龙炎之盔	https://mu.dvg.cn/item_info.php?id=2797; same named armor family, explicit ID
+item	8,21	Great Dragon Armor	龙炎之铠	https://mu.dvg.cn/item_info.php?id=2797
+item	9,21	Great Dragon Pants	龙炎护腿	https://mu.dvg.cn/item_info.php?id=2797; same named armor family, explicit ID
+item	10,21	Great Dragon Gloves	龙炎护手	https://mu.dvg.cn/item_info.php?id=2797; same named armor family, explicit ID
+item	11,21	Great Dragon Boots	龙炎之靴	https://mu.dvg.cn/item_info.php?id=2797; same named armor family, explicit ID
+item	7,22	Dark Soul Helm	圣魂之盔	https://mu.dvg.cn/item_info.php?id=6126; same named armor family, explicit ID
+item	8,22	Dark Soul Armor	圣魂之铠	https://mu.dvg.cn/item_info.php?id=6126
+item	9,22	Dark Soul Pants	圣魂护腿	https://mu.dvg.cn/item_info.php?id=6126; same named armor family, explicit ID
+item	10,22	Dark Soul Gloves	圣魂护手	https://mu.dvg.cn/item_info.php?id=6126; same named armor family, explicit ID
+item	11,22	Dark Soul Boots	圣魂之靴	https://mu.dvg.cn/item_info.php?id=6126; same named armor family, explicit ID
+item	8,15	Storm Crow Armor	亚特兰蒂斯之铠	https://mu.dvg.cn/item_info.php?id=2791 (explicit 8-15, older English name)
+item	9,15	Storm Crow Pants	亚特兰蒂斯护腿	https://mu.dvg.cn/item_info.php?id=6116; same named armor family, explicit ID
+item	10,15	Storm Crow Gloves	亚特兰蒂斯护手	https://mu.dvg.cn/item_info.php?id=2791; same named armor family, explicit ID
+item	11,15	Storm Crow Boots	亚特兰蒂斯之靴	https://mu.dvg.cn/item_info.php?id=6116; same named armor family, explicit ID
+item	13,109	Sapphire Ring	蓝宝石戒指	English descriptive name; not claimed as an official regional proper name
+item	13,110	Ruby Ring	红宝石戒指	English descriptive name; not claimed as an official regional proper name
+item	13,111	Topaz Ring	黄玉戒指	English descriptive name; not claimed as an official regional proper name
+item	13,112	Amethyst Ring	紫水晶戒指	English descriptive name; not claimed as an official regional proper name
+item	13,113	Ruby Necklace	红宝石项链	English descriptive name; not claimed as an official regional proper name
+item	13,114	Emerald Necklace	绿宝石项链	English descriptive name; not claimed as an official regional proper name
+item	13,115	Sapphire Necklace	蓝宝石项链	English descriptive name; not claimed as an official regional proper name
+item	13,117	Minimum Vitality Potion	微型体力药水	English descriptive name; vitality follows existing character stat terminology
+item	13,118	Low Vitality Potion	小型体力药水	English descriptive name; vitality follows existing character stat terminology
+item	13,119	Medium Vitality Potion	中型体力药水	English descriptive name; vitality follows existing character stat terminology
+item	13,120	High Vitality Potion	大型体力药水	English descriptive name; vitality follows existing character stat terminology
+item	13,121	Open Access Ticket to Chaos Castle	赤色要塞自由入场券	English descriptive name; existing map terminology
+item	13,124	Paid Channel Access Ticket	付费频道通行证	English descriptive name
+item	13,135	1st Lucky Armor Ticket	一代幸运铠甲兑换券	English descriptive name; explicit generation and part
+item	13,136	1st Lucky Pants Ticket	一代幸运护腿兑换券	English descriptive name; explicit generation and part
+item	13,137	1st Lucky Helm Ticket	一代幸运头盔兑换券	English descriptive name; explicit generation and part
+item	13,138	1st Lucky Gloves Ticket	一代幸运护手兑换券	English descriptive name; explicit generation and part
+item	13,139	1st Lucky Boots Ticket	一代幸运靴子兑换券	English descriptive name; explicit generation and part
+item	13,140	2nd Lucky Armor Ticket	二代幸运铠甲兑换券	English descriptive name; explicit generation and part
+item	13,141	2nd Lucky Pants Ticket	二代幸运护腿兑换券	English descriptive name; explicit generation and part
+item	13,142	2nd Lucky Helm Ticket	二代幸运头盔兑换券	English descriptive name; explicit generation and part
+item	13,143	2nd Lucky Gloves Ticket	二代幸运护手兑换券	English descriptive name; explicit generation and part
+item	13,144	2nd Lucky Boots Ticket	二代幸运靴子兑换券	English descriptive name; explicit generation and part
+item	14,58	Rare Item Ticket1	稀有物品兑换券1	English descriptive name; retain number
+item	14,59	Rare Item Ticket2	稀有物品兑换券2	English descriptive name; retain number
+item	14,60	Rare Item Ticket3	稀有物品兑换券3	English descriptive name; retain number
+item	14,61	Rare Item Ticket4	稀有物品兑换券4	English descriptive name; retain number
+item	14,62	Rare Item Ticket5	稀有物品兑换券5	English descriptive name; retain number
+item	14,145	Rare Item Ticket 7	稀有物品兑换券7	English descriptive name; retain number
+item	14,146	Rare Item Ticket 8	稀有物品兑换券8	English descriptive name; retain number
+item	14,147	Rare Item Ticket 9	稀有物品兑换券9	English descriptive name; retain number
+item	14,148	Rare Item Ticket 10	稀有物品兑换券10	English descriptive name; retain number
+item	14,149	Rare Item Ticket 11	稀有物品兑换券11	English descriptive name; retain number
+item	14,150	Rare Item Ticket 12	稀有物品兑换券12	English descriptive name; retain number
+monster	350,435	Berserker	疯魔	https://mu.zhaouc.com/Guide/GameIntro/02_area15.html; named monster identity, no stat changes
+monster	351	Splinter Wolf	裂角狼	https://mu.zhaouc.com/Guide/GameIntro/02_area15.html
+monster	352	Iron Rider	金甲兽	https://mu.zhaouc.com/Guide/GameIntro/02_area15.html
+monster	353	Satyros	半兽人	https://mu.zhaouc.com/Guide/GameIntro/02_area15.html
+monster	354	Blade Hunter	刀刃猎手	https://mu.zhaouc.com/Guide/GameIntro/02_area15.html
+monster	355	Kentauros	寒冰刺客	https://mu.zhaouc.com/Guide/GameIntro/02_area15.html
+monster	356,434	Gigantis	狂巨人	https://mu.zhaouc.com/Guide/GameIntro/02_area15.html
+monster	357	Genocider	屠杀者	https://mu.zhaouc.com/Guide/GameIntro/02_area15.html
+monster	459	Selupan	冰霜巨蛛	https://mu.zhaouc.com/Guide/GameIntro/02_area18.html
+monster	372	Elite Skull Soldier	精英骷髅兵	English descriptive name; existing skeleton terminology
+monster	374	Santa	圣诞老人	English descriptive name
+monster	476	Cursed Santa	诅咒圣诞老人	English descriptive name
+monster	422	Cursed Lich	诅咒巫妖	English descriptive name; existing lich terminology
+monster	423	Totem Golem	图腾石巨人	English descriptive name; existing golem terminology
+monster	466	Cursed Goblin	诅咒哥布林	English descriptive name
+monster	480,481	Zombie Fighter	僵尸战士	English descriptive name
+monster	486	Blood Assassin	血腥刺客	English descriptive name
+monster	487,488	Cruel Blood Assassin	残暴血腥刺客	English descriptive name
+monster	489	Burning Lava Giant	燃烧熔岩巨人	English descriptive name
+monster	490,491	Ruthless Lava Giant	无情熔岩巨人	English descriptive name
+monster	569	Venomous Chain Scorpion	剧毒链蝎	English descriptive name
+monster	570	Bone Scorpion	骸骨蝎	English descriptive name
+npc	231	Thompson Kenel	武器商人托姆绅	https://mu.17173.com/content/2013-03-25/20130325111945573.shtml
+npc	248	Wandering Merchant Martin	流浪商人马丁	https://mu.17173.com/content/2013-03-25/20130325111945573.shtml (distinct from Alex)
+npc	368	Elpis	艾尔菲丝	https://mu.17173.com/content/2013-03-25/20130325111945573.shtml (explicit ELPIS)
+npc	369	Osbourne	奥斯本	https://mu.17173.com/content/2013-03-25/20130325111945573.shtml
+npc	370	Jerridon	杰瑞敦	https://mu.17173.com/content/2013-03-25/20130325111945573.shtml
+npc	385	Mirage	弥拉邱	https://mu.zhaouc.com/player/event/jzhysy/newmap.html
