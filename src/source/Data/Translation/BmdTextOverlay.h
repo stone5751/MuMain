@@ -15,7 +15,8 @@ public:
         Skill,
         QuestTitle,
         QuestWords,
-        Slide
+        Slide,
+        QuestDialogue
     };
     static constexpr int SlideSlotsPerLevel = 32;
     static constexpr const char* FilePath = "Data/Local/BmdText.zh-CN.json";

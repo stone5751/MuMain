@@ -34,6 +34,7 @@ namespace mu::ui::window
         float textPx = 0.f; // native text size in physical px (RmlNativeTextSize.h)
 
         Rml::String subject;
+        Rml::String questLabel;
 
         // CQuestProgress's own .rml includes an NPC-name/player-name preamble neither element
         // exists in quest_progress_etc.rml at all (a structural, not data-driven, difference --

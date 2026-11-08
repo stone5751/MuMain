@@ -22,7 +22,9 @@ constexpr int MaximumWordsId = 1000000;
 constexpr int SlideCount = 5 * BmdTextOverlay::SlideSlotsPerLevel;
 // QuestWords also supplies list subjects in 64-wide-character buffers. Reserve
 // space for the numbered prefix, even when a future entry is used as a subject.
-constexpr std::array<std::size_t, 4> TextLimits = {49, 31, 50, 255};
+// Dialogue-only accessors wrap into 35 rows; never use this larger limit for
+// list subjects or answers that share the original QuestWords table.
+constexpr std::array<std::size_t, 5> TextLimits = {49, 31, 50, 255, 200};
 
 Kind ParseKind(const std::string& name)
 {
@@ -34,12 +36,14 @@ Kind ParseKind(const std::string& name)
         return Kind::QuestWords;
     if (name == "slides")
         return Kind::Slide;
+    if (name == "quest-dialogue")
+        return Kind::QuestDialogue;
     throw std::runtime_error("Unknown BMD text kind");
 }
 
 int ReadId(const nlohmann::json& value, Kind kind)
 {
-    constexpr std::array<int, 4> limits = {SkillCount, QuestCount, MaximumWordsId, SlideCount};
+    constexpr std::array<int, 5> limits = {SkillCount, QuestCount, MaximumWordsId, SlideCount, MaximumWordsId};
     if (!value.is_number_integer() || value < 0 || value >= limits[static_cast<std::size_t>(kind)])
         throw std::runtime_error("Invalid BMD text ID");
     return value.get<int>();
@@ -128,6 +132,12 @@ bool BmdTextOverlay::Load(std::istream& input, std::string& error)
         {
             const auto kind = ParseKind(row.at("kind").get<std::string>());
             const auto id = ReadId(row.at("id"), kind);
+            if (kind == Kind::QuestWords || kind == Kind::QuestDialogue)
+            {
+                const auto other = kind == Kind::QuestWords ? Kind::QuestDialogue : Kind::QuestWords;
+                if (m_entries.contains({other, id}))
+                    throw std::runtime_error("Duplicate QuestWords ID across display roles");
+            }
             Entry entry{ReadText(row.at("english")), ReadText(row.at("zh-CN"))};
             ValidateText(kind, entry.english, entry.chinese);
             if (!m_entries.emplace(std::make_pair(kind, id), std::move(entry)).second)

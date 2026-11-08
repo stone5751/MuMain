@@ -133,6 +133,7 @@ public:
     void SetCurQuestProgress(DWORD dwQuestIndex);
 
     const wchar_t* GetWords(int nWordsIndex);
+    const wchar_t* GetDialogueWords(int nWordsIndex);
     const wchar_t* GetNPCDlgNPCWords(DWORD dwDlgState);
     const wchar_t* GetNPCDlgAnswer(DWORD dwDlgState, int nAnswer);
     int GetNPCDlgAnswerResult(DWORD dwDlgState, int nAnswer);

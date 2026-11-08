@@ -415,6 +415,18 @@
       "id": 52,
       "english": "Click shortcut key T to check the quest information.",
       "zh-CN": "按 T 键查看任务信息。"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18011,
+      "english": "I'm sure you are well aware of Kundun. The weakest and most disorganized monsters of Kundun's army are frequently attacking and plundering civilians just outside of town. I wanted to ask you to eliminate these plundering monsters.... Will you accept this quest? (Level 15-25)",
+      "zh-CN": "你一定听说过昆顿吧。昆顿军中最弱小、最散乱的怪物经常在城外袭击和抢掠平民。我想请你消灭这些劫掠者……你愿意接受这个任务吗？（等级15-25）"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18902,
+      "english": "Dispose of the Town Plunderers!",
+      "zh-CN": "消灭城外的劫掠者！"
     }
   ]
 }

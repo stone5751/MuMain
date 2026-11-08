@@ -33,6 +33,16 @@ using namespace mu::ui::window;
 
 #define QP_NPC_MAX_LINE_PER_PAGE	7
 
+namespace
+{
+void SetLocalizedLabels(QuestProgressRmlModel& model)
+{
+    model.questLabel = StringUtils::WideToNarrow(I18N::Game::Quest);
+    model.okLabel = StringUtils::WideToNarrow(I18N::Game::OK);
+    model.exitTooltip = StringUtils::WideToNarrow(I18N::Game::Close388);
+}
+} // namespace
+
 CQuestProgress::CQuestProgress()
 {
     m_pNewUIMng = NULL;
@@ -66,6 +76,7 @@ void CQuestProgress::BindRmlModel(Rml::DataModelConstructor& c, QuestProgressRml
     c.Bind("text_px", &model.textPx);
 
     c.Bind("subject", &model.subject);
+    c.Bind("quest_label", &model.questLabel);
     c.Bind("npc_name", &model.npcName);
     c.Bind("player_name", &model.playerName);
 
@@ -118,8 +129,7 @@ void CQuestProgress::BindRmlModel(Rml::DataModelConstructor& c, QuestProgressRml
     c.BindEventCallback("questprogress_complete",
         [this](Rml::DataModelHandle, Rml::Event&, const Rml::VariantList&) { RmlClickComplete(); });
 
-    model.okLabel = StringUtils::WideToNarrow(I18N::Game::OK);
-    model.exitTooltip = StringUtils::WideToNarrow(I18N::Game::Close388);
+    SetLocalizedLabels(model);
 }
 
 void CQuestProgress::BuildRmlUi()
@@ -172,6 +182,9 @@ void CQuestProgress::RefreshLocalizedText()
     if (!IsVisible() || m_textLocale == I18N::GetCurrentLocale())
         return;
     m_textLocale = I18N::GetCurrentLocale();
+    SetLocalizedLabels(m_RmlView.GetModel());
+    for (const auto* binding : {"quest_label", "ok_label", "exit_tooltip"})
+        m_RmlView.MarkDirty(binding);
     const int page = m_nSelNPCPage;
     SetCurNPCWords();
     m_nSelNPCPage = std::min(page, m_nMaxNPCPage);

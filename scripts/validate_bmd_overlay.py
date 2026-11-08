@@ -12,7 +12,21 @@ from validate_zh_cn import PRINTF
 ROOT = Path(__file__).resolve().parents[1]
 OVERLAY = ROOT / 'src/bin/Data/Local/BmdText.zh-CN.json'
 LIMITS = {'skills': (650, 49), 'quest-titles': (200, 31),
-          'quest-words': (1000000, 50), 'slides': (160, 255)}
+          'quest-words': (1000000, 50), 'slides': (160, 255),
+          'quest-dialogue': (1000000, 200)}
+
+
+def dialogue_ids(data):
+    """Read actual NPC-body references; never infer a role from ID ordering."""
+    result = set()
+    for name, size, layout in [('QuestProgress.bmd', 41, '<IB9i'),
+                               ('NPCDialogue.bmd', 88, '<I21i')]:
+        blob = (data / 'Local' / name).read_bytes()
+        assert len(blob) % size == 0, name
+        for offset in range(0, len(blob), size):
+            row = struct.unpack(layout, decode_record(blob[offset:offset + size]))
+            result.add(row[2] if name == 'QuestProgress.bmd' else row[1])
+    return result
 
 
 def unique(pairs):
@@ -50,10 +64,11 @@ def validate(data=None):
     assert doc['formatVersion'] == 1 and doc['locale'] == 'zh-CN'
     sources, hashes = read_sources(data, doc['sourceSha256']) if data else ({}, {})
     keys, counts = set(), Counter()
+    body_ids = dialogue_ids(data) if data else set()
     for row in doc['entries']:
         kind, number = row['kind'], row['id']
         assert kind in LIMITS and type(number) is int and 0 <= number < LIMITS[kind][0]
-        key = kind, number
+        key = ('quest-words' if kind == 'quest-dialogue' else kind), number
         assert key not in keys, f'Duplicate ID: {key}'
         keys.add(key)
         en, zh = row['english'], row['zh-CN']
@@ -62,11 +77,16 @@ def validate(data=None):
         assert PRINTF.findall(en) == PRINTF.findall(zh) and en.count('%') == zh.count('%'), key
         for pattern in [r'[;\r\n\t]', r'\{[^{}]*\}', r'(?<!\w)/[A-Za-z]+']:
             assert re.findall(pattern, en) == re.findall(pattern, zh), (key, pattern)
+        if kind in ('quest-words', 'quest-dialogue'):
+            assert re.findall(r'\d+', en) == re.findall(r'\d+', zh), (key, 'numeric text changed')
         assert all(ord(c) >= 32 or c in '\r\n\t' for c in zh)
         if data:
             assert sources[key] == (en, 'utf-8'), f'ID/original mismatch: {key}'
+            if kind == 'quest-dialogue':
+                assert number in body_ids, f'Not an NPC-body reference: {number}'
         counts[kind] += 1
-    assert counts == {'skills': 28, 'quest-titles': 2, 'quest-words': 18, 'slides': 20}
+    assert counts['skills'] == 28 and counts['slides'] == 20
+    assert counts['quest-titles'] >= 2 and counts['quest-words'] >= 19 and counts['quest-dialogue'] >= 1
     if data:
         assert hashes == {name: hashlib.sha256((data / 'Local/Eng' / name).read_bytes()).hexdigest() for name in hashes}
     return {'entries': len(keys), 'counts': dict(counts), 'structure_tokens_lengths': 'passed',

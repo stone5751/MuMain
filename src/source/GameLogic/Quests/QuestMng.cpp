@@ -318,6 +318,14 @@ const wchar_t* CQuestMng::GetWords(int nWordsIndex)
                                              iter->second.c_str());
 }
 
+const wchar_t* CQuestMng::GetDialogueWords(int nWordsIndex)
+{
+    // Preserve the existing short-text translations when no dialogue override
+    // matches. Only the two paginated NPC-body accessors call this method.
+    return Data::Translation::BmdDisplayText(Data::Translation::BmdTextOverlay::Kind::QuestDialogue, nWordsIndex,
+                                             GetWords(nWordsIndex));
+}
+
 const wchar_t* CQuestMng::GetNPCDlgNPCWords(DWORD dwDlgState)
 {
     if (0 == m_nNPCIndex)
@@ -329,7 +337,7 @@ const wchar_t* CQuestMng::GetNPCDlgNPCWords(DWORD dwDlgState)
     if (iter == m_mapNPCDialogue.end())
         return NULL;
 
-    return GetWords(iter->second.m_nNPCWords);
+    return GetDialogueWords(iter->second.m_nNPCWords);
 }
 
 const wchar_t* CQuestMng::GetNPCDlgAnswer(DWORD dwDlgState, int nAnswer)
@@ -378,7 +386,7 @@ const wchar_t* CQuestMng::GetNPCWords(DWORD dwQuestIndex)
     if (iter == m_mapQuestProgress.end())
         return NULL;
 
-    return GetWords(iter->second.m_nNPCWords);
+    return GetDialogueWords(iter->second.m_nNPCWords);
 }
 
 const wchar_t* CQuestMng::GetPlayerWords(DWORD dwQuestIndex)

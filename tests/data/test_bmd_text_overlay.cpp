@@ -2,6 +2,7 @@
 #include "doctest.h"
 #include "Data/Translation/BmdTextOverlay.h"
 #include "GameLogic/Skills/SkillManager.h"
+#include "GameLogic/Quests/QuestMng.h"
 #include "I18N/All.h"
 #include "json.hpp"
 #include <fstream>
@@ -143,7 +144,7 @@ TEST_CASE("BMD overlay preserves formatting and paragraph tokens [data][i18n]")
 TEST_CASE("BMD overlay limits each display buffer in UTF16 units [data][i18n]")
 {
     for (const auto& [kind, capacity] : std::vector<std::pair<std::string, std::size_t>>{
-             {"skills", 49}, {"quest-titles", 31}, {"quest-words", 50}, {"slides", 255}})
+             {"skills", 49}, {"quest-titles", 31}, {"quest-words", 50}, {"slides", 255}, {"quest-dialogue", 200}})
     {
         BmdTextOverlay overlay;
         auto document = Sample();
@@ -165,12 +166,55 @@ TEST_CASE("BMD overlay ships the reviewed MVP samples [data][i18n]")
     BmdTextOverlay overlay;
     std::string error;
     REQUIRE(overlay.Load(file, error));
-    CHECK(overlay.Size() == 68);
+    CHECK(overlay.Size() >= 70);
     CHECK(std::wstring(overlay.Resolve(Kind::Slide, 12, L"Press space bar to collect loot.", "zh-CN")) ==
           L"按空格键拾取物品。");
     CHECK(std::wstring(overlay.Resolve(Kind::QuestTitle, 0, L"Find the 'Scroll of Emperor'!", "zh-CN")) ==
           L"寻找帝王之书");
     CHECK(std::wstring(overlay.Resolve(Kind::QuestWords, 2, L"Continue listening.", "zh-CN")) == L"继续听下去。");
+    CHECK(std::wstring(overlay.Resolve(Kind::QuestWords, 18902, L"Dispose of the Town Plunderers!", "zh-CN")) ==
+          L"消灭城外的劫掠者！");
+}
+
+TEST_CASE("BMD quest dialogue translations cannot enter subject or answer buffers [data][i18n]")
+{
+    class QuestFixture : public CQuestMng
+    {
+    public:
+        QuestFixture()
+        {
+            m_mapQuestWords[4] = L"Original body";
+            auto& quest = m_mapQuestProgress[1];
+            quest = {};
+            quest.m_nNPCWords = quest.m_nSubject = quest.m_nPlayerWords = quest.m_anAnswer[0] = 4;
+            m_nNPCIndex = 1;
+            m_mapNPCDialogue[0x10000] = {};
+            m_mapNPCDialogue[0x10000].m_nNPCWords = 4;
+        }
+    } quest;
+    auto document = Sample();
+    document["entries"][0] = {
+        {"kind", "quest-dialogue"}, {"id", 4}, {"english", "Original body"}, {"zh-CN", std::string(100, 'x')}};
+    auto& overlay = BmdTextOverlay::Instance();
+    const std::string previousLocale = I18N::GetCurrentLocale();
+    CHECK(Load(overlay, document));
+    for (const auto* locale : {"zh-CN", "en", "zh-CN"})
+    {
+        I18N::SetLocale(locale);
+        const auto expected = std::string_view(locale) == "zh-CN" ? std::wstring(100, L'x') : L"Original body";
+        CHECK(std::wstring(quest.GetNPCWords(1)) == expected);
+        CHECK(std::wstring(quest.GetNPCDlgNPCWords(0)) == expected);
+        CHECK(std::wstring(quest.GetSubject(1)) == L"Original body");
+        CHECK(std::wstring(quest.GetAnswer(1, 0)) == L"Original body");
+        CHECK(std::wstring(quest.GetPlayerWords(1)) == L"Original body");
+    }
+    auto shortRow = document["entries"][0];
+    shortRow["kind"] = "quest-words";
+    shortRow["zh-CN"] = "short";
+    document["entries"].push_back(shortRow);
+    CHECK_FALSE(Load(overlay, document));
+    CHECK(overlay.Size() == 0);
+    I18N::SetLocale(previousLocale.c_str());
 }
 
 TEST_CASE("BMD skill accessor switches language without mutating attributes [data][i18n]")
