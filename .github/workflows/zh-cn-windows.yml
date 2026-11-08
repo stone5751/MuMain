@@ -12,6 +12,8 @@ concurrency:
 
 jobs:
   build:
+    # main only exposes the manual dispatch entry; build the localized branch.
+    if: github.ref == 'refs/heads/localization/zh-CN-v1.37.0'
     # Same image and native toolchain as v1.37.0's existing Windows jobs.
     runs-on: windows-2025-vs2026
     timeout-minutes: 90
@@ -60,6 +62,14 @@ jobs:
           if ($LASTEXITCODE -ne 0) { throw 'Font checker installation failed.' }
           python scripts/validate_zh_cn.py
           if ($LASTEXITCODE -ne 0) { throw 'Localization validation failed.' }
+
+      - name: Run source-only checks
+        shell: pwsh
+        run: |
+          cmake -S tests/static -B out/static-checks -G Ninja
+          if ($LASTEXITCODE -ne 0) { throw 'Static check configuration failed.' }
+          ctest --test-dir out/static-checks --build-config Release --output-on-failure --no-tests=error --parallel 8 --output-junit "${{ github.workspace }}/out/static-checks/ctest-results.xml"
+          if ($LASTEXITCODE -ne 0) { throw 'Source-only checks failed.' }
 
       - name: Identify vcpkg toolchain
         id: vcpkg
@@ -152,6 +162,8 @@ jobs:
         with:
           name: zh-cn-windows-diagnostics-${{ github.run_attempt }}
           path: |
+            out/static-checks/ctest-results.xml
+            out/static-checks/Testing/Temporary/*.log
             out/build/zh-cn-windows/ctest-results.xml
             out/build/zh-cn-windows/Testing/Temporary/*.log
             out/build/zh-cn-windows/CMakeFiles/CMakeConfigureLog.yaml
