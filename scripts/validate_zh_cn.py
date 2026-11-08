@@ -92,7 +92,7 @@ def main():
         for path in (ROOT / 'src/bin/Data/Items').glob('Group*.json'):
             text += ''.join(i.get('name', {}).get('zh-CN', '') for i in json.loads(path.read_text(encoding='utf-8'))['items'])
         text += ''.join(i.get('name', {}).get('zh-CN', '') for i in json.loads((ROOT / 'src/bin/Data/Monsters/Monsters.json').read_text(encoding='utf-8'))['monsters'])
-        fonts = ROOT.parent / 'fonts'
+        fonts = ROOT / 'src/bin/fonts'
         for filename in ['NotoSansSC-Regular.otf', 'NotoSansSC-Bold.otf']:
             with TTFont(fonts / filename) as font:
                 missing = sorted({c for c in text if not c.isspace() and ord(c) not in font.getBestCmap()})
@@ -101,6 +101,7 @@ def main():
         result['font_cmap'] = 'passed (regular and bold); visual rendering untested'
     except (ImportError, FileNotFoundError) as exc:
         result['font_cmap'] = f'not checked: {exc}'
+        errors.append(f'Font validation unavailable: {exc}')
     result['errors'] = errors
     print(json.dumps(result, ensure_ascii=False, indent=2))
     raise SystemExit(bool(errors))
