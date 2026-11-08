@@ -1857,4 +1857,463 @@
   <data name="accept this one." xml:space="preserve">
     <value>才能接受此任务。</value>
   </data>
+  <data name="You have been disconnected from the server." xml:space="preserve">
+    <value>与服务器的连接已断开。</value>
+  </data>
+  <data name="You are disconnected from the server." xml:space="preserve">
+    <value>与服务器的连接已断开。</value>
+  </data>
+  <data name="The server is full" xml:space="preserve">
+    <value>服务器已满</value>
+  </data>
+  <data name="Install the latest graphics card driver." xml:space="preserve">
+    <value>请安装最新的显卡驱动程序。</value>
+  </data>
+  <data name="Data error" xml:space="preserve">
+    <value>数据错误</value>
+  </data>
+  <data name="Upgrade has failed. Please restart the game." xml:space="preserve">
+    <value>更新失败，请重新启动游戏。</value>
+  </data>
+  <data name="Game will now restart in order to complete the upgrade." xml:space="preserve">
+    <value>游戏即将重新启动，以完成更新。</value>
+  </data>
+  <data name="Event" xml:space="preserve">
+    <value>活动</value>
+  </data>
+  <data name="Unknown map" xml:space="preserve">
+    <value>未知地图</value>
+  </data>
+  <data name="Lorencia" xml:space="preserve">
+    <value>勇者大陆</value>
+  </data>
+  <data name="Dungeon" xml:space="preserve">
+    <value>地下城</value>
+  </data>
+  <data name="Devias" xml:space="preserve">
+    <value>冰风谷</value>
+  </data>
+  <data name="Noria" xml:space="preserve">
+    <value>仙踪林</value>
+  </data>
+  <data name="Lost Tower" xml:space="preserve">
+    <value>失落之塔</value>
+  </data>
+  <data name="A place of exile" xml:space="preserve">
+    <value>流放之地</value>
+  </data>
+  <data name="Arena" xml:space="preserve">
+    <value>竞技场</value>
+  </data>
+  <data name="Atlans" xml:space="preserve">
+    <value>亚特兰蒂斯</value>
+  </data>
+  <data name="Tarkan" xml:space="preserve">
+    <value>死亡沙漠</value>
+  </data>
+  <data name="Devil Square" xml:space="preserve">
+    <value>恶魔广场</value>
+  </data>
+  <data name="Very Slow" xml:space="preserve">
+    <value>很慢</value>
+  </data>
+  <data name="Slow" xml:space="preserve">
+    <value>慢</value>
+  </data>
+  <data name="Normal" xml:space="preserve">
+    <value>普通</value>
+  </data>
+  <data name="Fast" xml:space="preserve">
+    <value>快</value>
+  </data>
+  <data name="Very Fast" xml:space="preserve">
+    <value>很快</value>
+  </data>
+  <data name="Ice" xml:space="preserve">
+    <value>冰</value>
+  </data>
+  <data name="Poison" xml:space="preserve">
+    <value>毒</value>
+  </data>
+  <data name="Lightning" xml:space="preserve">
+    <value>雷</value>
+  </data>
+  <data name="Fire" xml:space="preserve">
+    <value>火</value>
+  </data>
+  <data name="Earth" xml:space="preserve">
+    <value>地</value>
+  </data>
+  <data name="Wind" xml:space="preserve">
+    <value>风</value>
+  </data>
+  <data name="Water" xml:space="preserve">
+    <value>水</value>
+  </data>
+  <data name="Icarus" xml:space="preserve">
+    <value>天空之城</value>
+  </data>
+  <data name="Chaos Castle" xml:space="preserve">
+    <value>赤色要塞</value>
+  </data>
+  <data name="Kalima" xml:space="preserve">
+    <value>卡利玛</value>
+  </data>
+  <data name="Land of Trials" xml:space="preserve">
+    <value>魔炼之地</value>
+  </data>
+  <data name="Life: %d" xml:space="preserve">
+    <value>生命值：%d</value>
+  </data>
+  <data name="Defend skill (Mana:%d)" xml:space="preserve">
+    <value>防御技能（魔法值：%d）</value>
+  </data>
+  <data name="Falling Slash skill (Mana:%d)" xml:space="preserve">
+    <value>地裂斩技能（魔法值：%d）</value>
+  </data>
+  <data name="Lunge skill (Mana:%d)" xml:space="preserve">
+    <value>牙突刺技能（魔法值：%d）</value>
+  </data>
+  <data name="Uppercut skill (Mana:%d)" xml:space="preserve">
+    <value>升龙击技能（魔法值：%d）</value>
+  </data>
+  <data name="Cyclone Cutting skill (Mana:%d)" xml:space="preserve">
+    <value>旋风斩技能（魔法值：%d）</value>
+  </data>
+  <data name="Slashing skill (Mana:%d)" xml:space="preserve">
+    <value>斩击技能（魔法值：%d）</value>
+  </data>
+  <data name="Triple Shot skill (Mana:%d)" xml:space="preserve">
+    <value>多重箭技能（魔法值：%d）</value>
+  </data>
+  <data name="Additional Dmg +%d" xml:space="preserve">
+    <value>追加攻击力 +%d</value>
+  </data>
+  <data name="Additional Wizardry Dmg +%d" xml:space="preserve">
+    <value>追加魔法攻击力 +%d</value>
+  </data>
+  <data name="Additional defense rate +%d" xml:space="preserve">
+    <value>追加防御成功率 +%d</value>
+  </data>
+  <data name="Additional defense +%d" xml:space="preserve">
+    <value>追加防御力 +%d</value>
+  </data>
+  <data name="Automatic HP recovery %d%%" xml:space="preserve">
+    <value>生命值自动恢复%d%%</value>
+  </data>
+  <data name="Skill Power: %d ~ %d" xml:space="preserve">
+    <value>技能攻击力：%d ~ %d</value>
+  </data>
+  <data name="Transformation Ring" xml:space="preserve">
+    <value>变身戒指</value>
+  </data>
+  <data name="Chaos Event Gift Certificate" xml:space="preserve">
+    <value>玛雅活动兑换券</value>
+  </data>
+  <data name="Heart of love" xml:space="preserve">
+    <value>爱心</value>
+  </data>
+  <data name="Silver medal" xml:space="preserve">
+    <value>银质勋章</value>
+  </data>
+  <data name="Gold medal" xml:space="preserve">
+    <value>金质勋章</value>
+  </data>
+  <data name="Box of Kundun" xml:space="preserve">
+    <value>昆顿宝箱</value>
+  </data>
+  <data name="Anniversary Box" xml:space="preserve">
+    <value>周年纪念宝箱</value>
+  </data>
+  <data name="Key Function" xml:space="preserve">
+    <value>按键功能</value>
+  </data>
+  <data name="F1 : Help On/Off" xml:space="preserve">
+    <value>F1：显示/隐藏帮助</value>
+  </data>
+  <data name="F2 : Chat window on/off" xml:space="preserve">
+    <value>F2：显示/隐藏聊天窗口</value>
+  </data>
+  <data name="F3 : Whisper Mode window on/off" xml:space="preserve">
+    <value>F3：显示/隐藏密语窗口</value>
+  </data>
+  <data name="F4 : Adjust Chat Window size" xml:space="preserve">
+    <value>F4：调整聊天窗口大小</value>
+  </data>
+  <data name="F8 - Toggle Monster HP Bar" xml:space="preserve">
+    <value>F8：显示/隐藏怪物血条</value>
+  </data>
+  <data name="F9 - Toggle 3D Camera" xml:space="preserve">
+    <value>F9：开启/关闭3D视角</value>
+  </data>
+  <data name="F10 - Lock / Unlock Camera Zoom" xml:space="preserve">
+    <value>F10：锁定/解锁视角缩放</value>
+  </data>
+  <data name="F11 - Reset Camera View" xml:space="preserve">
+    <value>F11：重置视角</value>
+  </data>
+  <data name="Home - Toggle MU Helper" xml:space="preserve">
+    <value>Home：开启/关闭奇迹助手</value>
+  </data>
+  <data name="Enter: Chatting Mode" xml:space="preserve">
+    <value>Enter：进入聊天模式</value>
+  </data>
+  <data name="C : Character Info" xml:space="preserve">
+    <value>C：角色信息</value>
+  </data>
+  <data name="P : Party Window" xml:space="preserve">
+    <value>P：组队窗口</value>
+  </data>
+  <data name="G : Guild Window" xml:space="preserve">
+    <value>G：战盟窗口</value>
+  </data>
+  <data name="Q : Use Healing Potion" xml:space="preserve">
+    <value>Q：使用治疗药水</value>
+  </data>
+  <data name="W : Use Mana Potion" xml:space="preserve">
+    <value>W：使用魔法药水</value>
+  </data>
+  <data name="E : Use Antidote" xml:space="preserve">
+    <value>E：使用解毒剂</value>
+  </data>
+  <data name="Shift: Character lockup key" xml:space="preserve">
+    <value>Shift：锁定角色位置</value>
+  </data>
+  <data name="Ctrl+Num: Set hot keys for skills" xml:space="preserve">
+    <value>Ctrl+数字键：设置技能快捷键</value>
+  </data>
+  <data name="Num: Use skill hot keys" xml:space="preserve">
+    <value>数字键：使用技能快捷键</value>
+  </data>
+  <data name="Alt: Show dropped items" xml:space="preserve">
+    <value>Alt：显示掉落物品</value>
+  </data>
+  <data name="Alt+items: Select items in primary order" xml:space="preserve">
+    <value>Alt+物品：优先选择物品</value>
+  </data>
+  <data name="Ctrl+Click: PvP mode, attack other players" xml:space="preserve">
+    <value>Ctrl+单击：攻击其他玩家</value>
+  </data>
+  <data name="Print Screen: Save screenshots" xml:space="preserve">
+    <value>Print Screen：保存截图</value>
+  </data>
+  <data name="Chatting Instructions" xml:space="preserve">
+    <value>聊天说明</value>
+  </data>
+  <data name="Tab: switch to the ID window" xml:space="preserve">
+    <value>Tab：切换到角色名输入框</value>
+  </data>
+  <data name="Right click on msg: Whispering ID" xml:space="preserve">
+    <value>右键单击消息：选择密语对象</value>
+  </data>
+  <data name="Up/Down: View Chatting History" xml:space="preserve">
+    <value>方向键上/下：查看聊天记录</value>
+  </data>
+  <data name="PageUP, PageDN: Scroll Message" xml:space="preserve">
+    <value>PageUP、PageDN：滚动消息</value>
+  </data>
+  <data name="~ &lt;msg&gt;: Message to party members" xml:space="preserve">
+    <value>~ &lt;msg&gt;：发送队伍消息</value>
+  </data>
+  <data name="@ &lt;msg&gt;: Message to guild members" xml:space="preserve">
+    <value>@ &lt;msg&gt;：发送战盟消息</value>
+  </data>
+  <data name="@&gt; &lt;msg&gt;: Posting to guild members" xml:space="preserve">
+    <value>@&gt; &lt;msg&gt;：发布战盟公告</value>
+  </data>
+  <data name="/trade(pointing player): trade" xml:space="preserve">
+    <value>/trade（指向玩家）：交易</value>
+  </data>
+  <data name="/party(pointing player): form a party" xml:space="preserve">
+    <value>/party（指向玩家）：组队</value>
+  </data>
+  <data name="/guild(pointing player): form a guild" xml:space="preserve">
+    <value>/guild（指向玩家）：加入战盟</value>
+  </data>
+  <data name="/war &lt;guild name&gt;: Declare Guild War" xml:space="preserve">
+    <value>/war &lt;guild name&gt;：宣战</value>
+  </data>
+  <data name="/&lt;item name&gt;: item info" xml:space="preserve">
+    <value>/&lt;item name&gt;：查看物品信息</value>
+  </data>
+  <data name="/warp &lt;world&gt;: Warp to another world" xml:space="preserve">
+    <value>/warp &lt;world&gt;：地图传送</value>
+  </data>
+  <data name="/filter word1 word2: View Chats with word" xml:space="preserve">
+    <value>/filter word1 word2：筛选包含关键词的聊天</value>
+  </data>
+  <data name="Move cursor down-&gt; Adjust chat window" xml:space="preserve">
+    <value>将光标下移→调整聊天窗口</value>
+  </data>
+  <data name="%s Warp scroll" xml:space="preserve">
+    <value>%s传送卷轴</value>
+  </data>
+  <data name="Item option info" xml:space="preserve">
+    <value>物品属性信息</value>
+  </data>
+  <data name="+Skill" xml:space="preserve">
+    <value>+技能</value>
+  </data>
+  <data name="+Option" xml:space="preserve">
+    <value>+追加属性</value>
+  </data>
+  <data name="+Luck" xml:space="preserve">
+    <value>+幸运</value>
+  </data>
+  <data name="Knight specific skill" xml:space="preserve">
+    <value>骑士专用技能</value>
+  </data>
+  <data name="Guild" xml:space="preserve">
+    <value>战盟</value>
+  </data>
+  <data name="Do you wish to be the guild master?" xml:space="preserve">
+    <value>是否成为战盟盟主？</value>
+  </data>
+  <data name="NAME" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="After selecting a color with" xml:space="preserve">
+    <value>用鼠标选择颜色后，</value>
+  </data>
+  <data name="the mouse, please draw." xml:space="preserve">
+    <value>请绘制战盟标志。</value>
+  </data>
+  <data name="Type /guild in front of" xml:space="preserve">
+    <value>站在希望加入的战盟盟主面前，输入 /guild</value>
+  </data>
+  <data name="the guild master you want to join" xml:space="preserve">
+    <value>向该盟主申请</value>
+  </data>
+  <data name="and you can join the guild." xml:space="preserve">
+    <value>加入战盟。</value>
+  </data>
+  <data name="Disband" xml:space="preserve">
+    <value>解散</value>
+  </data>
+  <data name="Leave" xml:space="preserve">
+    <value>离开</value>
+  </data>
+  <data name="Type /party with the mouse cursor on" xml:space="preserve">
+    <value>将鼠标指向玩家并输入 /party</value>
+  </data>
+  <data name="the player you would like" xml:space="preserve">
+    <value>选择你希望</value>
+  </data>
+  <data name="to create a party with" xml:space="preserve">
+    <value>一起组队的玩家</value>
+  </data>
+  <data name="and you can create" xml:space="preserve">
+    <value>即可</value>
+  </data>
+  <data name="a party with them." xml:space="preserve">
+    <value>与其组成队伍。</value>
+  </data>
+  <data name="You can share more Exp with" xml:space="preserve">
+    <value>你可以与队员分享更多经验，</value>
+  </data>
+  <data name="your party members based on level." xml:space="preserve">
+    <value>分配比例取决于等级。</value>
+  </data>
+  <data name="Spare Points: %d / %d" xml:space="preserve">
+    <value>可用点数：%d / %d</value>
+  </data>
+  <data name="Level: %d" xml:space="preserve">
+    <value>等级：%d</value>
+  </data>
+  <data name="Exp : %u/%u" xml:space="preserve">
+    <value>经验：%u/%u</value>
+  </data>
+  <data name="Strength : %d" xml:space="preserve">
+    <value>力量：%d</value>
+  </data>
+  <data name="Dmg(rate): %d~%d (%d)" xml:space="preserve">
+    <value>攻击力（成功率）：%d~%d（%d）</value>
+  </data>
+  <data name="Dmg: %d~%d" xml:space="preserve">
+    <value>攻击力：%d~%d</value>
+  </data>
+  <data name="Agility: %d" xml:space="preserve">
+    <value>敏捷：%d</value>
+  </data>
+  <data name="Defense (rate):%d (%d +%d)" xml:space="preserve">
+    <value>防御力（成功率）：%d（%d +%d）</value>
+  </data>
+  <data name="Defense: %d (+%d)" xml:space="preserve">
+    <value>防御力：%d（+%d）</value>
+  </data>
+  <data name="Defense (rate):%d (%d)" xml:space="preserve">
+    <value>防御力（成功率）：%d（%d）</value>
+  </data>
+  <data name="Vitality: %d" xml:space="preserve">
+    <value>体力：%d</value>
+  </data>
+  <data name="HP: %d / %d" xml:space="preserve">
+    <value>生命值：%d / %d</value>
+  </data>
+  <data name="Energy: %d" xml:space="preserve">
+    <value>智力：%d</value>
+  </data>
+  <data name="Mana: %d / %d" xml:space="preserve">
+    <value>魔法值：%d / %d</value>
+  </data>
+  <data name="A G: %d / %d" xml:space="preserve">
+    <value>AG：%d / %d</value>
+  </data>
+  <data name="Wizardry Dmg: %d~%d (+%d)" xml:space="preserve">
+    <value>魔法攻击力：%d~%d（+%d）</value>
+  </data>
+  <data name="WizardryDmgDD216" xml:space="preserve">
+    <value>魔法攻击力：%d~%d</value>
+  </data>
+  <data name="Point: %d" xml:space="preserve">
+    <value>点数：%d</value>
+  </data>
+  <data name="Explanation" xml:space="preserve">
+    <value>说明</value>
+  </data>
+  <data name="Close Guild Window (G)" xml:space="preserve">
+    <value>关闭战盟窗口（G）</value>
+  </data>
+  <data name="Close Party Window (P)" xml:space="preserve">
+    <value>关闭组队窗口（P）</value>
+  </data>
+  <data name="Close Character Info Window (C)" xml:space="preserve">
+    <value>关闭角色信息窗口（C）</value>
+  </data>
+  <data name="Buy (B)" xml:space="preserve">
+    <value>购买（B）</value>
+  </data>
+  <data name="Sell (S)" xml:space="preserve">
+    <value>出售（S）</value>
+  </data>
+  <data name="Hostile guild is disconnected." xml:space="preserve">
+    <value>敌对战盟已断开连接。</value>
+  </data>
+  <data name="There are not enough items for the exchange." xml:space="preserve">
+    <value>兑换所需物品不足。</value>
+  </data>
+  <data name="Not enough Cash to purchase." xml:space="preserve">
+    <value>余额不足，无法购买。</value>
+  </data>
+  <data name="Not enough space. Please check free space in your inventory." xml:space="preserve">
+    <value>空间不足，请检查背包空位。</value>
+  </data>
+  <data name="Not enough space in the Inventory.#Please try again." xml:space="preserve">
+    <value>背包空间不足。#请重试。</value>
+  </data>
+  <data name="You need to wear the required equipment to level up this skill." xml:space="preserve">
+    <value>需要穿戴指定装备才能升级此技能。</value>
+  </data>
+  <data name="There's not enough materials for item refinement/combination." xml:space="preserve">
+    <value>物品提炼或合成所需材料不足。</value>
+  </data>
+  <data name="Not enough material items for combination." xml:space="preserve">
+    <value>合成材料不足。</value>
+  </data>
+  <data name="NotEnoughZenToCombineItems3709" xml:space="preserve">
+    <value>合成所需金币不足。</value>
+  </data>
+  <data name="Reconnect" xml:space="preserve">
+    <value>重新连接</value>
+  </data>
 </root>
