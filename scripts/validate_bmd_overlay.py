@@ -12,7 +12,7 @@ from validate_zh_cn import PRINTF
 ROOT = Path(__file__).resolve().parents[1]
 OVERLAY = ROOT / 'src/bin/Data/Local/BmdText.zh-CN.json'
 LIMITS = {'skills': (650, 49), 'quest-titles': (200, 31),
-          'quest-words': (1000000, 120), 'slides': (160, 255)}
+          'quest-words': (1000000, 50), 'slides': (160, 255)}
 
 
 def unique(pairs):

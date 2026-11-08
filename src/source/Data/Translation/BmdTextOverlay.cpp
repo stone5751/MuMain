@@ -20,8 +20,9 @@ constexpr int SkillCount = 650;
 constexpr int QuestCount = 200;
 constexpr int MaximumWordsId = 1000000;
 constexpr int SlideCount = 5 * BmdTextOverlay::SlideSlotsPerLevel;
-// Answers are concatenated into 128-wide-character buffers with a numbered prefix.
-constexpr std::array<std::size_t, 4> TextLimits = {49, 31, 120, 255};
+// QuestWords also supplies list subjects in 64-wide-character buffers. Reserve
+// space for the numbered prefix, even when a future entry is used as a subject.
+constexpr std::array<std::size_t, 4> TextLimits = {49, 31, 50, 255};
 
 Kind ParseKind(const std::string& name)
 {

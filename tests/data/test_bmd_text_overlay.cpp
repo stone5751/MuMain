@@ -140,6 +140,25 @@ TEST_CASE("BMD overlay preserves formatting and paragraph tokens [data][i18n]")
     CHECK_FALSE(Load(overlay, document));
 }
 
+TEST_CASE("BMD overlay limits each display buffer in UTF16 units [data][i18n]")
+{
+    for (const auto& [kind, capacity] : std::vector<std::pair<std::string, std::size_t>>{
+             {"skills", 49}, {"quest-titles", 31}, {"quest-words", 50}, {"slides", 255}})
+    {
+        BmdTextOverlay overlay;
+        auto document = Sample();
+        document["entries"][0]["kind"] = kind;
+        document["entries"][0]["zh-CN"] = std::string(capacity, 'a');
+        CHECK(Load(overlay, document));
+        document["entries"][0]["zh-CN"] = std::string(capacity + 1, 'a');
+        CHECK_FALSE(Load(overlay, document));
+    }
+    auto document = Sample();
+    document["entries"][0]["zh-CN"] = std::string(48, 'a') + "\xf0\x9f\x98\x80";
+    BmdTextOverlay overlay;
+    CHECK_FALSE(Load(overlay, document));
+}
+
 TEST_CASE("BMD overlay ships the reviewed MVP samples [data][i18n]")
 {
     std::ifstream file(MU_TEST_DATA_DIR "/Local/BmdText.zh-CN.json");
