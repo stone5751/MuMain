@@ -56,3 +56,23 @@ Helper自定义拾取按显示名称的子串匹配。新增中文会使旧英�
 P2独立说明和8条离线样本见 `experiments/zh-cn-bmd-overlay/README.zh-CN.md`。真实本地BMD的哈希、ID、原文、语言回退和长度/分隔符约束已通过离线验证；客户端接入尚未实施，游戏内技能/任务效果未测试。该实验不是可安装客户端补丁。
 
 安装步骤沿用 `WINDOWS-UPDATE-README.zh-CN.md`。本机使用新的 `client-zh-CN-round3-test` 副本，保留原版及已验证的第二轮副本。config.ini只在本机复制；第三轮测试副本中将空Font设置为Noto Sans SC，先保留本地配置备份，其他字节（含地址/端口）保持不变。配置不进入Git或ZIP。回退时退出第三轮副本并运行第二轮副本；曾在游戏内保存过的Helper配置需手动恢复，复制客户端无法回退服务端保存的设置。
+
+## 第三轮实机反馈与定点补译
+
+用户确认进入角色、欢迎语、移动、战斗和拾取正常，截图确认助手扣费提示中文。曾出现启动助手后NPC打不开、停止后商人仍打不开；重新进入角色后恢复，再次启停助手后仍可打开。记录为一次未稳定复现的会话异常，根因未确认，没有修改NPC、助手或服务端逻辑。Helper保存、中英文切换及双主题尚未得到明确人工结果。
+
+截图中的英文分为：
+
+| 内容 | 确认来源 | 处理 |
+|---|---|---|
+| Obtained | Game资源，WSclient拾取消息后缀 | f2aac16补为“已获得” |
+| 幻影导师头顶勇士对白 | Game资源，ZzzCharacter NPC闲聊 | f2aac16补为“我会助你成长为一名勇士。” |
+| 顶部按D打开指令提示 | Slide_eng.bmd，只读解密核对原文 | 保留二进制；后续独立覆盖层范围 |
+| Inventory is full（无句点） | OpenMU PlayerMessage.InventoryFull | 不修改服务器，不拦截聊天替换 |
+| Talking to this NPC…not implemented yet | OpenMU PlayerMessage.TalkingNotImplementedFormat | 提示NPC功能未实现，不代表翻译可补出对话功能 |
+
+[OpenMU v0.10.1消息资源](https://github.com/MUnique/OpenMU/blob/v0.10.1/src/GameLogic/Properties/PlayerMessage.resx)与[TalkNpcAction](https://github.com/MUnique/OpenMU/blob/v0.10.1/src/GameLogic/PlayerActions/TalkNpcAction.cs)只读核对，未访问或修改NAS配置/数据库。源代码中对话状态不允许推进时会拒绝新交互，但没有服务端会话证据，不能断言此次异常就是该原因。
+
+补译源码Game为1022/3148（缺2126）；c9b7405已交付包仍为1020/3148。两条新增资源格式、占位符、既有译文保留和字体检查通过；[补译构建42471704886](https://github.com/stone5751/MuMain/actions/runs/42471704886)结果以实际运行及本机交付记录为准。未编译或未实测的新增内容不计入已通过实机验收。
+
+补译构建42471704886已成功：x64 Release编译/链接、63项静态及2089项原生测试通过，2项GPU用例跳过，0失败。已单独安装并启动反馈副本，日志确认初始化和服务器列表接收；两条新增译文的游戏内显示仍等待用户确认。源码提交f2aac16，基础包c9b7405保持不变。
