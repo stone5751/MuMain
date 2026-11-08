@@ -401,3 +401,8 @@ mu_add_test(
         ${CMAKE_SOURCE_DIR}/src/source/App/Platform/Windows/Winmain.cpp
     LINK_LIBS MuClient mu_test_rml_layout_fixture
 )
+mu_add_test(
+    NAME npc_idle_speech_tests
+    SOURCES test_npc_idle_speech.cpp
+        ${CMAKE_SOURCE_DIR}/src/source/UI/Chat/NpcIdleSpeech.cpp
+)

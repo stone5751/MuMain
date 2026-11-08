@@ -14,6 +14,7 @@ namespace UI::Chat
     }
 
     void CreateChat(wchar_t* ID, const wchar_t* Text, CHARACTER* c, int Flag = 0, int SetColor = -1);
+    void CreateNpcIdleChat(CHARACTER* owner, const wchar_t* text);
     int  CreateChat(wchar_t* character_name, const wchar_t* chat_text, OBJECT* Owner, int Flag = 0, int SetColor = -1);
     void AssignChat(wchar_t* ID, const wchar_t* Text, int Flag = 0);
     void MoveChat();

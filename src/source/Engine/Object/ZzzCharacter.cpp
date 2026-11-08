@@ -3313,18 +3313,18 @@ void OnlyNpcChatProcess(CHARACTER* c, OBJECT* o)
         case MODEL_MERCHANT_GIRL:
             if (gMapManager.InBattleCastle() == false)
             {
-                UI::Chat::CreateChat(c->ID, I18N::Game::FeelTheUnusualForcesAroundTheFortressOfCrywolf, c);
+                UI::Chat::CreateNpcIdleChat(c, I18N::Game::FeelTheUnusualForcesAroundTheFortressOfCrywolf);
             }
             break;
         case MODEL_ELF_WIZARD:
-            UI::Chat::CreateChat(c->ID, I18N::Game::ThePowerOfTheWolfStatue, c);
+            UI::Chat::CreateNpcIdleChat(c, I18N::Game::ThePowerOfTheWolfStatue);
             break;
         case MODEL_MASTER:
-            UI::Chat::CreateChat(c->ID, I18N::Game::CrywolfIsAskingForYourHelpOnlyYouCanSaveThisContinent, c);
+            UI::Chat::CreateNpcIdleChat(c, I18N::Game::CrywolfIsAskingForYourHelpOnlyYouCanSaveThisContinent);
             break;
         case MODEL_PLAYER:
             if (c->MonsterIndex == MONSTER_ELF_SOLDIER)
-                UI::Chat::CreateChat(c->ID, I18N::Game::ILlBeYourStrengthForTheJourneyToBecomeAWarrior, c);
+                UI::Chat::CreateNpcIdleChat(c, I18N::Game::ILlBeYourStrengthForTheJourneyToBecomeAWarrior);
             break;
         }
     }

@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "Core/Text/TextLineWrap.h"
 #include "UI/Chat/Chat.h"
+#include "UI/Chat/NpcIdleSpeech.h"
 #include "Character/CharacterManager.h" // gCharacterManager
 #include "Camera/CameraProjection.h" // CameraProjection
 
@@ -63,6 +64,7 @@ typedef struct
     float       IDLifeTime;
     wchar_t   Text[2][256];
     float       LifeTime[2];
+    NpcIdleSpeech IdleSpeech;
     CHARACTER* Owner;
     int       x, y;
     int       Width;
@@ -358,6 +360,7 @@ void RenderBoolean(int x, int y, CHAT* c)
 }
 void AddChat(CHAT* c, const wchar_t* chat_text, int flag)
 {
+    c->IdleSpeech.Clear(); // Player, server and other messages are never deduplicated.
     float Time = 0;
     int Length = (int)wcslen(chat_text);
     switch (flag)
@@ -443,6 +446,35 @@ void AddGuildName(CHAT* c, CHARACTER* Owner)
         c->GuildColor = 0;
         c->Guild[0] = 0;
     }
+}
+
+namespace
+{
+CHAT* FindCharacterChat(const CHARACTER* owner)
+{
+    for (auto& chat : Chat)
+        if (chat.Owner == owner && HasCurrentOwnerName(chat.ID, owner->ID))
+            return &chat;
+    return nullptr;
+}
+} // namespace
+
+void CreateNpcIdleChat(CHARACTER* owner, const wchar_t* text)
+{
+    if (!owner || !text || !text[0] || !owner->Object.Live || !owner->Object.Visible)
+        return;
+    if (owner->Object.Kind != KIND_NPC)
+    {
+        CreateChat(owner->ID, text, owner);
+        return;
+    }
+    auto* chat = FindCharacterChat(owner);
+    if (chat && chat->IdleSpeech.IsVisibleRepeat(text, chat->LifeTime[0] > 0))
+        return; // Keep the existing lifetime: repeated idle ticks do not pin the bubble forever.
+    CreateChat(owner->ID, text, owner);
+    chat = FindCharacterChat(owner);
+    if (chat && chat->LifeTime[0] > 0)
+        chat->IdleSpeech.Remember(text);
 }
 
 void CreateChat(wchar_t* character_name, const wchar_t* chat_text, CHARACTER* Owner, int Flag, int SetColor)
