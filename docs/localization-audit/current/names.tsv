@@ -2,18 +2,18 @@
 item	0,0	src\bin\Data\Items\Group00_Sword.json	Kris	波刃剑
 item	0,1	src\bin\Data\Items\Group00_Sword.json	Short Sword	短剑
 item	0,2	src\bin\Data\Items\Group00_Sword.json	Rapier	西洋剑
-item	0,3	src\bin\Data\Items\Group00_Sword.json	Katana	
-item	0,4	src\bin\Data\Items\Group00_Sword.json	Sword of Assassin	
-item	0,5	src\bin\Data\Items\Group00_Sword.json	Blade	
-item	0,6	src\bin\Data\Items\Group00_Sword.json	Gladius	
+item	0,3	src\bin\Data\Items\Group00_Sword.json	Katana	东洋刀
+item	0,4	src\bin\Data\Items\Group00_Sword.json	Sword of Assassin	暗杀者
+item	0,5	src\bin\Data\Items\Group00_Sword.json	Blade	极光刀
+item	0,6	src\bin\Data\Items\Group00_Sword.json	Gladius	拉丁剑
 item	0,7	src\bin\Data\Items\Group00_Sword.json	Falchion	
 item	0,8	src\bin\Data\Items\Group00_Sword.json	Serpent Sword	
 item	0,9	src\bin\Data\Items\Group00_Sword.json	Sword of Salamander	
 item	0,10	src\bin\Data\Items\Group00_Sword.json	Light Saber	
-item	0,11	src\bin\Data\Items\Group00_Sword.json	Legendary Sword	
-item	0,12	src\bin\Data\Items\Group00_Sword.json	Heliacal Sword	
+item	0,11	src\bin\Data\Items\Group00_Sword.json	Legendary Sword	传说之剑
+item	0,12	src\bin\Data\Items\Group00_Sword.json	Heliacal Sword	太阳之剑
 item	0,13	src\bin\Data\Items\Group00_Sword.json	Double Blade	
-item	0,14	src\bin\Data\Items\Group00_Sword.json	Lighting Sword	
+item	0,14	src\bin\Data\Items\Group00_Sword.json	Lighting Sword	雷神之剑
 item	0,15	src\bin\Data\Items\Group00_Sword.json	Giant Sword	
 item	0,16	src\bin\Data\Items\Group00_Sword.json	Sword of Destruction	破坏之剑
 item	0,17	src\bin\Data\Items\Group00_Sword.json	Dark Breaker	
@@ -165,11 +165,11 @@ item	7,12	src\bin\Data\Items\Group07_Helm.json	Wind Helm	风头盔
 item	7,13	src\bin\Data\Items\Group07_Helm.json	Spirit Helm	精灵头盔
 item	7,14	src\bin\Data\Items\Group07_Helm.json	Guardian Helm	女神头盔
 item	7,16	src\bin\Data\Items\Group07_Helm.json	Black Dragon Helm	黑龙王头盔
-item	7,17	src\bin\Data\Items\Group07_Helm.json	Dark Phoenix Helm	
+item	7,17	src\bin\Data\Items\Group07_Helm.json	Dark Phoenix Helm	黑凤凰之盔
 item	7,18	src\bin\Data\Items\Group07_Helm.json	Grand Soul Helm	魔神头盔
 item	7,19	src\bin\Data\Items\Group07_Helm.json	Divine Helm	
-item	7,21	src\bin\Data\Items\Group07_Helm.json	Great Dragon Helm	
-item	7,22	src\bin\Data\Items\Group07_Helm.json	Dark Soul Helm	
+item	7,21	src\bin\Data\Items\Group07_Helm.json	Great Dragon Helm	龙炎之盔
+item	7,22	src\bin\Data\Items\Group07_Helm.json	Dark Soul Helm	圣魂之盔
 item	7,24	src\bin\Data\Items\Group07_Helm.json	Red Spirit Helm	红羽头盔
 item	7,25	src\bin\Data\Items\Group07_Helm.json	Light Plate Mask	
 item	7,26	src\bin\Data\Items\Group07_Helm.json	Adamantine Mask	
@@ -224,14 +224,14 @@ item	8,11	src\bin\Data\Items\Group08_Armor.json	Silk Armor	蚕丝铠甲
 item	8,12	src\bin\Data\Items\Group08_Armor.json	Wind Armor	风铠甲
 item	8,13	src\bin\Data\Items\Group08_Armor.json	Spirit Armor	精灵铠甲
 item	8,14	src\bin\Data\Items\Group08_Armor.json	Guardian Armor	女神铠甲
-item	8,15	src\bin\Data\Items\Group08_Armor.json	Storm Crow Armor	
+item	8,15	src\bin\Data\Items\Group08_Armor.json	Storm Crow Armor	亚特兰蒂斯之铠
 item	8,16	src\bin\Data\Items\Group08_Armor.json	Black Dragon Armor	黑龙王铠甲
-item	8,17	src\bin\Data\Items\Group08_Armor.json	Dark Phoenix Armor	
+item	8,17	src\bin\Data\Items\Group08_Armor.json	Dark Phoenix Armor	黑凤凰之铠
 item	8,18	src\bin\Data\Items\Group08_Armor.json	Grand Soul Armor	魔神铠甲
 item	8,19	src\bin\Data\Items\Group08_Armor.json	Divine Armor	
 item	8,20	src\bin\Data\Items\Group08_Armor.json	Thunder Hawk Armor	
-item	8,21	src\bin\Data\Items\Group08_Armor.json	Great Dragon Armor	
-item	8,22	src\bin\Data\Items\Group08_Armor.json	Dark Soul Armor	
+item	8,21	src\bin\Data\Items\Group08_Armor.json	Great Dragon Armor	龙炎之铠
+item	8,22	src\bin\Data\Items\Group08_Armor.json	Dark Soul Armor	圣魂之铠
 item	8,23	src\bin\Data\Items\Group08_Armor.json	Hurricane Armor	
 item	8,24	src\bin\Data\Items\Group08_Armor.json	Red Sprit Armor	
 item	8,25	src\bin\Data\Items\Group08_Armor.json	Light Plate Armor	
@@ -292,14 +292,14 @@ item	9,11	src\bin\Data\Items\Group09_Pants.json	Silk Pants	蚕丝护腿
 item	9,12	src\bin\Data\Items\Group09_Pants.json	Wind Pants	风护腿
 item	9,13	src\bin\Data\Items\Group09_Pants.json	Spirit Pants	精灵护腿
 item	9,14	src\bin\Data\Items\Group09_Pants.json	Guardian Pants	女神护腿
-item	9,15	src\bin\Data\Items\Group09_Pants.json	Storm Crow Pants	
+item	9,15	src\bin\Data\Items\Group09_Pants.json	Storm Crow Pants	亚特兰蒂斯护腿
 item	9,16	src\bin\Data\Items\Group09_Pants.json	Black Dragon Pants	黑龙王护腿
-item	9,17	src\bin\Data\Items\Group09_Pants.json	Dark Phoenix Pants	
+item	9,17	src\bin\Data\Items\Group09_Pants.json	Dark Phoenix Pants	黑凤凰护腿
 item	9,18	src\bin\Data\Items\Group09_Pants.json	Grand Soul Pants	魔神护腿
 item	9,19	src\bin\Data\Items\Group09_Pants.json	Divine Pants	
 item	9,20	src\bin\Data\Items\Group09_Pants.json	Thunder Hawk Pants	
-item	9,21	src\bin\Data\Items\Group09_Pants.json	Great Dragon Pants	
-item	9,22	src\bin\Data\Items\Group09_Pants.json	Dark Soul Pants	
+item	9,21	src\bin\Data\Items\Group09_Pants.json	Great Dragon Pants	龙炎护腿
+item	9,22	src\bin\Data\Items\Group09_Pants.json	Dark Soul Pants	圣魂护腿
 item	9,23	src\bin\Data\Items\Group09_Pants.json	Hurricane Pants	
 item	9,24	src\bin\Data\Items\Group09_Pants.json	Red Spirit Pants	红羽护腿
 item	9,25	src\bin\Data\Items\Group09_Pants.json	Light Plate Pants	
@@ -360,14 +360,14 @@ item	10,11	src\bin\Data\Items\Group10_Gloves.json	Silk Gloves	蚕丝护手
 item	10,12	src\bin\Data\Items\Group10_Gloves.json	Wind Gloves	风护手
 item	10,13	src\bin\Data\Items\Group10_Gloves.json	Spirit Gloves	精灵护手
 item	10,14	src\bin\Data\Items\Group10_Gloves.json	Guardian Gloves	女神护手
-item	10,15	src\bin\Data\Items\Group10_Gloves.json	Storm Crow Gloves	
+item	10,15	src\bin\Data\Items\Group10_Gloves.json	Storm Crow Gloves	亚特兰蒂斯护手
 item	10,16	src\bin\Data\Items\Group10_Gloves.json	Black Dragon Gloves	黑龙王护手
-item	10,17	src\bin\Data\Items\Group10_Gloves.json	Dark Phoenix Gloves	
+item	10,17	src\bin\Data\Items\Group10_Gloves.json	Dark Phoenix Gloves	黑凤凰护手
 item	10,18	src\bin\Data\Items\Group10_Gloves.json	Grand Soul Gloves	魔神护手
 item	10,19	src\bin\Data\Items\Group10_Gloves.json	Divine Gloves	
 item	10,20	src\bin\Data\Items\Group10_Gloves.json	Thunder Hawk Gloves	
-item	10,21	src\bin\Data\Items\Group10_Gloves.json	Great Dragon Gloves	
-item	10,22	src\bin\Data\Items\Group10_Gloves.json	Dark Soul Gloves	
+item	10,21	src\bin\Data\Items\Group10_Gloves.json	Great Dragon Gloves	龙炎护手
+item	10,22	src\bin\Data\Items\Group10_Gloves.json	Dark Soul Gloves	圣魂护手
 item	10,23	src\bin\Data\Items\Group10_Gloves.json	Hurricane Gloves	
 item	10,24	src\bin\Data\Items\Group10_Gloves.json	Red Spirit Gloves	红羽护手
 item	10,25	src\bin\Data\Items\Group10_Gloves.json	Light Plate Gloves	
@@ -423,14 +423,14 @@ item	11,11	src\bin\Data\Items\Group11_Boots.json	Silk Boots	蚕丝靴
 item	11,12	src\bin\Data\Items\Group11_Boots.json	Wind Boots	风靴
 item	11,13	src\bin\Data\Items\Group11_Boots.json	Spirit Boots	精灵靴
 item	11,14	src\bin\Data\Items\Group11_Boots.json	Guardian Boots	女神靴
-item	11,15	src\bin\Data\Items\Group11_Boots.json	Storm Crow Boots	
+item	11,15	src\bin\Data\Items\Group11_Boots.json	Storm Crow Boots	亚特兰蒂斯之靴
 item	11,16	src\bin\Data\Items\Group11_Boots.json	Black Dragon Boots	黑龙王靴
-item	11,17	src\bin\Data\Items\Group11_Boots.json	Dark Phoenix Boots	
+item	11,17	src\bin\Data\Items\Group11_Boots.json	Dark Phoenix Boots	黑凤凰之靴
 item	11,18	src\bin\Data\Items\Group11_Boots.json	Grand Soul Boots	魔神靴
 item	11,19	src\bin\Data\Items\Group11_Boots.json	Divine Boots	
 item	11,20	src\bin\Data\Items\Group11_Boots.json	Thunder Hawk Boots	
-item	11,21	src\bin\Data\Items\Group11_Boots.json	Great Dragon Boots	
-item	11,22	src\bin\Data\Items\Group11_Boots.json	Dark Soul Boots	
+item	11,21	src\bin\Data\Items\Group11_Boots.json	Great Dragon Boots	龙炎之靴
+item	11,22	src\bin\Data\Items\Group11_Boots.json	Dark Soul Boots	圣魂之靴
 item	11,23	src\bin\Data\Items\Group11_Boots.json	Hurricane Boots	
 item	11,24	src\bin\Data\Items\Group11_Boots.json	Red Spirit Boots	红羽靴
 item	11,25	src\bin\Data\Items\Group11_Boots.json	Light Plate Boots	
@@ -676,22 +676,22 @@ item	13,104	src\bin\Data\Items\Group13_Helper.json	Max AG Boost Aura	最大AG提
 item	13,105	src\bin\Data\Items\Group13_Helper.json	Max SD Boost Aura	最大SD提升光环
 item	13,106	src\bin\Data\Items\Group13_Helper.json	Pet Unicorn	独角兽宠物
 item	13,107	src\bin\Data\Items\Group13_Helper.json	Lethal Wizard's Ring	
-item	13,109	src\bin\Data\Items\Group13_Helper.json	Sapphire Ring	
-item	13,110	src\bin\Data\Items\Group13_Helper.json	Ruby Ring	
-item	13,111	src\bin\Data\Items\Group13_Helper.json	Topaz Ring	
-item	13,112	src\bin\Data\Items\Group13_Helper.json	Amethyst Ring	
-item	13,113	src\bin\Data\Items\Group13_Helper.json	Ruby Necklace	
-item	13,114	src\bin\Data\Items\Group13_Helper.json	Emerald Necklace	
-item	13,115	src\bin\Data\Items\Group13_Helper.json	Sapphire Necklace	
+item	13,109	src\bin\Data\Items\Group13_Helper.json	Sapphire Ring	蓝宝石戒指
+item	13,110	src\bin\Data\Items\Group13_Helper.json	Ruby Ring	红宝石戒指
+item	13,111	src\bin\Data\Items\Group13_Helper.json	Topaz Ring	黄玉戒指
+item	13,112	src\bin\Data\Items\Group13_Helper.json	Amethyst Ring	紫水晶戒指
+item	13,113	src\bin\Data\Items\Group13_Helper.json	Ruby Necklace	红宝石项链
+item	13,114	src\bin\Data\Items\Group13_Helper.json	Emerald Necklace	绿宝石项链
+item	13,115	src\bin\Data\Items\Group13_Helper.json	Sapphire Necklace	蓝宝石项链
 item	13,116	src\bin\Data\Items\Group13_Helper.json	Seal of Wealth	
-item	13,117	src\bin\Data\Items\Group13_Helper.json	Minimum Vitality Potion	
-item	13,118	src\bin\Data\Items\Group13_Helper.json	Low Vitality Potion	
-item	13,119	src\bin\Data\Items\Group13_Helper.json	Medium Vitality Potion	
-item	13,120	src\bin\Data\Items\Group13_Helper.json	High Vitality Potion	
-item	13,121	src\bin\Data\Items\Group13_Helper.json	Open Access Ticket to Chaos Castle	
+item	13,117	src\bin\Data\Items\Group13_Helper.json	Minimum Vitality Potion	微型体力药水
+item	13,118	src\bin\Data\Items\Group13_Helper.json	Low Vitality Potion	小型体力药水
+item	13,119	src\bin\Data\Items\Group13_Helper.json	Medium Vitality Potion	中型体力药水
+item	13,120	src\bin\Data\Items\Group13_Helper.json	High Vitality Potion	大型体力药水
+item	13,121	src\bin\Data\Items\Group13_Helper.json	Open Access Ticket to Chaos Castle	赤色要塞自由入场券
 item	13,122	src\bin\Data\Items\Group13_Helper.json	Skeleton Transformation Ring	骷髅变身戒指
 item	13,123	src\bin\Data\Items\Group13_Helper.json	Pet Skeleton	骷髅宠物
-item	13,124	src\bin\Data\Items\Group13_Helper.json	Paid Channel Access Ticket	
+item	13,124	src\bin\Data\Items\Group13_Helper.json	Paid Channel Access Ticket	付费频道通行证
 item	13,125	src\bin\Data\Items\Group13_Helper.json	Open Access Ticket to Doppelganger	
 item	13,126	src\bin\Data\Items\Group13_Helper.json	Open Access Ticket to Varka	
 item	13,127	src\bin\Data\Items\Group13_Helper.json	Open Access Ticket to Varka Map 7	
@@ -702,16 +702,16 @@ item	13,131	src\bin\Data\Items\Group13_Helper.json	Maple Charm
 item	13,132	src\bin\Data\Items\Group13_Helper.json	Golden Oak Charm	
 item	13,133	src\bin\Data\Items\Group13_Helper.json	Golden Maple Charm	
 item	13,134	src\bin\Data\Items\Group13_Helper.json	Worn Horseshoe	
-item	13,135	src\bin\Data\Items\Group13_Helper.json	1st Lucky Armor Ticket	
-item	13,136	src\bin\Data\Items\Group13_Helper.json	1st Lucky Pants Ticket	
-item	13,137	src\bin\Data\Items\Group13_Helper.json	1st Lucky Helm Ticket	
-item	13,138	src\bin\Data\Items\Group13_Helper.json	1st Lucky Gloves Ticket	
-item	13,139	src\bin\Data\Items\Group13_Helper.json	1st Lucky Boots Ticket	
-item	13,140	src\bin\Data\Items\Group13_Helper.json	2nd Lucky Armor Ticket	
-item	13,141	src\bin\Data\Items\Group13_Helper.json	2nd Lucky Pants Ticket	
-item	13,142	src\bin\Data\Items\Group13_Helper.json	2nd Lucky Helm Ticket	
-item	13,143	src\bin\Data\Items\Group13_Helper.json	2nd Lucky Gloves Ticket	
-item	13,144	src\bin\Data\Items\Group13_Helper.json	2nd Lucky Boots Ticket	
+item	13,135	src\bin\Data\Items\Group13_Helper.json	1st Lucky Armor Ticket	一代幸运铠甲兑换券
+item	13,136	src\bin\Data\Items\Group13_Helper.json	1st Lucky Pants Ticket	一代幸运护腿兑换券
+item	13,137	src\bin\Data\Items\Group13_Helper.json	1st Lucky Helm Ticket	一代幸运头盔兑换券
+item	13,138	src\bin\Data\Items\Group13_Helper.json	1st Lucky Gloves Ticket	一代幸运护手兑换券
+item	13,139	src\bin\Data\Items\Group13_Helper.json	1st Lucky Boots Ticket	一代幸运靴子兑换券
+item	13,140	src\bin\Data\Items\Group13_Helper.json	2nd Lucky Armor Ticket	二代幸运铠甲兑换券
+item	13,141	src\bin\Data\Items\Group13_Helper.json	2nd Lucky Pants Ticket	二代幸运护腿兑换券
+item	13,142	src\bin\Data\Items\Group13_Helper.json	2nd Lucky Helm Ticket	二代幸运头盔兑换券
+item	13,143	src\bin\Data\Items\Group13_Helper.json	2nd Lucky Gloves Ticket	二代幸运护手兑换券
+item	13,144	src\bin\Data\Items\Group13_Helper.json	2nd Lucky Boots Ticket	二代幸运靴子兑换券
 item	14,0	src\bin\Data\Items\Group14_Potion.json	Apple	苹果
 item	14,1	src\bin\Data\Items\Group14_Potion.json	Small Healing Potion	小瓶治疗药水
 item	14,2	src\bin\Data\Items\Group14_Potion.json	Healing Potion	中瓶治疗药水
@@ -768,11 +768,11 @@ item	14,54	src\bin\Data\Items\Group14_Potion.json	Chaos Card	玛雅卡片
 item	14,55	src\bin\Data\Items\Group14_Potion.json	Green Chaos Box	绿色玛雅宝箱
 item	14,56	src\bin\Data\Items\Group14_Potion.json	Red Chaos Box	红色玛雅宝箱
 item	14,57	src\bin\Data\Items\Group14_Potion.json	Purple Chaos Box	紫色玛雅宝箱
-item	14,58	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket1	
-item	14,59	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket2	
-item	14,60	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket3	
-item	14,61	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket4	
-item	14,62	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket5	
+item	14,58	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket1	稀有物品兑换券1
+item	14,59	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket2	稀有物品兑换券2
+item	14,60	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket3	稀有物品兑换券3
+item	14,61	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket4	稀有物品兑换券4
+item	14,62	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket5	稀有物品兑换券5
 item	14,63	src\bin\Data\Items\Group14_Potion.json	Firecracker	烟花
 item	14,64	src\bin\Data\Items\Group14_Potion.json	Cursed Castle Water	
 item	14,65	src\bin\Data\Items\Group14_Potion.json	Death-beam Knight Flame	炽炎魔的火种
@@ -854,12 +854,12 @@ item	14,141	src\bin\Data\Items\Group14_Potion.json	Shining Jewelry Case	闪耀�
 item	14,142	src\bin\Data\Items\Group14_Potion.json	Elegant Jewelry Case	精致的首饰盒
 item	14,143	src\bin\Data\Items\Group14_Potion.json	Steel Jewelry Case	钢制首饰盒
 item	14,144	src\bin\Data\Items\Group14_Potion.json	Old Jewelry Case	旧首饰盒
-item	14,145	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 7	
-item	14,146	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 8	
-item	14,147	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 9	
-item	14,148	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 10	
-item	14,149	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 11	
-item	14,150	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 12	
+item	14,145	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 7	稀有物品兑换券7
+item	14,146	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 8	稀有物品兑换券8
+item	14,147	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 9	稀有物品兑换券9
+item	14,148	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 10	稀有物品兑换券10
+item	14,149	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 11	稀有物品兑换券11
+item	14,150	src\bin\Data\Items\Group14_Potion.json	Rare Item Ticket 12	稀有物品兑换券12
 item	14,151	src\bin\Data\Items\Group14_Potion.json	Lv. 1 Letter of Request	1级委托书
 item	14,152	src\bin\Data\Items\Group14_Potion.json	Lv. 1 Completion Certificate	1级完成证明
 item	14,153	src\bin\Data\Items\Group14_Potion.json	Stardust	星尘
@@ -1061,7 +1061,7 @@ npc	224	src\bin\Data\Monsters\Monsters.json	Guardsman	卫兵
 npc	226	src\bin\Data\Monsters\Monsters.json	Trainer	训兽师
 npc	229	src\bin\Data\Monsters\Monsters.json	Marlon	警卫队长摩伦
 npc	230	src\bin\Data\Monsters\Monsters.json	Wandering Merchant Alex	流浪商人阿莱斯
-npc	231	src\bin\Data\Monsters\Monsters.json	Thompson Kenel	
+npc	231	src\bin\Data\Monsters\Monsters.json	Thompson Kenel	武器商人托姆绅
 npc	232	src\bin\Data\Monsters\Monsters.json	Archangel	大天使
 npc	233	src\bin\Data\Monsters\Monsters.json	Messenger of Archangel	大天使的使者
 npc	234	src\bin\Data\Monsters\Monsters.json	Pet Trainer	宠物训练师
@@ -1078,7 +1078,7 @@ npc	244	src\bin\Data\Monsters\Monsters.json	Caren the Barmaid	老板娘莉娜
 npc	245	src\bin\Data\Monsters\Monsters.json	Wizard Izabel	魔导师露茜
 npc	246	src\bin\Data\Monsters\Monsters.json	Weapons Merchant Zienna	武器商人苏菲
 npc	247,249	src\bin\Data\Monsters\Monsters.json	Guard	守卫
-npc	248	src\bin\Data\Monsters\Monsters.json	Wandering Merchant Martin	
+npc	248	src\bin\Data\Monsters\Monsters.json	Wandering Merchant Martin	流浪商人马丁
 npc	250	src\bin\Data\Monsters\Monsters.json	Wandering Merchant	流浪商人
 npc	251	src\bin\Data\Monsters\Monsters.json	Hanzo the Blacksmith	铁匠汉斯
 npc	252	src\bin\Data\Monsters\Monsters.json		
@@ -1128,14 +1128,14 @@ monster	340,440	src\bin\Data\Monsters\Monsters.json	Dark Elf	暗黑精灵
 monster	345	src\bin\Data\Monsters\Monsters.json	Death spirit	
 monster	348	src\bin\Data\Monsters\Monsters.json	Tanker	
 monster	349	src\bin\Data\Monsters\Monsters.json	Balgass	巴卡斯
-monster	350,435	src\bin\Data\Monsters\Monsters.json	Berserker	
-monster	351	src\bin\Data\Monsters\Monsters.json	Splinter Wolf	
-monster	352	src\bin\Data\Monsters\Monsters.json	Iron Rider	
-monster	353	src\bin\Data\Monsters\Monsters.json	Satyros	
-monster	354	src\bin\Data\Monsters\Monsters.json	Blade Hunter	
-monster	355	src\bin\Data\Monsters\Monsters.json	Kentauros	
-monster	356,434	src\bin\Data\Monsters\Monsters.json	Gigantis	
-monster	357	src\bin\Data\Monsters\Monsters.json	Genocider	
+monster	350,435	src\bin\Data\Monsters\Monsters.json	Berserker	疯魔
+monster	351	src\bin\Data\Monsters\Monsters.json	Splinter Wolf	裂角狼
+monster	352	src\bin\Data\Monsters\Monsters.json	Iron Rider	金甲兽
+monster	353	src\bin\Data\Monsters\Monsters.json	Satyros	半兽人
+monster	354	src\bin\Data\Monsters\Monsters.json	Blade Hunter	刀刃猎手
+monster	355	src\bin\Data\Monsters\Monsters.json	Kentauros	寒冰刺客
+monster	356,434	src\bin\Data\Monsters\Monsters.json	Gigantis	狂巨人
+monster	357	src\bin\Data\Monsters\Monsters.json	Genocider	屠杀者
 monster	358,438	src\bin\Data\Monsters\Monsters.json	Persona	
 monster	359	src\bin\Data\Monsters\Monsters.json	Twin Tale	
 monster	360,439	src\bin\Data\Monsters\Monsters.json	Dreadfear	
@@ -1145,13 +1145,13 @@ monster	363	src\bin\Data\Monsters\Monsters.json	Maya Hand	玛雅之手
 monster	364	src\bin\Data\Monsters\Monsters.json	Maya	玛雅
 monster	365	src\bin\Data\Monsters\Monsters.json	Pouch of Blessing	祝福袋
 npc	367	src\bin\Data\Monsters\Monsters.json	Gateway Machine	入口装置
-npc	368	src\bin\Data\Monsters\Monsters.json	Elpis	
-npc	369	src\bin\Data\Monsters\Monsters.json	Osbourne	
-npc	370	src\bin\Data\Monsters\Monsters.json	Jerridon	
+npc	368	src\bin\Data\Monsters\Monsters.json	Elpis	艾尔菲丝
+npc	369	src\bin\Data\Monsters\Monsters.json	Osbourne	奥斯本
+npc	370	src\bin\Data\Monsters\Monsters.json	Jerridon	杰瑞敦
 npc	371	src\bin\Data\Monsters\Monsters.json	Leo the Helper	
-monster	372	src\bin\Data\Monsters\Monsters.json	Elite Skull Soldier	
+monster	372	src\bin\Data\Monsters\Monsters.json	Elite Skull Soldier	精英骷髅兵
 monster	373	src\bin\Data\Monsters\Monsters.json	Jack Olantern	
-monster	374	src\bin\Data\Monsters\Monsters.json	Santa	
+monster	374	src\bin\Data\Monsters\Monsters.json	Santa	圣诞老人
 npc	375	src\bin\Data\Monsters\Monsters.json	Chaos Card Master	玛雅使者
 npc	376	src\bin\Data\Monsters\Monsters.json	Pamela the Supplier	
 npc	377	src\bin\Data\Monsters\Monsters.json	Angela the Supplier	
@@ -1162,7 +1162,7 @@ npc	381	src\bin\Data\Monsters\Monsters.json	MU Allies General
 npc	382	src\bin\Data\Monsters\Monsters.json	Illusion Sorcerer Elder	
 npc	383	src\bin\Data\Monsters\Monsters.json	Alliance Sacred Item Storage	联盟圣物保管处
 npc	384	src\bin\Data\Monsters\Monsters.json	Illusion Castle Sacred Item Storage	幻影城堡圣物保管处
-npc	385	src\bin\Data\Monsters\Monsters.json	Mirage	
+npc	385	src\bin\Data\Monsters\Monsters.json	Mirage	弥拉邱
 monster	386,389,392,395,398,401	src\bin\Data\Monsters\Monsters.json	Illusion Sorcerer Spirit	
 monster	387,390,393,396,399,402	src\bin\Data\Monsters\Monsters.json	Illusion Sorcerer Spirit	
 monster	388,391,394,397,400,403	src\bin\Data\Monsters\Monsters.json	Illusion Sorcerer Spirit	
@@ -1184,8 +1184,8 @@ monster	418	src\bin\Data\Monsters\Monsters.json	Strange Rabbit
 monster	419	src\bin\Data\Monsters\Monsters.json	Hideous Rabbit	
 monster	420	src\bin\Data\Monsters\Monsters.json	Werewolf	狼人
 monster	421	src\bin\Data\Monsters\Monsters.json	Polluted Butterfly	
-monster	422	src\bin\Data\Monsters\Monsters.json	Cursed Lich	
-monster	423	src\bin\Data\Monsters\Monsters.json	Totem Golem	
+monster	422	src\bin\Data\Monsters\Monsters.json	Cursed Lich	诅咒巫妖
+monster	423	src\bin\Data\Monsters\Monsters.json	Totem Golem	图腾石巨人
 monster	424	src\bin\Data\Monsters\Monsters.json	Grizzly	
 monster	425	src\bin\Data\Monsters\Monsters.json	Captain Grizzly	
 monster	426	src\bin\Data\Monsters\Monsters.json	Chaos Castle13	赤色要塞13
@@ -1208,14 +1208,14 @@ monster	455	src\bin\Data\Monsters\Monsters.json	Giant Mammoth	巨型猛犸
 monster	456	src\bin\Data\Monsters\Monsters.json	Ice Giant	冰巨人
 monster	457	src\bin\Data\Monsters\Monsters.json	Coolutin	
 monster	458	src\bin\Data\Monsters\Monsters.json	Iron Knight	铁甲骑士
-monster	459	src\bin\Data\Monsters\Monsters.json	Selupan	
+monster	459	src\bin\Data\Monsters\Monsters.json	Selupan	冰霜巨蛛
 monster	460	src\bin\Data\Monsters\Monsters.json	Spider Eggs	蜘蛛卵
 monster	461	src\bin\Data\Monsters\Monsters.json	Spider Eggs	蜘蛛卵
 monster	462	src\bin\Data\Monsters\Monsters.json	Spider Eggs	蜘蛛卵
 monster	463	src\bin\Data\Monsters\Monsters.json	Fire Flame Ghost	
 npc	464	src\bin\Data\Monsters\Monsters.json	Reset Helper	重置助手
 npc	465	src\bin\Data\Monsters\Monsters.json	Santa Claus	圣诞老人
-monster	466	src\bin\Data\Monsters\Monsters.json	Cursed Goblin	
+monster	466	src\bin\Data\Monsters\Monsters.json	Cursed Goblin	诅咒哥布林
 npc	467	src\bin\Data\Monsters\Monsters.json	Snowman	雪人
 npc	468	src\bin\Data\Monsters\Monsters.json	Dasher	
 npc	469	src\bin\Data\Monsters\Monsters.json	Kermit	
@@ -1225,17 +1225,17 @@ npc	472	src\bin\Data\Monsters\Monsters.json	Prancer
 npc	473	src\bin\Data\Monsters\Monsters.json	Donner	
 npc	474	src\bin\Data\Monsters\Monsters.json	Vixen	
 npc	475	src\bin\Data\Monsters\Monsters.json	Blitzen	
-monster	476	src\bin\Data\Monsters\Monsters.json	Cursed Santa	
+monster	476	src\bin\Data\Monsters\Monsters.json	Cursed Santa	诅咒圣诞老人
 monster	477	src\bin\Data\Monsters\Monsters.json	Transformed Snowman	变身雪人
 npc	478	src\bin\Data\Monsters\Monsters.json	Delgado	
 npc	479	src\bin\Data\Monsters\Monsters.json	Doorkeeper Titus	
-monster	480,481	src\bin\Data\Monsters\Monsters.json	Zombie Fighter	
+monster	480,481	src\bin\Data\Monsters\Monsters.json	Zombie Fighter	僵尸战士
 monster	482,483	src\bin\Data\Monsters\Monsters.json	Resurrected Gladiator	
 monster	484,485	src\bin\Data\Monsters\Monsters.json	Ash Slaughterer	
-monster	486	src\bin\Data\Monsters\Monsters.json	Blood Assassin	
-monster	487,488	src\bin\Data\Monsters\Monsters.json	Cruel Blood Assassin	
-monster	489	src\bin\Data\Monsters\Monsters.json	Burning Lava Giant	
-monster	490,491	src\bin\Data\Monsters\Monsters.json	Ruthless Lava Giant	
+monster	486	src\bin\Data\Monsters\Monsters.json	Blood Assassin	血腥刺客
+monster	487,488	src\bin\Data\Monsters\Monsters.json	Cruel Blood Assassin	残暴血腥刺客
+monster	489	src\bin\Data\Monsters\Monsters.json	Burning Lava Giant	燃烧熔岩巨人
+monster	490,491	src\bin\Data\Monsters\Monsters.json	Ruthless Lava Giant	无情熔岩巨人
 npc	492	src\bin\Data\Monsters\Monsters.json	Moss	
 monster	493	src\bin\Data\Monsters\Monsters.json	Golden Dark Knight	黄金暗黑骑士
 monster	494	src\bin\Data\Monsters\Monsters.json	Golden Devil	黄金恶魔
@@ -1310,8 +1310,8 @@ monster	565	src\bin\Data\Monsters\Monsters.json	Dark Iron Knight	暗黑铁甲骑
 npc	566	src\bin\Data\Monsters\Monsters.json	Mercenary Guild Manager Tercia	
 npc	567	src\bin\Data\Monsters\Monsters.json	Priestess Veina	
 npc	568	src\bin\Data\Monsters\Monsters.json	Wandering Merchant Zyro	
-monster	569	src\bin\Data\Monsters\Monsters.json	Venomous Chain Scorpion	
-monster	570	src\bin\Data\Monsters\Monsters.json	Bone Scorpion	
+monster	569	src\bin\Data\Monsters\Monsters.json	Venomous Chain Scorpion	剧毒链蝎
+monster	570	src\bin\Data\Monsters\Monsters.json	Bone Scorpion	骸骨蝎
 monster	571	src\bin\Data\Monsters\Monsters.json	Orcus	
 monster	572	src\bin\Data\Monsters\Monsters.json	Gollock	
 monster	573	src\bin\Data\Monsters\Monsters.json	Crypta	

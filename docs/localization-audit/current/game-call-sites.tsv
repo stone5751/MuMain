@@ -1,7 +1,7 @@
 ﻿file	line	identifier	key	english	zh-CN
 src/source/App/Platform/Windows/Winmain.cpp	722	Error9AHackingToolHasBeen	Error9AHackingToolHasBeen	[error9] A hacking tool has been found. If you are not using a hacking tool, contact our customer service center through our website at support.http://muonline.webzen.com	
 src/source/App/Platform/Windows/Winmain.cpp	2206	InstallTheLatestGraphicsCardDriver	Install the latest graphics card driver.	Install the latest graphics card driver.	请安装最新的显卡驱动程序。
-src/source/Character/CharacterManager.cpp	23	ErrorCode	Error Code :	Error Code :	
+src/source/Character/CharacterManager.cpp	23	ErrorCode	Error Code :	Error Code :	错误代码：
 src/source/Character/CharacterManager.cpp	27	DarkWizard	Dark Wizard	Dark Wizard	魔法师
 src/source/Character/CharacterManager.cpp	28	SoulMaster	Soul Master	Soul Master	魔导师
 src/source/Character/CharacterManager.cpp	29	GrandMaster	Grand Master	Grand Master	神导师
@@ -62,12 +62,12 @@ src/source/Engine/Object/ZzzCharacter.cpp	3323	CrywolfIsAskingForYourHelpOnlyYou
 src/source/Engine/Object/ZzzCharacter.cpp	3327	ILlBeYourStrengthForTheJourneyToBecomeAWarrior	I'll be your strength for the journey to become a warrior.	I'll be your strength for the journey to become a warrior.	
 src/source/Engine/Object/ZzzCharacter.cpp	3977	DToKalima	%d to Kalima	%d to Kalima	
 src/source/Engine/Object/ZzzCharacter.cpp	15623	MagicStoneOfOwner	MagicStoneOfOwner	Magic stone of %ls	
-src/source/Engine/Object/ZzzInterface.cpp	1176	ArrowsReloaded	Arrows reloaded	Arrows reloaded	
-src/source/Engine/Object/ZzzInterface.cpp	1188	ArrowsReloaded	Arrows reloaded	Arrows reloaded	
-src/source/Engine/Object/ZzzInterface.cpp	1194	NoMoreArrows	No more arrows	No more arrows	
-src/source/Engine/Object/ZzzInterface.cpp	1196	NoMoreArrows	No more arrows	No more arrows	
+src/source/Engine/Object/ZzzInterface.cpp	1176	ArrowsReloaded	Arrows reloaded	Arrows reloaded	箭矢已补充
+src/source/Engine/Object/ZzzInterface.cpp	1188	ArrowsReloaded	Arrows reloaded	Arrows reloaded	箭矢已补充
+src/source/Engine/Object/ZzzInterface.cpp	1194	NoMoreArrows	No more arrows	No more arrows	箭矢不足
+src/source/Engine/Object/ZzzInterface.cpp	1196	NoMoreArrows	No more arrows	No more arrows	箭矢不足
 src/source/Engine/Object/ZzzInterface.cpp	1512	InventoryIsFull	Inventory is full.	Inventory is full.	背包已满。
-src/source/Engine/Object/ZzzInterface.cpp	1551	OnlyLevelAboveDCanDoTheChaosCombination	Only level above %d can do the Chaos Combination.	Only level above %d can do the Chaos Combination.	
+src/source/Engine/Object/ZzzInterface.cpp	1551	OnlyLevelAboveDCanDoTheChaosCombination	Only level above %d can do the Chaos Combination.	Only level above %d can do the Chaos Combination.	超过%d级才能进行玛雅合成。
 src/source/Engine/Object/ZzzInterface.cpp	1592	ContractCanBeMadeForDTimes	Contract can be made for %d times.	Contract can be made for %d times.	
 src/source/Engine/Object/ZzzInterface.cpp	1597	WouldYouLikeToProceedWithTheContract	Would you like to proceed with the contract?	Would you like to proceed with the contract?	
 src/source/Engine/Object/ZzzInterface.cpp	1604	ContractCanTBeMadeWhenYouAreOnAMount	Contract can't be made when you are on a mount.	Contract can't be made when you are on a mount.	
@@ -97,11 +97,11 @@ src/source/Engine/Object/ZzzInterface.cpp	2056	Exchange	/exchange	/exchange
 src/source/Engine/Object/ZzzInterface.cpp	2056	Trade259	Trade259	/trade	
 src/source/Engine/Object/ZzzInterface.cpp	2060	CanTBeInChaosCastle	Can't be in Chaos Castle	Can't be in Chaos Castle	
 src/source/Engine/Object/ZzzInterface.cpp	2067	CannotApplyInBattleZone	Cannot apply in Battle Zone.	Cannot apply in Battle Zone.	
-src/source/Engine/Object/ZzzInterface.cpp	2075	YouCanUseTheTradeCommandAtCharacterLevel6	You can use the trade command at character level 6	You can use the trade command at character level 6	
+src/source/Engine/Object/ZzzInterface.cpp	2075	YouCanUseTheTradeCommandAtCharacterLevel6	You can use the trade command at character level 6	You can use the trade command at character level 6	角色达到6级后才能使用交易命令
 src/source/Engine/Object/ZzzInterface.cpp	2094	YouCannotTradeRightNow	You cannot trade right now.	You cannot trade right now.	现在无法交易。
-src/source/Engine/Object/ZzzInterface.cpp	2100	YouHaveRequestedSToTrade	You have requested %s to trade.	You have requested %s to trade.	
+src/source/Engine/Object/ZzzInterface.cpp	2100	YouHaveRequestedSToTrade	You have requested %s to trade.	You have requested %s to trade.	已向%s发送交易请求。
 src/source/Engine/Object/ZzzInterface.cpp	2115	YouCannotTradeRightNow	You cannot trade right now.	You cannot trade right now.	现在无法交易。
-src/source/Engine/Object/ZzzInterface.cpp	2124	YouHaveRequestedSToTrade	You have requested %s to trade.	You have requested %s to trade.	
+src/source/Engine/Object/ZzzInterface.cpp	2124	YouHaveRequestedSToTrade	You have requested %s to trade.	You have requested %s to trade.	已向%s发送交易请求。
 src/source/Engine/Object/ZzzInterface.cpp	2134	Firecracker688	Firecracker688	/Firecracker	
 src/source/Engine/Object/ZzzInterface.cpp	2139	PersonalStore1117	PersonalStore1117	/Personal store	
 src/source/Engine/Object/ZzzInterface.cpp	2143	CanTBeInChaosCastle	Can't be in Chaos Castle	Can't be in Chaos Castle	
@@ -122,9 +122,9 @@ src/source/Engine/Object/ZzzInterface.cpp	2295	DuelCancel	/DuelCancel	/DuelCance
 src/source/Engine/Object/ZzzInterface.cpp	2300	CanTBeInChaosCastle	Can't be in Chaos Castle	Can't be in Chaos Castle	
 src/source/Engine/Object/ZzzInterface.cpp	2309	Guild254	Guild254	/guild	
 src/source/Engine/Object/ZzzInterface.cpp	2313	CanTBeInChaosCastle	Can't be in Chaos Castle	Can't be in Chaos Castle	
-src/source/Engine/Object/ZzzInterface.cpp	2318	YouAreAlreadyInAGuild	You are already in a guild	You are already in a guild	
-src/source/Engine/Object/ZzzInterface.cpp	2333	YouHaveRequestedSToJoinYourGuild	You have requested %s to join your guild.	You have requested %s to join your guild.	
-src/source/Engine/Object/ZzzInterface.cpp	2353	YouHaveRequestedSToJoinYourGuild	You have requested %s to join your guild.	You have requested %s to join your guild.	
+src/source/Engine/Object/ZzzInterface.cpp	2318	YouAreAlreadyInAGuild	You are already in a guild	You are already in a guild	你已加入战盟
+src/source/Engine/Object/ZzzInterface.cpp	2333	YouHaveRequestedSToJoinYourGuild	You have requested %s to join your guild.	You have requested %s to join your guild.	已邀请%s加入战盟。
+src/source/Engine/Object/ZzzInterface.cpp	2353	YouHaveRequestedSToJoinYourGuild	You have requested %s to join your guild.	You have requested %s to join your guild.	已邀请%s加入战盟。
 src/source/Engine/Object/ZzzInterface.cpp	2361	Alliance1354	Alliance1354	/Alliance	
 src/source/Engine/Object/ZzzInterface.cpp	2362	Hostilities	/Hostilities	/Hostilities	
 src/source/Engine/Object/ZzzInterface.cpp	2363	SuspendHostilities1357	SuspendHostilities1357	/Suspend hostilities	
@@ -136,18 +136,18 @@ src/source/Engine/Object/ZzzInterface.cpp	2415	Alliance1354	Alliance1354	/Allian
 src/source/Engine/Object/ZzzInterface.cpp	2420	Hostilities	/Hostilities	/Hostilities	
 src/source/Engine/Object/ZzzInterface.cpp	2438	Party256	Party256	/party	
 src/source/Engine/Object/ZzzInterface.cpp	2442	CanTBeInChaosCastle	Can't be in Chaos Castle	Can't be in Chaos Castle	
-src/source/Engine/Object/ZzzInterface.cpp	2447	YouAreAlreadyInAParty	You are already in a party	You are already in a party	
-src/source/Engine/Object/ZzzInterface.cpp	2460	YouHaveRequestedSToJoinYourParty	You have requested %s to join your party.	You have requested %s to join your party.	
-src/source/Engine/Object/ZzzInterface.cpp	2477	YouHaveRequestedSToJoinYourParty	You have requested %s to join your party.	You have requested %s to join your party.	
+src/source/Engine/Object/ZzzInterface.cpp	2447	YouAreAlreadyInAParty	You are already in a party	You are already in a party	你已加入队伍
+src/source/Engine/Object/ZzzInterface.cpp	2460	YouHaveRequestedSToJoinYourParty	You have requested %s to join your party.	You have requested %s to join your party.	已邀请%s加入队伍。
+src/source/Engine/Object/ZzzInterface.cpp	2477	YouHaveRequestedSToJoinYourParty	You have requested %s to join your party.	You have requested %s to join your party.	已邀请%s加入队伍。
 src/source/Engine/Object/ZzzInterface.cpp	2524	Filter	/filter	/filter	
 src/source/Engine/Object/ZzzInterface.cpp	2524	Filter	/filter	/filter	
 src/source/Engine/Object/ZzzInterface.cpp	2524	Filter	/filter	/filter	
 src/source/Engine/Object/ZzzInterface.cpp	2543	Warp	/warp	/warp	
-src/source/Engine/Object/ZzzInterface.cpp	2799	YouCannotGoToAtlansWhileRidingAUnicorn	You cannot go to Atlans while riding a Unicorn	You cannot go to Atlans while riding a Unicorn	
-src/source/Engine/Object/ZzzInterface.cpp	2804	YouCanEnterIcarusOnlyWithWingsDinorantFenrirr	You can enter Icarus only with wings, dinorant, fenrirr	You can enter Icarus only with wings, dinorant, fenrirr	
-src/source/Engine/Object/ZzzInterface.cpp	2809	OnlyCharactersOverLevelDCanEnter	Only characters over level %d can enter.	Only characters over level %d can enter.	
-src/source/Engine/Object/ZzzInterface.cpp	2816	YouCannotWarpWhileRidingOnAUnicorn	You cannot warp while riding on a unicorn	You cannot warp while riding on a unicorn	
-src/source/Engine/Object/ZzzInterface.cpp	2822	OnlyCharactersOverLevelDCanEnter	Only characters over level %d can enter.	Only characters over level %d can enter.	
+src/source/Engine/Object/ZzzInterface.cpp	2799	YouCannotGoToAtlansWhileRidingAUnicorn	You cannot go to Atlans while riding a Unicorn	You cannot go to Atlans while riding a Unicorn	骑乘独角兽时无法前往亚特兰蒂斯
+src/source/Engine/Object/ZzzInterface.cpp	2804	YouCanEnterIcarusOnlyWithWingsDinorantFenrirr	You can enter Icarus only with wings, dinorant, fenrirr	You can enter Icarus only with wings, dinorant, fenrirr	需装备翅膀、彩云兽或炎狼兽才能进入天空之城
+src/source/Engine/Object/ZzzInterface.cpp	2809	OnlyCharactersOverLevelDCanEnter	Only characters over level %d can enter.	Only characters over level %d can enter.	只有超过%d级的角色才能进入。
+src/source/Engine/Object/ZzzInterface.cpp	2816	YouCannotWarpWhileRidingOnAUnicorn	You cannot warp while riding on a unicorn	You cannot warp while riding on a unicorn	骑乘独角兽时无法传送
+src/source/Engine/Object/ZzzInterface.cpp	2822	OnlyCharactersOverLevelDCanEnter	Only characters over level %d can enter.	Only characters over level %d can enter.	只有超过%d级的角色才能进入。
 src/source/Engine/Object/ZzzInterface.cpp	3493	PwnedByTheFilter	Pwned by the Filter!	Pwned by the Filter!	
 src/source/Engine/Object/ZzzInterface.cpp	3638	Day	Day	Day	
 src/source/Engine/Object/ZzzInterface.cpp	3638	Hour	Hour	Hour	
@@ -170,9 +170,9 @@ src/source/Engine/Object/ZzzInterface.cpp	4168	Warp	/warp	/warp
 src/source/Engine/Object/ZzzInterface.cpp	4168	Warp	/warp	/warp	
 src/source/Engine/Object/ZzzInterface.cpp	4190	Atlans	Atlans	Atlans	亚特兰蒂斯
 src/source/Engine/Object/ZzzInterface.cpp	4194	Icarus	Icarus	Icarus	天空之城
-src/source/Engine/Object/ZzzInterface.cpp	4203	YouCannotGoToAtlansWhileRidingAUnicorn	You cannot go to Atlans while riding a Unicorn	You cannot go to Atlans while riding a Unicorn	
-src/source/Engine/Object/ZzzInterface.cpp	4209	YouCanEnterIcarusOnlyWithWingsDinorantFenrirr	You can enter Icarus only with wings, dinorant, fenrirr	You can enter Icarus only with wings, dinorant, fenrirr	
-src/source/Engine/Object/ZzzInventory.cpp	424	YouCannotUseYourItemsWhileUsingTheVaultOrWhileTrading	You cannot use your items while using the vault or while trading.	You cannot use your items while using the vault or while trading.	
+src/source/Engine/Object/ZzzInterface.cpp	4203	YouCannotGoToAtlansWhileRidingAUnicorn	You cannot go to Atlans while riding a Unicorn	You cannot go to Atlans while riding a Unicorn	骑乘独角兽时无法前往亚特兰蒂斯
+src/source/Engine/Object/ZzzInterface.cpp	4209	YouCanEnterIcarusOnlyWithWingsDinorantFenrirr	You can enter Icarus only with wings, dinorant, fenrirr	You can enter Icarus only with wings, dinorant, fenrirr	需装备翅膀、彩云兽或炎狼兽才能进入天空之城
+src/source/Engine/Object/ZzzInventory.cpp	424	YouCannotUseYourItemsWhileUsingTheVaultOrWhileTrading	You cannot use your items while using the vault or while trading.	You cannot use your items while using the vault or while trading.	打开仓库或交易时无法使用物品。
 src/source/Engine/Object/ZzzInventory.cpp	548	CanBeEquippedByS	Can be equipped by %s	Can be equipped by %s	适用职业：%s
 src/source/Engine/Object/ZzzInventory.cpp	548	DarkWizard	Dark Wizard	Dark Wizard	魔法师
 src/source/Engine/Object/ZzzInventory.cpp	553	CanBeEquippedByS	Can be equipped by %s	Can be equipped by %s	适用职业：%s
@@ -226,20 +226,20 @@ src/source/Engine/Object/ZzzInventory.cpp	1161	AdditionalCurseSpellD	Additional 
 src/source/Engine/Object/ZzzInventory.cpp	1164	AdditionalDefenseRateD	Additional defense rate +%d	Additional defense rate +%d	追加防御成功率 +%d
 src/source/Engine/Object/ZzzInventory.cpp	1167	AdditionalDefenseD	Additional defense +%d	Additional defense +%d	追加防御力 +%d
 src/source/Engine/Object/ZzzInventory.cpp	1172	AutomaticHPRecoveryD	Automatic HP recovery %d%%	Automatic HP recovery %d%%	生命值自动恢复%d%%
-src/source/Engine/Object/ZzzInventory.cpp	1176	IncreaseMaxHP4	Increase Max HP +4%%	Increase Max HP +4%%	
-src/source/Engine/Object/ZzzInventory.cpp	1179	IncreaseMaxMana4	Increase Max Mana +4%%	Increase Max Mana +4%%	
-src/source/Engine/Object/ZzzInventory.cpp	1182	DamageDecrease4	Damage Decrease +4%%	Damage Decrease +4%%	
-src/source/Engine/Object/ZzzInventory.cpp	1186	ReflectDamage5	Reflect Damage +5%%	Reflect Damage +5%%	
-src/source/Engine/Object/ZzzInventory.cpp	1189	DefenseSuccessRate10	Defense success rate +10%%	Defense success rate +10%%	
-src/source/Engine/Object/ZzzInventory.cpp	1192	IncreasesAcquisitionRateOfZenAfterHuntingMonsters30	Increases acquisition rate of Zen after hunting monsters +30%%	Increases acquisition rate of Zen after hunting monsters +30%%	
-src/source/Engine/Object/ZzzInventory.cpp	1195	ExcellentDamageRate10	Excellent Damage rate +10%%	Excellent Damage rate +10%%	
-src/source/Engine/Object/ZzzInventory.cpp	1198	IncreaseDamageLevel20	Increase Damage +level/20	Increase Damage +level/20	
-src/source/Engine/Object/ZzzInventory.cpp	1201	IncreaseDamageD	Increase Damage +%d%%	Increase Damage +%d%%	
-src/source/Engine/Object/ZzzInventory.cpp	1204	IncreaseWizardryDmgLevel20	Increase Wizardry Dmg +level/20	Increase Wizardry Dmg +level/20	
-src/source/Engine/Object/ZzzInventory.cpp	1207	IncreaseWizardryDmgD	Increase Wizardry Dmg +%d%%	Increase Wizardry Dmg +%d%%	
-src/source/Engine/Object/ZzzInventory.cpp	1210	IncreaseAttackingWizardrySpeedD	Increase Attacking(Wizardry)speed +%d	Increase Attacking(Wizardry)speed +%d	
-src/source/Engine/Object/ZzzInventory.cpp	1213	IncreasesAcquisitionRateOfLifeAfterHuntingMonstersLife8	Increases acquisition rate of Life after hunting monsters +life/8	Increases acquisition rate of Life after hunting monsters +life/8	
-src/source/Engine/Object/ZzzInventory.cpp	1216	IncreasesAcquisitionRateOfManaAfterHuntingMonstersMana8	Increases acquisition rate of Mana after hunting monsters +Mana/8	Increases acquisition rate of Mana after hunting monsters +Mana/8	
+src/source/Engine/Object/ZzzInventory.cpp	1176	IncreaseMaxHP4	Increase Max HP +4%%	Increase Max HP +4%%	最大生命值增加4%%
+src/source/Engine/Object/ZzzInventory.cpp	1179	IncreaseMaxMana4	Increase Max Mana +4%%	Increase Max Mana +4%%	最大魔法值增加4%%
+src/source/Engine/Object/ZzzInventory.cpp	1182	DamageDecrease4	Damage Decrease +4%%	Damage Decrease +4%%	伤害减少4%%
+src/source/Engine/Object/ZzzInventory.cpp	1186	ReflectDamage5	Reflect Damage +5%%	Reflect Damage +5%%	反射伤害5%%
+src/source/Engine/Object/ZzzInventory.cpp	1189	DefenseSuccessRate10	Defense success rate +10%%	Defense success rate +10%%	防御成功率增加10%%
+src/source/Engine/Object/ZzzInventory.cpp	1192	IncreasesAcquisitionRateOfZenAfterHuntingMonsters30	Increases acquisition rate of Zen after hunting monsters +30%%	Increases acquisition rate of Zen after hunting monsters +30%%	打怪获得金币增加30%%
+src/source/Engine/Object/ZzzInventory.cpp	1195	ExcellentDamageRate10	Excellent Damage rate +10%%	Excellent Damage rate +10%%	卓越一击几率增加10%%
+src/source/Engine/Object/ZzzInventory.cpp	1198	IncreaseDamageLevel20	Increase Damage +level/20	Increase Damage +level/20	攻击力增加+level/20
+src/source/Engine/Object/ZzzInventory.cpp	1201	IncreaseDamageD	Increase Damage +%d%%	Increase Damage +%d%%	攻击力增加%d%%
+src/source/Engine/Object/ZzzInventory.cpp	1204	IncreaseWizardryDmgLevel20	Increase Wizardry Dmg +level/20	Increase Wizardry Dmg +level/20	魔法攻击力增加+level/20
+src/source/Engine/Object/ZzzInventory.cpp	1207	IncreaseWizardryDmgD	Increase Wizardry Dmg +%d%%	Increase Wizardry Dmg +%d%%	魔法攻击力增加%d%%
+src/source/Engine/Object/ZzzInventory.cpp	1210	IncreaseAttackingWizardrySpeedD	Increase Attacking(Wizardry)speed +%d	Increase Attacking(Wizardry)speed +%d	攻击（施法）速度增加%d
+src/source/Engine/Object/ZzzInventory.cpp	1213	IncreasesAcquisitionRateOfLifeAfterHuntingMonstersLife8	Increases acquisition rate of Life after hunting monsters +life/8	Increases acquisition rate of Life after hunting monsters +life/8	打怪恢复生命+life/8
+src/source/Engine/Object/ZzzInventory.cpp	1216	IncreasesAcquisitionRateOfManaAfterHuntingMonstersMana8	Increases acquisition rate of Mana after hunting monsters +Mana/8	Increases acquisition rate of Mana after hunting monsters +Mana/8	打怪恢复魔法+Mana/8
 src/source/Engine/Object/ZzzInventory.cpp	1219	Parrying10Increased	Parrying 10%% increased	Parrying 10%% increased	
 src/source/Engine/Object/ZzzInventory.cpp	1223	RaidSkillManaD	Raid Skill (Mana:%d)	Raid Skill (Mana:%d)	
 src/source/Engine/Object/ZzzInventory.cpp	1227	LongSpearSkillManaD	Long spear skill (mana:%d)	Long spear skill (mana:%d)	
@@ -286,7 +286,7 @@ src/source/Engine/Object/ZzzInventory.cpp	1463	BloodySummoner	Bloody Summoner	Bl
 src/source/Engine/Object/ZzzInventory.cpp	1463	DimensionMaster	Dimension Master	Dimension Master	召唤巫师
 src/source/Engine/Object/ZzzInventory.cpp	1465	RageFighter	Rage Fighter	Rage Fighter	格斗家
 src/source/Engine/Object/ZzzInventory.cpp	1465	FistMaster	Fist Master	Fist Master	格斗大师
-src/source/Engine/Object/ZzzInventory.cpp	1633	Excellent	Excellent	Excellent	
+src/source/Engine/Object/ZzzInventory.cpp	1633	Excellent	Excellent	Excellent	卓越
 src/source/Engine/Object/ZzzInventory.cpp	1827	PurchasingPriceSS	Purchasing price: %s(%s)	Purchasing price: %s(%s)	购买价格：%s（%s）
 src/source/Engine/Object/ZzzInventory.cpp	1832	SellingPriceS	Selling Price: %s	Selling Price: %s	出售价格：%s
 src/source/Engine/Object/ZzzInventory.cpp	1857	SellingPriceS	Selling Price: %s	Selling Price: %s	出售价格：%s
@@ -306,7 +306,7 @@ src/source/Engine/Object/ZzzInventory.cpp	1981	TransformIntoAMirrorOfDimensions	
 src/source/Engine/Object/ZzzInventory.cpp	1988	DD	%d / %d	%d / %d	
 src/source/Engine/Object/ZzzInventory.cpp	1992	YouNeedDMoreToCreateAMirrorOfDimensions	You need %d more to create a Mirror of Dimensions.	You need %d more to create a Mirror of Dimensions.	
 src/source/Engine/Object/ZzzInventory.cpp	2015	ChaosCastle	Chaos Castle	Chaos Castle	赤色要塞
-src/source/Engine/Object/ZzzInventory.cpp	2015	Level	Level	Level	
+src/source/Engine/Object/ZzzInventory.cpp	2015	Level	Level	Level	等级
 src/source/Engine/Object/ZzzInventory.cpp	2015	MinLevel	Min. Level	Min. Level	
 src/source/Engine/Object/ZzzInventory.cpp	2015	Cost	Cost	Cost	费用
 src/source/Engine/Object/ZzzInventory.cpp	2032	MasterLevel	Master Level	Master Level	
@@ -328,7 +328,7 @@ src/source/Engine/Object/ZzzInventory.cpp	2238	AddedDWizardry	Added %d Wizardry	
 src/source/Engine/Object/ZzzInventory.cpp	2243	GoldenFenrir	Golden Fenrir	Golden Fenrir	
 src/source/Engine/Object/ZzzInventory.cpp	2246	ExclusiveEditionOnlyGivenToMUHeroes	Exclusive edition only given to MU Heroes	Exclusive edition only given to MU Heroes	
 src/source/Engine/Object/ZzzInventory.cpp	2253	CanSummonTheFenrirWhenEquipped	Can summon the Fenrir when equipped.	Can summon the Fenrir when equipped.	
-src/source/Engine/Object/ZzzInventory.cpp	2259	SkillsWillImproveThroughUpgrading	Skills will improve through upgrading.	Skills will improve through upgrading.	
+src/source/Engine/Object/ZzzInventory.cpp	2259	SkillsWillImproveThroughUpgrading	Skills will improve through upgrading.	Skills will improve through upgrading.	升级后可提升技能效果。
 src/source/Engine/Object/ZzzInventory.cpp	2271	InUse	(in use)	(in use)	
 src/source/Engine/Object/ZzzInventory.cpp	2283	FigurineItem	Figurine item	Figurine item	
 src/source/Engine/Object/ZzzInventory.cpp	2286	RelicItem	Relic item	Relic item	
@@ -344,7 +344,7 @@ src/source/Engine/Object/ZzzInventory.cpp	2354	MaximumSPIncreaseD	Maximum SP inc
 src/source/Engine/Object/ZzzInventory.cpp	2356	MaximumSPIncreaseD	Maximum SP increase +%d	Maximum SP increase +%d	
 src/source/Engine/Object/ZzzInventory.cpp	2363	MaximumMPIncreaseD	Maximum MP increase +%d	Maximum MP increase +%d	
 src/source/Engine/Object/ZzzInventory.cpp	2367	MaximumAGIncreaseD	Maximum AG increase +%d	Maximum AG increase +%d	
-src/source/Engine/Object/ZzzInventory.cpp	2380	RightClickOnYourInventoryToUse	Right click on your inventory to use.	Right click on your inventory to use.	
+src/source/Engine/Object/ZzzInventory.cpp	2380	RightClickOnYourInventoryToUse	Right click on your inventory to use.	Right click on your inventory to use.	在背包中右键点击即可使用。
 src/source/Engine/Object/ZzzInventory.cpp	2541	RepairingCostS	Repairing cost: %s	Repairing cost: %s	修理费用：%s
 src/source/Engine/Object/ZzzInventory.cpp	2548	RepairingCostS	Repairing cost: %s	Repairing cost: %s	修理费用：%s
 src/source/Engine/Object/ZzzInventory.cpp	2568	DurabilityDD	Durability: [%d/%d]	Durability: [%d/%d]	耐久：[%d/%d]
@@ -371,9 +371,9 @@ src/source/GameLogic/Buffs/w_BuffTimeControl.cpp	217	Minute	Minute	Minute
 src/source/GameLogic/Buffs/w_BuffTimeControl.cpp	222	Hour	Hour	Hour	
 src/source/GameLogic/Buffs/w_BuffTimeControl.cpp	222	Minute	Minute	Minute	
 src/source/GameLogic/Buffs/w_BuffTimeControl.cpp	227	Minute	Minute	Minute	
-src/source/GameLogic/Events/CSEventMatch.cpp	34	YouWillEnterDevilSquareDSecondsFromNow	You will enter Devil Square (%d seconds from now)	You will enter Devil Square (%d seconds from now)	
-src/source/GameLogic/Events/CSEventMatch.cpp	35	TheGateOfDevilSquareWillCloseDownInDSeconds	The gate of Devil Square will close down in %d seconds	The gate of Devil Square will close down in %d seconds	
-src/source/GameLogic/Events/CSEventMatch.cpp	36	TheGateOfDevilSquareIsClosingDownDSecondsRemaining	The gate of Devil Square is closing down (%d seconds remaining)	The gate of Devil Square is closing down (%d seconds remaining)	
+src/source/GameLogic/Events/CSEventMatch.cpp	34	YouWillEnterDevilSquareDSecondsFromNow	You will enter Devil Square (%d seconds from now)	You will enter Devil Square (%d seconds from now)	将在%d秒后进入恶魔广场
+src/source/GameLogic/Events/CSEventMatch.cpp	35	TheGateOfDevilSquareWillCloseDownInDSeconds	The gate of Devil Square will close down in %d seconds	The gate of Devil Square will close down in %d seconds	恶魔广场入口将在%d秒后关闭
+src/source/GameLogic/Events/CSEventMatch.cpp	36	TheGateOfDevilSquareIsClosingDownDSecondsRemaining	The gate of Devil Square is closing down (%d seconds remaining)	The gate of Devil Square is closing down (%d seconds remaining)	恶魔广场即将关闭（剩余%d秒）
 src/source/GameLogic/Events/CSEventMatch.cpp	39	SClosingInDSeconds	%s Closing (in %d seconds)	%s Closing (in %d seconds)	
 src/source/GameLogic/Events/CSEventMatch.cpp	40	SInfiltrationInDSeconds	%s Infiltration (in %d seconds)	%s Infiltration (in %d seconds)	
 src/source/GameLogic/Events/CSEventMatch.cpp	41	SEventEndsInDSeconds	%s Event ends (in %d seconds)	%s Event ends (in %d seconds)	
@@ -388,11 +388,11 @@ src/source/GameLogic/Events/CSEventMatch.cpp	55	EntranceToDoppelgangerWillCloseI
 src/source/GameLogic/Events/CSEventMatch.cpp	56	DoppelgangerWillBeginInDSeconds	Doppelganger will begin in %d seconds.	Doppelganger will begin in %d seconds.	
 src/source/GameLogic/Events/CSEventMatch.cpp	57	DSecondsLeftToEliminateIceWalker	%d seconds left to eliminate Ice Walker.	%d seconds left to eliminate Ice Walker.	
 src/source/GameLogic/Events/CSEventMatch.cpp	58	DSecondsLeftUntilTheEndOfDoppelganger	%d seconds left until the end of Doppelganger.	%d seconds left until the end of Doppelganger.	
-src/source/GameLogic/Events/CSEventMatch.cpp	87	Congratulations	Congratulations!	Congratulations!	
+src/source/GameLogic/Events/CSEventMatch.cpp	87	Congratulations	Congratulations!	Congratulations!	恭喜！
 src/source/GameLogic/Events/CSEventMatch.cpp	181	BloodCastle	Blood Castle	Blood Castle	血色城堡
 src/source/GameLogic/Events/CSEventMatch.cpp	185	ChaosCastle	Chaos Castle	Chaos Castle	赤色要塞
-src/source/GameLogic/Events/CSEventMatch.cpp	229	Congratulations	Congratulations!	Congratulations!	
-src/source/GameLogic/Events/CSEventMatch.cpp	230	SYourBraveryIsProvenInDevilSquare	%s, Your bravery is proven in Devil Square.	%s, Your bravery is proven in Devil Square.	
+src/source/GameLogic/Events/CSEventMatch.cpp	229	Congratulations	Congratulations!	Congratulations!	恭喜！
+src/source/GameLogic/Events/CSEventMatch.cpp	230	SYourBraveryIsProvenInDevilSquare	%s, Your bravery is proven in Devil Square.	%s, Your bravery is proven in Devil Square.	%s，你已在恶魔广场证明了自己的勇气。
 src/source/GameLogic/Events/CSEventMatch.cpp	237	Rank	Rank	Rank	
 src/source/GameLogic/Events/CSEventMatch.cpp	237	Point	point	point	
 src/source/GameLogic/Events/CSEventMatch.cpp	238	EXP	EXP	EXP	
@@ -401,14 +401,14 @@ src/source/GameLogic/Events/CSEventMatch.cpp	269	MyInfo	My Info	My Info
 src/source/GameLogic/Events/Event.cpp	165	SantaClause	Santa Clause	Santa Clause	
 src/source/GameLogic/Events/Event.cpp	168	Rudolf	Rudolf	Rudolf	
 src/source/GameLogic/Events/Event.cpp	171	Snowman	Snowman	Snowman	
-src/source/GameLogic/Events/NewBloodCastleSystem.cpp	135	BloodCastleQuestCompleted	BloodCastleQuestCompleted	Congratulations! You have successfully completed the Blood Castle Quest!	
-src/source/GameLogic/Events/NewBloodCastleSystem.cpp	135	BloodCastleQuestFailed	BloodCastleQuestFailed	Unfortunately, you have failed to complete the Blood Castle Quest.	
+src/source/GameLogic/Events/NewBloodCastleSystem.cpp	135	BloodCastleQuestCompleted	BloodCastleQuestCompleted	Congratulations! You have successfully completed the Blood Castle Quest!	恭喜！你已成功完成血色城堡任务！
+src/source/GameLogic/Events/NewBloodCastleSystem.cpp	135	BloodCastleQuestFailed	BloodCastleQuestFailed	Unfortunately, you have failed to complete the Blood Castle Quest.	很遗憾，你未能完成血色城堡任务。
 src/source/GameLogic/Events/NewBloodCastleSystem.cpp	140	RewardedExpD	Rewarded Exp: %d	Rewarded Exp: %d	
 src/source/GameLogic/Events/NewBloodCastleSystem.cpp	145	RewardedZenD	Rewarded Zen: %d	Rewarded Zen: %d	
 src/source/GameLogic/Events/NewBloodCastleSystem.cpp	149	BloodCastlePointD	Blood Castle Point: %d	Blood Castle Point: %d	
 src/source/GameLogic/Events/NewChaosCastleSystem.cpp	181	TheSpiritOfTheGuardHasBeenPurified	The spirit of the guard has been purified	The spirit of the guard has been purified	
-src/source/GameLogic/Events/NewChaosCastleSystem.cpp	182	QuestCompletedSuccessfully	QuestCompletedSuccessfully	You have successfully completed the quest.	
-src/source/GameLogic/Events/NewChaosCastleSystem.cpp	186	QuestFailedUnfortunately	QuestFailedUnfortunately	Unfortunately, you have failed the quest.	
+src/source/GameLogic/Events/NewChaosCastleSystem.cpp	182	QuestCompletedSuccessfully	QuestCompletedSuccessfully	You have successfully completed the quest.	任务已成功完成。
+src/source/GameLogic/Events/NewChaosCastleSystem.cpp	186	QuestFailedUnfortunately	QuestFailedUnfortunately	Unfortunately, you have failed the quest.	很遗憾，任务失败。
 src/source/GameLogic/Events/NewChaosCastleSystem.cpp	187	TryAgainNextTime	Try again next time	Try again next time	
 src/source/GameLogic/Events/NewChaosCastleSystem.cpp	193	RewardedExpD	Rewarded Exp: %d	Rewarded Exp: %d	
 src/source/GameLogic/Events/NewChaosCastleSystem.cpp	196	MonsterKillCountD	Monster Kill count: %d	Monster Kill count: %d	
@@ -438,7 +438,7 @@ src/source/GameLogic/Items/CSItemOption.cpp	60	IncreaseStaminaD	Increase stamina
 src/source/GameLogic/Items/CSItemOption.cpp	61	IncreaseCommandD	Increase command +%d	Increase command +%d	
 src/source/GameLogic/Items/CSItemOption.cpp	62	IncreaseMinDamageD	Increase min. damage +%d	Increase min. damage +%d	
 src/source/GameLogic/Items/CSItemOption.cpp	63	IncreaseMaxDamageD	Increase max. damage +%d	Increase max. damage +%d	
-src/source/GameLogic/Items/CSItemOption.cpp	64	IncreaseWizardryDmgD	Increase Wizardry Dmg +%d%%	Increase Wizardry Dmg +%d%%	
+src/source/GameLogic/Items/CSItemOption.cpp	64	IncreaseWizardryDmgD	Increase Wizardry Dmg +%d%%	Increase Wizardry Dmg +%d%%	魔法攻击力增加%d%%
 src/source/GameLogic/Items/CSItemOption.cpp	66	IncreaseDamageD957	IncreaseDamageD957	Increase damage +%d	
 src/source/GameLogic/Items/CSItemOption.cpp	67	IncreaseDamageSuccessRateD	Increase damage success rate +%d	Increase damage success rate +%d	
 src/source/GameLogic/Items/CSItemOption.cpp	68	IncreaseDefensiveSkillD	Increase defensive skill +%d	Increase defensive skill +%d	
@@ -476,29 +476,29 @@ src/source/GameLogic/Items/CSItemOptionHelperText.cpp	38	ItemOptionInfo	Item opt
 src/source/GameLogic/Items/ItemAddOptioninfo.cpp	79	AttackSucessRateIncreaseD	Attack sucess rate increase +%d	Attack sucess rate increase +%d	
 src/source/GameLogic/Items/ItemAddOptioninfo.cpp	81	AdditionalDamageD	Additional Damage +%d	Additional Damage +%d	
 src/source/GameLogic/Items/ItemAddOptioninfo.cpp	83	DefenseSuccessRateIncreaseD	Defense success rate increase +%d	Defense success rate increase +%d	
-src/source/GameLogic/Items/ItemAddOptioninfo.cpp	85	DefensiveSkillD	Defensive skill +%d	Defensive skill +%d	
+src/source/GameLogic/Items/ItemAddOptioninfo.cpp	85	DefensiveSkillD	Defensive skill +%d	Defensive skill +%d	防御技能+%d
 src/source/GameLogic/Items/ItemAddOptioninfo.cpp	87	MaxHPIncreaseD	Max. HP increase +%d	Max. HP increase +%d	
 src/source/GameLogic/Items/ItemAddOptioninfo.cpp	89	MaxSDIncreaseD	Max. SD increase +%d	Max. SD increase +%d	
 src/source/GameLogic/Items/ItemAddOptioninfo.cpp	91	SDAutoRecovery	SD auto recovery	SD auto recovery	
 src/source/GameLogic/Items/ItemAddOptioninfo.cpp	93	SDRecoveryRateIncreaseD	SD recovery rate increase +%d%%	SD recovery rate increase +%d%%	
-src/source/GameLogic/Items/MixMgr.cpp	34	InCaseYouFailOn	in case you fail on	in case you fail on	
-src/source/GameLogic/Items/MixMgr.cpp	35	PleaseNoteThat	Please note that	Please note that	
-src/source/GameLogic/Items/MixMgr.cpp	36	TheLevelOfItemsDecreases	the level of items decreases	the level of items decreases	
-src/source/GameLogic/Items/MixMgr.cpp	37	ItemLevelsMustBeIdenticalToCombineItemsAreOfTheSameLevel	Item levels must be identical to combine. items are of the same Level	Item levels must be identical to combine. items are of the same Level	
-src/source/GameLogic/Items/MixMgr.cpp	38	CreateATicketOfDevilSquare	create a ticket of Devil Square	create a ticket of Devil Square	
-src/source/GameLogic/Items/MixMgr.cpp	39	Create10Item	Create +10 item	Create +10 item	
-src/source/GameLogic/Items/MixMgr.cpp	40	Create11Item	Create +11 item	Create +11 item	
-src/source/GameLogic/Items/MixMgr.cpp	41	DuringCreationOf1015Items	During creation of +10 ~ +15 items,	During creation of +10 ~ +15 items,	
-src/source/GameLogic/Items/MixMgr.cpp	42	NoticeThatThereIsAPossibility	notice that there is a possibility	notice that there is a possibility	
-src/source/GameLogic/Items/MixMgr.cpp	43	ThatYouMayLoseTheItems	that you may lose the items.	that you may lose the items.	
-src/source/GameLogic/Items/MixMgr.cpp	44	NoticeThatWhenYouFailToCombineTheItems	Notice that when you fail to combine the items	Notice that when you fail to combine the items	
-src/source/GameLogic/Items/MixMgr.cpp	45	YouCanLoseTheItems	you can lose the items	you can lose the items	
-src/source/GameLogic/Items/MixMgr.cpp	46	CreateDinorant	Create Dinorant	Create Dinorant	
-src/source/GameLogic/Items/MixMgr.cpp	47	CreateFruit	Create Fruit	Create Fruit	
-src/source/GameLogic/Items/MixMgr.cpp	48	CreateWings	Create Wings	Create Wings	
-src/source/GameLogic/Items/MixMgr.cpp	49	CreateCloakOfInvisibility	Create cloak of Invisibility	Create cloak of Invisibility	
-src/source/GameLogic/Items/MixMgr.cpp	50	_12ItemCreation	+12 Item creation	+12 Item creation	
-src/source/GameLogic/Items/MixMgr.cpp	51	_13ItemCreation	+13 Item creation	+13 Item creation	
+src/source/GameLogic/Items/MixMgr.cpp	34	InCaseYouFailOn	in case you fail on	in case you fail on	如果失败，
+src/source/GameLogic/Items/MixMgr.cpp	35	PleaseNoteThat	Please note that	Please note that	请注意
+src/source/GameLogic/Items/MixMgr.cpp	36	TheLevelOfItemsDecreases	the level of items decreases	the level of items decreases	物品等级会降低
+src/source/GameLogic/Items/MixMgr.cpp	37	ItemLevelsMustBeIdenticalToCombineItemsAreOfTheSameLevel	Item levels must be identical to combine. items are of the same Level	Item levels must be identical to combine. items are of the same Level	用于合成的物品等级必须相同
+src/source/GameLogic/Items/MixMgr.cpp	38	CreateATicketOfDevilSquare	create a ticket of Devil Square	create a ticket of Devil Square	合成恶魔广场通行证
+src/source/GameLogic/Items/MixMgr.cpp	39	Create10Item	Create +10 item	Create +10 item	合成+10物品
+src/source/GameLogic/Items/MixMgr.cpp	40	Create11Item	Create +11 item	Create +11 item	合成+11物品
+src/source/GameLogic/Items/MixMgr.cpp	41	DuringCreationOf1015Items	During creation of +10 ~ +15 items,	During creation of +10 ~ +15 items,	合成+10～+15物品时，
+src/source/GameLogic/Items/MixMgr.cpp	42	NoticeThatThereIsAPossibility	notice that there is a possibility	notice that there is a possibility	请注意，可能会
+src/source/GameLogic/Items/MixMgr.cpp	43	ThatYouMayLoseTheItems	that you may lose the items.	that you may lose the items.	失去合成物品。
+src/source/GameLogic/Items/MixMgr.cpp	44	NoticeThatWhenYouFailToCombineTheItems	Notice that when you fail to combine the items	Notice that when you fail to combine the items	请注意，合成失败时
+src/source/GameLogic/Items/MixMgr.cpp	45	YouCanLoseTheItems	you can lose the items	you can lose the items	可能会失去物品
+src/source/GameLogic/Items/MixMgr.cpp	46	CreateDinorant	Create Dinorant	Create Dinorant	合成彩云兽
+src/source/GameLogic/Items/MixMgr.cpp	47	CreateFruit	Create Fruit	Create Fruit	合成果实
+src/source/GameLogic/Items/MixMgr.cpp	48	CreateWings	Create Wings	Create Wings	合成翅膀
+src/source/GameLogic/Items/MixMgr.cpp	49	CreateCloakOfInvisibility	Create cloak of Invisibility	Create cloak of Invisibility	合成透明披风
+src/source/GameLogic/Items/MixMgr.cpp	50	_12ItemCreation	+12 Item creation	+12 Item creation	合成+12物品
+src/source/GameLogic/Items/MixMgr.cpp	51	_13ItemCreation	+13 Item creation	+13 Item creation	合成+13物品
 src/source/GameLogic/Items/MixMgr.cpp	52	ChaosWeaponCombination	Chaos Weapon Combination	Chaos Weapon Combination	玛雅物品合成
 src/source/GameLogic/Items/MixMgr.cpp	53	CreateCloakItem	Create cloak item	Create cloak item	
 src/source/GameLogic/Items/MixMgr.cpp	54	DarkHorse	Dark horse	Dark horse	黑王马
@@ -579,7 +579,7 @@ src/source/GameLogic/Items/MixMgr.cpp	845	MixCount	MixCount	x%d
 src/source/GameLogic/Items/MixMgr.cpp	847	MixCountAtMost	MixCountAtMost	x%d or fewer	
 src/source/GameLogic/Items/MixMgr.cpp	849	MixCountAtLeast	MixCountAtLeast	x%d or more	
 src/source/GameLogic/Items/MixMgr.cpp	851	MixCountRange	MixCountRange	x%d~%d	
-src/source/GameLogic/Items/MixMgr.cpp	857	Excellent	Excellent	Excellent	
+src/source/GameLogic/Items/MixMgr.cpp	857	Excellent	Excellent	Excellent	卓越
 src/source/GameLogic/Items/MixMgr.cpp	862	Set	Set	Set	
 src/source/GameLogic/Items/MixMgr.cpp	867	Improve	Improve	Improve	
 src/source/GameLogic/Items/MixMgr.cpp	872	Socket	Socket	Socket	
@@ -600,10 +600,10 @@ src/source/GameLogic/NPCs/npcBreeder.cpp	84	SZenIsRequiredToRecoverLife	%s zen i
 src/source/GameLogic/NPCs/PlayerNpcChat.cpp	17	RegisterTheLuckyNumberOnThe100WinningCard	Register the lucky number on the 100%% winning card.	Register the lucky number on the 100%% winning card.	
 src/source/GameLogic/NPCs/PlayerNpcChat.cpp	18	PleaseCheckOutTheAnnouncementOn	PleaseCheckOutTheAnnouncementOn	Please check out the announcement on the official website on how to receive a 100%% winning card.	
 src/source/GameLogic/NPCs/PlayerNpcChat.cpp	21	CollectingStonesPleaseGiveMeStonesThatYouVeAcquired	Collecting Stones. Please give me stones that you've acquired!	Collecting Stones. Please give me stones that you've acquired!	
-src/source/GameLogic/Pets/GIPetManager.cpp	52	BasicAction	Basic action	Basic action	
-src/source/GameLogic/Pets/GIPetManager.cpp	53	RandomAutomaticAttack	Random automatic attack	Random automatic attack	
-src/source/GameLogic/Pets/GIPetManager.cpp	54	AttackWithOwner	Attack with owner	Attack with owner	
-src/source/GameLogic/Pets/GIPetManager.cpp	55	AttackTarget	Attack target	Attack target	
+src/source/GameLogic/Pets/GIPetManager.cpp	52	BasicAction	Basic action	Basic action	基本动作
+src/source/GameLogic/Pets/GIPetManager.cpp	53	RandomAutomaticAttack	Random automatic attack	Random automatic attack	自动攻击
+src/source/GameLogic/Pets/GIPetManager.cpp	54	AttackWithOwner	Attack with owner	Attack with owner	协同攻击
+src/source/GameLogic/Pets/GIPetManager.cpp	55	AttackTarget	Attack target	Attack target	攻击目标
 src/source/GameLogic/Pets/GIPetManager.cpp	406	FollowAroundTheCharacter	Follow around the character.	Follow around the character.	
 src/source/GameLogic/Pets/GIPetManager.cpp	407	AttackAnyMonstersAroundTheCharacter	Attack any monsters around the character.	Attack any monsters around the character.	
 src/source/GameLogic/Pets/GIPetManager.cpp	408	AttackTheMonsterTogetherWithTheCharacter	Attack the monster together with the character.	Attack the monster together with the character.	
@@ -615,7 +615,7 @@ src/source/GameLogic/Pets/GIPetManager.cpp	708	RightClickForPriceSetting	Right c
 src/source/GameLogic/Pets/GIPetManager.cpp	716	DarkHorse	Dark horse	Dark horse	黑王马
 src/source/GameLogic/Pets/GIPetManager.cpp	721	DarkRaven	Dark Raven	Dark Raven	天鹰
 src/source/GameLogic/Pets/GIPetManager.cpp	727	ExpUU	Exp : %u/%u	Exp : %u/%u	经验：%u/%u
-src/source/GameLogic/Pets/GIPetManager.cpp	728	Level	Level	Level	
+src/source/GameLogic/Pets/GIPetManager.cpp	728	Level	Level	Level	等级
 src/source/GameLogic/Pets/GIPetManager.cpp	732	DmgRateDDD	Dmg(rate): %d~%d (%d)	Dmg(rate): %d~%d (%d)	攻击力（成功率）：%d~%d（%d）
 src/source/GameLogic/Pets/GIPetManager.cpp	733	AttackSpeedD	Attack speed: %d	Attack speed: %d	攻击速度：%d
 src/source/GameLogic/Pets/GIPetManager.cpp	735	LifeD	Life: %d	Life: %d	生命值：%d
@@ -626,8 +626,8 @@ src/source/GameLogic/Pets/GIPetManager.cpp	758	LackingD	(lacking %d)	(lacking %d
 src/source/GameLogic/Pets/GIPetManager.cpp	765	DarkLord	Dark Lord	Dark Lord	圣导师
 src/source/GameLogic/Pets/GIPetManager.cpp	795	AbsorbDAdditionalDamage	Absorb %d%% additional damage	Absorb %d%% additional damage	
 src/source/GameLogic/Pets/GIPetManager.cpp	796	IncreaseDPossibleAttackDistance	Increase %d possible attack distance	Increase %d possible attack distance	
-src/source/GameLogic/Quests/CSQuest.cpp	600	ConversationIsOver	Conversation is over	Conversation is over	
-src/source/GameLogic/Quests/QuestMng.cpp	283	YouVeSuccessfullyCompletedTheQuest	You've successfully completed the quest.	You've successfully completed the quest.	
+src/source/GameLogic/Quests/CSQuest.cpp	600	ConversationIsOver	Conversation is over	Conversation is over	对话结束
+src/source/GameLogic/Quests/QuestMng.cpp	283	YouVeSuccessfullyCompletedTheQuest	You've successfully completed the quest.	You've successfully completed the quest.	任务已完成。
 src/source/GameLogic/Quests/QuestMng.cpp	468	None	None	None	
 src/source/GameLogic/Quests/QuestMng.cpp	472	QuestRewardExp	QuestRewardExp	Exp.: %lu	
 src/source/GameLogic/Quests/QuestMng.cpp	476	QuestRewardZen	QuestRewardZen	Zen: %lu	
@@ -650,7 +650,7 @@ src/source/GameLogic/Quests/QuestMng.cpp	598	QuestRequirementLevel	QuestRequirem
 src/source/GameLogic/Quests/QuestMng.cpp	602	QuestRequirementZen	QuestRequirementZen	Zen: %lu	
 src/source/GameLogic/Quests/QuestMng.cpp	607	EnemyGensMemberXLuLu	Enemy Gens Member x %lu/%lu	Enemy Gens Member x %lu/%lu	
 src/source/GameLogic/Quests/QuestMng.cpp	630	QuestRequirementMonster	QuestRequirementMonster	Mon.: %ls x %lu/%lu	
-src/source/GameLogic/Quests/QuestMng.cpp	650	QuestRequirementSkill	QuestRequirementSkill	Skill: %ls	
+src/source/GameLogic/Quests/QuestMng.cpp	650	QuestRequirementSkill	QuestRequirementSkill	Skill: %ls	技能：%ls
 src/source/GameLogic/Quests/QuestMng.cpp	668	QuestRequirementItem	QuestRequirementItem	Item: %ls x %lu/%lu	
 src/source/GameLogic/Quests/QuestMng.cpp	683	QuestRequirementLevel	QuestRequirementLevel	Level: %lu or higher	
 src/source/GameLogic/Quests/QuestMng.cpp	704	OpenCharacterStatsCWindow	Open Character Stats (C) Window	Open Character Stats (C) Window	
@@ -666,7 +666,7 @@ src/source/GameShop/InGameShop.cpp	260	MyWCoinS	My W Coin : %s	My W Coin : %s
 src/source/GameShop/InGameShop.cpp	261	MyWCoinPS	My W Coin(P) : %s	My W Coin(P) : %s	
 src/source/GameShop/InGameShop.cpp	262	GoblinPointsS	Goblin Points : %s	Goblin Points : %s	
 src/source/GameShop/InGameShop.cpp	296	Storage	Storage	Storage	仓库
-src/source/GameShop/InGameShop.cpp	296	GiftInventory	Gift Inventory	Gift Inventory	
+src/source/GameShop/InGameShop.cpp	296	GiftInventory	Gift Inventory	Gift Inventory	礼品箱
 src/source/GameShop/InGameShop.cpp	301	Buy1124	Buy1124	Buy	
 src/source/GameShop/InGameShop.cpp	302	SendWCoin	Send W Coin	Send W Coin	
 src/source/GameShop/InGameShop.cpp	303	RechargeWCoin	Recharge W Coin	Recharge W Coin	
@@ -678,11 +678,11 @@ src/source/GameShop/InGameShop.cpp	308	Duration	Duration	Duration
 src/source/GameShop/InGameShop.cpp	434	Error	Error	Error	错误
 src/source/GameShop/InGameShop.cpp	434	ThereIsNoUsableItem	There is no usable item.	There is no usable item.	
 src/source/GameShop/InGameShop.cpp	521	Error	Error	Error	错误
-src/source/GameShop/InGameShop.cpp	521	YouCanOnlyOpenMUItemShopInATownOrSafeZone	You can only open MU Item Shop in a town or safe zone.	You can only open MU Item Shop in a town or safe zone.	
-src/source/GameShop/InGameShop.cpp	522	YouCanOnlyOpenMUItemShopInATownOrSafeZone	You can only open MU Item Shop in a town or safe zone.	You can only open MU Item Shop in a town or safe zone.	
+src/source/GameShop/InGameShop.cpp	521	YouCanOnlyOpenMUItemShopInATownOrSafeZone	You can only open MU Item Shop in a town or safe zone.	You can only open MU Item Shop in a town or safe zone.	只能在城镇或安全区域打开游戏商城。
+src/source/GameShop/InGameShop.cpp	522	YouCanOnlyOpenMUItemShopInATownOrSafeZone	You can only open MU Item Shop in a town or safe zone.	You can only open MU Item Shop in a town or safe zone.	只能在城镇或安全区域打开游戏商城。
 src/source/GameShop/InGameShop.cpp	528	Error	Error	Error	错误
-src/source/GameShop/InGameShop.cpp	528	CannotOpenMUItemShopPleaseReconnectToTheGame	Cannot open MU Item Shop.#Please reconnect to the game.	Cannot open MU Item Shop.#Please reconnect to the game.	
-src/source/GameShop/InGameShop.cpp	529	CannotOpenMUItemShopPleaseReconnectToTheGame	Cannot open MU Item Shop.#Please reconnect to the game.	Cannot open MU Item Shop.#Please reconnect to the game.	
+src/source/GameShop/InGameShop.cpp	528	CannotOpenMUItemShopPleaseReconnectToTheGame	Cannot open MU Item Shop.#Please reconnect to the game.	Cannot open MU Item Shop.#Please reconnect to the game.	无法打开游戏商城。#请重新连接游戏。
+src/source/GameShop/InGameShop.cpp	529	CannotOpenMUItemShopPleaseReconnectToTheGame	Cannot open MU Item Shop.#Please reconnect to the game.	Cannot open MU Item Shop.#Please reconnect to the game.	无法打开游戏商城。#请重新连接游戏。
 src/source/GameShop/InGameShop.cpp	639	WCoinSCoins	W Coin: %s Coins	W Coin: %s Coins	
 src/source/GameShop/InGameShop.cpp	642	SWCoin	%s W Coin	%s W Coin	
 src/source/GameShop/InGameShopSystem.cpp	145	MUItemShopInformationDownloadFailed	MUItemShopInformationDownloadFailed	MU Item Shop information download failed!##Please reconnect to the game.#Version %d.%d.%d#%s	
@@ -704,11 +704,11 @@ src/source/GameShop/MsgBoxIGSBuyConfirm.cpp	22	DurationS	Duration: %s	Duration: 
 src/source/GameShop/MsgBoxIGSBuyConfirm.cpp	26	PurchaseConfirmation	Purchase Confirmation	Purchase Confirmation	
 src/source/GameShop/MsgBoxIGSBuyConfirm.cpp	28	DoYouWishToBuyTheFollowingItemS	Do you wish to buy the following item(s)?	Do you wish to buy the following item(s)?	
 src/source/GameShop/MsgBoxIGSBuyConfirm.cpp	32	BoughtItemsUsedOrTakenOutOfStorageCannotBeReturned	Bought items used or taken out of storage cannot be returned.	Bought items used or taken out of storage cannot be returned.	
-src/source/GameShop/MsgBoxIGSBuyPackageItem.cpp	202	Shop	Shop	Shop	
+src/source/GameShop/MsgBoxIGSBuyPackageItem.cpp	202	Shop	Shop	Shop	商店
 src/source/GameShop/MsgBoxIGSBuyPackageItem.cpp	213	Buy1124	Buy1124	Buy	
 src/source/GameShop/MsgBoxIGSBuyPackageItem.cpp	214	Gift	Gift	Gift	
 src/source/GameShop/MsgBoxIGSBuyPackageItem.cpp	215	Cancel	Cancel	Cancel	取消
-src/source/GameShop/MsgBoxIGSBuySelectItem.cpp	149	Shop	Shop	Shop	
+src/source/GameShop/MsgBoxIGSBuySelectItem.cpp	149	Shop	Shop	Shop	商店
 src/source/GameShop/MsgBoxIGSBuySelectItem.cpp	169	Buy1124	Buy1124	Buy	
 src/source/GameShop/MsgBoxIGSBuySelectItem.cpp	170	Gift	Gift	Gift	
 src/source/GameShop/MsgBoxIGSBuySelectItem.cpp	171	Cancel	Cancel	Cancel	取消
@@ -741,7 +741,7 @@ src/source/GameShop/MsgBoxIGSUseBuffConfirm.cpp	17	UsingTheSItemWillNegate	Using
 src/source/GameShop/MsgBoxIGSUseBuffConfirm.cpp	21	BuffItemUseConfirmation	Buff Item Use Confirmation	Buff Item Use Confirmation	
 src/source/GameShop/MsgBoxIGSUseItemConfirm.cpp	21	DoYouWishToUseS	DoYouWishToUseS	Do you wish to use %s?##*With the exception of seals and scrolls, all items will be transferred to your Inventory.##Items removed from storage or gift inventory cannot be recovered or returned.	
 src/source/GameShop/MsgBoxIGSUseItemConfirm.cpp	25	UseConfirmation	Use Confirmation	Use Confirmation	
-src/source/Guild/GuildInfoWindow.cpp	59	IfYouWantToLeaveYourGuild	If you want to leave your guild,	If you want to leave your guild,	
+src/source/Guild/GuildInfoWindow.cpp	59	IfYouWantToLeaveYourGuild	If you want to leave your guild,	If you want to leave your guild,	如果要退出战盟，
 src/source/Guild/GuildInfoWindow.cpp	60	PleaseEnterYourWEBZENCOMPassword	Please enter your WEBZEN.COM password.	Please enter your WEBZEN.COM password.	请输入你的 WEBZEN.COM 密码。
 src/source/Guild/GuildInfoWindow.cpp	75	ThePasswordYouHaveEnteredIsIncorrect	The password you have entered is incorrect.	The password you have entered is incorrect.	输入的密码错误。
 src/source/Guild/GuildInfoWindow.cpp	186	AllianceMasterCanTDisbandTheGuild	Alliance master can't disband the guild.	Alliance master can't disband the guild.	
@@ -813,7 +813,7 @@ src/source/Guild/GuildInfoWindow.cpp	957	ReceivedCancellationRequest	Received ca
 src/source/Guild/GuildInfoWindow.cpp	958	Approve	Approve?	Approve?	
 src/source/Guild/GuildMakeWindow.cpp	238	CannotUseSymbols	Cannot use symbols.	Cannot use symbols.	不能使用特殊符号。
 src/source/Guild/GuildMakeWindow.cpp	242	TypeMoreThan4Letters	Type more than 4 letters	Type more than 4 letters	名称至少需要 4 个字符。
-src/source/Guild/GuildMakeWindow.cpp	246	PleaseDrawYourGuildEmblem	Please draw your guild emblem	Please draw your guild emblem	
+src/source/Guild/GuildMakeWindow.cpp	246	PleaseDrawYourGuildEmblem	Please draw your guild emblem	Please draw your guild emblem	请绘制战盟徽章
 src/source/Guild/GuildMakeWindow.cpp	462	Guild	Guild	Guild	战盟
 src/source/Guild/GuildMakeWindow.cpp	463	Guild	Guild	Guild	战盟
 src/source/Guild/GuildMakeWindow.cpp	465	DoYouWishToBeTheGuildMaster	Do you wish to be the guild master?	Do you wish to be the guild master?	是否成为战盟盟主？
@@ -826,7 +826,7 @@ src/source/Guild/GuildMakeWindow.cpp	474	AfterSelectingAColorWith	After selectin
 src/source/Guild/GuildMakeWindow.cpp	476	TheMousePleaseDraw	the mouse, please draw.	the mouse, please draw.	请绘制战盟标志。
 src/source/Guild/GuildMakeWindow.cpp	478	Close388	Close388	Close	关闭
 src/source/Guild/GuildMakeWindow.cpp	480	NAME	NAME	NAME	名称
-src/source/Network/Reconnect/GameLoginSceneLink.cpp	97	ConnectingToTheServer	Connecting to the server	Connecting to the server	
+src/source/Network/Reconnect/GameLoginSceneLink.cpp	97	ConnectingToTheServer	Connecting to the server	Connecting to the server	正在连接服务器
 src/source/Network/Reconnect/GameLoginSceneLink.cpp	98	PleaseWait	Please wait	Please wait	请稍候
 src/source/Network/Server/ServerMessageTexts.cpp	17	RumorHasItThatRecentlyMonsters	RumorHasItThatRecentlyMonsters	Rumor has it that recently monsters have been wandering around Noria. I thought those creatures only existed as part of a legend... I wonder what could have brought them here.	
 src/source/Network/Server/ServerMessageTexts.cpp	18	IfYouWantToFindOutAboutTheDevilSquareGoMeetCharonInNoria	If you want to find out about the Devil Square, go meet Charon in Noria	If you want to find out about the Devil Square, go meet Charon in Noria	
@@ -902,27 +902,27 @@ src/source/Network/Server/SocketSystem.cpp	312	ElementS	Element: %s	Element: %s
 src/source/Network/Server/SocketSystem.cpp	351	LevelD	Level: %d	Level: %d	等级：%d
 src/source/Network/Server/SocketSystem.cpp	359	ElementS	Element: %s	Element: %s	
 src/source/Network/Server/SocketSystem.cpp	422	SocketPackageOption	Socket package option	Socket package option	
-src/source/Network/Server/WSclient.cpp	588	YouAreConnectedToTheServer	You are connected to the server	You are connected to the server	
-src/source/Network/Server/WSclient.cpp	1295	WelcomeTo	Welcome to	Welcome to %s	
-src/source/Network/Server/WSclient.cpp	1673	DZenSHaveBeenSpentInImplementingOfficialMUHelper	%d zen(s) have been spent in implementing Official MU Helper	%d zen(s) have been spent in implementing Official MU Helper	
+src/source/Network/Server/WSclient.cpp	588	YouAreConnectedToTheServer	You are connected to the server	You are connected to the server	已连接服务器
+src/source/Network/Server/WSclient.cpp	1295	WelcomeTo	Welcome to	Welcome to %s	欢迎来到%s
+src/source/Network/Server/WSclient.cpp	1673	DZenSHaveBeenSpentInImplementingOfficialMUHelper	%d zen(s) have been spent in implementing Official MU Helper	%d zen(s) have been spent in implementing Official MU Helper	运行奇迹助手消耗了%d金币
 src/source/Network/Server/WSclient.cpp	1814	ResurrectionFailed	Resurrection failed.	Resurrection failed.	
-src/source/Network/Server/WSclient.cpp	2016	NoUsers	No users	No users	
-src/source/Network/Server/WSclient.cpp	2073	NoticeForGuildMembersS	[Notice for guild members] %s	[Notice for guild members] %s	
-src/source/Network/Server/WSclient.cpp	2326	WelcomeTo	Welcome to	Welcome to %s	
+src/source/Network/Server/WSclient.cpp	2016	NoUsers	No users	No users	没有玩家
+src/source/Network/Server/WSclient.cpp	2073	NoticeForGuildMembersS	[Notice for guild members] %s	[Notice for guild members] %s	[战盟公告] %s
+src/source/Network/Server/WSclient.cpp	2326	WelcomeTo	Welcome to	Welcome to %s	欢迎来到%s
 src/source/Network/Server/WSclient.cpp	3180	SummonedMonsterOwner	SummonedMonsterOwner	%ls of %ls	
 src/source/Network/Server/WSclient.cpp	4233	StongerEffectHasTakenPlace	Stonger effect has taken place.	Stonger effect has taken place.	
 src/source/Network/Server/WSclient.cpp	5846	MasterEXPAchievementD	Master EXP achievement %d	Master EXP achievement %d	
-src/source/Network/Server/WSclient.cpp	5849	ObtainedDExp	Obtained %d Exp	Obtained %d Exp	
+src/source/Network/Server/WSclient.cpp	5849	ObtainedDExp	Obtained %d Exp	Obtained %d Exp	获得%d经验
 src/source/Network/Server/WSclient.cpp	5946	MasterEXPAchievementD	Master EXP achievement %d	Master EXP achievement %d	
-src/source/Network/Server/WSclient.cpp	5950	ObtainedDExp	Obtained %d Exp	Obtained %d Exp	
+src/source/Network/Server/WSclient.cpp	5950	ObtainedDExp	Obtained %d Exp	Obtained %d Exp	获得%d经验
 src/source/Network/Server/WSclient.cpp	6224	Zen	Zen	Zen	金币
 src/source/Network/Server/WSclient.cpp	6224	Obtained	Obtained	Obtained	
 src/source/Network/Server/WSclient.cpp	6274	Obtained	Obtained	Obtained	
 src/source/Network/Server/WSclient.cpp	6497	Warning2223	Warning2223	!! Warning !!	！！注意！！
 src/source/Network/Server/WSclient.cpp	6499	RefineryHasStartedRefineryIsA	RefineryHasStartedRefineryIsA	Refinery has started. Refinery is a part of process to change the item to Refining Stone to be reinforced. Refined item will be disapper, make sure to check the item.	
 src/source/Network/Server/WSclient.cpp	6632	CannotBeTraded	Cannot be traded.	Cannot be traded.	无法交易。
-src/source/Network/Server/WSclient.cpp	6687	ChaosCombinationHasSucceeded	Chaos combination has succeeded	Chaos combination has succeeded	
-src/source/Network/Server/WSclient.cpp	6687	ChaosCombinationHasFailed	Chaos combination has failed	Chaos combination has failed	
+src/source/Network/Server/WSclient.cpp	6687	ChaosCombinationHasSucceeded	Chaos combination has succeeded	Chaos combination has succeeded	玛雅合成成功
+src/source/Network/Server/WSclient.cpp	6687	ChaosCombinationHasFailed	Chaos combination has failed	Chaos combination has failed	玛雅合成失败
 src/source/Network/Server/WSclient.cpp	6689	SWasSuccessful	%s was successful.	%s was successful.	
 src/source/Network/Server/WSclient.cpp	6689	SHasFailed	%s has failed..	%s has failed..	
 src/source/Network/Server/WSclient.cpp	6689	OperationRefining	OperationRefining	Refining	提炼
@@ -939,79 +939,79 @@ src/source/Network/Server/WSclient.cpp	6698	SWasSuccessful	%s was successful.	%s
 src/source/Network/Server/WSclient.cpp	6698	SHasFailed2112	SHasFailed2112	%s has failed.	
 src/source/Network/Server/WSclient.cpp	6699	OperationCherryBlossomAssembly	OperationCherryBlossomAssembly	Cherry blossom branch assembly	
 src/source/Network/Server/WSclient.cpp	6774	NotEnoughZenToCombineItems	Not enough Zen to combine items	Not enough Zen to combine items	合成所需金币不足
-src/source/Network/Server/WSclient.cpp	6778	MustBeOverLevel10ToCombineTheInvitationToDevilSquare	Must be over level 10 to combine the invitation to Devil Square.	Must be over level 10 to combine the invitation to Devil Square.	
+src/source/Network/Server/WSclient.cpp	6778	MustBeOverLevel10ToCombineTheInvitationToDevilSquare	Must be over level 10 to combine the invitation to Devil Square.	Must be over level 10 to combine the invitation to Devil Square.	超过10级才能合成恶魔广场通行证。
 src/source/Network/Server/WSclient.cpp	6783	MustBeOverLevel15ToCombineACloakOfInvisibility	Must be over level 15 to combine a Cloak of Invisibility.	Must be over level 15 to combine a Cloak of Invisibility.	
 src/source/Network/Server/WSclient.cpp	6820	CannotBeSold	Cannot be sold.	Cannot be sold.	
 src/source/Network/Server/WSclient.cpp	6826	CannotBeSold	Cannot be sold.	Cannot be sold.	
-src/source/Network/Server/WSclient.cpp	7085	Hero	Hero	Hero	
+src/source/Network/Server/WSclient.cpp	7085	Hero	Hero	Hero	英雄
 src/source/Network/Server/WSclient.cpp	7091	Commoner	Commoner	Commoner	平民
-src/source/Network/Server/WSclient.cpp	7097	OutlawWarning	Outlaw Warning	Outlaw Warning	
-src/source/Network/Server/WSclient.cpp	7103	_1stStageOutlaw	1st Stage Outlaw	1st Stage Outlaw	
-src/source/Network/Server/WSclient.cpp	7109	_2ndStageOutlaw	2nd Stage Outlaw	2nd Stage Outlaw	
-src/source/Network/Server/WSclient.cpp	7344	SomeoneRequestsYouToJoinTheirAParty	Someone requests you to join their a party	Someone requests you to join their a party	
-src/source/Network/Server/WSclient.cpp	7359	CreatingAPartyHasFailed	Creating a party has failed.	Creating a party has failed.	
-src/source/Network/Server/WSclient.cpp	7362	YourRequestHasBeenDenied	Your request has been denied.	Your request has been denied.	
-src/source/Network/Server/WSclient.cpp	7365	PartyIsFull	Party is full.	Party is full.	
-src/source/Network/Server/WSclient.cpp	7368	TheUserHasLeftTheGame	The user has left the game.	The user has left the game.	
-src/source/Network/Server/WSclient.cpp	7371	TheUserIsAlreadyInAnotherParty	The user is already in another party.	The user is already in another party.	
-src/source/Network/Server/WSclient.cpp	7374	YouHaveJustLeftTheParty	You have just left the party.	You have just left the party.	
-src/source/Network/Server/WSclient.cpp	7377	YouCannotFormAPartyWithAMemberOfTheOpposingGens	You cannot form a party with a member of the opposing gens.	You cannot form a party with a member of the opposing gens.	
-src/source/Network/Server/WSclient.cpp	7381	YouCannotFormAPartyWithinABattleZone	You cannot form a party within a Battle Zone.	You cannot form a party within a Battle Zone.	
+src/source/Network/Server/WSclient.cpp	7097	OutlawWarning	Outlaw Warning	Outlaw Warning	红名警告
+src/source/Network/Server/WSclient.cpp	7103	_1stStageOutlaw	1st Stage Outlaw	1st Stage Outlaw	一级红名
+src/source/Network/Server/WSclient.cpp	7109	_2ndStageOutlaw	2nd Stage Outlaw	2nd Stage Outlaw	二级红名
+src/source/Network/Server/WSclient.cpp	7344	SomeoneRequestsYouToJoinTheirAParty	Someone requests you to join their a party	Someone requests you to join their a party	有人邀请你加入队伍
+src/source/Network/Server/WSclient.cpp	7359	CreatingAPartyHasFailed	Creating a party has failed.	Creating a party has failed.	创建队伍失败。
+src/source/Network/Server/WSclient.cpp	7362	YourRequestHasBeenDenied	Your request has been denied.	Your request has been denied.	请求被拒绝。
+src/source/Network/Server/WSclient.cpp	7365	PartyIsFull	Party is full.	Party is full.	队伍已满。
+src/source/Network/Server/WSclient.cpp	7368	TheUserHasLeftTheGame	The user has left the game.	The user has left the game.	该玩家已离线。
+src/source/Network/Server/WSclient.cpp	7371	TheUserIsAlreadyInAnotherParty	The user is already in another party.	The user is already in another party.	该玩家已加入其他队伍。
+src/source/Network/Server/WSclient.cpp	7374	YouHaveJustLeftTheParty	You have just left the party.	You have just left the party.	你已退出队伍。
+src/source/Network/Server/WSclient.cpp	7377	YouCannotFormAPartyWithAMemberOfTheOpposingGens	You cannot form a party with a member of the opposing gens.	You cannot form a party with a member of the opposing gens.	无法与敌对家族成员组队。
+src/source/Network/Server/WSclient.cpp	7381	YouCannotFormAPartyWithinABattleZone	You cannot form a party within a Battle Zone.	You cannot form a party within a Battle Zone.	战斗区域内无法组队。
 src/source/Network/Server/WSclient.cpp	7384	PartiesAreNotActivatedWithinABattleZone	Parties are not activated within a Battle Zone.	Parties are not activated within a Battle Zone.	
-src/source/Network/Server/WSclient.cpp	7452	YouHaveJustLeftTheParty	You have just left the party.	You have just left the party.	
-src/source/Network/Server/WSclient.cpp	7491	Excellent	Excellent	Excellent	
+src/source/Network/Server/WSclient.cpp	7452	YouHaveJustLeftTheParty	You have just left the party.	You have just left the party.	你已退出队伍。
+src/source/Network/Server/WSclient.cpp	7491	Excellent	Excellent	Excellent	卓越
 src/source/Network/Server/WSclient.cpp	7493	Set	Set	Set	
 src/source/Network/Server/WSclient.cpp	7499	Skill	+Skill	+Skill	+技能
 src/source/Network/Server/WSclient.cpp	7501	Option	+Option	+Option	+追加属性
 src/source/Network/Server/WSclient.cpp	7503	Luck	+Luck	+Luck	+幸运
 src/source/Network/Server/WSclient.cpp	7505	Obtained	Obtained	Obtained	
-src/source/Network/Server/WSclient.cpp	7523	YouHaveReceivedAnOfferToJoinAGuild	You have received an offer to join a guild.	You have received an offer to join a guild.	
-src/source/Network/Server/WSclient.cpp	7535	GuildMasterHasRefusedYourRequestToJoinTheGuild	Guild master has refused your request to join the guild.	Guild master has refused your request to join the guild.	
-src/source/Network/Server/WSclient.cpp	7539	YouHaveJustJoinedTheGuild	You have just joined the guild.	You have just joined the guild.	
-src/source/Network/Server/WSclient.cpp	7542	TheGuildIsFull	The guild is full.	The guild is full.	
-src/source/Network/Server/WSclient.cpp	7545	TheUserHasLeftTheGame	The user has left the game.	The user has left the game.	
-src/source/Network/Server/WSclient.cpp	7548	TheUserIsNotAGuildMaster	The user is not a guild master.	The user is not a guild master.	
-src/source/Network/Server/WSclient.cpp	7551	YouCannotJoinMoreThanOneGuild	You cannot join more than one guild.	You cannot join more than one guild.	
-src/source/Network/Server/WSclient.cpp	7554	TheGuildMasterIsTooBusyToApproveYourRequestToJoinTheGuild	The guild master is too busy to approve your request to join the guild	The guild master is too busy to approve your request to join the guild	
-src/source/Network/Server/WSclient.cpp	7558	ChractersOverLevel6CanJoinAGuild	Chracters over level 6 can join a guild.	Chracters over level 6 can join a guild.	
-src/source/Network/Server/WSclient.cpp	7561	TheGuildMasterHasNotJoinedTheGens	The guild master has not joined the gens.	The guild master has not joined the gens.	
-src/source/Network/Server/WSclient.cpp	7564	TheGuildMasterIsWithADifferentGens	The guild master is with a different gens.	The guild master is with a different gens.	
-src/source/Network/Server/WSclient.cpp	7567	YouMustBelongToTheSame	YouMustBelongToTheSame	You must belong to the same gens as the guild master in order to join the guild.	
+src/source/Network/Server/WSclient.cpp	7523	YouHaveReceivedAnOfferToJoinAGuild	You have received an offer to join a guild.	You have received an offer to join a guild.	你收到了加入战盟的邀请。
+src/source/Network/Server/WSclient.cpp	7535	GuildMasterHasRefusedYourRequestToJoinTheGuild	Guild master has refused your request to join the guild.	Guild master has refused your request to join the guild.	盟主拒绝了你的入盟申请。
+src/source/Network/Server/WSclient.cpp	7539	YouHaveJustJoinedTheGuild	You have just joined the guild.	You have just joined the guild.	你已加入战盟。
+src/source/Network/Server/WSclient.cpp	7542	TheGuildIsFull	The guild is full.	The guild is full.	战盟人数已满。
+src/source/Network/Server/WSclient.cpp	7545	TheUserHasLeftTheGame	The user has left the game.	The user has left the game.	该玩家已离线。
+src/source/Network/Server/WSclient.cpp	7548	TheUserIsNotAGuildMaster	The user is not a guild master.	The user is not a guild master.	该玩家不是盟主。
+src/source/Network/Server/WSclient.cpp	7551	YouCannotJoinMoreThanOneGuild	You cannot join more than one guild.	You cannot join more than one guild.	不能同时加入多个战盟。
+src/source/Network/Server/WSclient.cpp	7554	TheGuildMasterIsTooBusyToApproveYourRequestToJoinTheGuild	The guild master is too busy to approve your request to join the guild	The guild master is too busy to approve your request to join the guild	盟主正忙，暂时无法处理你的入盟申请
+src/source/Network/Server/WSclient.cpp	7558	ChractersOverLevel6CanJoinAGuild	Chracters over level 6 can join a guild.	Chracters over level 6 can join a guild.	超过6级的角色才能加入战盟。
+src/source/Network/Server/WSclient.cpp	7561	TheGuildMasterHasNotJoinedTheGens	The guild master has not joined the gens.	The guild master has not joined the gens.	盟主尚未加入家族。
+src/source/Network/Server/WSclient.cpp	7564	TheGuildMasterIsWithADifferentGens	The guild master is with a different gens.	The guild master is with a different gens.	盟主所属家族与你不同。
+src/source/Network/Server/WSclient.cpp	7567	YouMustBelongToTheSame	YouMustBelongToTheSame	You must belong to the same gens as the guild master in order to join the guild.	加入战盟前，必须与盟主属于同一家族。
 src/source/Network/Server/WSclient.cpp	7603	ThePasswordYouHaveEnteredIsIncorrect	The password you have entered is incorrect.	The password you have entered is incorrect.	输入的密码错误。
-src/source/Network/Server/WSclient.cpp	7606	YouHaveLeftTheGuild	You have left the guild.	You have left the guild.	
-src/source/Network/Server/WSclient.cpp	7609	OnlyAGuildMasterCanDisbandAGuild	Only a guild master can disband a guild.	Only a guild master can disband a guild.	
-src/source/Network/Server/WSclient.cpp	7612	YouHaveFailedFromTheGuild	You have failed from the guild	You have failed from the guild	
-src/source/Network/Server/WSclient.cpp	7615	TheGuildHasBeenDissolved	The guild has been dissolved	The guild has been dissolved	
-src/source/Network/Server/WSclient.cpp	7618	GuildMemberHasBeenWithdrawn	guild member has been withdrawn.	guild member has been withdrawn.	
-src/source/Network/Server/WSclient.cpp	7675	TheGuildNameAlreadyExists	The guild name already exists	The guild name already exists	
-src/source/Network/Server/WSclient.cpp	7678	GuildNameMustBeAtLeast4Characters	Guild name must be at least 4 characters	Guild name must be at least 4 characters	
-src/source/Network/Server/WSclient.cpp	7681	YouAreAlreadyInAGuild518	YouAreAlreadyInAGuild518	You are already in a guild.	
+src/source/Network/Server/WSclient.cpp	7606	YouHaveLeftTheGuild	You have left the guild.	You have left the guild.	你已退出战盟。
+src/source/Network/Server/WSclient.cpp	7609	OnlyAGuildMasterCanDisbandAGuild	Only a guild master can disband a guild.	Only a guild master can disband a guild.	只有盟主才能解散战盟。
+src/source/Network/Server/WSclient.cpp	7612	YouHaveFailedFromTheGuild	You have failed from the guild	You have failed from the guild	战盟操作失败
+src/source/Network/Server/WSclient.cpp	7615	TheGuildHasBeenDissolved	The guild has been dissolved	The guild has been dissolved	战盟已解散
+src/source/Network/Server/WSclient.cpp	7618	GuildMemberHasBeenWithdrawn	guild member has been withdrawn.	guild member has been withdrawn.	战盟成员已退出。
+src/source/Network/Server/WSclient.cpp	7675	TheGuildNameAlreadyExists	The guild name already exists	The guild name already exists	战盟名称已被使用
+src/source/Network/Server/WSclient.cpp	7678	GuildNameMustBeAtLeast4Characters	Guild name must be at least 4 characters	Guild name must be at least 4 characters	战盟名称至少需要4个字符
+src/source/Network/Server/WSclient.cpp	7681	YouAreAlreadyInAGuild518	YouAreAlreadyInAGuild518	You are already in a guild.	你已加入战盟。
 src/source/Network/Server/WSclient.cpp	7684	NoSpaceAllowedInGuildNames	No space allowed in guild names	No space allowed in guild names	
 src/source/Network/Server/WSclient.cpp	7687	NoSymbolsAllowedInGuildNames	No symbols allowed in guild names	No symbols allowed in guild names	
 src/source/Network/Server/WSclient.cpp	7690	ReservedName	Reserved name	Reserved name	
-src/source/Network/Server/WSclient.cpp	7723	SGuildChallengesYou	%s guild challenges you	%s guild challenges you	
-src/source/Network/Server/WSclient.cpp	7731	YouHaveBeenChallengedToBattleSoccer	You have been challenged to Battle Soccer	You have been challenged to Battle Soccer	
-src/source/Network/Server/WSclient.cpp	7740	ToAGuildWar	to a Guild War.	to a Guild War.	
-src/source/Network/Server/WSclient.cpp	7754	ThatGuildDoesNotExist	That guild does not exist.	That guild does not exist.	
-src/source/Network/Server/WSclient.cpp	7757	YouHaveDeclaredAGuildWar	You have declared a Guild War.	You have declared a Guild War.	
-src/source/Network/Server/WSclient.cpp	7760	TheOpposingGuildMasterIsNotInTheGame	The opposing guild master is not in the game.	The opposing guild master is not in the game.	
-src/source/Network/Server/WSclient.cpp	7763	ThatGuildDoesNotExist	That guild does not exist.	That guild does not exist.	
-src/source/Network/Server/WSclient.cpp	7766	YouCanNotDeclareAGuildWarNow	You can not declare a Guild War now.	You can not declare a Guild War now.	
-src/source/Network/Server/WSclient.cpp	7769	OnlyGuildMastersCanDeclareAGuildWar	Only guild masters can declare a Guild War.	Only guild masters can declare a Guild War.	
-src/source/Network/Server/WSclient.cpp	7772	YourRequestForAGuildWarIsRefused	Your request for a Guild War is refused.	Your request for a Guild War is refused.	
-src/source/Network/Server/WSclient.cpp	7792	AGuildWarAgainstSGuildHasStarted	A Guild War against %s guild has started!	A Guild War against %s guild has started!	
-src/source/Network/Server/WSclient.cpp	7796	ABattleSoccerHasStartedWithSGuild	A Battle Soccer has started with %s guild.	A Battle Soccer has started with %s guild.	
-src/source/Network/Server/WSclient.cpp	7836	YouHaveLostTheGuildWar	You have lost the Guild War!!!	You have lost the Guild War!!!	
-src/source/Network/Server/WSclient.cpp	7839	YouHaveWonTheGuildWar	You have won the Guild War!!!	You have won the Guild War!!!	
-src/source/Network/Server/WSclient.cpp	7843	YouHaveWonTheGuildWarOpposingGuildMasterLeft	You have won the Guild War!!!(Opposing guild master left)	You have won the Guild War!!!(Opposing guild master left)	
-src/source/Network/Server/WSclient.cpp	7847	YouHaveLostTheGuildWarGuildMasterLeft	You have lost the Guild War!!!(Guild master left)	You have lost the Guild War!!!(Guild master left)	
-src/source/Network/Server/WSclient.cpp	7850	YouHaveWonTheGuildWarOpposingGuildDisbanded	You have won the Guild War!!!(Opposing guild disbanded)	You have won the Guild War!!!(Opposing guild disbanded)	
-src/source/Network/Server/WSclient.cpp	7854	YouHaveLostTheGuildWarGuildDisbanded	You have lost the Guild War!!!(Guild disbanded)	You have lost the Guild War!!!(Guild disbanded)	
-src/source/Network/Server/WSclient.cpp	7857	Tied	Tied!!!	Tied!!!	
+src/source/Network/Server/WSclient.cpp	7723	SGuildChallengesYou	%s guild challenges you	%s guild challenges you	%s战盟向你发起
+src/source/Network/Server/WSclient.cpp	7731	YouHaveBeenChallengedToBattleSoccer	You have been challenged to Battle Soccer	You have been challenged to Battle Soccer	你收到了战盟足球赛挑战
+src/source/Network/Server/WSclient.cpp	7740	ToAGuildWar	to a Guild War.	to a Guild War.	战盟战挑战。
+src/source/Network/Server/WSclient.cpp	7754	ThatGuildDoesNotExist	That guild does not exist.	That guild does not exist.	该战盟不存在。
+src/source/Network/Server/WSclient.cpp	7757	YouHaveDeclaredAGuildWar	You have declared a Guild War.	You have declared a Guild War.	已发起战盟战。
+src/source/Network/Server/WSclient.cpp	7760	TheOpposingGuildMasterIsNotInTheGame	The opposing guild master is not in the game.	The opposing guild master is not in the game.	对方盟主不在线。
+src/source/Network/Server/WSclient.cpp	7763	ThatGuildDoesNotExist	That guild does not exist.	That guild does not exist.	该战盟不存在。
+src/source/Network/Server/WSclient.cpp	7766	YouCanNotDeclareAGuildWarNow	You can not declare a Guild War now.	You can not declare a Guild War now.	现在无法发起战盟战。
+src/source/Network/Server/WSclient.cpp	7769	OnlyGuildMastersCanDeclareAGuildWar	Only guild masters can declare a Guild War.	Only guild masters can declare a Guild War.	只有盟主才能发起战盟战。
+src/source/Network/Server/WSclient.cpp	7772	YourRequestForAGuildWarIsRefused	Your request for a Guild War is refused.	Your request for a Guild War is refused.	战盟战请求被拒绝。
+src/source/Network/Server/WSclient.cpp	7792	AGuildWarAgainstSGuildHasStarted	A Guild War against %s guild has started!	A Guild War against %s guild has started!	与%s战盟的战盟战开始了！
+src/source/Network/Server/WSclient.cpp	7796	ABattleSoccerHasStartedWithSGuild	A Battle Soccer has started with %s guild.	A Battle Soccer has started with %s guild.	与%s战盟的足球赛开始了。
+src/source/Network/Server/WSclient.cpp	7836	YouHaveLostTheGuildWar	You have lost the Guild War!!!	You have lost the Guild War!!!	战盟战失败！
+src/source/Network/Server/WSclient.cpp	7839	YouHaveWonTheGuildWar	You have won the Guild War!!!	You have won the Guild War!!!	战盟战胜利！
+src/source/Network/Server/WSclient.cpp	7843	YouHaveWonTheGuildWarOpposingGuildMasterLeft	You have won the Guild War!!!(Opposing guild master left)	You have won the Guild War!!!(Opposing guild master left)	战盟战胜利！（对方盟主离线）
+src/source/Network/Server/WSclient.cpp	7847	YouHaveLostTheGuildWarGuildMasterLeft	You have lost the Guild War!!!(Guild master left)	You have lost the Guild War!!!(Guild master left)	战盟战失败！（盟主离线）
+src/source/Network/Server/WSclient.cpp	7850	YouHaveWonTheGuildWarOpposingGuildDisbanded	You have won the Guild War!!!(Opposing guild disbanded)	You have won the Guild War!!!(Opposing guild disbanded)	战盟战胜利！（对方战盟解散）
+src/source/Network/Server/WSclient.cpp	7854	YouHaveLostTheGuildWarGuildDisbanded	You have lost the Guild War!!!(Guild disbanded)	You have lost the Guild War!!!(Guild disbanded)	战盟战失败！（战盟解散）
+src/source/Network/Server/WSclient.cpp	7857	Tied	Tied!!!	Tied!!!	平局！
 src/source/Network/Server/WSclient.cpp	7968	Appointed	Appointed	Appointed	
 src/source/Network/Server/WSclient.cpp	7971	Changed	Changed	Changed	
 src/source/Network/Server/WSclient.cpp	7974	Cancelled	Cancelled	Cancelled	
-src/source/Network/Server/WSclient.cpp	7986	ThatGuildDoesNotExist	That guild does not exist.	That guild does not exist.	
+src/source/Network/Server/WSclient.cpp	7986	ThatGuildDoesNotExist	That guild does not exist.	That guild does not exist.	该战盟不存在。
 src/source/Network/Server/WSclient.cpp	7989	NoAuthorization	No authorization	No authorization	
 src/source/Network/Server/WSclient.cpp	7992	CanNoLongerBeAppointed	Can no longer be appointed	Can no longer be appointed	
 src/source/Network/Server/WSclient.cpp	7995	WrongAppointment	Wrong appointment	Wrong appointment	
@@ -1035,14 +1035,14 @@ src/source/Network/Server/WSclient.cpp	8082	IncompleteRequirementsForCreatingAGu
 src/source/Network/Server/WSclient.cpp	8085	MaximumNoOfGuildAllianceIs7	Maximum no. of guild alliance is 7.	Maximum no. of guild alliance is 7.	
 src/source/Network/Server/WSclient.cpp	8088	RequestHasBeenCancelled	Request has been cancelled.	Request has been cancelled.	
 src/source/Network/Server/WSclient.cpp	8092	TheAllianceMasterHasNotJoinedTheGens	The alliance master has not joined the gens.	The alliance master has not joined the gens.	
-src/source/Network/Server/WSclient.cpp	8095	TheGuildMasterHasNotJoinedTheGens	The guild master has not joined the gens.	The guild master has not joined the gens.	
+src/source/Network/Server/WSclient.cpp	8095	TheGuildMasterHasNotJoinedTheGens	The guild master has not joined the gens.	The guild master has not joined the gens.	盟主尚未加入家族。
 src/source/Network/Server/WSclient.cpp	8098	YouAreWithADifferentGensThanTheAllianceMaster	You are with a different gens than the alliance master.	You are with a different gens than the alliance master.	
 src/source/Network/Server/WSclient.cpp	8127	Failed	Failed	Failed	
-src/source/Network/Server/WSclient.cpp	8219	SGuildWinsAPoint	%s guild wins a point.	%s guild wins a point.	
-src/source/Network/Server/WSclient.cpp	8221	SGuildWinsAPoint	%s guild wins a point.	%s guild wins a point.	
+src/source/Network/Server/WSclient.cpp	8219	SGuildWinsAPoint	%s guild wins a point.	%s guild wins a point.	%s战盟获得一分。
+src/source/Network/Server/WSclient.cpp	8221	SGuildWinsAPoint	%s guild wins a point.	%s guild wins a point.	%s战盟获得一分。
 src/source/Network/Server/WSclient.cpp	8254	MasterEXPAchievementD	Master EXP achievement %d	Master EXP achievement %d	
-src/source/Network/Server/WSclient.cpp	8418	ConversationIsOver	Conversation is over	Conversation is over	
-src/source/Network/Server/WSclient.cpp	8425	DissolveOrLeaveYourGuild	Dissolve or leave your guild	Dissolve or leave your guild	
+src/source/Network/Server/WSclient.cpp	8418	ConversationIsOver	Conversation is over	Conversation is over	对话结束
+src/source/Network/Server/WSclient.cpp	8425	DissolveOrLeaveYourGuild	Dissolve or leave your guild	Dissolve or leave your guild	解散或退出战盟
 src/source/Network/Server/WSclient.cpp	8428	YouCanNowStandAloneWithoutMySupport	You can now stand alone without my support.	You can now stand alone without my support.	
 src/source/Network/Server/WSclient.cpp	8438	WouldYouLikeToReceiveTheItem	Would you like to receive the item?	Would you like to receive the item?	
 src/source/Network/Server/WSclient.cpp	8445	ThisIsNotAEventPrize	This is not a event prize.	This is not a event prize.	
@@ -1076,15 +1076,15 @@ src/source/Network/Server/WSclient.cpp	8651	JewelDismantlingSucceeded	JewelDisma
 src/source/Network/Server/WSclient.cpp	8661	CorrespondingItemIsInappropriate	Corresponding item is inappropriate.	Corresponding item is inappropriate.	该物品不符合要求。
 src/source/Network/Server/WSclient.cpp	8667	InventorySpaceIsInsufficient	Inventory space is insufficient.	Inventory space is insufficient.	背包空间不足。
 src/source/Network/Server/WSclient.cpp	8673	ZenIsInsufficient	Zen is insufficient.	Zen is insufficient.	
-src/source/Network/Server/WSclient.cpp	8690	BringTheDevilSInvitationToEnter	Bring the Devil's invitation to enter.	Bring the Devil's invitation to enter.	
+src/source/Network/Server/WSclient.cpp	8690	BringTheDevilSInvitationToEnter	Bring the Devil's invitation to enter.	Bring the Devil's invitation to enter.	请携带恶魔广场通行证入场。
 src/source/Network/Server/WSclient.cpp	8694	YouVeComeTooLateToEnterTheDevilSquare	You've come too late to enter the Devil Square.	You've come too late to enter the Devil Square.	
 src/source/Network/Server/WSclient.cpp	8698	YouReUnderestimatingYourselfChooseAnotherSquare	You're underestimating yourself. Choose another square.	You're underestimating yourself. Choose another square.	
 src/source/Network/Server/WSclient.cpp	8702	IfYouWishToStayAliveChooseAnotherSquare	If you wish to stay alive, choose another square.	If you wish to stay alive, choose another square.	
 src/source/Network/Server/WSclient.cpp	8706	DevilSquareIsFull	Devil Square is full.	Devil Square is full.	
 src/source/Network/Server/WSclient.cpp	8712	KillersAreRestrictedToEnterS	Killers are restricted to enter %s.	Killers are restricted to enter %s.	
 src/source/Network/Server/WSclient.cpp	8712	DevilSquare	Devil Square	Devil Square	恶魔广场
-src/source/Network/Server/WSclient.cpp	8724	YouCanEnterDevilSquareNow	You can enter Devil Square now!!	You can enter Devil Square now!!	
-src/source/Network/Server/WSclient.cpp	8729	DevilSquareWillOpenInDMinutes	Devil Square will open in %d minutes.	Devil Square will open in %d minutes.	
+src/source/Network/Server/WSclient.cpp	8724	YouCanEnterDevilSquareNow	You can enter Devil Square now!!	You can enter Devil Square now!!	现在可以进入恶魔广场！
+src/source/Network/Server/WSclient.cpp	8729	DevilSquareWillOpenInDMinutes	Devil Square will open in %d minutes.	Devil Square will open in %d minutes.	恶魔广场将在%d分钟后开放。
 src/source/Network/Server/WSclient.cpp	8777	TheLevelOfTheCloakOfInvisibilityIsIncorrect	The level of the Cloak of Invisibility is incorrect.	The level of the Cloak of Invisibility is incorrect.	
 src/source/Network/Server/WSclient.cpp	8783	TheTimeToEnterSHasPassed	The time to enter %s has passed.	The time to enter %s has passed.	
 src/source/Network/Server/WSclient.cpp	8783	BloodCastle	Blood Castle	Blood Castle	血色城堡
@@ -1099,8 +1099,8 @@ src/source/Network/Server/WSclient.cpp	8822	TheTimeToEnterSHasPassed	The time to
 src/source/Network/Server/WSclient.cpp	8822	ChaosCastle	Chaos Castle	Chaos Castle	赤色要塞
 src/source/Network/Server/WSclient.cpp	8830	TheMaximumCapacityOfSHasBeenReachedTheMaxNumberAllowedIsD	The maximum capacity of %s has been reached. The max. number allowed is %d.	The maximum capacity of %s has been reached. The max. number allowed is %d.	
 src/source/Network/Server/WSclient.cpp	8831	ChaosCastle	Chaos Castle	Chaos Castle	赤色要塞
-src/source/Network/Server/WSclient.cpp	8845	YouCanEnterDevilSquareNow	You can enter Devil Square now!!	You can enter Devil Square now!!	
-src/source/Network/Server/WSclient.cpp	8850	DevilSquareWillOpenInDMinutes	Devil Square will open in %d minutes.	Devil Square will open in %d minutes.	
+src/source/Network/Server/WSclient.cpp	8845	YouCanEnterDevilSquareNow	You can enter Devil Square now!!	You can enter Devil Square now!!	现在可以进入恶魔广场！
+src/source/Network/Server/WSclient.cpp	8850	DevilSquareWillOpenInDMinutes	Devil Square will open in %d minutes.	Devil Square will open in %d minutes.	恶魔广场将在%d分钟后开放。
 src/source/Network/Server/WSclient.cpp	8859	YouCanEnterSNow	You can enter %s now.	You can enter %s now.	
 src/source/Network/Server/WSclient.cpp	8859	BloodCastle	Blood Castle	Blood Castle	血色城堡
 src/source/Network/Server/WSclient.cpp	8863	AfterDMinutesYouMayEnterS	After %d minutes you may enter %s.	After %d minutes you may enter %s.	
@@ -1188,7 +1188,7 @@ src/source/Network/Server/WSclient.cpp	10746	AGI	AGI	AGI	敏捷
 src/source/Network/Server/WSclient.cpp	10748	STR	STR	STR	力量
 src/source/Network/Server/WSclient.cpp	10750	Command	Command	Command	统率
 src/source/Network/Server/WSclient.cpp	10779	FruitStatIncreased	FruitStatIncreased	(%ls fruit) %d stat points have been added.	
-src/source/Network/Server/WSclient.cpp	10784	StatCreationFailedFromFruitCombination	stat creation failed from fruit combination.	stat creation failed from fruit combination.	
+src/source/Network/Server/WSclient.cpp	10784	StatCreationFailedFromFruitCombination	stat creation failed from fruit combination.	stat creation failed from fruit combination.	果实属性增加失败。
 src/source/Network/Server/WSclient.cpp	10788	FruitStatCannotIncrease	FruitStatCannotIncrease	This stat cannot be increased any more.	
 src/source/Network/Server/WSclient.cpp	10796	FruitStatDecreased	FruitStatDecreased	(%ls fruit) %d stat points have been removed.	
 src/source/Network/Server/WSclient.cpp	10801	FruitDecreaseIsFailed	Fruit decrease is failed.	Fruit decrease is failed.	
@@ -1239,18 +1239,18 @@ src/source/Network/Server/WSclient.cpp	11211	ChangingTaxRateInformationHasFailed
 src/source/Network/Server/WSclient.cpp	11225	NoAuthorization	No authorization	No authorization	
 src/source/Network/Server/WSclient.cpp	11236	WithdrawalFailed	Withdrawal failed	Withdrawal failed	
 src/source/Network/Server/WSclient.cpp	11242	NoAuthorization	No authorization	No authorization	
-src/source/Network/Server/WSclient.cpp	11275	RequestHasFailed	RequestHasFailed	The request has failed.	
+src/source/Network/Server/WSclient.cpp	11275	RequestHasFailed	RequestHasFailed	The request has failed.	请求失败。
 src/source/Network/Server/WSclient.cpp	11287	NoAuthorization	No authorization	No authorization	
-src/source/Network/Server/WSclient.cpp	11302	RequestHasFailed	RequestHasFailed	The request has failed.	
+src/source/Network/Server/WSclient.cpp	11302	RequestHasFailed	RequestHasFailed	The request has failed.	请求失败。
 src/source/Network/Server/WSclient.cpp	11316	NoAuthorization	No authorization	No authorization	
-src/source/Network/Server/WSclient.cpp	11329	RequestHasFailed	RequestHasFailed	The request has failed.	
-src/source/Network/Server/WSclient.cpp	11367	RequestHasFailed	RequestHasFailed	The request has failed.	
+src/source/Network/Server/WSclient.cpp	11329	RequestHasFailed	RequestHasFailed	The request has failed.	请求失败。
+src/source/Network/Server/WSclient.cpp	11367	RequestHasFailed	RequestHasFailed	The request has failed.	请求失败。
 src/source/Network/Server/WSclient.cpp	11387	HasNotBeenConfirmedYet	Has not been confirmed yet.	Has not been confirmed yet.	
 src/source/Network/Server/WSclient.cpp	11390	HasNotBeenConfirmedYet	Has not been confirmed yet.	Has not been confirmed yet.	
 src/source/Network/Server/WSclient.cpp	11674	SAllianceIsTryingToRegisterTheOfficialSealNow	%s alliance is trying to register the official seal now	%s alliance is trying to register the official seal now	
 src/source/Network/Server/WSclient.cpp	11683	SGuildHasRegisteredTheOfficialSealSuccessfully	%s guild has registered the official seal successfully	%s guild has registered the official seal successfully	
-src/source/Network/Server/WSclient.cpp	11742	RequestHasFailed	RequestHasFailed	The request has failed.	
-src/source/Network/Server/WSclient.cpp	11759	RequestHasFailed	RequestHasFailed	The request has failed.	
+src/source/Network/Server/WSclient.cpp	11742	RequestHasFailed	RequestHasFailed	The request has failed.	请求失败。
+src/source/Network/Server/WSclient.cpp	11759	RequestHasFailed	RequestHasFailed	The request has failed.	请求失败。
 src/source/Network/Server/WSclient.cpp	11988	DisqualifiedForTheContractRequirement	Disqualified for the contract requirement.	Disqualified for the contract requirement.	
 src/source/Network/Server/WSclient.cpp	11989	OnlyLevelAbove350IsAllowedToMakeAContract	Only level above 350 is allowed to make a contract.	Only level above 350 is allowed to make a contract.	
 src/source/Network/Server/WSclient.cpp	11999	PleaseTryAgainInAWhile	Please try again in a while.	Please try again in a while.	
@@ -1269,14 +1269,14 @@ src/source/Network/Server/WSclient.cpp	12472	YouCannotEnterIfYouAreA1stStageOutl
 src/source/Network/Server/WSclient.cpp	12509	_3MonstersReachingTheMagicCircle	3 monsters reaching the magic circle,	3 monsters reaching the magic circle,	
 src/source/Network/Server/WSclient.cpp	12511	TheCharacterDyingTheServerDisconnectingOrUsingTheWarpCommand	the character dying, the server disconnecting, or using the warp command	the character dying, the server disconnecting, or using the warp command	
 src/source/Network/Server/WSclient.cpp	12513	WillResultInDoppelgangerDefenseFailure	will result in Doppelganger defense failure.	will result in Doppelganger defense failure.	
-src/source/Network/Server/WSclient.cpp	12569	Congratulations	Congratulations!	Congratulations!	
+src/source/Network/Server/WSclient.cpp	12569	Congratulations	Congratulations!	Congratulations!	恭喜！
 src/source/Network/Server/WSclient.cpp	12571	YouVeSuccessfullyDefendedDoppelganger	You've successfully defended Doppelganger.	You've successfully defended Doppelganger.	
 src/source/Network/Server/WSclient.cpp	12579	DoppelgangerDefenseFailed	Doppelganger defense failed.	Doppelganger defense failed.	
 src/source/Network/Server/WSclient.cpp	12587	YouFailedToFendOffMonstersAnd	You failed to fend off monsters and	You failed to fend off monsters and	
 src/source/Network/Server/WSclient.cpp	12589	AllowedThemToReachThePointLine	allowed them to reach the point line.	allowed them to reach the point line.	
 src/source/Network/Server/WSclient.cpp	12677	EnterAfterDMinutes	Enter after %d minutes	Enter after %d minutes	
 src/source/Network/Server/WSclient.cpp	12680	EntryTime2798	EntryTime2798	Entry Time:	
-src/source/Network/Server/WSclient.cpp	12690	QuestItemMissing	Quest Item Missing	Quest Item Missing	
+src/source/Network/Server/WSclient.cpp	12690	QuestItemMissing	Quest Item Missing	Quest Item Missing	缺少任务物品
 src/source/Network/Server/WSclient.cpp	12697	CapacityExceeded	Capacity Exceeded	Capacity Exceeded	
 src/source/Network/Server/WSclient.cpp	12704	ThereIsStillTimeRemainingInThisZone	There is still time remaining in this zone.	There is still time remaining in this zone.	
 src/source/Network/Server/WSclient.cpp	12711	YouCanOnlyEnterAsAMemberOfAParty	You can only enter as a member of a party.	You can only enter as a member of a party.	只能以队伍成员的身份进入。
@@ -1374,32 +1374,32 @@ src/source/Scenes/LoginScene.cpp	419	AllRightsReserved	 All Rights Reserved.	 Al
 src/source/Scenes/LoginScene.cpp	493	VerS	Ver %s	Ver %s	
 src/source/Scenes/LoginScene.cpp	496	CCopyright2001Webzen	(c) Copyright 2001 Webzen	(c) Copyright 2001 Webzen	
 src/source/Scenes/LoginScene.cpp	497	AllRightsReserved	 All Rights Reserved.	 All Rights Reserved.	
-src/source/Scenes/SceneCommon.cpp	146	Operation	Operation	Operation	
+src/source/Scenes/SceneCommon.cpp	146	Operation	Operation	Operation	操作
 src/source/Scenes/SceneCommon.cpp	146	WEBZEN	WEBZEN	WEBZEN	
-src/source/Scenes/SceneManager.cpp	255	SScreenshotSaved	%s: Screenshot Saved	%s: Screenshot Saved	
+src/source/Scenes/SceneManager.cpp	255	SScreenshotSaved	%s: Screenshot Saved	%s: Screenshot Saved	%s：截图已保存
 src/source/UI/Character/CharacterInfoWindow.cpp	187	STR	STR	STR	力量
 src/source/UI/Character/CharacterInfoWindow.cpp	188	AGI	AGI	AGI	敏捷
 src/source/UI/Character/CharacterInfoWindow.cpp	189	STA	STA	STA	体力
 src/source/UI/Character/CharacterInfoWindow.cpp	190	ENG	ENG	ENG	智力
 src/source/UI/Character/CharacterInfoWindow.cpp	191	Command	Command	Command	统率
-src/source/UI/Character/CharacterInfoWindow.cpp	194	CloseS	Close (%s)	Close (%s)	
+src/source/UI/Character/CharacterInfoWindow.cpp	194	CloseS	Close (%s)	Close (%s)	关闭 (%s)
 src/source/UI/Character/CharacterInfoWindow.cpp	196	Quest	Quest	Quest	任务
-src/source/UI/Character/CharacterInfoWindow.cpp	198	Pet	Pet	Pet	
-src/source/UI/Character/CharacterInfoWindow.cpp	199	MasterSkillTreeA	Master skill tree (A)	Master skill tree (A)	
-src/source/UI/Character/CharacterInfoWindow.cpp	451	LevelUResetsU	Level: %u | Resets: %u	Level: %u | Resets: %u	
-src/source/UI/Character/CharacterInfoWindow.cpp	452	EXPI64dI64d	EXP:%I64d / %I64d	EXP:%llu / %llu	
-src/source/UI/Character/CharacterInfoWindow.cpp	469	StatPointsAdded	StatPointsAdded	Added	
-src/source/UI/Character/CharacterInfoWindow.cpp	470	StatPointsRemoved	StatPointsRemoved	Removed	
-src/source/UI/Character/CharacterInfoWindow.cpp	474	StatPointsAdded	StatPointsAdded	Added	
-src/source/UI/Character/CharacterInfoWindow.cpp	475	StatPointsRemoved	StatPointsRemoved	Removed	
+src/source/UI/Character/CharacterInfoWindow.cpp	198	Pet	Pet	Pet	宠物
+src/source/UI/Character/CharacterInfoWindow.cpp	199	MasterSkillTreeA	Master skill tree (A)	Master skill tree (A)	大师技能 (A)
+src/source/UI/Character/CharacterInfoWindow.cpp	451	LevelUResetsU	Level: %u | Resets: %u	Level: %u | Resets: %u	等级：%u | 重置：%u
+src/source/UI/Character/CharacterInfoWindow.cpp	452	EXPI64dI64d	EXP:%I64d / %I64d	EXP:%llu / %llu	经验：%llu / %llu
+src/source/UI/Character/CharacterInfoWindow.cpp	469	StatPointsAdded	StatPointsAdded	Added	增加
+src/source/UI/Character/CharacterInfoWindow.cpp	470	StatPointsRemoved	StatPointsRemoved	Removed	减少
+src/source/UI/Character/CharacterInfoWindow.cpp	474	StatPointsAdded	StatPointsAdded	Added	增加
+src/source/UI/Character/CharacterInfoWindow.cpp	475	StatPointsRemoved	StatPointsRemoved	Removed	减少
 src/source/UI/Character/CharacterInfoWindow.cpp	485	PointD	Point: %d	Point: %d	点数：%d
 src/source/UI/Character/CharacterInfoWindow.cpp	555	DD1907	DD1907	[+]:%d%%|[-]:%d%%	
 src/source/UI/Character/CharacterInfoWindow.cpp	836	DmgRateDDD	Dmg(rate): %d~%d (%d)	Dmg(rate): %d~%d (%d)	攻击力（成功率）：%d~%d（%d）
 src/source/UI/Character/CharacterInfoWindow.cpp	840	DmgRateDDD	Dmg(rate): %d~%d (%d)	Dmg(rate): %d~%d (%d)	攻击力（成功率）：%d~%d（%d）
 src/source/UI/Character/CharacterInfoWindow.cpp	847	DmgDD	Dmg: %d~%d	Dmg: %d~%d	攻击力：%d~%d
 src/source/UI/Character/CharacterInfoWindow.cpp	851	DmgDD	Dmg: %d~%d	Dmg: %d~%d	攻击力：%d~%d
-src/source/UI/Character/CharacterInfoWindow.cpp	877	AttackRateDD	Attack rate: %d (+%d)	Attack rate: %d (+%d)	
-src/source/UI/Character/CharacterInfoWindow.cpp	881	AttackRateD	Attack rate: %d	Attack rate: %d	
+src/source/UI/Character/CharacterInfoWindow.cpp	877	AttackRateDD	Attack rate: %d (+%d)	Attack rate: %d (+%d)	攻击成功率：%d (+%d)
+src/source/UI/Character/CharacterInfoWindow.cpp	881	AttackRateD	Attack rate: %d	Attack rate: %d	攻击成功率：%d
 src/source/UI/Character/CharacterInfoWindow.cpp	1052	DefenseRateDDD	Defense (rate):%d (%d +%d)	Defense (rate):%d (%d +%d)	防御力（成功率）：%d（%d +%d）
 src/source/UI/Character/CharacterInfoWindow.cpp	1057	DefenseRateDDD	Defense (rate):%d (%d +%d)	Defense (rate):%d (%d +%d)	防御力（成功率）：%d（%d +%d）
 src/source/UI/Character/CharacterInfoWindow.cpp	1063	DefenseDD	Defense: %d (+%d)	Defense: %d (+%d)	防御力：%d（+%d）
@@ -1407,42 +1407,42 @@ src/source/UI/Character/CharacterInfoWindow.cpp	1072	DefenseRateDDD	Defense (rat
 src/source/UI/Character/CharacterInfoWindow.cpp	1076	DefenseRateDD	Defense (rate):%d (%d)	Defense (rate):%d (%d)	防御力（成功率）：%d（%d）
 src/source/UI/Character/CharacterInfoWindow.cpp	1081	DefenseD	Defense: %d	Defense: %d	防御力：%d
 src/source/UI/Character/CharacterInfoWindow.cpp	1105	AttackSpeedD	Attack speed: %d	Attack speed: %d	攻击速度：%d
-src/source/UI/Character/CharacterInfoWindow.cpp	1133	DefenseRateDD2110	DefenseRateDD2110	Defense rate: %d (+%d)	
+src/source/UI/Character/CharacterInfoWindow.cpp	1133	DefenseRateDD2110	DefenseRateDD2110	Defense rate: %d (+%d)	防御成功率：%d (+%d)
 src/source/UI/Character/CharacterInfoWindow.cpp	1137	DefenseRateD	Defense rate: %d	Defense rate: %d	防御率：%d
 src/source/UI/Character/CharacterInfoWindow.cpp	1171	HPDD	HP: %d / %d	HP: %d / %d	生命值：%d / %d
 src/source/UI/Character/CharacterInfoWindow.cpp	1175	HPDD	HP: %d / %d	HP: %d / %d	生命值：%d / %d
-src/source/UI/Character/CharacterInfoWindow.cpp	1207	MeleeDamageD	Melee Damage: %d%%	Melee Damage: %d%%	
+src/source/UI/Character/CharacterInfoWindow.cpp	1207	MeleeDamageD	Melee Damage: %d%%	Melee Damage: %d%%	近战伤害：%d%%
 src/source/UI/Character/CharacterInfoWindow.cpp	1227	ManaDD	Mana: %d / %d	Mana: %d / %d	魔法值：%d / %d
 src/source/UI/Character/CharacterInfoWindow.cpp	1230	ManaDD	Mana: %d / %d	Mana: %d / %d	魔法值：%d / %d
 src/source/UI/Character/CharacterInfoWindow.cpp	1371	WizardryDmgDDD	Wizardry Dmg: %d~%d (+%d)	Wizardry Dmg: %d~%d (+%d)	魔法攻击力：%d~%d（+%d）
 src/source/UI/Character/CharacterInfoWindow.cpp	1375	WizardryDmgDD216	WizardryDmgDD216	Wizardry Dmg: %d~%d	魔法攻击力：%d~%d
-src/source/UI/Character/CharacterInfoWindow.cpp	1469	CurseSpellDDD	 Curse Spell: %d ~ %d(+%d)	 Curse Spell: %d ~ %d(+%d)	
-src/source/UI/Character/CharacterInfoWindow.cpp	1475	CurseSpellDD1694	CurseSpellDD1694	 Curse Spell: %d ~ %d	
-src/source/UI/Character/CharacterInfoWindow.cpp	1484	SkillDamageD	Skill Damage: %d%%	Skill Damage: %d%%	
-src/source/UI/Character/CharacterInfoWindow.cpp	1489	SkillDamageD	Skill Damage: %d%%	Skill Damage: %d%%	
-src/source/UI/Character/CharacterInfoWindow.cpp	1494	SkillDamageD	Skill Damage: %d%%	Skill Damage: %d%%	
+src/source/UI/Character/CharacterInfoWindow.cpp	1469	CurseSpellDDD	 Curse Spell: %d ~ %d(+%d)	 Curse Spell: %d ~ %d(+%d)	 诅咒攻击：%d～%d(+%d)
+src/source/UI/Character/CharacterInfoWindow.cpp	1475	CurseSpellDD1694	CurseSpellDD1694	 Curse Spell: %d ~ %d	诅咒攻击：%d～%d
+src/source/UI/Character/CharacterInfoWindow.cpp	1484	SkillDamageD	Skill Damage: %d%%	Skill Damage: %d%%	技能伤害：%d%%
+src/source/UI/Character/CharacterInfoWindow.cpp	1489	SkillDamageD	Skill Damage: %d%%	Skill Damage: %d%%	技能伤害：%d%%
+src/source/UI/Character/CharacterInfoWindow.cpp	1494	SkillDamageD	Skill Damage: %d%%	Skill Damage: %d%%	技能伤害：%d%%
 src/source/UI/Character/CharacterInfoWindow.cpp	1500	DivineDamageRoarSlasherD	Divine Damage (Roar, Slasher): %d%%	Divine Damage (Roar, Slasher): %d%%	
 src/source/UI/Character/CharacterInfoWindow.cpp	1502	AOEDamageDarkSideD	AOE Damage (Dark Side): %d%%	AOE Damage (Dark Side): %d%%	
-src/source/UI/Character/PetInfoWindow.cpp	100	Pet	Pet	Pet	
+src/source/UI/Character/PetInfoWindow.cpp	100	Pet	Pet	Pet	宠物
 src/source/UI/Character/PetInfoWindow.cpp	101	DarkHorse	Dark horse	Dark horse	黑王马
 src/source/UI/Character/PetInfoWindow.cpp	102	DarkRaven	Dark Raven	Dark Raven	天鹰
 src/source/UI/Character/PetInfoWindow.cpp	103	Close388	Close388	Close	关闭
-src/source/UI/Character/PetInfoWindow.cpp	106	NoS	No %s.	No %s.	
+src/source/UI/Character/PetInfoWindow.cpp	106	NoS	No %s.	No %s.	没有%s。
 src/source/UI/Character/PetInfoWindow.cpp	106	DarkHorse	Dark horse	Dark horse	黑王马
-src/source/UI/Character/PetInfoWindow.cpp	108	NoPet	No pet	No pet	
-src/source/UI/Character/PetInfoWindow.cpp	110	Commands	Commands	Commands	
-src/source/UI/Character/PetInfoWindow.cpp	111	BasicAction	Basic action	Basic action	
-src/source/UI/Character/PetInfoWindow.cpp	112	RandomAutomaticAttack	Random automatic attack	Random automatic attack	
-src/source/UI/Character/PetInfoWindow.cpp	113	AttackWithOwner	Attack with owner	Attack with owner	
-src/source/UI/Character/PetInfoWindow.cpp	114	AttackTarget	Attack target	Attack target	
+src/source/UI/Character/PetInfoWindow.cpp	108	NoPet	No pet	No pet	未携带宠物
+src/source/UI/Character/PetInfoWindow.cpp	110	Commands	Commands	Commands	指令
+src/source/UI/Character/PetInfoWindow.cpp	111	BasicAction	Basic action	Basic action	基本动作
+src/source/UI/Character/PetInfoWindow.cpp	112	RandomAutomaticAttack	Random automatic attack	Random automatic attack	自动攻击
+src/source/UI/Character/PetInfoWindow.cpp	113	AttackWithOwner	Attack with owner	Attack with owner	协同攻击
+src/source/UI/Character/PetInfoWindow.cpp	114	AttackTarget	Attack target	Attack target	攻击目标
 src/source/UI/Character/PetInfoWindow.cpp	260	LevelD	Level: %d	Level: %d	等级：%d
-src/source/UI/Character/PetInfoWindow.cpp	264	LifeDD	Life: %d/%d	Life: %d/%d	
-src/source/UI/Character/PetInfoWindow.cpp	271	ExpDD	Exp: %d/%d	Exp: %d/%d	
+src/source/UI/Character/PetInfoWindow.cpp	264	LifeDD	Life: %d/%d	Life: %d/%d	生命：%d/%d
+src/source/UI/Character/PetInfoWindow.cpp	271	ExpDD	Exp: %d/%d	Exp: %d/%d	经验：%d/%d
 src/source/UI/Character/PetInfoWindow.cpp	275	DmgRateDDD	Dmg(rate): %d~%d (%d)	Dmg(rate): %d~%d (%d)	攻击力（成功率）：%d~%d（%d）
 src/source/UI/Character/PetInfoWindow.cpp	279	AttackSpeedD	Attack speed: %d	Attack speed: %d	攻击速度：%d
 src/source/UI/Character/PetInfoWindow.cpp	299	LevelD	Level: %d	Level: %d	等级：%d
-src/source/UI/Character/PetInfoWindow.cpp	303	LifeDD	Life: %d/%d	Life: %d/%d	
-src/source/UI/Character/PetInfoWindow.cpp	310	ExpDD	Exp: %d/%d	Exp: %d/%d	
+src/source/UI/Character/PetInfoWindow.cpp	303	LifeDD	Life: %d/%d	Life: %d/%d	生命：%d/%d
+src/source/UI/Character/PetInfoWindow.cpp	310	ExpDD	Exp: %d/%d	Exp: %d/%d	经验：%d/%d
 src/source/UI/Character/PetInfoWindow.cpp	314	DmgRateDDD	Dmg(rate): %d~%d (%d)	Dmg(rate): %d~%d (%d)	攻击力（成功率）：%d~%d（%d）
 src/source/UI/Character/PetInfoWindow.cpp	318	AttackSpeedD	Attack speed: %d	Attack speed: %d	攻击速度：%d
 src/source/UI/Character/PetInfoWindow.cpp	322	CharismaRequirementD	Charisma Requirement: %d	Charisma Requirement: %d	需求统率：%d
@@ -1541,7 +1541,7 @@ src/source/UI/Chat/ChatInput.cpp	155	Great	Great	Great
 src/source/UI/Chat/ChatInput.cpp	160	LookAround	Look around	Look around	
 src/source/UI/Chat/ChatInput.cpp	165	TheForehead	the forehead	the forehead	
 src/source/UI/Chat/ChatInput.cpp	186	Christmas	Christmas	Christmas	
-src/source/UI/Chat/Whisper.cpp	35	YouCanUseTheWhisperCommandAtCharacterLevel6	You can use the whisper command at character level 6	You can use the whisper command at character level 6	
+src/source/UI/Chat/Whisper.cpp	35	YouCanUseTheWhisperCommandAtCharacterLevel6	You can use the whisper command at character level 6	You can use the whisper command at character level 6	角色达到6级后才能使用密语命令
 src/source/UI/Combat/CastleWindow.cpp	274	DZenIsRequired	%d zen is required.	%d zen is required.	
 src/source/UI/Combat/CastleWindow.cpp	277	ToPurchaseSelectedCastleGate	To purchase selected castle gate	To purchase selected castle gate	
 src/source/UI/Combat/CastleWindow.cpp	279	WouldYouLikeToPurchase	Would you like to purchase?	Would you like to purchase?	是否购买？
@@ -1697,7 +1697,7 @@ src/source/UI/Combat/SiegeUpdates.cpp	150	OfficialSealRegistrationIsFailed	Offic
 src/source/UI/Dialogs/ChatCommandWindow.cpp	282	ChatCommandsFillRequired	ChatCommandsFillRequired	Please enter the required values first.	
 src/source/UI/Dialogs/ChatCommandWindow.cpp	288	ChatCommandsValueOutOfRange	ChatCommandsValueOutOfRange	Please correct the values marked in red first.	
 src/source/UI/Dialogs/ChatCommandWindow.cpp	319	ChatCommandsUnknownCommand	ChatCommandsUnknownCommand	This command is not available anymore.	
-src/source/UI/Dialogs/ChatCommandWindow.cpp	831	CloseS	Close (%s)	Close (%s)	
+src/source/UI/Dialogs/ChatCommandWindow.cpp	831	CloseS	Close (%s)	Close (%s)	关闭 (%s)
 src/source/UI/Dialogs/ChatCommandWindow.cpp	903	ChatCommandsTitle	ChatCommandsTitle	Commands	
 src/source/UI/Dialogs/ChatCommandWindow.cpp	905	ChatCommandsTemplates	ChatCommandsTemplates	Templates	
 src/source/UI/Dialogs/ChatCommandWindow.cpp	921	ChatCommandsNotSupported	ChatCommandsNotSupported	This server does not offer a command list.	
@@ -1797,7 +1797,7 @@ src/source/UI/Dialogs/CustomMessageBox.cpp	1613	OrDestroyTheSeedSphereAccordingl
 src/source/UI/Dialogs/CustomMessageBox.cpp	1616	SeedSphereApplication	Seed sphere application	Seed sphere application	
 src/source/UI/Dialogs/CustomMessageBox.cpp	1625	SeedSphereDestruction	Seed sphere destruction	Seed sphere destruction	
 src/source/UI/Dialogs/CustomMessageBox.cpp	1635	Close388	Close388	Close	关闭
-src/source/UI/Dialogs/CustomMessageBox.cpp	1649	ReInitializationHelper	Re-Initialization Helper	Re-Initialization Helper	
+src/source/UI/Dialogs/CustomMessageBox.cpp	1649	ReInitializationHelper	Re-Initialization Helper	Re-Initialization Helper	重置助手
 src/source/UI/Dialogs/CustomMessageBox.cpp	1650	ClickOnTheButtonToReinitializeAllStatPoints	Click on the button to reinitialize all stat points.	Click on the button to reinitialize all stat points.	
 src/source/UI/Dialogs/CustomMessageBox.cpp	1653	StatReInitialization	Stat re-initialization	Stat re-initialization	
 src/source/UI/Dialogs/CustomMessageBox.cpp	1660	TheAppliedEquipmentsCannotBeReset	The applied equipments cannot be reset.	The applied equipments cannot be reset.	
@@ -1865,8 +1865,8 @@ src/source/UI/Dialogs/HelpPages.cpp	75	JToggleChatCommands	JToggleChatCommands	J
 src/source/UI/Dialogs/HelpPages.cpp	92	KeyFunction	Key Function	Key Function	按键功能
 src/source/UI/Dialogs/HelpPages.cpp	98	ChattingInstructions	Chatting Instructions	Chatting Instructions	聊天说明
 src/source/UI/Dialogs/ReconnectDialog.cpp	53	CheckingServerAvailability	Checking server availability	Checking server availability	
-src/source/UI/Dialogs/ReconnectDialog.cpp	54	ConnectingToTheServer	Connecting to the server	Connecting to the server	
-src/source/UI/Dialogs/ReconnectDialog.cpp	55	ConnectingToTheServer	Connecting to the server	Connecting to the server	
+src/source/UI/Dialogs/ReconnectDialog.cpp	54	ConnectingToTheServer	Connecting to the server	Connecting to the server	正在连接服务器
+src/source/UI/Dialogs/ReconnectDialog.cpp	55	ConnectingToTheServer	Connecting to the server	Connecting to the server	正在连接服务器
 src/source/UI/Dialogs/ReconnectDialog.cpp	56	LoggingIn	Logging in	Logging in	
 src/source/UI/Dialogs/ReconnectDialog.cpp	57	LoadingCharacterList	Loading character list	Loading character list	正在加载角色列表
 src/source/UI/Dialogs/ReconnectDialog.cpp	58	EnteringTheGame	Entering the game	Entering the game	
@@ -1874,9 +1874,9 @@ src/source/UI/Dialogs/ReconnectDialog.cpp	110	ConnectionLost	Connection lost	Con
 src/source/UI/Dialogs/ReconnectDialog.cpp	117	RetryingInSeconds	Retrying in seconds	Retrying in %d seconds...	
 src/source/UI/Dialogs/WindowMenu.cpp	24	SystemEsc	System (Esc)	System (Esc)	
 src/source/UI/Dialogs/WindowMenu.cpp	24	HelpF1	Help (F1)	Help (F1)	
-src/source/UI/Dialogs/WindowMenu.cpp	24	GuildG	Guild (G)	Guild (G)	
+src/source/UI/Dialogs/WindowMenu.cpp	24	GuildG	Guild (G)	Guild (G)	战盟 (G)
 src/source/UI/Dialogs/WindowMenu.cpp	25	MoveM	Move (M)	Move (M)	
-src/source/UI/Dialogs/WindowMenu.cpp	25	MapTab	Map (Tab)	Map (Tab)	
+src/source/UI/Dialogs/WindowMenu.cpp	25	MapTab	Map (Tab)	Map (Tab)	地图 (Tab)
 src/source/UI/Dialogs/WindowMenu.cpp	25	GensInfoB	Gens Info (B)	Gens Info (B)	
 src/source/UI/Events/BloodCastleEnter.cpp	189	CastleDLevelDD	Castle %d (level %d-%d)	Castle %d (level %d-%d)	
 src/source/UI/Events/BloodCastleEnter.cpp	194	CastleNoDMasterLevel	Castle no. %d (Master Level)	Castle no. %d (Master Level)	
@@ -1980,7 +1980,7 @@ src/source/UI/Events/EmpireGuardianUpdates.cpp	35	ZoneDCleared	ZoneDCleared	Zone
 src/source/UI/Events/EmpireGuardianUpdates.cpp	44	FortressOfEmpireGuardiansRoundD	Fortress of Empire Guardians Round %d	Fortress of Empire Guardians Round %d	
 src/source/UI/Events/EmpireGuardianUpdates.cpp	46	HasBeenCleared	has been cleared.	has been cleared.	
 src/source/UI/Events/EmpireGuardianUpdates.cpp	47	RewardedExpD	Rewarded Exp: %d	Rewarded Exp: %d	
-src/source/UI/Events/EnterDevilSquare.cpp	182	TheDSquareDDLevel	The %d Square (%d-%d level)	The %d Square (%d-%d level)	
+src/source/UI/Events/EnterDevilSquare.cpp	182	TheDSquareDDLevel	The %d Square (%d-%d level)	The %d Square (%d-%d level)	第%d广场（%d～%d级）
 src/source/UI/Events/EnterDevilSquare.cpp	187	SquareNoDMasterLevel	Square no. %d (Master Level)	Square no. %d (Master Level)	
 src/source/UI/Events/EnterDevilSquare.cpp	204	YouVeBeenGivenAChanceToProveYourBravery	You've been given a chance to prove your bravery.	You've been given a chance to prove your bravery.	
 src/source/UI/Events/EnterDevilSquare.cpp	205	NoOneHasEverEnteredTheDevilSquareYet	No one has ever entered the Devil Square yet.	No one has ever entered the Devil Square yet.	
@@ -2033,7 +2033,7 @@ src/source/UI/Events/KanturuEvent.cpp	38	FailedToEnter	Failed to enter.	Failed t
 src/source/UI/Events/KanturuEvent.cpp	39	_15PlayersHaveAlreadyEnteredYouCanNoLongerEnter	15 players have already entered. You can no longer enter.	15 players have already entered. You can no longer enter.	
 src/source/UI/Events/KanturuEvent.cpp	40	MoonstonePendantAuthenticationHasFailed	'Moonstone Pendant' authentication has failed.	'Moonstone Pendant' authentication has failed.	
 src/source/UI/Events/KanturuEvent.cpp	228	FailedToEnter	Failed to enter.	Failed to enter.	
-src/source/UI/Events/KanturuEvent.cpp	232	YouCannotWarpWhileRidingOnAUnicorn	You cannot warp while riding on a unicorn	You cannot warp while riding on a unicorn	
+src/source/UI/Events/KanturuEvent.cpp	232	YouCannotWarpWhileRidingOnAUnicorn	You cannot warp while riding on a unicorn	You cannot warp while riding on a unicorn	骑乘独角兽时无法传送
 src/source/UI/Events/KanturuEvent.cpp	236	YouCanTWarpWearingTheRingOfTransformation	You can't warp wearing the Ring of Transformation.	You can't warp wearing the Ring of Transformation.	
 src/source/UI/Events/KanturuEvent.cpp	240	YouCanOnlyWarpRidingA	YouCanOnlyWarpRidingA	You can only warp riding a Dynorant, Dark Horse, Fenrir or wearing the wings, cloak.	
 src/source/UI/Events/KanturuEvent.cpp	273	YouMayNowProceedToTheRefineryTower	You may now proceed to the Refinery Tower.	You may now proceed to the Refinery Tower.	
@@ -2086,7 +2086,7 @@ src/source/UI/Events/RegistrationLuckyCoin.cpp	70	Close388	Close388	Close	关闭
 src/source/UI/HUD/BuffStrip.cpp	193	DurationPeriodS	Duration period: %s	Duration period: %s	
 src/source/UI/HUD/BuffStrip.cpp	356	CancelSkillQuestion	CancelSkillQuestion	Would you like to cancel %ls?	
 src/source/UI/HUD/ChatInputBox.cpp	43	RegularChat	Regular chat	Regular chat	
-src/source/UI/HUD/ChatInputBox.cpp	43	PartyChat	Party chat	Party chat	
+src/source/UI/HUD/ChatInputBox.cpp	43	PartyChat	Party chat	Party chat	队伍聊天
 src/source/UI/HUD/ChatInputBox.cpp	44	GuiltChat	Guilt chat	Guilt chat	
 src/source/UI/HUD/ChatInputBox.cpp	44	GensChatOnOff	Gens Chat On/Off	Gens Chat On/Off	
 src/source/UI/HUD/ChatInputBox.cpp	45	WhisperBlockOnOff	Whisper block: On/Off	Whisper block: On/Off	
@@ -2114,21 +2114,21 @@ src/source/UI/HUD/CommandWindow.cpp	44	Follow	Follow	Follow
 src/source/UI/HUD/CommandWindow.cpp	44	Duel	Duel	Duel	
 src/source/UI/HUD/CommandWindow.cpp	44	SpecialCommands	SpecialCommands	Special	
 src/source/UI/HUD/CommandWindow.cpp	197	CommandWindow	Command Window	Command Window	
-src/source/UI/HUD/CommandWindow.cpp	199	CloseS	Close (%s)	Close (%s)	
+src/source/UI/HUD/CommandWindow.cpp	199	CloseS	Close (%s)	Close (%s)	关闭 (%s)
 src/source/UI/HUD/CommandWindow.cpp	248	CommandWindow	Command Window	Command Window	
 src/source/UI/HUD/CommandWindow.cpp	248	CommandWindow	Command Window	Command Window	
-src/source/UI/HUD/CommandWindow.cpp	439	YouCanUseTheTradeCommandAtCharacterLevel6	You can use the trade command at character level 6	You can use the trade command at character level 6	
+src/source/UI/HUD/CommandWindow.cpp	439	YouCanUseTheTradeCommandAtCharacterLevel6	You can use the trade command at character level 6	You can use the trade command at character level 6	角色达到6级后才能使用交易命令
 src/source/UI/HUD/CommandWindow.cpp	444	YouCannotTradeRightNow	You cannot trade right now.	You cannot trade right now.	现在无法交易。
-src/source/UI/HUD/CommandWindow.cpp	467	YouAreAlreadyInAParty	You are already in a party	You are already in a party	
-src/source/UI/HUD/CommandWindow.cpp	487	YouAreAlreadyInAGuild	You are already in a guild	You are already in a guild	
-src/source/UI/HUD/CommandWindow.cpp	492	TheUserIsNotAGuildMaster	The user is not a guild master.	The user is not a guild master.	
+src/source/UI/HUD/CommandWindow.cpp	467	YouAreAlreadyInAParty	You are already in a party	You are already in a party	你已加入队伍
+src/source/UI/HUD/CommandWindow.cpp	487	YouAreAlreadyInAGuild	You are already in a guild	You are already in a guild	你已加入战盟
+src/source/UI/HUD/CommandWindow.cpp	492	TheUserIsNotAGuildMaster	The user is not a guild master.	The user is not a guild master.	该玩家不是盟主。
 src/source/UI/HUD/CommandWindow.cpp	505	NotAGuildMaster	Not a guild master	Not a guild master	
 src/source/UI/HUD/CommandWindow.cpp	510	ThisDoesNotBelongToTheGuild	This does not belong to the guild.	This does not belong to the guild.	
-src/source/UI/HUD/CommandWindow.cpp	515	TheUserIsNotAGuildMaster	The user is not a guild master.	The user is not a guild master.	
+src/source/UI/HUD/CommandWindow.cpp	515	TheUserIsNotAGuildMaster	The user is not a guild master.	The user is not a guild master.	该玩家不是盟主。
 src/source/UI/HUD/CommandWindow.cpp	531	NotAGuildMaster	Not a guild master	Not a guild master	
-src/source/UI/HUD/CommandWindow.cpp	537	TheUserIsNotAGuildMaster	The user is not a guild master.	The user is not a guild master.	
+src/source/UI/HUD/CommandWindow.cpp	537	TheUserIsNotAGuildMaster	The user is not a guild master.	The user is not a guild master.	该玩家不是盟主。
 src/source/UI/HUD/CommandWindow.cpp	550	NotAGuildMaster	Not a guild master	Not a guild master	
-src/source/UI/HUD/CommandWindow.cpp	555	TheUserIsNotAGuildMaster	The user is not a guild master.	The user is not a guild master.	
+src/source/UI/HUD/CommandWindow.cpp	555	TheUserIsNotAGuildMaster	The user is not a guild master.	The user is not a guild master.	该玩家不是盟主。
 src/source/UI/HUD/CommandWindow.cpp	594	OpenOnlyForLevelDOrHigher	Open only for level %d or higher.	Open only for level %d or higher.	
 src/source/UI/HUD/CommandWindow.cpp	600	DuelingIsNotPossibleInThisArea	Dueling is not possible in this area.	Dueling is not possible in this area.	
 src/source/UI/HUD/CommandWindow.cpp	605	YouCannotEngageInDuelsWhileInLorenMarket	You cannot engage in duels while in Loren Market.	You cannot engage in duels while in Loren Market.	
@@ -2156,19 +2156,19 @@ src/source/UI/HUD/HotKey.cpp	428	TheCommandWindowCannotBeActivatedInBattleZone	T
 src/source/UI/HUD/ItemHotKey.cpp	100	YouCannotUseThisItemWhileThePotionEffectsRemainActive	 You cannot use this item while the Potion effects remain active.	 You cannot use this item while the Potion effects remain active.	药水效果持续期间无法使用此物品。
 src/source/UI/HUD/MainFrameWindow.cpp	404	YouMustBeAtLeastLevel6ToUseTheMyFriendFunction	You must be at least level 6 to use the 'My Friend' function.	You must be at least level 6 to use the 'My Friend' function.	
 src/source/UI/HUD/MainFrameWindow.cpp	406	YouMustBeAtLeastLevel6ToUseTheMyFriendFunction	You must be at least level 6 to use the 'My Friend' function.	You must be at least level 6 to use the 'My Friend' function.	
-src/source/UI/HUD/MainFrameWindow.cpp	560	LifeDD	Life: %d/%d	Life: %d/%d	
-src/source/UI/HUD/MainFrameWindow.cpp	562	ManaDD359	ManaDD359	Mana: %d/%d	
+src/source/UI/HUD/MainFrameWindow.cpp	560	LifeDD	Life: %d/%d	Life: %d/%d	生命：%d/%d
+src/source/UI/HUD/MainFrameWindow.cpp	562	ManaDD359	ManaDD359	Mana: %d/%d	魔法：%d/%d
 src/source/UI/HUD/MainFrameWindow.cpp	582	AGDD	A G: %d / %d	A G: %d / %d	AG：%d / %d
 src/source/UI/HUD/MainFrameWindow.cpp	602	SDDD	 S D : %d / %d	 S D : %d / %d	
-src/source/UI/HUD/MainFrameWindow.cpp	667	EXPI64dI64d	EXP:%I64d / %I64d	EXP:%llu / %llu	
-src/source/UI/HUD/MainFrameWindow.cpp	673	CharacterC	Character (C)	Character (C)	
+src/source/UI/HUD/MainFrameWindow.cpp	667	EXPI64dI64d	EXP:%I64d / %I64d	EXP:%llu / %llu	经验：%llu / %llu
+src/source/UI/HUD/MainFrameWindow.cpp	673	CharacterC	Character (C)	Character (C)	角色 (C)
 src/source/UI/HUD/MainFrameWindow.cpp	674	InventoryIV	Inventory (I,V)	Inventory (I,V)	背包（I、V）
 src/source/UI/HUD/MainFrameWindow.cpp	675	FriendF	Friend (F)	Friend (F)	
 src/source/UI/HUD/MainFrameWindow.cpp	676	MenuU	Menu (U)	Menu (U)	
-src/source/UI/HUD/MainFrameWindow.cpp	677	PartyP	Party (P)	Party (P)	
-src/source/UI/HUD/MainFrameWindow.cpp	678	GuildG	Guild (G)	Guild (G)	
+src/source/UI/HUD/MainFrameWindow.cpp	677	PartyP	Party (P)	Party (P)	组队 (P)
+src/source/UI/HUD/MainFrameWindow.cpp	678	GuildG	Guild (G)	Guild (G)	战盟 (G)
 src/source/UI/HUD/MainFrameWindow.cpp	679	CommandD	Command (D)	Command (D)	
-src/source/UI/HUD/MainFrameWindow.cpp	693	MUItemShopX	MU Item Shop(X)	MU Item Shop(X)	
+src/source/UI/HUD/MainFrameWindow.cpp	693	MUItemShopX	MU Item Shop(X)	MU Item Shop(X)	游戏商城(X)
 src/source/UI/HUD/MasterLevel.cpp	59	GrandMaster	Grand Master	Grand Master	神导师
 src/source/UI/HUD/MasterLevel.cpp	59	PeaceD	Peace: %d	Peace: %d	
 src/source/UI/HUD/MasterLevel.cpp	59	WisdomD	Wisdom: %d	Wisdom: %d	
@@ -2204,9 +2204,9 @@ src/source/UI/HUD/MasterLevel.cpp	635	EXP62f	EXP: %6.2f%%	EXP: %6.2f%%
 src/source/UI/HUD/MasterLevel.cpp	830	NextLevel	# #Next Level:#	# #Next Level:#	
 src/source/UI/HUD/MasterLevel.cpp	843	Requirements3329	Requirements3329	# #Requirements:#	
 src/source/UI/HUD/MasterLevel.cpp	926	YouNeedToWearTheRequiredEquipmentToLevelUpThisSkill	You need to wear the required equipment to level up this skill.	You need to wear the required equipment to level up this skill.	需要穿戴指定装备才能升级此技能。
-src/source/UI/HUD/MasterLevel.cpp	934	YouMustMeetAllSkillRequirements	You must meet all skill requirements.	You must meet all skill requirements.	
+src/source/UI/HUD/MasterLevel.cpp	934	YouMustMeetAllSkillRequirements	You must meet all skill requirements.	You must meet all skill requirements.	必须满足技能的全部使用条件。
 src/source/UI/HUD/MasterLevel.cpp	944	MasterLevelPointRequirementD	Master level point requirement: %d	Master level point requirement: %d	
-src/source/UI/HUD/MasterLevel.cpp	948	WouldYouLikeToStrengthenTheSkill	Would you like to strengthen the skill?	Would you like to strengthen the skill?	
+src/source/UI/HUD/MasterLevel.cpp	948	WouldYouLikeToStrengthenTheSkill	Would you like to strengthen the skill?	Would you like to strengthen the skill?	是否强化该技能？
 src/source/UI/HUD/MasterLevel.cpp	980	YouCanTRaiseAnyMoreLevels	You can't raise any more levels.	You can't raise any more levels.	
 src/source/UI/HUD/MasterLevel.cpp	991	YouCanTRaiseAnyMoreLevels	You can't raise any more levels.	You can't raise any more levels.	
 src/source/UI/HUD/MatchStatus.cpp	91	ItWillStartAfterDSeconds	It will start after %d seconds	It will start after %d seconds	
@@ -2771,8 +2771,8 @@ src/source/UI/Options/OptionWindow.cpp	1771	UIScale	UI Scale	UI Scale	界面缩�
 src/source/UI/Options/OptionWindow.cpp	1772	UIScaleTooltip	UI Scale Tooltip	Multiplier on top of the automatic fit to the window size	在自动适应窗口大小的基础上应用的缩放倍率
 src/source/UI/Options/OptionWindow.cpp	1818	DefaultFont	DefaultFont	Default	默认
 src/source/UI/Options/OptionWindow.cpp	1838	Uncapped	Uncapped	Uncapped	无限制
-src/source/UI/Options/OptionWindow.cpp	1936	S6PlayerModels	S6 player models	S6 player models	
-src/source/UI/Options/OptionWindow.cpp	1937	S6PlayerModelsTooltip	S6 Player Models Tooltip	On: original S6 models. Off: improved models. Restart the game to apply.	
+src/source/UI/Options/OptionWindow.cpp	1936	S6PlayerModels	S6 player models	S6 player models	S6角色模型
+src/source/UI/Options/OptionWindow.cpp	1937	S6PlayerModelsTooltip	S6 Player Models Tooltip	On: original S6 models. Off: improved models. Restart the game to apply.	开启：使用原版S6模型。关闭：使用改进模型。重启游戏后生效。
 src/source/UI/Options/OptionWindow.cpp	1944	TexturePack	Texture Pack	Texture Pack	纹理包
 src/source/UI/Options/OptionWindow.cpp	1945	TexturePackTooltip	Texture Pack Tooltip	Folders in Data/TexturePacks; a change takes effect after restarting the game	纹理包位于 Data/TexturePacks；更改后需重启游戏才能生效
 src/source/UI/Options/OptionWindow.cpp	1947	OriginalTextures	Original Textures	Original	原始纹理
@@ -2981,16 +2981,16 @@ src/source/UI/Windows/MsgWin.cpp	298	TheServerIsFull	The server is full	The serv
 src/source/UI/Windows/MsgWin.cpp	302	TheServerIsFull	The server is full	The server is full	服务器已满
 src/source/UI/Windows/MsgWin.cpp	305	YouAreDisconnectedFromTheServer	You are disconnected from the server.	You are disconnected from the server.	与服务器的连接已断开。
 src/source/UI/Windows/MsgWin.cpp	308	YouAreDisconnectedFromTheServer	You are disconnected from the server.	You are disconnected from the server.	与服务器的连接已断开。
-src/source/UI/Windows/MsgWin.cpp	313	NewVersionOfGameIsRequired	New version of game is required	New version of game is required	
-src/source/UI/Windows/MsgWin.cpp	314	PleaseDownloadTheNewVersion	Please download the new version	Please download the new version	
+src/source/UI/Windows/MsgWin.cpp	313	NewVersionOfGameIsRequired	New version of game is required	New version of game is required	需要更新游戏客户端
+src/source/UI/Windows/MsgWin.cpp	314	PleaseDownloadTheNewVersion	Please download the new version	Please download the new version	请下载新版本
 src/source/UI/Windows/MsgWin.cpp	317	EnterYourAccount	Enter your account	Enter your account	请输入账号
 src/source/UI/Windows/MsgWin.cpp	320	EnterYourPassword	Enter your password	Enter your password	请输入密码
 src/source/UI/Windows/MsgWin.cpp	323	YourAccountIsInvalid	Your account is invalid	Your account is invalid	账号无效
 src/source/UI/Windows/MsgWin.cpp	326	PasswordIsIncorrect	Password is incorrect	Password is incorrect	密码错误
 src/source/UI/Windows/MsgWin.cpp	329	YourAccountIsAlreadyConnected	Your account is already connected	Your account is already connected	该账号已登录
 src/source/UI/Windows/MsgWin.cpp	333	ThisAccountIsBlocked	This account is blocked	This account is blocked	该账号已被封停
-src/source/UI/Windows/MsgWin.cpp	336	ConnectionError	Connection error	Connection error	
-src/source/UI/Windows/MsgWin.cpp	339	ConnectionClosedDueTo3FailedAttempts	Connection closed due to 3 failed attempts.	Connection closed due to 3 failed attempts.	
+src/source/UI/Windows/MsgWin.cpp	336	ConnectionError	Connection error	Connection error	连接错误
+src/source/UI/Windows/MsgWin.cpp	339	ConnectionClosedDueTo3FailedAttempts	Connection closed due to 3 failed attempts.	Connection closed due to 3 failed attempts.	连续3次尝试失败，连接已关闭。
 src/source/UI/Windows/MsgWin.cpp	342	NoChargeInfo	No charge info	No charge info	
 src/source/UI/Windows/MsgWin.cpp	345	YourIndividualSubscriptionTermIsOver	Your individual subscription term is over.	Your individual subscription term is over.	
 src/source/UI/Windows/MsgWin.cpp	348	YourIndividualSubscriptionTimeIsOver	Your individual subscription time is over.	Your individual subscription time is over.	
@@ -3000,7 +3000,7 @@ src/source/UI/Windows/MsgWin.cpp	357	OnlyPlayersAge18AndOverArePermittedToConnec
 src/source/UI/Windows/MsgWin.cpp	360	PleasePurchaseGoldChannelTicketToEnter	Please purchase 'gold channel ticket' to enter.	Please purchase 'gold channel ticket' to enter.	
 src/source/UI/Windows/MsgWin.cpp	363	PointNoMoreDates	Point - no more dates	Point - no more dates	
 src/source/UI/Windows/MsgWin.cpp	366	PointNoMorePointsLeft	Point - no more points left	Point - no more points left	
-src/source/UI/Windows/MsgWin.cpp	369	YourIPIsNotAllowedToConnect	Your IP is not allowed to connect	Your IP is not allowed to connect	
+src/source/UI/Windows/MsgWin.cpp	369	YourIPIsNotAllowedToConnect	Your IP is not allowed to connect	Your IP is not allowed to connect	你的IP地址不允许连接
 src/source/UI/Windows/MsgWin.cpp	372	YouCanTDeleteTheCharacterThatBelongsToTheGuild	You can't delete the character that belongs to the guild	You can't delete the character that belongs to the guild	无法删除已加入战盟的角色。
 src/source/UI/Windows/MsgWin.cpp	375	CharacterLevelAboveDCannotBeDeleted	Character level above %d cannot be deleted.	Character level above %d cannot be deleted.	等级超过 %d 的角色无法删除。
 src/source/UI/Windows/MsgWin.cpp	379	WouldYouLikeToDeleteSCharacter	Would you like to delete %s character?	Would you like to delete %s character?	确定要删除角色 %s 吗？
@@ -3021,7 +3021,7 @@ src/source/UI/Windows/RememberPasswordPrompt.cpp	72	Cancel	Cancel	Cancel	取消
 src/source/UI/Windows/ServerSelWin.cpp	167	SinceHelheimServer	Since Helheim server	Since Helheim server	
 src/source/UI/Windows/ServerSelWin.cpp	168	TendsToBeCrowded	tends to be crowded	tends to be crowded	
 src/source/UI/Windows/ServerSelWin.cpp	169	WeRecommendThatYouUseOtherServers	we recommend that you use other servers.	we recommend that you use other servers.	
-src/source/UI/Windows/ServerSelWin.cpp	453	ConnectingToTheServer	Connecting to the server	Connecting to the server	
+src/source/UI/Windows/ServerSelWin.cpp	453	ConnectingToTheServer	Connecting to the server	Connecting to the server	正在连接服务器
 src/source/UI/Windows/ServerSelWin.cpp	454	PleaseWait	Please wait	Please wait	请稍候
 src/source/UI/Windows/SysMenuWin.cpp	163	SystemMenu	System Menu	System Menu	系统菜单
 src/source/UI/Windows/SysMenuWin.cpp	164	ExitGame	Exit Game	Exit Game	退出游戏
@@ -3050,7 +3050,7 @@ src/source/World/GameMaps/GMCrywolf1st.cpp	71	AbovePenaltyIsValidTillTheNextCryw
 src/source/World/GameMaps/GMHellas.cpp	189	CanTBeUsedInTheSafeZone	Can't be used in the safe zone	Can't be used in the safe zone	无法在安全区内使用。
 src/source/World/GameMaps/GMHellas.cpp	201	OnlyAboveLevelDCanUse	Only above level %d can use.	Only above level %d can use.	
 src/source/World/GameMaps/GMHellas.cpp	226	Kalima	Kalima	Kalima	卡利玛
-src/source/World/GameMaps/GMHellas.cpp	226	Level	Level	Level	
+src/source/World/GameMaps/GMHellas.cpp	226	Level	Level	Level	等级
 src/source/World/GameMaps/GMHellas.cpp	226	MinLevel	Min. Level	Min. Level	
 src/source/World/GameMaps/GMHellas.cpp	243	MagicStoneWillAppearWhenYouThrowItInTheScreen	Magic stone will appear when you throw it in the screen	Magic stone will appear when you throw it in the screen	
 src/source/World/GameMaps/GMHellas.cpp	248	OnlyAboveLevelDCanUse	Only above level %d can use.	Only above level %d can use.	
@@ -3076,7 +3076,7 @@ src/source/World/MapInfra/MapManager.cpp	1467	Atlans	Atlans	Atlans	亚特兰蒂�
 src/source/World/MapInfra/MapManager.cpp	1469	Tarkan	Tarkan	Tarkan	死亡沙漠
 src/source/World/MapInfra/MapManager.cpp	1472	DevilSquare	Devil Square	Devil Square	恶魔广场
 src/source/World/MapInfra/MapManager.cpp	1474	Icarus	Icarus	Icarus	天空之城
-src/source/World/MapInfra/MapManager.cpp	1476	ValleyOfLoren	Valley of Loren	Valley of Loren	
+src/source/World/MapInfra/MapManager.cpp	1476	ValleyOfLoren	Valley of Loren	Valley of Loren	罗兰峡谷
 src/source/World/MapInfra/MapManager.cpp	1478	LandOfTrials	Land of Trials	Land of Trials	魔炼之地
 src/source/World/MapInfra/MapManager.cpp	1480	Aida	Aida	Aida	
 src/source/World/MapInfra/MapManager.cpp	1483	CrywolfFortress	Crywolf Fortress	Crywolf Fortress	

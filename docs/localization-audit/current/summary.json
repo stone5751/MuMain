@@ -14,8 +14,8 @@
     },
     "Game": {
       "english": 3148,
-      "translated": 750,
-      "missing": 2398,
+      "translated": 1020,
+      "missing": 2128,
       "same_as_english": 0
     },
     "Metadata": {
@@ -28,18 +28,18 @@
   "names": {
     "item": {
       "total": 911,
-      "translated": 455,
-      "missing": 456
+      "translated": 515,
+      "missing": 396
     },
     "monster": {
       "total": 314,
-      "translated": 192,
-      "missing": 122
+      "translated": 214,
+      "missing": 100
     },
     "npc": {
       "total": 101,
-      "translated": 57,
-      "missing": 44
+      "translated": 63,
+      "missing": 38
     },
     "other": {
       "total": 1,

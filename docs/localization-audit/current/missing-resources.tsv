@@ -1445,24 +1445,13 @@ Game	Number of Registered Rena	NumberOfRegisteredRena	Number of Registered Rena
 Game	Lucky number	LuckyNumber	Lucky number
 Game	/Battle	Battle	/Battle
 Game	/Battle Soccer	BattleSoccer	/Battle Soccer
-Game	Arrows reloaded	ArrowsReloaded	Arrows reloaded
-Game	No more arrows	NoMoreArrows	No more arrows
-Game	Storage must be closed to warp	StorageMustBeClosedToWarp	Storage must be closed to warp
-Game	Your level must be over %d to warp	YourLevelMustBeOverDToWarp	Your level must be over %d to warp
 Game	Guild254	Guild254	/guild
-Game	You are already in a guild	YouAreAlreadyInAGuild	You are already in a guild
 Game	Party256	Party256	/party
-Game	You are already in a party	YouAreAlreadyInAParty	You are already in a party
 Game	/exchange	Exchange	/exchange
 Game	Trade259	Trade259	/trade
 Game	/warp	Warp	/warp
-Game	You cannot go to Atlans while riding a Unicorn	YouCannotGoToAtlansWhileRidingAUnicorn	You cannot go to Atlans while riding a Unicorn
-Game	You can enter Altans only after joining a party.	YouCanEnterAltansOnlyAfterJoiningAParty	You can enter Altans only after joining a party.
-Game	You can enter Icarus only with wings, dinorant, fenrirr	YouCanEnterIcarusOnlyWithWingsDinorantFenrirr	You can enter Icarus only with wings, dinorant, fenrirr
 Game	/whisper off	WhisperOff	/whisper off
 Game	/whisper on	WhisperOn	/whisper on
-Game	Whisper function is now off	WhisperFunctionIsNowOff	Whisper function is now off
-Game	Whisper function is now on	WhisperFunctionIsNowOn	Whisper function is now on
 Game	Hello	Hello	Hello
 Game	Hi	Hi	Hi
 Game	Welcome	Welcome	Welcome
@@ -1509,62 +1498,20 @@ Game	Rush	Rush	Rush
 Game	Go go	GoGo	Go go
 Game	Look around	LookAround	Look around
 Game	/mu	Mu	/mu
-Game	Only characters over level %d can enter.	OnlyCharactersOverLevelDCanEnter	Only characters over level %d can enter.
-Game	Exp: %d/%d	ExpDD	Exp: %d/%d
-Game	Life: %d/%d	LifeDD	Life: %d/%d
-Game	ManaDD359	ManaDD359	Mana: %d/%d
-Game	Party (P)	PartyP	Party (P)
-Game	Character (C)	CharacterC	Character (C)
-Game	Guild (G)	GuildG	Guild (G)
-Game	Level	Level	Level
-Game	(%s) stat %d points have been generated.	SStatDPointsHaveBeenGenerated	(%s) stat %d points have been generated.
-Game	stat creation failed from fruit combination.	StatCreationFailedFromFruitCombination	stat creation failed from fruit combination.
-Game	(%s fruit) stat %d points have been %s.	SFruitStatDPointsHaveBeenS	(%s fruit) stat %d points have been %s.
-Game	You will exit game in %d seconds.	YouWillExitGameInDSeconds	You will exit game in %d seconds.
-Game	Video	Video	Video
-Game	UI	UI	UI
-Game	S6 player models	S6PlayerModels	S6 player models
-Game	S6 Player Models Tooltip	S6PlayerModelsTooltip	On: original S6 models. Off: improved models. Restart the game to apply.
-Game	Legacy	Legacy	Legacy
-Game	Modern	Modern	Modern
-Game	Volume	Volume	Volume
-Game	Restricted words are	RestrictedWordsAre	Restricted words are
-Game	included.	Included	included.
-Game	Invalid character name	InvalidCharacterName	Invalid character name
-Game	or name supplied already exists.	OrNameSuppliedAlreadyExists	or name supplied already exists.
-Game	If you would like to remove %s	IfYouWouldLikeToRemoveS	If you would like to remove %s
-Game	you must enter your vault password.	YouMustEnterYourVaultPassword	you must enter your vault password.
 Game	over level 40.	OverLevel40	over level 40.
-Game	New version of game is required	NewVersionOfGameIsRequired	New version of game is required
-Game	Please download the new version	PleaseDownloadTheNewVersion	Please download the new version
-Game	Connection error	ConnectionError	Connection error
-Game	Connection closed due to 3 failed attempts.	ConnectionClosedDueTo3FailedAttempts	Connection closed due to 3 failed attempts.
 Game	Your individual subscription term is over.	YourIndividualSubscriptionTermIsOver	Your individual subscription term is over.
 Game	Your individual subscription time is over.	YourIndividualSubscriptionTimeIsOver	Your individual subscription time is over.
 Game	Subscription term is over on your IP.	SubscriptionTermIsOverOnYourIP	Subscription term is over on your IP.
 Game	Subscription time is over on your IP.	SubscriptionTimeIsOverOnYourIP	Subscription time is over on your IP.
 Game	%s	S	%s
-Game	You can not trade over 50 million Zen at once	YouCanNotTradeOver50MillionZenAtOnce	You can not trade over 50 million Zen at once
-Game	Someone requests you to join their a party	SomeoneRequestsYouToJoinTheirAParty	Someone requests you to join their a party
-Game	Please draw your guild emblem	PleaseDrawYourGuildEmblem	Please draw your guild emblem
-Game	If you want to leave your guild,	IfYouWantToLeaveYourGuild	If you want to leave your guild,
-Game	You have received an offer to join a guild.	YouHaveReceivedAnOfferToJoinAGuild	You have received an offer to join a guild.
-Game	%s guild challenges you	SGuildChallengesYou	%s guild challenges you
-Game	to a Guild War.	ToAGuildWar	to a Guild War.
-Game	You have been challenged to Battle Soccer	YouHaveBeenChallengedToBattleSoccer	You have been challenged to Battle Soccer
 Game	No charge info	NoChargeInfo	No charge info
 Game	Only players age 18 and over are permitted to connect to this server	OnlyPlayersAge18AndOverArePermittedToConnectToThisServer	Only players age 18 and over are permitted to connect to this server
-Game	if you want to lock the inventory,	IfYouWantToLockTheInventory	if you want to lock the inventory,
-Game	No more stats would be increased on your level.	NoMoreStatsWouldBeIncreasedOnYourLevel	No more stats would be increased on your level.
 Game	Agree with the above agreement	AgreeWithTheAboveAgreement	Agree with the above agreement
 Game	Do you want to move your account into the divided server?	DoYouWantToMoveYourAccountIntoTheDividedServer	Do you want to move your account into the divided server?
-Game	Dissolve or leave your guild	DissolveOrLeaveYourGuild	Dissolve or leave your guild
 Game	(c) Copyright 2001 Webzen	CCopyright2001Webzen	(c) Copyright 2001 Webzen
 Game	 All Rights Reserved.	AllRightsReserved	 All Rights Reserved.
 Game	Ver %s	VerS	Ver %s
-Game	Operation	Operation	Operation
 Game	WEBZEN	WEBZEN	WEBZEN
-Game	%s: Screenshot Saved	SScreenshotSaved	%s: Screenshot Saved
 Game	1)After moving your account into the divided server,	_1AfterMovingYourAccountIntoTheDividedServer	1)After moving your account into the divided server,
 Game	you can not move your account back to the previous server.	YouCanNotMoveYourAccountBackToThePreviousServer	you can not move your account back to the previous server.
 Game	2)After moving your account into the divided server,	_2AfterMovingYourAccountIntoTheDividedServer	2)After moving your account into the divided server,
@@ -1573,60 +1520,7 @@ Game	will move into the divided server	WillMoveIntoTheDividedServer	will move in
 Game	when you login the divided server.	WhenYouLoginTheDividedServer	when you login the divided server.
 Game	3)After moving your account into the divided server	_3AfterMovingYourAccountIntoTheDividedServer	3)After moving your account into the divided server
 Game	game will be automatically closed	GameWillBeAutomaticallyClosed	game will be automatically closed
-Game	Connecting to the server	ConnectingToTheServer	Connecting to the server
-Game	You cannot use your items while using the vault or while trading.	YouCannotUseYourItemsWhileUsingTheVaultOrWhileTrading	You cannot use your items while using the vault or while trading.
-Game	You have requested %s to trade.	YouHaveRequestedSToTrade	You have requested %s to trade.
-Game	You have requested %s to join your party.	YouHaveRequestedSToJoinYourParty	You have requested %s to join your party.
-Game	You have requested %s to join your guild.	YouHaveRequestedSToJoinYourGuild	You have requested %s to join your guild.
-Game	You can use the trade command at character level 6	YouCanUseTheTradeCommandAtCharacterLevel6	You can use the trade command at character level 6
-Game	You can use the whisper command at character level 6	YouCanUseTheWhisperCommandAtCharacterLevel6	You can use the whisper command at character level 6
-Game	Tied!!!	Tied	Tied!!!
-Game	You are connected to the server	YouAreConnectedToTheServer	You are connected to the server
-Game	No users	NoUsers	No users
-Game	[Notice for guild members] %s	NoticeForGuildMembersS	[Notice for guild members] %s
-Game	Welcome to	WelcomeTo	Welcome to %s
 Game	Of	Of	Of
-Game	Obtained %d Exp	ObtainedDExp	Obtained %d Exp
-Game	Hero	Hero	Hero
-Game	Outlaw Warning	OutlawWarning	Outlaw Warning
-Game	1st Stage Outlaw	_1stStageOutlaw	1st Stage Outlaw
-Game	2nd Stage Outlaw	_2ndStageOutlaw	2nd Stage Outlaw
-Game	Creating a party has failed.	CreatingAPartyHasFailed	Creating a party has failed.
-Game	Your request has been denied.	YourRequestHasBeenDenied	Your request has been denied.
-Game	Party is full.	PartyIsFull	Party is full.
-Game	The user has left the game.	TheUserHasLeftTheGame	The user has left the game.
-Game	The user is already in another party.	TheUserIsAlreadyInAnotherParty	The user is already in another party.
-Game	You have just left the party.	YouHaveJustLeftTheParty	You have just left the party.
-Game	Guild master has refused your request to join the guild.	GuildMasterHasRefusedYourRequestToJoinTheGuild	Guild master has refused your request to join the guild.
-Game	You have just joined the guild.	YouHaveJustJoinedTheGuild	You have just joined the guild.
-Game	The guild is full.	TheGuildIsFull	The guild is full.
-Game	The user is not a guild master.	TheUserIsNotAGuildMaster	The user is not a guild master.
-Game	You cannot join more than one guild.	YouCannotJoinMoreThanOneGuild	You cannot join more than one guild.
-Game	The guild master is too busy to approve your request to join the guild	TheGuildMasterIsTooBusyToApproveYourRequestToJoinTheGuild	The guild master is too busy to approve your request to join the guild
-Game	Chracters over level 6 can join a guild.	ChractersOverLevel6CanJoinAGuild	Chracters over level 6 can join a guild.
-Game	You have left the guild.	YouHaveLeftTheGuild	You have left the guild.
-Game	Only a guild master can disband a guild.	OnlyAGuildMasterCanDisbandAGuild	Only a guild master can disband a guild.
-Game	You have failed from the guild	YouHaveFailedFromTheGuild	You have failed from the guild
-Game	The guild has been dissolved	TheGuildHasBeenDissolved	The guild has been dissolved
-Game	The guild name already exists	TheGuildNameAlreadyExists	The guild name already exists
-Game	Guild name must be at least 4 characters	GuildNameMustBeAtLeast4Characters	Guild name must be at least 4 characters
-Game	YouAreAlreadyInAGuild518	YouAreAlreadyInAGuild518	You are already in a guild.
-Game	That guild does not exist.	ThatGuildDoesNotExist	That guild does not exist.
-Game	You have declared a Guild War.	YouHaveDeclaredAGuildWar	You have declared a Guild War.
-Game	The opposing guild master is not in the game.	TheOpposingGuildMasterIsNotInTheGame	The opposing guild master is not in the game.
-Game	You can not declare a Guild War now.	YouCanNotDeclareAGuildWarNow	You can not declare a Guild War now.
-Game	Only guild masters can declare a Guild War.	OnlyGuildMastersCanDeclareAGuildWar	Only guild masters can declare a Guild War.
-Game	Your request for a Guild War is refused.	YourRequestForAGuildWarIsRefused	Your request for a Guild War is refused.
-Game	A Guild War against %s guild has started!	AGuildWarAgainstSGuildHasStarted	A Guild War against %s guild has started!
-Game	You have lost the Guild War!!!	YouHaveLostTheGuildWar	You have lost the Guild War!!!
-Game	You have won the Guild War!!!	YouHaveWonTheGuildWar	You have won the Guild War!!!
-Game	You have won the Guild War!!!(Opposing guild master left)	YouHaveWonTheGuildWarOpposingGuildMasterLeft	You have won the Guild War!!!(Opposing guild master left)
-Game	You have lost the Guild War!!!(Guild master left)	YouHaveLostTheGuildWarGuildMasterLeft	You have lost the Guild War!!!(Guild master left)
-Game	You have won the Guild War!!!(Opposing guild disbanded)	YouHaveWonTheGuildWarOpposingGuildDisbanded	You have won the Guild War!!!(Opposing guild disbanded)
-Game	You have lost the Guild War!!!(Guild disbanded)	YouHaveLostTheGuildWarGuildDisbanded	You have lost the Guild War!!!(Guild disbanded)
-Game	A Battle Soccer has started with %s guild.	ABattleSoccerHasStartedWithSGuild	A Battle Soccer has started with %s guild.
-Game	%s guild wins a point.	SGuildWinsAPoint	%s guild wins a point.
-Game	The level gap between you two has to be less than 130	TheLevelGapBetweenYouTwoHasToBeLessThan130	The level gap between you two has to be less than 130
 Game	Valhalla	Valhalla	Valhalla
 Game	Helheim	Helheim	Helheim
 Game	Midgard	Midgard	Midgard
@@ -1652,64 +1546,10 @@ Game	therefore, data loss may occur.	ThereforeDataLossMayOccur	therefore, data l
 Game	Since Helheim server	SinceHelheimServer	Since Helheim server
 Game	tends to be crowded	TendsToBeCrowded	tends to be crowded
 Game	we recommend that you use other servers.	WeRecommendThatYouUseOtherServers	we recommend that you use other servers.
-Game	guild member has been withdrawn.	GuildMemberHasBeenWithdrawn	guild member has been withdrawn.
-Game	You cannot warp while riding on a unicorn	YouCannotWarpWhileRidingOnAUnicorn	You cannot warp while riding on a unicorn
 Game	Pwned by the Filter!	PwnedByTheFilter	Pwned by the Filter!
-Game	Absorb 30%% of damage	Absorb30OfDamage	Absorb 30%% of damage
-Game	Skill Damage: %d%%	SkillDamageD	Skill Damage: %d%%
-Game	%s Required Zen: %s	SRequiredZenS	%s Required Zen: %s
-Game	when %s, You must have a Jewel of Chaos	WhenSYouMustHaveAJewelOfChaos	when %s, You must have a Jewel of Chaos
-Game	in order to combine items	InOrderToCombineItems	in order to combine items
-Game	in case you fail on	InCaseYouFailOn	in case you fail on
-Game	Please note that	PleaseNoteThat	Please note that
-Game	the level of items decreases	TheLevelOfItemsDecreases	the level of items decreases
-Game	Chaos combination has failed	ChaosCombinationHasFailed	Chaos combination has failed
-Game	Chaos combination has succeeded	ChaosCombinationHasSucceeded	Chaos combination has succeeded
 Game	Point - no more dates	PointNoMoreDates	Point - no more dates
 Game	Point - no more points left	PointNoMorePointsLeft	Point - no more points left
-Game	Your IP is not allowed to connect	YourIPIsNotAllowedToConnect	Your IP is not allowed to connect
-Game	Item levels must be identical to combine. items are of the same Level	ItemLevelsMustBeIdenticalToCombineItemsAreOfTheSameLevel	Item levels must be identical to combine. items are of the same Level
-Game	Chaos combination	ChaosCombination	Chaos combination
-Game	create a ticket of Devil Square	CreateATicketOfDevilSquare	create a ticket of Devil Square
-Game	Create +10 item	Create10Item	Create +10 item
-Game	Create +11 item	Create11Item	Create +11 item
-Game	During creation of +10 ~ +15 items,	DuringCreationOf1015Items	During creation of +10 ~ +15 items,
-Game	notice that there is a possibility	NoticeThatThereIsAPossibility	notice that there is a possibility
-Game	that you may lose the items.	ThatYouMayLoseTheItems	that you may lose the items.
-Game	Conversation is over	ConversationIsOver	Conversation is over
-Game	Notice that when you fail to combine the items	NoticeThatWhenYouFailToCombineTheItems	Notice that when you fail to combine the items
-Game	you can lose the items	YouCanLoseTheItems	you can lose the items
-Game	Create Dinorant	CreateDinorant	Create Dinorant
-Game	Create Fruit	CreateFruit	Create Fruit
-Game	Create Wings	CreateWings	Create Wings
-Game	Create cloak of Invisibility	CreateCloakOfInvisibility	Create cloak of Invisibility
 Game	Reserve: Chaos expansion combination	ReserveChaosExpansionCombination	Reserve: Chaos expansion combination
-Game	Create Set Item	CreateSetItem	Create Set Item
-Game	Excellent	Excellent	Excellent
-Game	Increase Max HP +4%%	IncreaseMaxHP4	Increase Max HP +4%%
-Game	Increase Max Mana +4%%	IncreaseMaxMana4	Increase Max Mana +4%%
-Game	Damage Decrease +4%%	DamageDecrease4	Damage Decrease +4%%
-Game	Reflect Damage +5%%	ReflectDamage5	Reflect Damage +5%%
-Game	Defense success rate +10%%	DefenseSuccessRate10	Defense success rate +10%%
-Game	Increases acquisition rate of Zen after hunting monsters +30%%	IncreasesAcquisitionRateOfZenAfterHuntingMonsters30	Increases acquisition rate of Zen after hunting monsters +30%%
-Game	Excellent Damage rate +10%%	ExcellentDamageRate10	Excellent Damage rate +10%%
-Game	Increase Damage +level/20	IncreaseDamageLevel20	Increase Damage +level/20
-Game	Increase Damage +%d%%	IncreaseDamageD	Increase Damage +%d%%
-Game	Increase Wizardry Dmg +level/20	IncreaseWizardryDmgLevel20	Increase Wizardry Dmg +level/20
-Game	Increase Wizardry Dmg +%d%%	IncreaseWizardryDmgD	Increase Wizardry Dmg +%d%%
-Game	Increase Attacking(Wizardry)speed +%d	IncreaseAttackingWizardrySpeedD	Increase Attacking(Wizardry)speed +%d
-Game	Increases acquisition rate of Life after hunting monsters +life/8	IncreasesAcquisitionRateOfLifeAfterHuntingMonstersLife8	Increases acquisition rate of Life after hunting monsters +life/8
-Game	Increases acquisition rate of Mana after hunting monsters +Mana/8	IncreasesAcquisitionRateOfManaAfterHuntingMonstersMana8	Increases acquisition rate of Mana after hunting monsters +Mana/8
-Game	You will enter Devil Square (%d seconds from now)	YouWillEnterDevilSquareDSecondsFromNow	You will enter Devil Square (%d seconds from now)
-Game	The gate of Devil Square will close down in %d seconds	TheGateOfDevilSquareWillCloseDownInDSeconds	The gate of Devil Square will close down in %d seconds
-Game	The gate of Devil Square is closing down (%d seconds remaining)	TheGateOfDevilSquareIsClosingDownDSecondsRemaining	The gate of Devil Square is closing down (%d seconds remaining)
-Game	You can enter Devil Square now!!	YouCanEnterDevilSquareNow	You can enter Devil Square now!!
-Game	Devil Square will open in %d minutes.	DevilSquareWillOpenInDMinutes	Devil Square will open in %d minutes.
-Game	The %d Square (%d-%d level)	TheDSquareDDLevel	The %d Square (%d-%d level)
-Game	The %d Square (Over %d level)	TheDSquareOverDLevel	The %d Square (Over %d level)
-Game	Congratulations!	Congratulations	Congratulations!
-Game	%s, Your bravery is proven in Devil Square.	SYourBraveryIsProvenInDevilSquare	%s, Your bravery is proven in Devil Square.
-Game	Must be over level 10 to combine the invitation to Devil Square.	MustBeOverLevel10ToCombineTheInvitationToDevilSquare	Must be over level 10 to combine the invitation to Devil Square.
 Game	RumorHasItThatRecentlyMonsters	RumorHasItThatRecentlyMonsters	Rumor has it that recently monsters have been wandering around Noria. I thought those creatures only existed as part of a legend... I wonder what could have brought them here.
 Game	If you want to find out about the Devil Square, go meet Charon in Noria	IfYouWantToFindOutAboutTheDevilSquareGoMeetCharonInNoria	If you want to find out about the Devil Square, go meet Charon in Noria
 Game	TheDevilSquareIsAPlace	TheDevilSquareIsAPlace	The Devil Square is a place where warriors prove their courage. Qualified warriors will be given the Devil invitation. Go to the Chaos Goblin in Noria with the Devil eye, Devil key, Jewel of Chaos and enough Zen.
@@ -1723,19 +1563,12 @@ Game	BringMeTheDevilEyeDevil	BringMeTheDevilEyeDevil	Bring me the Devil Eye, Dev
 Game	YouVeBroughtTheDevilS	YouVeBroughtTheDevilS	You've brought the Devil's treasure! May the Goddess of fortune be with you so you may find treasure that suits your needs.
 Game	FinallyTheGateOfDevilSquare	FinallyTheGateOfDevilSquare	Finally, the gate of Devil Square has opened again. Charon the gate keeper will allow you to enter Devil Square
 Game	ManyAdventurersAreLookingForThe	ManyAdventurersAreLookingForThe	Many adventurers are looking for the Devil's Eye and Key. You need both of them to receive a ticket that will get you into Devil Square.
-Game	Only level above %d can do the Chaos Combination.	OnlyLevelAboveDCanDoTheChaosCombination	Only level above %d can do the Chaos Combination.
-Game	+%d Item creation	DItemCreation	+%d Item creation
-Game	+12 Item creation	_12ItemCreation	+12 Item creation
-Game	+13 Item creation	_13ItemCreation	+13 Item creation
-Game	Valley of Loren	ValleyOfLoren	Valley of Loren
 Game	You've been given a chance to prove your bravery.	YouVeBeenGivenAChanceToProveYourBravery	You've been given a chance to prove your bravery.
 Game	No one has ever entered the Devil Square yet.	NoOneHasEverEnteredTheDevilSquareYet	No one has ever entered the Devil Square yet.
 Game	No human has ever gone there.	NoHumanHasEverGoneThere	No human has ever gone there.
 Game	Do not believe anything you see in there.	DoNotBelieveAnythingYouSeeInThere	Do not believe anything you see in there.
 Game	Only trust your bravery and strength	OnlyTrustYourBraveryAndStrength	Only trust your bravery and strength
 Game	Only your bravery and strength will keep you alive.	OnlyYourBraveryAndStrengthWillKeepYouAlive	Only your bravery and strength will keep you alive.
-Game	Enter a new character name.	EnterANewCharacterName	Enter a new character name.
-Game	Bring the Devil's invitation to enter.	BringTheDevilSInvitationToEnter	Bring the Devil's invitation to enter.
 Game	You've come too late to enter the Devil Square.	YouVeComeTooLateToEnterTheDevilSquare	You've come too late to enter the Devil Square.
 Game	Devil Square is full.	DevilSquareIsFull	Devil Square is full.
 Game	Rank	Rank	Rank
@@ -1931,7 +1764,6 @@ Game	5 shot skill (Mana: %d)	_5ShotSkillManaD	5 shot skill (Mana: %d)
 Game	Ring of Warrior	RingOfWarrior	Ring of Warrior
 Game	You can drop the ring when you reach level %d.	YouCanDropTheRingWhenYouReachLevelD	You can drop the ring when you reach level %d.
 Game	Ring of Wizard	RingOfWizard	Ring of Wizard
-Game	Close (%s)	CloseS	Close (%s)
 Game	Ring of glory	RingOfGlory	Ring of glory
 Game	Warp Command Window	WarpCommandWindow	Warp Command Window
 Game	Map	Map	Map
@@ -2112,7 +1944,6 @@ Game	Increase attribute damage	IncreaseAttributeDamage	Increase attribute damage
 Game	Failed to purchase. Please try again.	FailedToPurchasePleaseTryAgain	Failed to purchase. Please try again.
 Game	Be a first Lord of the castle!!	BeAFirstLordOfTheCastle	Be a first Lord of the castle!!
 Game	Join the castle party and get lots of prizes!!	JoinTheCastlePartyAndGetLotsOfPrizes	Join the castle party and get lots of prizes!!
-Game	No pet	NoPet	No pet
 Game	CommandD1170	CommandD1170	Command: %d
 Game	Only level %d above can do cloak combination.	OnlyLevelDAboveCanDoCloakCombination	Only level %d above can do cloak combination.
 Game	Create cloak item	CreateCloakItem	Create cloak item
@@ -2151,12 +1982,6 @@ Game	Resurrection successful.	ResurrectionSuccessful	Resurrection successful.
 Game	Long spear skill (mana:%d)	LongSpearSkillManaD	Long spear skill (mana:%d)
 Game	Drop the item and exit.	DropTheItemAndExit	Drop the item and exit.
 Game	Item inappropriate for %s	ItemInappropriateForS	Item inappropriate for %s
-Game	Pet	Pet	Pet
-Game	Commands	Commands	Commands
-Game	Basic action	BasicAction	Basic action
-Game	Random automatic attack	RandomAutomaticAttack	Random automatic attack
-Game	Attack with owner	AttackWithOwner	Attack with owner
-Game	Attack target	AttackTarget	Attack target
 Game	Follow around the character.	FollowAroundTheCharacter	Follow around the character.
 Game	Attack any monsters around the character.	AttackAnyMonstersAroundTheCharacter	Attack any monsters around the character.
 Game	Attack the monster together with the character.	AttackTheMonsterTogetherWithTheCharacter	Attack the monster together with the character.
@@ -2167,7 +1992,6 @@ Game	Pet is not equipped.	PetIsNotEquipped	Pet is not equipped.
 Game	Life has been recovered	LifeHasBeenRecovered	Life has been recovered
 Game	%s zen is lacking to recover life.	SZenIsLackingToRecoverLife	%s zen is lacking to recover life.
 Game	%s zen is required to recover life.	SZenIsRequiredToRecoverLife	%s zen is required to recover life.
-Game	No %s.	NoS	No %s.
 Game	The account has been teleported general character %d, Magic Gladiator %d	TheAccountHasBeenTeleportedGeneralCharacterDMagicGladiatorD	The account has been teleported general character %d, Magic Gladiator %d
 Game	Teleport character	TeleportCharacter	Teleport character
 Game	Magic Gladiator, Dark lord	MagicGladiatorDarkLord	Magic Gladiator, Dark lord
@@ -2511,13 +2335,10 @@ Game	Balgass' Barrack	BalgassBarrack	Balgass' Barrack
 Game	Balgass' Resting Place	BalgassRestingPlace	Balgass' Resting Place
 Game	Fenrir's Horn, Scroll of Blood, Condor's Feather	FenrirSHornScrollOfBloodCondorSFeather	Fenrir's Horn, Scroll of Blood, Condor's Feather
 Game	Regular chat	RegularChat	Regular chat
-Game	Party chat	PartyChat	Party chat
 Game	Guilt chat	GuiltChat	Guilt chat
 Game	Whisper block: On/Off	WhisperBlockOnOff	Whisper block: On/Off
 Game	System message pop-up	SystemMessagePopUp	System message pop-up
 Game	Chat window background On/Off (F5)	ChatWindowBackgroundOnOffF5	Chat window background On/Off (F5)
-Game	 Curse Spell: %d ~ %d(+%d)	CurseSpellDDD	 Curse Spell: %d ~ %d(+%d)
-Game	CurseSpellDD1694	CurseSpellDD1694	 Curse Spell: %d ~ %d
 Game	Explosion Skill (Mana: %d)	ExplosionSkillManaD	Explosion Skill (Mana: %d)
 Game	Requiem (Mana: %d)	RequiemManaD	Requiem (Mana: %d)
 Game	Additional Curse Spell +%d	AdditionalCurseSpellD	Additional Curse Spell +%d
@@ -2553,8 +2374,6 @@ Game	Move (M)	MoveM	Move (M)
 Game	Menu (U)	MenuU	Menu (U)
 Game	Master level: %d	MasterLevelD	Master level: %d
 Game	Level point: %d	LevelPointD	Level point: %d
-Game	EXP:%I64d / %I64d	EXPI64dI64d	EXP:%llu / %llu
-Game	Master skill tree (A)	MasterSkillTreeA	Master skill tree (A)
 Game	Master EXP achievement %d	MasterEXPAchievementD	Master EXP achievement %d
 Game	Peace: %d	PeaceD	Peace: %d
 Game	Wisdom: %d	WisdomD	Wisdom: %d
@@ -2576,7 +2395,6 @@ Game	Determination: %d	DeterminationD	Determination: %d
 Game	Justice: %d	JusticeD	Justice: %d
 Game	Conquer: %d	ConquerD	Conquer: %d
 Game	Glory: %d	GloryD	Glory: %d
-Game	Would you like to strengthen the skill?	WouldYouLikeToStrengthenTheSkill	Would you like to strengthen the skill?
 Game	Master level point requirement: %d	MasterLevelPointRequirementD	Master level point requirement: %d
 Game	Present investment point: %d	PresentInvestmentPointD	Present investment point: %d
 Game	Strengthener point requirement: %d	StrengthenerPointRequirementD	Strengthener point requirement: %d
@@ -2660,7 +2478,6 @@ Game	Corporate server	CorporateServer	Corporate server
 Game	Test server for the corporate internal use.	TestServerForTheCorporateInternalUse	Test server for the corporate internal use.
 Game	The applied equipments cannot be reset.	TheAppliedEquipmentsCannotBeReset	The applied equipments cannot be reset.
 Game	Stat re-initialization	StatReInitialization	Stat re-initialization
-Game	Re-Initialization Helper	ReInitializationHelper	Re-Initialization Helper
 Game	Click on the button to reinitialize all stat points.	ClickOnTheButtonToReinitializeAllStatPoints	Click on the button to reinitialize all stat points.
 Game	Registered	Registered	Registered
 Game	Delgado	Delgado	Delgado
@@ -2683,7 +2500,6 @@ Game	Fenrir's horn	FenrirSHorn	Fenrir's horn
 Game	Increase damage	IncreaseDamage	Increase damage
 Game	Absorb damage	AbsorbDamage	Absorb damage
 Game	Plasma storm skill (Mana:%d)	PlasmaStormSkillManaD	Plasma storm skill (Mana:%d)
-Game	Skills will improve through upgrading.	SkillsWillImproveThroughUpgrading	Skills will improve through upgrading.
 Game	Register your Lucky Coins or	RegisterYourLuckyCoinsOr	Register your Lucky Coins or
 Game	use the Lucky Coins you already have	UseTheLuckyCoinsYouAlreadyHave	use the Lucky Coins you already have
 Game	and exchange them for items.	AndExchangeThemForItems	and exchange them for items.
@@ -2748,7 +2564,6 @@ Game	Infinity arrow activated	InfinityArrowActivated	Infinity arrow activated
 Game	Cheer	Cheer	Cheer
 Game	Dance	Dance	Dance
 Game	Killers are restricted to enter %s.	KillersAreRestrictedToEnterS	Killers are restricted to enter %s.
-Game	Attack rate: %d	AttackRateD	Attack rate: %d
 Game	Would you like to cancel?	WouldYouLikeToCancel	Would you like to cancel?
 Game	Can be used after %dminutes	CanBeUsedAfterDminutes	Can be used after %dminutes
 Game	'Battle Soccer for Mutizen' will now begin. Join the event and be rewarded!	BattleSoccerForMutizenWillNowBeginJoinTheEventAndBeRewarded	'Battle Soccer for Mutizen' will now begin. Join the event and be rewarded!
@@ -2785,8 +2600,6 @@ Game	Not allowed	NotAllowed	Not allowed
 Game	%s has failed..	SHasFailed	%s has failed..
 Game	%s was successful.	SWasSuccessful	%s was successful.
 Game	Get the successful item.	GetTheSuccessfulItem	Get the successful item.
-Game	Attack rate: %d (+%d)	AttackRateDD	Attack rate: %d (+%d)
-Game	DefenseRateDD2110	DefenseRateDD2110	Defense rate: %d (+%d)
 Game	SHasFailed2112	SHasFailed2112	%s has failed.
 Game	This item is already enchanted	ThisItemIsAlreadyEnchanted	This item is already enchanted
 Game	Refresh	Refresh	Refresh
@@ -2828,7 +2641,6 @@ Game	Monster : %d	MonsterD	Monster : %d
 Game	Attack sucess rate increase +%d	AttackSucessRateIncreaseD	Attack sucess rate increase +%d
 Game	Additional Damage +%d	AdditionalDamageD	Additional Damage +%d
 Game	Defense success rate increase +%d	DefenseSuccessRateIncreaseD	Defense success rate increase +%d
-Game	Defensive skill +%d	DefensiveSkillD	Defensive skill +%d
 Game	Max. HP increase +%d	MaxHPIncreaseD	Max. HP increase +%d
 Game	Max. SD increase +%d	MaxSDIncreaseD	Max. SD increase +%d
 Game	SD auto recovery	SDAutoRecovery	SD auto recovery
@@ -2874,7 +2686,6 @@ Game	Unable to increase combination rate any further.	UnableToIncreaseCombinatio
 Game	Day	Day	Day
 Game	Unable to gain experience rate	UnableToGainExperienceRate	Unable to gain experience rate
 Game	Items except Chaos Card	ItemsExceptChaosCard	Items except Chaos Card
-Game	Can't execute combination. Check free space in your inventory.	CanTExecuteCombinationCheckFreeSpaceInYourInventory	Can't execute combination. Check free space in your inventory.
 Game	Success Rate : 100%%	SuccessRate100	Success Rate : 100%%
 Game	Can't execute combination.	CanTExecuteCombination	Can't execute combination.
 Game	You have achieve %s item.	YouHaveAchieveSItem	You have achieve %s item.
@@ -2884,14 +2695,11 @@ Game	Display accessories.	DisplayAccessories	Display accessories.
 Game	Display special items.	DisplaySpecialItems	Display special items.
 Game	YouCanSaveItToWish	YouCanSaveItToWish	You can save it to wish list by clicking the item.Saved item could be removed by clicking one more time.
 Game	Move to Top up page.	MoveToTopUpPage	Move to Top up page.
-Game	MU Item Shop(X)	MUItemShopX	MU Item Shop(X)
 Game	the size is width %d, height %d.	TheSizeIsWidthDHeightD	the size is width %d, height %d.
 Game	Cash Items	CashItems	Cash Items
 Game	Confirm purchase	ConfirmPurchase	Confirm purchase
 Game	You can't cancel after purchasing the items.	YouCanTCancelAfterPurchasingTheItems	You can't cancel after purchasing the items.
 Game	purchase complete.	PurchaseComplete	purchase complete.
-Game	Add to shopping cart?	AddToShoppingCart	Add to shopping cart?
-Game	Delete from shopping cart?	DeleteFromShoppingCart	Delete from shopping cart?
 Game	Website connection only available in windows mode.	WebsiteConnectionOnlyAvailableInWindowsMode	Website connection only available in windows mode.
 Game	W Coin	WCoin	W Coin
 Game	Buy W Coin	BuyWCoin	Buy W Coin
@@ -2903,9 +2711,6 @@ Game	Hour	Hour	Hour
 Game	Minute	Minute	Minute
 Game	Second	Second	Second
 Game	Preparing.	Preparing	Preparing.
-Game	Fail to use MU Item Shop. Please contact CS team.	FailToUseMUItemShopPleaseContactCSTeam	Fail to use MU Item Shop. Please contact CS team.
-Game	Error Code :	ErrorCode	Error Code :
-Game	MU Item Shop Item can't be sold to merchant NPC.	MUItemShopItemCanTBeSoldToMerchantNPC	MU Item Shop Item can't be sold to merchant NPC.
 Game	Less than 1 minutes	LessThan1Minutes	Less than 1 minutes
 Game	When leaving an Item in the combination window	WhenLeavingAnItemInTheCombinationWindow	When leaving an Item in the combination window
 Game	and disconnect MU	AndDisconnectMU	and disconnect MU
@@ -3083,12 +2888,6 @@ Game	Only characters who are level 15 or above may enter Santa's Village.	OnlyCh
 Game	CharacterNamesMustStartWithA	CharacterNamesMustStartWithA	Character names must start with a capital letter. Maximum length is 10 characters.
 Game	/Party battle request	PartyBattleRequest	/Party battle request
 Game	/Party battle cancellation	PartyBattleCancellation	/Party battle cancellation
-Game	%s has accepted your request for party battle.	SHasAcceptedYourRequestForPartyBattle	%s has accepted your request for party battle.
-Game	%s has rejected your request for party battle.	SHasRejectedYourRequestForPartyBattle	%s has rejected your request for party battle.
-Game	Party battle has been cancelled.	PartyBattleHasBeenCancelled	Party battle has been cancelled.
-Game	You cannot request another battle during the party battle.	YouCannotRequestAnotherBattleDuringThePartyBattle	You cannot request another battle during the party battle.
-Game	You have a request for the party battle.	YouHaveARequestForThePartyBattle	You have a request for the party battle.
-Game	Would you like to accept the party battle?	WouldYouLikeToAcceptThePartyBattle	Would you like to accept the party battle?
 Game	Unique	Unique	Unique
 Game	Socket	Socket	Socket
 Game	Element: %s	ElementS	Element: %s
@@ -3169,16 +2968,12 @@ Game	Fortress of Empire Guardians.	FortressOfEmpireGuardians	Fortress of Empire 
 Game	Varka	Varka	Varka
 Game	Requirements	Requirements	Requirements
 Game	Up to	UpTo	Up to
-Game	You've successfully completed the quest.	YouVeSuccessfullyCompletedTheQuest	You've successfully completed the quest.
 Game	You have reached your Zen limit.	YouHaveReachedYourZenLimit	You have reached your Zen limit.
-Game	You gave up on the quest.	YouGaveUpOnTheQuest	You gave up on the quest.
 Game	Open Character Stats (C) Window	OpenCharacterStatsCWindow	Open Character Stats (C) Window
-Game	You do not have the quest item necessary to enter.	YouDoNotHaveTheQuestItemNecessaryToEnter	You do not have the quest item necessary to enter.
 Game	You've cleared zone %d. Move on to the next zone.	YouVeClearedZoneDMoveOnToTheNextZone	You've cleared zone %d. Move on to the next zone.
 Game	There are too many players, and you cannot enter.	ThereAreTooManyPlayersAndYouCannotEnter	There are too many players, and you cannot enter.
 Game	There is still time remaining in this zone.	ThereIsStillTimeRemainingInThisZone	There is still time remaining in this zone.
 Game	CompleteSecromicon2837	CompleteSecromicon2837	Complete Secromicon.
-Game	Quest Item Missing	QuestItemMissing	Quest Item Missing
 Game	Zone Cleared	ZoneCleared	Zone Cleared
 Game	Capacity Exceeded	CapacityExceeded	Capacity Exceeded
 Game	Register 255 Lucky Coins during the event	Register255LuckyCoinsDuringTheEvent	Register 255 Lucky Coins during the event
@@ -3207,8 +3002,6 @@ Game	My W Coin : %s	MyWCoinS	My W Coin : %s
 Game	Goblin Points : %s	GoblinPointsS	Goblin Points : %s
 Game	Bonus Points : %s	BonusPointsS	Bonus Points : %s
 Game	Use	Use	Use
-Game	Gift Inventory	GiftInventory	Gift Inventory
-Game	Shop	Shop	Shop
 Game	Purchase Restriction	PurchaseRestriction	Purchase Restriction
 Game	This item is not for sale.	ThisItemIsNotForSale	This item is not for sale.
 Game	Purchase Confirmation	PurchaseConfirmation	Purchase Confirmation
@@ -3289,14 +3082,9 @@ Game	AllowsYouToRequestACharacter	AllowsYouToRequestACharacter	Allows you to req
 Game	Battle2987	Battle2987	(Battle)
 Game	Battle Zone	BattleZone	Battle Zone
 Game	The Command window cannot be activated in Battle Zone.	TheCommandWindowCannotBeActivatedInBattleZone	The Command window cannot be activated in Battle Zone.
-Game	You cannot form a party with a member of the opposing gens.	YouCannotFormAPartyWithAMemberOfTheOpposingGens	You cannot form a party with a member of the opposing gens.
 Game	The alliance master has not joined the gens.	TheAllianceMasterHasNotJoinedTheGens	The alliance master has not joined the gens.
-Game	The guild master has not joined the gens.	TheGuildMasterHasNotJoinedTheGens	The guild master has not joined the gens.
 Game	You are with a different gens than the alliance master.	YouAreWithADifferentGensThanTheAllianceMaster	You are with a different gens than the alliance master.
 Game	Contribution: %lu	ContributionLu	Contribution: %lu
-Game	The guild master is with a different gens.	TheGuildMasterIsWithADifferentGens	The guild master is with a different gens.
-Game	YouMustBelongToTheSame	YouMustBelongToTheSame	You must belong to the same gens as the guild master in order to join the guild.
-Game	You cannot form a party within a Battle Zone.	YouCannotFormAPartyWithinABattleZone	You cannot form a party within a Battle Zone.
 Game	Parties are not activated within a Battle Zone.	PartiesAreNotActivatedWithinABattleZone	Parties are not activated within a Battle Zone.
 Game	Fee: 5,000 Zens	Fee5000Zens	Fee: 5,000 Zens
 Game	Julia	Julia	Julia
@@ -3314,7 +3102,6 @@ Game	Gift recipient's ID is missing.	GiftRecipientSIDIsMissing	Gift recipient's 
 Game	You cannot send a gift to yourself.	YouCannotSendAGiftToYourself	You cannot send a gift to yourself.
 Game	There is no usable item.	ThereIsNoUsableItem	There is no usable item.
 Game	There is no deletable item.	ThereIsNoDeletableItem	There is no deletable item.
-Game	Cannot open MU Item Shop.#Please reconnect to the game.	CannotOpenMUItemShopPleaseReconnectToTheGame	Cannot open MU Item Shop.#Please reconnect to the game.
 Game	Cannot use the selected item.	CannotUseTheSelectedItem	Cannot use the selected item.
 Game	Price: %s	PriceS	Price: %s
 Game	Duration: %s	DurationS	Duration: %s
@@ -3329,11 +3116,9 @@ Game	UsingTheSItemWillNegate	UsingTheSItemWillNegate	Using the %s item will nega
 Game	Gift Info Window	GiftInfoWindow	Gift Info Window
 Game	Item Info Window	ItemInfoWindow	Item Info Window
 Game	W Coin: %s Coins	WCoinSCoins	W Coin: %s Coins
-Game	You can only open MU Item Shop in a town or safe zone.	YouCanOnlyOpenMUItemShopInATownOrSafeZone	You can only open MU Item Shop in a town or safe zone.
 Game	This item cannot be bought.	ThisItemCannotBeBought	This item cannot be bought.
 Game	Event items cannot be bought.	EventItemsCannotBeBought	Event items cannot be bought.
 Game	You've exceeded the maximum number of times you can purchase event items.	YouVeExceededTheMaximumNumberOfTimesYouCanPurchaseEventItems	You've exceeded the maximum number of times you can purchase event items.
-Game	Map (Tab)	MapTab	Map (Tab)
 Game	Because you can only use this item once, you cannot buy it.	BecauseYouCanOnlyUseThisItemOnceYouCannotBuyIt	Because you can only use this item once, you cannot buy it.
 Game	Doppelganger	Doppelganger	Doppelganger
 Game	PC Cafe Bonus	PCCafeBonus	PC Cafe Bonus
@@ -3341,7 +3126,6 @@ Game	EXP10IncreasePCCafeChaos	EXP10IncreasePCCafeChaos	 EXP 10%% Increase/ PC Ca
 Game	EXP10IncreasePCCafeChaos3061	EXP10IncreasePCCafeChaos3061	 EXP 10%% Increase/ PC Cafe Chaos Castle Access / Open Access to Kalima/ Goblin Point Increase/ Warp Command Window Use/ Stamina System not applied
 Game	 PC Cafe	PCCafe	 PC Cafe
 Game	You cannot engage in duels while in Loren Market.	YouCannotEngageInDuelsWhileInLorenMarket	You cannot engage in duels while in Loren Market.
-Game	You cannot ask others to join your party while in Loren Market.	YouCannotAskOthersToJoinYourPartyWhileInLorenMarket	You cannot ask others to join your party while in Loren Market.
 Game	Chaos Castle Lv.%lu Guardsman x %lu/%lu	ChaosCastleLvLuGuardsmanXLuLu	Chaos Castle Lv.%lu Guardsman x %lu/%lu
 Game	Chaos Castle Lv.%lu Player x %lu/%lu	ChaosCastleLvLuPlayerXLuLu	Chaos Castle Lv.%lu Player x %lu/%lu
 Game	Chaos Castle Lv.%lu Cleared	ChaosCastleLvLuCleared	Chaos Castle Lv.%lu Cleared
@@ -3382,7 +3166,6 @@ Game	A same type item is already in use. Cancel that item and then try again.	AS
 Game	Figurine item	FigurineItem	Figurine item
 Game	Charm item	CharmItem	Charm item
 Game	Relic item	RelicItem	Relic item
-Game	Right click on your inventory to use.	RightClickOnYourInventoryToUse	Right click on your inventory to use.
 Game	Excellent Damage increase +%d%%	ExcellentDamageIncreaseD	Excellent Damage increase +%d%%
 Game	Item Drop Rate increase +%d%%	ItemDropRateIncreaseD	Item Drop Rate increase +%d%%
 Game	You cannot purchase this item more than once.	YouCannotPurchaseThisItemMoreThanOnce	You cannot purchase this item more than once.
@@ -3403,10 +3186,8 @@ Game	W Coin(P)	WCoinP	W Coin(P)
 Game	My W Coin(P) : %s	MyWCoinPS	My W Coin(P) : %s
 Game	You need more %%s to purchase this item.	YouNeedMoreSToPurchaseThisItem	You need more %%s to purchase this item.
 Game	Cannot apply in Battle Zone.	CannotApplyInBattleZone	Cannot apply in Battle Zone.
-Game	You cannot join the gens while you're in a guild alliance.	YouCannotJoinTheGensWhileYouReInAGuildAlliance	You cannot join the gens while you're in a guild alliance.
 Game	Killing Blow (Mana: %d)	KillingBlowManaD	Killing Blow (Mana: %d)
 Game	Beast Uppercut (Mana: %d)	BeastUppercutManaD	Beast Uppercut (Mana: %d)
-Game	Melee Damage: %d%%	MeleeDamageD	Melee Damage: %d%%
 Game	Divine Damage (Roar, Slasher): %d%%	DivineDamageRoarSlasherD	Divine Damage (Roar, Slasher): %d%%
 Game	AOE Damage (Dark Side): %d%%	AOEDamageDarkSideD	AOE Damage (Dark Side): %d%%
 Game	Phoenix Shot (Mana:%d)	PhoenixShotManaD	Phoenix Shot (Mana:%d)
@@ -3424,7 +3205,6 @@ Game	%s Y/N	SYN	%s Y/N
 Game	%s other(s)	SOtherS	%s other(s)
 Game	%s point/sec(s)	SPointSecS	%s point/sec(s)
 Game	You have selected an incorrect W Coin type. Please select again.	YouHaveSelectedAnIncorrectWCoinTypePleaseSelectAgain	You have selected an incorrect W Coin type. Please select again.
-Game	Click the item to see the quest information again.	ClickTheItemToSeeTheQuestInformationAgain	Click the item to see the quest information again.
 Game	Lv. 350 - 400	Lv350400	Lv. 350 - 400
 Game	Bring it to Tercia to get the deposit back.	BringItToTerciaToGetTheDepositBack	Bring it to Tercia to get the deposit back.
 Game	You can obtain the powder from Queen Rainier.	YouCanObtainThePowderFromQueenRainier	You can obtain the powder from Queen Rainier.
@@ -3458,7 +3238,6 @@ Game	Gens Chat On/Off	GensChatOnOff	Gens Chat On/Off
 Game	You can't buy W coin while in full screen mode.	YouCanTBuyWCoinWhileInFullScreenMode	You can't buy W coin while in full screen mode.
 Game	You lack %d points.	YouLackDPoints	You lack %d points.
 Game	You can't raise any more levels.	YouCanTRaiseAnyMoreLevels	You can't raise any more levels.
-Game	You must meet all skill requirements.	YouMustMeetAllSkillRequirements	You must meet all skill requirements.
 Game	# #Next Level:#	NextLevel	# #Next Level:#
 Game	Requirements3329	Requirements3329	# #Requirements:#
 Game	Willpower: %d	WillpowerD	Willpower: %d
@@ -3467,15 +3246,11 @@ Game	Min & Max Wizardry Increase	MinMaxWizardryIncrease	Min & Max Wizardry Incre
 Game	Min & Max Wizardry, Critical Damage Rate Increase	MinMaxWizardryCriticalDamageRateIncrease	Min & Max Wizardry, Critical Damage Rate Increase
 Game	EXP: %6.2f%%	EXP62f	EXP: %6.2f%%
 Game	Move to a closed channel?	MoveToAClosedChannel	Move to a closed channel?
-Game	Insufficient space in the expanded vault	InsufficientSpaceInTheExpandedVault	Insufficient space in the expanded vault
 Game	You can use it after expanding it.	YouCanUseItAfterExpandingIt	You can use it after expanding it.
 Game	Adding a $ in front of text: Chat to Gens members	AddingAInFrontOfTextChatToGensMembers	Adding a $ in front of text: Chat to Gens members
 Game	F6: Normal Chat On/Off	F6NormalChatOnOff	F6: Normal Chat On/Off
-Game	F7: Party Chat On/Off	F7PartyChatOnOff	F7: Party Chat On/Off
-Game	F8: Guild Chat On/Off	F8GuildChatOnOff	F8: Guild Chat On/Off
 Game	F9: Gens Chat On/Off	F9GensChatOnOff	F9: Gens Chat On/Off
 Game	Cannot be used any more.	CannotBeUsedAnyMore	Cannot be used any more.
-Game	Use this to expand your vault.	UseThisToExpandYourVault	Use this to expand your vault.
 Game	Use this and log in to game again to activate.	UseThisAndLogInToGameAgainToActivate	Use this and log in to game again to activate.
 Game	TheNumberOfSkillPointsPossessed	TheNumberOfSkillPointsPossessed	The number of skill points possessed does not conform to the number of points needed to reach the Master skill level. Please contact customer service.
 Game	Increases max HP by 6%%	IncreasesMaxHPBy6	Increases max HP by 6%%
@@ -3484,8 +3259,6 @@ Game	Increases the amount of Zen received from killing monsters by 60%%	Increase
 Game	Increases the chance of causing Excellent Damage by 15%%	IncreasesTheChanceOfCausingExcellentDamageBy15	Increases the chance of causing Excellent Damage by 15%%
 Game	Increases attack speed by 10d	IncreasesAttackSpeedBy10d	Increases attack speed by 10d
 Game	Increases max Mana by 6%%	IncreasesMaxManaBy6	Increases max Mana by 6%%
-Game	You need a 5 person party to enter this area.	YouNeedA5PersonPartyToEnterThisArea	You need a 5 person party to enter this area.
-Game	All party members must be of the same level for this area.	AllPartyMembersMustBeOfTheSameLevelForThisArea	All party members must be of the same level for this area.
 Game	Players with an Outlaw or Killer status cannot enter this area.	PlayersWithAnOutlawOrKillerStatusCannotEnterThisArea	Players with an Outlaw or Killer status cannot enter this area.
 Game	 << Doppelganger entry level >>	DoppelgangerEntryLevel	 << Doppelganger entry level >>
 Game	Level#Basic#Advanced	LevelBasicAdvanced	Level#Basic#Advanced
@@ -3517,7 +3290,6 @@ Game	YouHaveAlreadyRegisteredTheGuild	YouHaveAlreadyRegisteredTheGuild	You have 
 Game	YouCannotParticipateInTheArca3398	YouCannotParticipateInTheArca3398	You cannot participate in the Arca War. Please register for the Arca War first.
 Game	The Arca War is not going on at the moment. Please enter during the Arca War.	TheArcaWarIsNotGoingOnAtTheMomentPleaseEnterDuringTheArcaWar	The Arca War is not going on at the moment. Please enter during the Arca War.
 Game	View Details	ViewDetails	View Details
-Game	My Quests	MyQuests	My Quests
 Game	Life	Life	Life
 Game	Attack Power (Rate)	AttackPowerRate	Attack Power (Rate)
 Game	Attack Speed	AttackSpeed	Attack Speed
@@ -3536,21 +3308,14 @@ Game	Hot Key	HotKey	Hot Key
 Game	Chatting Mode Hot Key	ChattingModeHotKey	Chatting Mode Hot Key
 Game	Feature	Feature	Feature
 Game	X	X	X
-Game	In-game Shop	InGameShop	In-game Shop
 Game	C	C	C
 Game	I	I	I
 Game	T	T	T
 Game	Community	Community	Community
-Game	View Map	ViewMap	View Map
 Game	Etc.	Etc	Etc.
-Game	Guild Mark	GuildMark	Guild Mark
 Game	Choose color	ChooseColor	Choose color
-Game	Guild Score	GuildScore	Guild Score
-Game	Guild Members	GuildMembers	Guild Members
-Game	Choose Hostility Guild	ChooseHostilityGuild	Choose Hostility Guild
 Game	Score3438	Score3438	Score :
 Game	People	People	People
-Game	Normal Guild Members	NormalGuildMembers	Normal Guild Members
 Game	F1	F1	F1
 Game	M	M	M
 Game	O	O	O
@@ -3564,9 +3329,6 @@ Game	Store Name	StoreName	Store Name
 Game	%sZen required	SZenRequired	%sZen required
 Game	%d pieces combined	DPiecesCombined	%d pieces combined
 Game	Entrance Fee	EntranceFee	Entrance Fee
-Game	NPC Quest	NPCQuest	NPC Quest
-Game	Register Guild	RegisterGuild	Register Guild
-Game	Trade Target	TradeTarget	Trade Target
 Game	Price3464	Price3464	Price
 Game	You cannot do this during the Arca War event.	YouCannotDoThisDuringTheArcaWarEvent	You cannot do this during the Arca War event.
 Game	Improper items for combination/refinement	ImproperItemsForCombinationRefinement	Improper items for combination/refinement
@@ -3577,34 +3339,15 @@ Game	Moving back to character selection window.	MovingBackToCharacterSelectionWi
 Game	Moving to another area.	MovingToAnotherArea	Moving to another area.
 Game	Min	Min	Min
 Game	Save setup	SaveSetup	Save setup
-Game	InTheCaseOfDeregisteringBasic	InTheCaseOfDeregisteringBasic	In the case of deregistering Basic skill and activation skill 1&2, combo skill can't be used.
-Game	DelayAndConditionSettingMenusCan	DelayAndConditionSettingMenusCan	Delay and Condition Setting Menus Can't Be Available With Using Combo Skill.
 Game	Please Enter the Item Name for Addition	PleaseEnterTheItemNameForAddition	Please Enter the Item Name for Addition
 Game	Same name of the item exists in the list	SameNameOfTheItemExistsInTheList	Same name of the item exists in the list
-Game	ThisSkillWasAlreadyRegisteredRegistered	ThisSkillWasAlreadyRegisteredRegistered	This skill was already registered. Registered Skill can be deregistered by clicking the right mouse button.
 Game	Selected Item can be added to maximum %d piece(s)	SelectedItemCanBeAddedToMaximumDPieceS	Selected Item can be added to maximum %d piece(s)
 Game	The list of Add Selected Items is emptied	TheListOfAddSelectedItemsIsEmptied	The list of Add Selected Items is emptied
 Game	There is no selected item	ThereIsNoSelectedItem	There is no selected item
-Game	Any characters under level %d can't run Official MU Helper.	AnyCharactersUnderLevelDCanTRunOfficialMUHelper	Any characters under level %d can't run Official MU Helper.
-Game	Official MU Helper only runs in filed	OfficialMUHelperOnlyRunsInFiled	Official MU Helper only runs in filed
-Game	In order to run Official MU Helper, please close Inventory window	InOrderToRunOfficialMUHelperPleaseCloseInventoryWindow	In order to run Official MU Helper, please close Inventory window
-Game	In order to run Official MU Helper, please close MU Guide window	InOrderToRunOfficialMUHelperPleaseCloseMUGuideWindow	In order to run Official MU Helper, please close MU Guide window
-Game	InOrderToRunOfficialMU	InOrderToRunOfficialMU	In order to run Official MU Helper properly, please register skills (Except Fairy)
-Game	Official MU Helper is running.	OfficialMUHelperIsRunning	Official MU Helper is running.
-Game	Official MU Helper is closed	OfficialMUHelperIsClosed	Official MU Helper is closed
-Game	Official MU Helper Setting has been saved.	OfficialMUHelperSettingHasBeenSaved	Official MU Helper Setting has been saved.
-Game	Official MU Helper can't be implemented in this region.	OfficialMUHelperCanTBeImplementedInThisRegion	Official MU Helper can't be implemented in this region.
-Game	CertainAmountOfZenIsSpent	CertainAmountOfZenIsSpent	Certain amount of zen is spent every 5 minutes in implementing Official MU Helper
 Game	Spent Time %d Minute(s)/	SpentTimeDMinuteS	Spent Time %d Minute(s)/
 Game	Spent Time %d Minute(s)/ Spent Zen? %d Stage / Cost %d zen(s)	SpentTimeDMinuteSSpentZenDStageCostDZenS	Spent Time %d Minute(s)/ Spent Zen? %d Stage / Cost %d zen(s)
 Game	Spent Time %d hour(s) %d Minute(s)/ Spent Zen  %d Stage / Cost %d zen(s)	SpentTimeDHourSDMinuteSSpentZenDStageCostDZenS	Spent Time %d hour(s) %d Minute(s)/ Spent Zen  %d Stage / Cost %d zen(s)
-Game	%d zen(s) have been spent in implementing Official MU Helper	DZenSHaveBeenSpentInImplementingOfficialMUHelper	%d zen(s) have been spent in implementing Official MU Helper
-Game	Zen is not sufficient to run Official MU Helper	ZenIsNotSufficientToRunOfficialMUHelper	Zen is not sufficient to run Official MU Helper
-Game	In order to run Official MU Helper, please install Add-on first	InOrderToRunOfficialMUHelperPleaseInstallAddOnFirst	In order to run Official MU Helper, please install Add-on first
-Game	Official MU Helper is closed due to the excess of %d hour(s)	OfficialMUHelperIsClosedDueToTheExcessOfDHourS	Official MU Helper is closed due to the excess of %d hour(s)
 Game	Use Elite Mana Potion	UseEliteManaPotion	Use Elite Mana Potion
-Game	Unable to use if you have not spent points on your master skill tree.	UnableToUseIfYouHaveNotSpentPointsOnYourMasterSkillTree	Unable to use if you have not spent points on your master skill tree.
-Game	The master skill point will reset.	TheMasterSkillPointWillReset	The master skill point will reset.
 Game	Do you want to reset?	DoYouWantToReset	Do you want to reset?
 Game	The first tree	TheFirstTree	The first tree
 Game	ProtectionTranquilityBlessingDivineResilienceConviction	ProtectionTranquilityBlessingDivineResilienceConviction	<Protection, Tranquility, Blessing, Divine, Resilience, Conviction, Resolution>
@@ -3613,7 +3356,6 @@ Game	The second tree	TheSecondTree	The second tree
 Game	<Valor, Wisdom, Salvation, Chaos, Determination, Justice, Volition>	ValorWisdomSalvationChaosDeterminationJusticeVolition	<Valor, Wisdom, Salvation, Chaos, Determination, Justice, Volition>
 Game	The third tree	TheThirdTree	The third tree
 Game	<Rage, Transcendence, Storm, Honor, Ultimacy, Conquest, Destruction>	RageTranscendenceStormHonorUltimacyConquestDestruction	<Rage, Transcendence, Storm, Honor, Ultimacy, Conquest, Destruction>
-Game	Reset all master skill trees	ResetAllMasterSkillTrees	Reset all master skill trees
 Game	Help is active	HelpIsActive	Help is active
 Game	Spirit Map Combination	SpiritMapCombination	Spirit Map Combination
 Game	Trophies of Battle Combination	TrophiesOfBattleCombination	Trophies of Battle Combination
@@ -3627,7 +3369,6 @@ Game	Entering Acheron	EnteringAcheron	Entering Acheron
 Game	You can enter Acheron or combine Entrance Items.	YouCanEnterAcheronOrCombineEntranceItems	You can enter Acheron or combine Entrance Items.
 Game	Participating guild member status	ParticipatingGuildMemberStatus	Participating guild member status
 Game	Currently, %d people are registered to participate.	CurrentlyDPeopleAreRegisteredToParticipate	Currently, %d people are registered to participate.
-Game	You're not in a guild.	YouReNotInAGuild	You're not in a guild.
 Game	You can only participate in the Arca War if you're in a guild.	YouCanOnlyParticipateInTheArcaWarIfYouReInAGuild	You can only participate in the Arca War if you're in a guild.
 Game	Register to participate in the Arca War (Guild member)	RegisterToParticipateInTheArcaWarGuildMember	Register to participate in the Arca War (Guild member)
 Game	InOrderToProceedWithThe	InOrderToProceedWithThe	In order to proceed with the Arca War, the guild master must complete registration to the Arca War.
@@ -3678,7 +3419,6 @@ Game	SD3681	SD3681	%s %d
 Game	Errtel Level Upgrade	ErrtelLevelUpgrade	Errtel Level Upgrade
 Game	Errtel Rank Upgrade	ErrtelRankUpgrade	Errtel Rank Upgrade
 Game	Refinement/Combination	RefinementCombination	Refinement/Combination
-Game	Move the item in the inventory area and close the combination window.	MoveTheItemInTheInventoryAreaAndCloseTheCombinationWindow	Move the item in the inventory area and close the combination window.
 Game	[Mithril Fragment Refinement]	MithrilFragmentRefinement	[Mithril Fragment Refinement]
 Game	[Elixir Fragment Refinement]	ElixirFragmentRefinement	[Elixir Fragment Refinement]
 Game	[Errtel Combination]	ErrtelCombination	[Errtel Combination]
@@ -3739,13 +3479,11 @@ Game	ICanFeelThePowerOf	ICanFeelThePowerOf	I can feel the power of barrier. If y
 Game	IfYouWantToRepairClick	IfYouWantToRepairClick	If you want to repair, click the cancel button on the right. Then, enhance it with various jewels. The jewels that can be repaired are Jewel of Bless, Jewel of Soul, Jewel of Creation, and Jewel of Chaos (including bunches).
 Game	Only Level 170 and above may enter.	OnlyLevel170AndAboveMayEnter	Only Level 170 and above may enter.
 Game	You cannot attack.	YouCannotAttack	You cannot attack.
-Game	Use skills closely	UseSkillsClosely	Use skills closely
 Game	¼ºÁÖÀÇ Ç¥½ÄÀº ÇÑ¹ø¿¡ ÃÖ´ë 225°³±îÁö µî·ÏÇÒ ¼ö ÀÖ½À´Ï´Ù.	_225	¼ºÁÖÀÇ Ç¥½ÄÀº ÇÑ¹ø¿¡ ÃÖ´ë 225°³±îÁö µî·ÏÇÒ ¼ö ÀÖ½À´Ï´Ù.
 Game	ESC	ESC	ESC
 Game	20¾ïÁ¨ ÀÌ»ó Ãâ±Ý ºÒ°¡	_20	20¾ïÁ¨ ÀÌ»ó Ãâ±Ý ºÒ°¡
 Game	You can purchase it after a while.	YouCanPurchaseItAfterAWhile	You can purchase it after a while.
 Game	You can gift it after a while.	YouCanGiftItAfterAWhile	You can gift it after a while.
-Game	Level: %u | Resets: %u	LevelUResetsU	Level: %u | Resets: %u
 Game	Connection lost	ConnectionLost	Connection lost
 Game	Checking server availability	CheckingServerAvailability	Checking server availability
 Game	Logging in	LoggingIn	Logging in
@@ -3789,11 +3527,6 @@ Game	FruitStatIncreased	FruitStatIncreased	(%ls fruit) %d stat points have been 
 Game	FruitStatDecreased	FruitStatDecreased	(%ls fruit) %d stat points have been removed.
 Game	FruitStatCannotIncrease	FruitStatCannotIncrease	This stat cannot be increased any more.
 Game	FruitStatCannotDecrease	FruitStatCannotDecrease	This stat cannot be decreased any more.
-Game	StatPointsAdded	StatPointsAdded	Added
-Game	StatPointsRemoved	StatPointsRemoved	Removed
-Game	QuestCompletedSuccessfully	QuestCompletedSuccessfully	You have successfully completed the quest.
-Game	QuestFailedUnfortunately	QuestFailedUnfortunately	Unfortunately, you have failed the quest.
-Game	RequestHasFailed	RequestHasFailed	The request has failed.
 Game	QuestRequirementMonster	QuestRequirementMonster	Mon.: %ls x %lu/%lu
 Game	QuestRequirementItem	QuestRequirementItem	Item: %ls x %lu/%lu
 Game	QuestRequirementLevel	QuestRequirementLevel	Level: %lu or higher
@@ -3805,11 +3538,8 @@ Game	OperationRestoring	OperationRestoring	Restoring
 Game	OperationChaosCardCombination	OperationChaosCardCombination	Chaos card combination
 Game	OperationCherryBlossomAssembly	OperationCherryBlossomAssembly	Cherry blossom branch assembly
 Game	OperationRegistration	OperationRegistration	Registration
-Game	BloodCastleQuestCompleted	BloodCastleQuestCompleted	Congratulations! You have successfully completed the Blood Castle Quest!
-Game	BloodCastleQuestFailed	BloodCastleQuestFailed	Unfortunately, you have failed to complete the Blood Castle Quest.
 Game	MixLevel	MixLevel	+%d
 Game	MixLevelRange	MixLevelRange	+%d~%d
-Game	QuestRequirementSkill	QuestRequirementSkill	Skill: %ls
 Game	QuestRequirementBuff	QuestRequirementBuff	Bonus: %ls
 Game	W Coin(C)	WCoinC	W Coin(C)
 Game	Goblin Points	GoblinPoints	Goblin Points
