@@ -60,10 +60,12 @@ namespace
 CMuHelperConfigWindow::CMuHelperConfigWindow()
 {
     m_aiSelectedSkills.fill(-1);
+    I18N::RegisterLocaleObserver(&CMuHelperConfigWindow::OnLocaleChanged, this);
 }
 
 CMuHelperConfigWindow::~CMuHelperConfigWindow()
 {
+    I18N::UnregisterLocaleObserver(&CMuHelperConfigWindow::OnLocaleChanged, this);
     Release();
 }
 
@@ -669,7 +671,17 @@ void CMuHelperConfigWindow::BindRmlModel(Rml::DataModelConstructor& c, MuHelperC
             }
         });
 
-    MuHelperConfigLabels& l = model.labels;
+    RefreshLocalizedLabels();
+}
+
+void CMuHelperConfigWindow::OnLocaleChanged(void* context) noexcept
+{
+    static_cast<CMuHelperConfigWindow*>(context)->RefreshLocalizedLabels();
+}
+
+void CMuHelperConfigWindow::RefreshLocalizedLabels()
+{
+    MuHelperConfigLabels& l = m_RmlView.GetModel().labels;
     l.title = Narrow(I18N::Game::OfficialMUHelper);
     l.tabHunting = Narrow(I18N::Game::Hunting);
     l.tabObtaining = Narrow(I18N::Game::Obtaining);
@@ -714,6 +726,7 @@ void CMuHelperConfigWindow::BindRmlModel(Rml::DataModelConstructor& c, MuHelperC
     l.save = Narrow(I18N::Game::SaveSetting);
     l.init = Narrow(I18N::Game::Initialization);
     l.closeTip = Narrow(I18N::Game::Close388);
+    m_RmlView.MarkDirty("labels");
 }
 
 void CMuHelperConfigWindow::OnRmlBuilt()

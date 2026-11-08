@@ -53,10 +53,14 @@ namespace
     Rml::String Narrow(const wchar_t* text) { return StringUtils::WideToNarrow(text); }
 }
 
-CMuHelperDetailWindow::CMuHelperDetailWindow() = default;
+CMuHelperDetailWindow::CMuHelperDetailWindow()
+{
+    I18N::RegisterLocaleObserver(&CMuHelperDetailWindow::OnLocaleChanged, this);
+}
 
 CMuHelperDetailWindow::~CMuHelperDetailWindow()
 {
+    I18N::UnregisterLocaleObserver(&CMuHelperDetailWindow::OnLocaleChanged, this);
     Release();
 }
 
@@ -387,7 +391,17 @@ void CMuHelperDetailWindow::BindRmlModel(Rml::DataModelConstructor& c, MuHelperD
             g_pNewUISystem->Hide(INTERFACE_MUHELPER_EXT);
         });
 
-    MuHelperDetailLabels& l = model.labels;
+    RefreshLocalizedLabels();
+}
+
+void CMuHelperDetailWindow::OnLocaleChanged(void* context) noexcept
+{
+    static_cast<CMuHelperDetailWindow*>(context)->RefreshLocalizedLabels();
+}
+
+void CMuHelperDetailWindow::RefreshLocalizedLabels()
+{
+    MuHelperDetailLabels& l = m_RmlView.GetModel().labels;
     l.titleActivation = Narrow(I18N::Game::ActivationSkill);
     l.titleRecovery = Narrow(I18N::Game::AutoRecovery);
     l.titleParty = Narrow(I18N::Game::Party);
@@ -412,6 +426,7 @@ void CMuHelperDetailWindow::BindRmlModel(Rml::DataModelConstructor& c, MuHelperD
     l.save = Narrow(I18N::Game::SaveSetting);
     l.init = Narrow(I18N::Game::Initialization);
     l.closeTip = Narrow(I18N::Game::Close388);
+    m_RmlView.MarkDirty("labels");
 }
 
 void CMuHelperDetailWindow::OnRmlBuilt()

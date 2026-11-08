@@ -15,7 +15,7 @@ namespace mu::ui::window
 {
     class CManager;
 
-    // Static strings, set once when the model is created.
+    // Labels refreshed when the model is created or the UI language changes.
     struct MuHelperDetailLabels
     {
         Rml::String titleActivation, titleRecovery, titleParty;
@@ -111,6 +111,8 @@ namespace mu::ui::window
         int m_iCurrentPartyHealThreshold = 0;
 
         void BindRmlModel(Rml::DataModelConstructor& c, MuHelperDetailRmlModel& model);
+        void RefreshLocalizedLabels();
+        static void OnLocaleChanged(void* context) noexcept;
         // After every build: the field filters and limits the theme cannot set.
         void OnRmlBuilt();
 

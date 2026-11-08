@@ -62,7 +62,7 @@ namespace mu::ui::window
         int index = 0;
     };
 
-    // Static strings, set once when the model is created.
+    // Labels refreshed when the model is created or the UI language changes.
     struct MuHelperConfigLabels
     {
         Rml::String title, tabHunting, tabObtaining, tabOther;
@@ -170,6 +170,8 @@ namespace mu::ui::window
         bool m_bExtraItemsDirty = true;
 
         void BindRmlModel(Rml::DataModelConstructor& c, MuHelperConfigRmlModel& model);
+        void RefreshLocalizedLabels();
+        static void OnLocaleChanged(void* context) noexcept;
         // After every build: the field filters and limits the theme cannot set.
         void OnRmlBuilt();
 

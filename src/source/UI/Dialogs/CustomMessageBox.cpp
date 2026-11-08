@@ -93,7 +93,7 @@ void SyncMatchResultView(MessageBoxView& view)
         lines.push_back(std::move(line));
     }
 
-    MessageBoxView::Button button{L"OK"};
+    MessageBoxView::Button button{I18N::Game::OK};
     button.okArt = true;
     view.Sync(lines, {button});
 }
