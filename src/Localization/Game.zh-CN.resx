@@ -3132,4 +3132,49 @@
   <data name="I'll be your strength for the journey to become a warrior." xml:space="preserve">
     <value>我会助你成长为一名勇士。</value>
   </data>
+  <data name="Quest Item" xml:space="preserve">
+    <value>任务物品</value>
+  </data>
+  <data name="Dark Lord exclusive skill" xml:space="preserve">
+    <value>圣导师专用技能</value>
+  </data>
+  <data name="Restore life (durability)" xml:space="preserve">
+    <value>恢复生命（耐久度）</value>
+  </data>
+  <data name="Pet is not equipped." xml:space="preserve">
+    <value>尚未装备宠物。</value>
+  </data>
+  <data name="Request has been cancelled." xml:space="preserve">
+    <value>请求已取消。</value>
+  </data>
+  <data name="Prevent equipment drop" xml:space="preserve">
+    <value>防止装备掉落</value>
+  </data>
+  <data name="Can use additional skill" xml:space="preserve">
+    <value>可使用附加技能</value>
+  </data>
+  <data name="Can use the skill" xml:space="preserve">
+    <value>可使用该技能</value>
+  </data>
+  <data name="Incorrect requested value." xml:space="preserve">
+    <value>请求的数值不正确。</value>
+  </data>
+  <data name="Would you like to repair?" xml:space="preserve">
+    <value>是否进行修理？</value>
+  </data>
+  <data name="Purchase and repair" xml:space="preserve">
+    <value>购买与修理</value>
+  </data>
+  <data name="Repair" xml:space="preserve">
+    <value>修理</value>
+  </data>
+  <data name="Equipment item" xml:space="preserve">
+    <value>装备物品</value>
+  </data>
+  <data name="Cannot be equipped while another Transformation Ring is equipped." xml:space="preserve">
+    <value>已装备其他变身戒指时，无法装备。</value>
+  </data>
+  <data name="Jewel cannot be used on durability 0 item (repair)." xml:space="preserve">
+    <value>耐久度为 0 的物品无法使用宝石，请先修理。</value>
+  </data>
 </root>
