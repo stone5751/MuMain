@@ -9,7 +9,8 @@
         "de": "Schädelstab",
         "es": "Báculo Calavera",
         "pl": "Kostur czaszki",
-        "pt": "Bastão da caveira"
+        "pt": "Bastão da caveira",
+        "zh-CN": "骷髅杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -71,7 +72,8 @@
         "de": "Schlangenstab",
         "es": "Báculo Serpiente",
         "pl": "Wężowy kostur",
-        "pt": "Bastão da serpente"
+        "pt": "Bastão da serpente",
+        "zh-CN": "毒蛇杖"
       },
       "options": ["luck"],
       "width": 2,
@@ -102,7 +104,8 @@
         "de": "Donnerstab",
         "es": "Báculo Trueno",
         "pl": "Kostur gromu",
-        "pt": "Bastão do trovão"
+        "pt": "Bastão do trovão",
+        "zh-CN": "雷电杖"
       },
       "options": ["luck"],
       "width": 2,
@@ -134,7 +137,8 @@
         "de": "Gorgonenstab",
         "es": "Báculo Gorgon",
         "pl": "Kostur Gorgony",
-        "pt": "Bastão da górgone"
+        "pt": "Bastão da górgone",
+        "zh-CN": "戈登杖"
       },
       "options": ["luck"],
       "width": 2,
@@ -165,7 +169,8 @@
         "de": "Legendärer Stab",
         "es": "Báculo Legendario",
         "pl": "Legendarny kostur",
-        "pt": "Bastão lendário"
+        "pt": "Bastão lendário",
+        "zh-CN": "传说之杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -195,7 +200,8 @@
         "de": "Stab der Auferstehung",
         "es": "Báculo de la Resurrección",
         "pl": "Kostur Wskrzeszenia",
-        "pt": "Bastão da ressurreição"
+        "pt": "Bastão da ressurreição",
+        "zh-CN": "复活之杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -226,7 +232,8 @@
         "de": "Chaos-Blitzstab",
         "es": "Báculo Relámpago de Caos",
         "pl": "Kostur Błyskawic Chaosu",
-        "pt": "Bastão do relâmpago do caos"
+        "pt": "Bastão do relâmpago do caos",
+        "zh-CN": "玛雅雷杖"
       },
       "options": ["luck"],
       "width": 2,
@@ -258,7 +265,8 @@
         "de": "Stab der Zerstörung",
         "es": "Báculo de la Destrucción",
         "pl": "Kostur Zniszczenia",
-        "pt": "Bastão da destruição"
+        "pt": "Bastão da destruição",
+        "zh-CN": "毁灭之杖"
       },
       "options": ["luck"],
       "width": 2,
@@ -320,7 +328,8 @@
         "de": "Göttlicher Stab des Erzengels",
         "es": "Báculo Divino de Arcángel",
         "pl": "Boski Kostur Archanioła",
-        "pt": "Bastão divino do arcanjo"
+        "pt": "Bastão divino do arcanjo",
+        "zh-CN": "大天使之杖"
       },
       "tags": ["divineArchangelWeapon", "valuable"],
       "options": ["luck"],
@@ -366,7 +375,8 @@
         "de": "Stab von Kundun",
         "es": "Báculo de Kundun",
         "pl": "Kostur Kunduna",
-        "pt": "Bastão de Kundun"
+        "pt": "Bastão de Kundun",
+        "zh-CN": "昆顿之杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -514,7 +524,8 @@
         "de": "Rotschwingenstock",
         "es": "Vara Ala Roja",
         "pl": "Różdżka Czerwonego Skrzydła",
-        "pt": "Cajado da asa vermelha"
+        "pt": "Cajado da asa vermelha",
+        "zh-CN": "红翼之杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -543,7 +554,8 @@
         "de": "Uralter Stock",
         "es": "Vara Antigua",
         "pl": "Pradawna różdżka",
-        "pt": "Cajado ancestral"
+        "pt": "Cajado ancestral",
+        "zh-CN": "远古之杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -872,7 +884,8 @@
         "de": "Göttlicher Stock des Erzengels",
         "es": "Bastón Divino de Arcángel",
         "pl": "Boska Różdżka Archanioła",
-        "pt": "Bastão Divino do Arcanjo"
+        "pt": "Bastão Divino do Arcanjo",
+        "zh-CN": "大天使之棒"
       },
       "tags": ["divineArchangelWeapon", "valuable"],
       "options": ["luck"],

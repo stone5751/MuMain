@@ -9,7 +9,8 @@
         "de": "Apfel",
         "es": "Manzana",
         "pl": "Jabłko",
-        "pt": "Maçã"
+        "pt": "Maçã",
+        "zh-CN": "苹果"
       },
       "tags": ["healingPotion"],
       "description": [
@@ -32,7 +33,8 @@
         "de": "Kleiner Heiltrank",
         "es": "Pócima de Curación Pequeña",
         "pl": "Mała mikstura leczenia",
-        "pt": "Pequena poção de cura"
+        "pt": "Pequena poção de cura",
+        "zh-CN": "小瓶治疗药水"
       },
       "tags": ["healingPotion"],
       "description": [
@@ -55,7 +57,8 @@
         "de": "Heiltrank",
         "es": "Pócima de Curación",
         "pl": "Mikstura leczenia",
-        "pt": "Poção de cura"
+        "pt": "Poção de cura",
+        "zh-CN": "中瓶治疗药水"
       },
       "tags": ["healingPotion"],
       "description": [
@@ -78,7 +81,8 @@
         "de": "Großer Heiltrank",
         "es": "Pócima de Curación Grande",
         "pl": "Duża mikstura leczenia",
-        "pt": "Grande poção de cura"
+        "pt": "Grande poção de cura",
+        "zh-CN": "大瓶治疗药水"
       },
       "tags": ["healingPotion"],
       "description": [
@@ -101,7 +105,8 @@
         "de": "Kleiner Manatrank",
         "es": "Pócima de Maná Pequeña",
         "pl": "Mała mikstura many",
-        "pt": "Pequena poção de mana"
+        "pt": "Pequena poção de mana",
+        "zh-CN": "小瓶魔法药水"
       },
       "tags": ["manaPotion"],
       "description": [
@@ -124,7 +129,8 @@
         "de": "Manatrank",
         "es": "Pócima de Maná",
         "pl": "Mikstura many",
-        "pt": "Poção de mana"
+        "pt": "Poção de mana",
+        "zh-CN": "中瓶魔法药水"
       },
       "tags": ["manaPotion"],
       "description": [
@@ -147,7 +153,8 @@
         "de": "Großer Manatrank",
         "es": "Pócima de Maná Grande",
         "pl": "Duża mikstura many",
-        "pt": "Grande poção de mana"
+        "pt": "Grande poção de mana",
+        "zh-CN": "大瓶魔法药水"
       },
       "tags": ["manaPotion"],
       "description": [
@@ -323,7 +330,8 @@
         "de": "Gegengift",
         "es": "Antídoto",
         "pl": "Antidotum",
-        "pt": "Antídoto"
+        "pt": "Antídoto",
+        "zh-CN": "解毒剂"
       },
       "description": [
         {
@@ -344,7 +352,8 @@
         "de": "Bier",
         "es": "Cerveza",
         "pl": "Piwo",
-        "pt": "Cerveja"
+        "pt": "Cerveja",
+        "zh-CN": "酒"
       },
       "nameLines": [
         {
@@ -372,7 +381,8 @@
         "de": "Stadtportal-Schriftrolle",
         "es": "Rollo del Portal del Pueblo",
         "pl": "Zwój portalu do miasta",
-        "pt": "Perg. de Portal para a Cidade"
+        "pt": "Perg. de Portal para a Cidade",
+        "zh-CN": "回城卷轴"
       },
       "description": [
         {
@@ -405,7 +415,8 @@
         "de": "Glücksbox",
         "es": "Caja de la Suerte",
         "pl": "Szkatuła Szczęścia",
-        "pt": "Caixa da sorte"
+        "pt": "Caixa da sorte",
+        "zh-CN": "幸运宝箱"
       },
       "description": [
         {
@@ -751,7 +762,8 @@
         "de": "Herz",
         "es": "Corazón",
         "pl": "Serce",
-        "pt": "Coração"
+        "pt": "Coração",
+        "zh-CN": "爱心"
       },
       "description": [
         {
@@ -833,7 +845,8 @@
         "de": "Juwel des Segens",
         "es": "Joya de Bendición",
         "pl": "Klejnot Błogosławieństwa",
-        "pt": "Joia da bênção"
+        "pt": "Joia da bênção",
+        "zh-CN": "祝福宝石"
       },
       "tags": ["jewel", "valuable"],
       "description": [
@@ -873,7 +886,8 @@
         "de": "Juwel der Seele",
         "es": "Joya de Alma",
         "pl": "Klejnot Duszy",
-        "pt": "Joia da alma"
+        "pt": "Joia da alma",
+        "zh-CN": "灵魂宝石"
       },
       "tags": ["jewel", "valuable"],
       "description": [
@@ -913,7 +927,8 @@
         "de": "Zen",
         "es": "Zen",
         "pl": "Zen",
-        "pt": "Zen"
+        "pt": "Zen",
+        "zh-CN": "金币"
       },
       "groundLabels": [{"style": "zen"}],
       "width": 1,
@@ -927,7 +942,8 @@
         "de": "Juwel des Lebens",
         "es": "Joya de Vida",
         "pl": "Klejnot Życia",
-        "pt": "Joia da vida"
+        "pt": "Joia da vida",
+        "zh-CN": "生命宝石"
       },
       "tags": ["jewel", "valuable"],
       "description": [
@@ -966,7 +982,8 @@
         "de": "Auge des Teufels",
         "es": "Ojo del Diablo",
         "pl": "Oko Diabła",
-        "pt": "Olho do diabo"
+        "pt": "Olho do diabo",
+        "zh-CN": "恶魔之眼"
       },
       "description": [
         {
@@ -991,7 +1008,8 @@
         "de": "Schlüssel des Teufels",
         "es": "Llave del Diablo",
         "pl": "Klucz Diabła",
-        "pt": "Chave do diabo"
+        "pt": "Chave do diabo",
+        "zh-CN": "恶魔之钥"
       },
       "description": [
         {
@@ -1016,7 +1034,8 @@
         "de": "Einladung des Teufels",
         "es": "Invitación del Diablo",
         "pl": "Zaproszenie Diabła",
-        "pt": "Convite do diabo"
+        "pt": "Convite do diabo",
+        "zh-CN": "恶魔广场通行证"
       },
       "description": [
         {
@@ -1191,7 +1210,8 @@
         "de": "Juwel der Schöpfung",
         "es": "Joya de la Creación",
         "pl": "Klejnot Stworzenia",
-        "pt": "Joia da criação"
+        "pt": "Joia da criação",
+        "zh-CN": "创造宝石"
       },
       "tags": ["jewel", "valuable"],
       "description": [
@@ -1230,7 +1250,8 @@
         "de": "Schriftrolle des Imperators",
         "es": "Rollo del Emperador",
         "pl": "Zwój Cesarza",
-        "pt": "Pergaminho do Imperador"
+        "pt": "Pergaminho do Imperador",
+        "zh-CN": "帝王之书"
       },
       "tags": ["secondClassQuestItem"],
       "description": [
@@ -1291,7 +1312,8 @@
         "de": "Zerbrochenes Schwert",
         "es": "Espada Quebrada",
         "pl": "Złamany Miecz",
-        "pt": "Espada quebrada"
+        "pt": "Espada quebrada",
+        "zh-CN": "断魂之剑"
       },
       "tags": ["secondClassQuestItem"],
       "description": [
@@ -1352,7 +1374,8 @@
         "de": "Träne der Elfe",
         "es": "Lágrima de Elfa",
         "pl": "Łza Elfa",
-        "pt": "Lágrima do elfo"
+        "pt": "Lágrima do elfo",
+        "zh-CN": "精灵之泪"
       },
       "tags": ["secondClassQuestItem"],
       "description": [
@@ -1391,7 +1414,8 @@
         "de": "Seelensplitter des Zauberers",
         "es": "Fragmento de Alma de Mago",
         "pl": "Odłamek Duszy Czarodzieja",
-        "pt": "Fragmento da alma do Mago"
+        "pt": "Fragmento da alma do Mago",
+        "zh-CN": "先知之魂"
       },
       "tags": ["secondClassQuestItem"],
       "description": [
@@ -1433,7 +1457,8 @@
         "de": "Verlorene Karte",
         "es": "Mapa Perdido",
         "pl": "Zagubiona mapa",
-        "pt": "Mapa perdido"
+        "pt": "Mapa perdido",
+        "zh-CN": "失落的地图"
       },
       "nameLines": [
         {
@@ -1462,7 +1487,8 @@
         "de": "Symbol des Kundun",
         "es": "Símbolo de Kundun",
         "pl": "Symbol Kunduna",
-        "pt": "Símbolo de Kundun"
+        "pt": "Símbolo de Kundun",
+        "zh-CN": "昆顿印记"
       },
       "nameLines": [
         {
@@ -1489,7 +1515,8 @@
         "de": "Juwel des Wächters",
         "es": "Joya de Guardián",
         "pl": "Klejnot Strażnika",
-        "pt": "Joia do guardião"
+        "pt": "Joia do guardião",
+        "zh-CN": "守护宝石"
       },
       "tags": ["jewel", "valuable"],
       "description": [
@@ -1528,7 +1555,8 @@
         "de": "Rosa Pralinenschachtel",
         "es": "Caja de Chocolate Rosa",
         "pl": "Różowe pudełko czekoladek",
-        "pt": "Caixa de chocolate rosa"
+        "pt": "Caixa de chocolate rosa",
+        "zh-CN": "粉色巧克力盒"
       },
       "description": [
         {
@@ -1577,7 +1605,8 @@
         "de": "Rote Pralinenschachtel",
         "es": "Caja de Chocolate Roja",
         "pl": "Czerwone pudełko czekoladek",
-        "pt": "Caixa de chocolate vermelha"
+        "pt": "Caixa de chocolate vermelha",
+        "zh-CN": "红色巧克力盒"
       },
       "description": [
         {
@@ -1626,7 +1655,8 @@
         "de": "Blaue Pralinenschachtel",
         "es": "Caja de Chocolate Azul",
         "pl": "Niebieskie pudełko czekoladek",
-        "pt": "Caixa de chocolate azul"
+        "pt": "Caixa de chocolate azul",
+        "zh-CN": "蓝色巧克力盒"
       },
       "description": [
         {
@@ -1675,7 +1705,8 @@
         "de": "Kleiner SD-Trank",
         "es": "Pócima de SD Pequeña",
         "pl": "Mała mikstura SD",
-        "pt": "Pequena poção de SD"
+        "pt": "Pequena poção de SD",
+        "zh-CN": "小瓶SD药水"
       },
       "tags": ["shieldPotion"],
       "description": [
@@ -1697,7 +1728,8 @@
         "de": "SD-Trank",
         "es": "Pócima de SD",
         "pl": "Mikstura SD",
-        "pt": "Poção de SD"
+        "pt": "Poção de SD",
+        "zh-CN": "中瓶SD药水"
       },
       "tags": ["shieldPotion"],
       "description": [
@@ -1719,7 +1751,8 @@
         "de": "Großer SD-Trank",
         "es": "Pócima de SD Grande",
         "pl": "Duża mikstura SD",
-        "pt": "Grande poção de SD"
+        "pt": "Grande poção de SD",
+        "zh-CN": "大瓶SD药水"
       },
       "tags": ["shieldPotion"],
       "description": [
@@ -1741,7 +1774,8 @@
         "de": "Kleiner Komplextrank",
         "es": "Pócima Compleja Pequeña",
         "pl": "Mała mikstura złożona",
-        "pt": "Pequena poção complexa"
+        "pt": "Pequena poção complexa",
+        "zh-CN": "小瓶复合药水"
       },
       "tags": ["complexPotion"],
       "description": [
@@ -1764,7 +1798,8 @@
         "de": "Komplextrank",
         "es": "Pócima Compleja",
         "pl": "Mikstura złożona",
-        "pt": "Poção complexa"
+        "pt": "Poção complexa",
+        "zh-CN": "中瓶复合药水"
       },
       "tags": ["complexPotion"],
       "description": [
@@ -1787,7 +1822,8 @@
         "de": "Großer Komplextrank",
         "es": "Pócima Compleja Grande",
         "pl": "Duża mikstura złożona",
-        "pt": "Grande poção complexa"
+        "pt": "Grande poção complexa",
+        "zh-CN": "大瓶复合药水"
       },
       "tags": ["complexPotion"],
       "description": [
@@ -1810,7 +1846,8 @@
         "de": "Edelstein",
         "es": "Gema",
         "pl": "Kamień szlachetny",
-        "pt": "Pedra preciosa"
+        "pt": "Pedra preciosa",
+        "zh-CN": "再生原石"
       },
       "tags": ["valuable"],
       "description": [
@@ -1853,7 +1890,8 @@
         "de": "Juwel der Harmonie",
         "es": "Joya de la Armonía",
         "pl": "Klejnot Harmonii",
-        "pt": "Joia da harmonia"
+        "pt": "Joia da harmonia",
+        "zh-CN": "再生宝石"
       },
       "tags": ["valuable"],
       "description": [
@@ -1883,7 +1921,8 @@
         "de": "Niederer Verfeinerungsstein",
         "es": "Piedra de Más Baja Refinación",
         "pl": "Niższy kamień rafinacji",
-        "pt": "Pedra refinada inferior"
+        "pt": "Pedra refinada inferior",
+        "zh-CN": "低级进化宝石"
       },
       "tags": ["refineStone", "valuable"],
       "description": [
@@ -1913,7 +1952,8 @@
         "de": "Höherer Verfeinerungsstein",
         "es": "Piedra de Más Alta Refinación",
         "pl": "Wyższy kamień rafinacji",
-        "pt": "Pedra refinada superior"
+        "pt": "Pedra refinada superior",
+        "zh-CN": "高级进化宝石"
       },
       "tags": ["refineStone", "valuable"],
       "description": [
@@ -1943,7 +1983,8 @@
         "de": "Glückskürbis",
         "es": "Calabaza de la Suerte",
         "pl": "Dynia Szczęścia",
-        "pt": "Abóbora da sorte"
+        "pt": "Abóbora da sorte",
+        "zh-CN": "幸运南瓜"
       },
       "description": [
         {
@@ -2186,7 +2227,8 @@
         "de": "Weihnachtsstern",
         "es": "Estrella de Navidad",
         "pl": "Gwiazda Bożonarodzeniowa",
-        "pt": "Estrela de Natal"
+        "pt": "Estrela de Natal",
+        "zh-CN": "圣诞之星"
       },
       "description": [
         {
@@ -2206,7 +2248,8 @@
         "de": "GM-Geschenk",
         "es": "Regalo de GM",
         "pl": "Prezent od GM",
-        "pt": "Presente de GM"
+        "pt": "Presente de GM",
+        "zh-CN": "GM礼物"
       },
       "description": [
         {
@@ -2242,7 +2285,8 @@
         "de": "Talisman des Glücks",
         "es": "Talismán de la Suerte",
         "pl": "Talizman Szczęścia",
-        "pt": "Talismã da sorte"
+        "pt": "Talismã da sorte",
+        "zh-CN": "幸运符"
       },
       "tags": ["cashShop"],
       "description": [
@@ -2296,7 +2340,8 @@
         "de": "Chaoskarte",
         "es": "Tarjeta de Caos",
         "pl": "Karta Chaosu",
-        "pt": "Cartão do caos"
+        "pt": "Cartão do caos",
+        "zh-CN": "玛雅卡片"
       },
       "tags": ["cashShop"],
       "description": [
@@ -2322,7 +2367,8 @@
         "de": "Grüne Chaosbox",
         "es": "Caja de Caos Verde",
         "pl": "Zielona Szkatuła Chaosu",
-        "pt": "Caixa do caos verde"
+        "pt": "Caixa do caos verde",
+        "zh-CN": "绿色玛雅宝箱"
       },
       "width": 1,
       "height": 1,
@@ -2335,7 +2381,8 @@
         "de": "Rote Chaosbox",
         "es": "Caja de Caos Roja",
         "pl": "Czerwona Szkatuła Chaosu",
-        "pt": "Caixa do caos vermelha"
+        "pt": "Caixa do caos vermelha",
+        "zh-CN": "红色玛雅宝箱"
       },
       "width": 1,
       "height": 1,
@@ -2348,7 +2395,8 @@
         "de": "Lila Chaosbox",
         "es": "Caja de Caos Púrpura",
         "pl": "Fioletowa Szkatuła Chaosu",
-        "pt": "Caixa do caos roxa"
+        "pt": "Caixa do caos roxa",
+        "zh-CN": "紫色玛雅宝箱"
       },
       "width": 1,
       "height": 1,
@@ -2491,7 +2539,8 @@
         "de": "Knallkörper",
         "es": "Petardo",
         "pl": "Petarda",
-        "pt": "Fogos de artifício"
+        "pt": "Fogos de artifício",
+        "zh-CN": "烟花"
       },
       "description": [
         {
@@ -2543,7 +2592,8 @@
         "de": "Flamme des Death Beam Knight",
         "es": "Llama Caballero Haz Mortal",
         "pl": "Płomień Rycerza Promienia Śmierci",
-        "pt": "Chama do Cav. Raio da Morte"
+        "pt": "Chama do Cav. Raio da Morte",
+        "zh-CN": "炽炎魔的火种"
       },
       "tags": ["thirdClassQuestItem"],
       "description": [
@@ -2579,7 +2629,8 @@
         "de": "Horn des Hell Maine",
         "es": "Cuerno de Minero Infiernal",
         "pl": "Róg Piekielnego Górnika",
-        "pt": "Chifre do Mineiro do Inferno"
+        "pt": "Chifre do Mineiro do Inferno",
+        "zh-CN": "丛林召唤者的角"
       },
       "tags": ["thirdClassQuestItem"],
       "description": [
@@ -2615,7 +2666,8 @@
         "de": "Feder des Dunkelphönix",
         "es": "Pluma de Fénix Oscuro",
         "pl": "Pióro Mrocznego Feniksa",
-        "pt": "Pena de fênix negra"
+        "pt": "Pena de fênix negra",
+        "zh-CN": "天魔菲尼斯的羽毛"
       },
       "tags": ["thirdClassQuestItem"],
       "description": [
@@ -2651,7 +2703,8 @@
         "de": "Auge des Abgrunds",
         "es": "Ojo Abismal",
         "pl": "Oko Otchłani",
-        "pt": "Olho abissal"
+        "pt": "Olho abissal",
+        "zh-CN": "深渊之眼"
       },
       "tags": ["thirdClassQuestItem"],
       "description": [
@@ -2687,7 +2740,8 @@
         "de": "Elite-Heiltrank",
         "es": "Pócima de Curación de Élite",
         "pl": "Elitarna mikstura leczenia",
-        "pt": "Poção de cura de elite"
+        "pt": "Poção de cura de elite",
+        "zh-CN": "高级治疗药水"
       },
       "tags": ["elitePotion", "cashShop"],
       "description": [
@@ -2729,7 +2783,8 @@
         "de": "Elite-Manatrank",
         "es": "Pócima de Maná de Élite",
         "pl": "Elitarna mikstura many",
-        "pt": "Poção de mana de elite"
+        "pt": "Poção de mana de elite",
+        "zh-CN": "高级魔法药水"
       },
       "tags": ["elitePotion", "cashShop"],
       "description": [
@@ -2771,7 +2826,8 @@
         "de": "Schriftrolle der Schnelligkeit",
         "es": "Rollo de Rapidez",
         "pl": "Zwój Szybkości",
-        "pt": "Pergaminho da rapidez"
+        "pt": "Pergaminho da rapidez",
+        "zh-CN": "敏捷卷轴"
       },
       "tags": ["buffScroll", "cashShop"],
       "description": [
@@ -2813,7 +2869,8 @@
         "de": "Schriftrolle der Verteidigung",
         "es": "Rollo de Defensa",
         "pl": "Zwój Obrony",
-        "pt": "Pergaminho da defesa"
+        "pt": "Pergaminho da defesa",
+        "zh-CN": "防御卷轴"
       },
       "tags": ["buffScroll", "cashShop"],
       "description": [
@@ -2855,7 +2912,8 @@
         "de": "Schriftrolle des Zorns",
         "es": "Rollo de Ira",
         "pl": "Zwój Gniewu",
-        "pt": "Pergaminho da ira"
+        "pt": "Pergaminho da ira",
+        "zh-CN": "愤怒卷轴"
       },
       "tags": ["buffScroll", "cashShop"],
       "description": [
@@ -2897,7 +2955,8 @@
         "de": "Schriftrolle der Zauberkraft",
         "es": "Rollo de Magia",
         "pl": "Zwój Magii",
-        "pt": "Pergaminho do poder de magia"
+        "pt": "Pergaminho do poder de magia",
+        "zh-CN": "魔力卷轴"
       },
       "tags": ["buffScroll", "cashShop"],
       "description": [
@@ -2939,7 +2998,8 @@
         "de": "Schriftrolle des Lebens",
         "es": "Rollo de Salud",
         "pl": "Zwój Zdrowia",
-        "pt": "Pergaminho de vida"
+        "pt": "Pergaminho de vida",
+        "zh-CN": "生命卷轴"
       },
       "tags": ["buffScroll", "cashShop"],
       "description": [
@@ -2981,7 +3041,8 @@
         "de": "Schriftrolle des Manas",
         "es": "Rollo de Maná",
         "pl": "Zwój Many",
-        "pt": "Pergaminho de mana"
+        "pt": "Pergaminho de mana",
+        "zh-CN": "魔法卷轴"
       },
       "tags": ["buffScroll", "cashShop"],
       "description": [
@@ -3023,7 +3084,8 @@
         "de": "Elixier der Stärke",
         "es": "Elixir de Fuerza",
         "pl": "Eliksir Siły",
-        "pt": "Elixir da força"
+        "pt": "Elixir da força",
+        "zh-CN": "力量秘药"
       },
       "tags": ["elixir", "cashShop"],
       "description": [
@@ -3082,7 +3144,8 @@
         "de": "Elixier der Beweglichkeit",
         "es": "Elixir de Agilidad",
         "pl": "Eliksir Zwinności",
-        "pt": "Elixir da agilidade"
+        "pt": "Elixir da agilidade",
+        "zh-CN": "敏捷秘药"
       },
       "tags": ["elixir", "cashShop"],
       "description": [
@@ -3141,7 +3204,8 @@
         "de": "Elixier der Vitalität",
         "es": "Elixir de Salud",
         "pl": "Eliksir Witalności",
-        "pt": "Elixir da vida"
+        "pt": "Elixir da vida",
+        "zh-CN": "体力秘药"
       },
       "tags": ["elixir", "cashShop"],
       "description": [
@@ -3200,7 +3264,8 @@
         "de": "Elixier der Energie",
         "es": "Elixir de Energía",
         "pl": "Eliksir Energii",
-        "pt": "Elixir da energia"
+        "pt": "Elixir da energia",
+        "zh-CN": "智力秘药"
       },
       "tags": ["elixir", "cashShop"],
       "description": [
@@ -3259,7 +3324,8 @@
         "de": "Elixier der Führung",
         "es": "Elixir de Control",
         "pl": "Eliksir Dowodzenia",
-        "pt": "Elixir do controle"
+        "pt": "Elixir do controle",
+        "zh-CN": "统率秘药"
       },
       "tags": ["elixir", "cashShop"],
       "description": [
@@ -3333,7 +3399,8 @@
         "de": "Ticket für seltenen Gegenstand",
         "es": "Boleto de Ítem Raro",
         "pl": "Bilet na rzadki przedmiot",
-        "pt": "Bilhete de item raro"
+        "pt": "Bilhete de item raro",
+        "zh-CN": "稀有物品兑换券"
       },
       "description": [
         {
@@ -3373,7 +3440,8 @@
         "de": "Kirschblütenwein",
         "es": "Vino de Flor de Cerezo",
         "pl": "Wino z kwiatu wiśni",
-        "pt": "Vinho de flor de cereja"
+        "pt": "Vinho de flor de cereja",
+        "zh-CN": "樱花酒"
       },
       "description": [
         {
@@ -3411,7 +3479,8 @@
         "de": "Kirschblüten-Reiskuchen",
         "es": "Pastel Arroz Flor de Cerezo",
         "pl": "Ryżowe ciastko z kwiatu wiśni",
-        "pt": "Bolo de Arroz Flor de Cereja"
+        "pt": "Bolo de Arroz Flor de Cereja",
+        "zh-CN": "樱花年糕"
       },
       "description": [
         {
@@ -3449,7 +3518,8 @@
         "de": "Kirschblütenblatt",
         "es": "Pétalo de Flor de Cerezo",
         "pl": "Płatek kwiatu wiśni",
-        "pt": "Pétala da flor de cereja"
+        "pt": "Pétala da flor de cereja",
+        "zh-CN": "樱花花瓣"
       },
       "description": [
         {
@@ -3487,7 +3557,8 @@
         "de": "Weißer Kirschblütenzweig",
         "es": "Rama Blanca Flor de Cerezo",
         "pl": "Biała gałązka kwitnącej wiśni",
-        "pt": "Galho de cereja branco"
+        "pt": "Galho de cereja branco",
+        "zh-CN": "白色樱花树枝"
       },
       "description": [
         {
@@ -3511,7 +3582,8 @@
         "de": "Roter Kirschblütenzweig",
         "es": "Rama Roja de Flor de Cerezo",
         "pl": "Czerwona gałązka kwitnącej wiśni",
-        "pt": "Galho de cereja vermelho"
+        "pt": "Galho de cereja vermelho",
+        "zh-CN": "红色樱花树枝"
       },
       "description": [
         {
@@ -3535,7 +3607,8 @@
         "de": "Goldener Kirschblütenzweig",
         "es": "Rama Dorada Flor de Cerezo",
         "pl": "Złota gałązka kwitnącej wiśni",
-        "pt": "Galho de cereja dourado"
+        "pt": "Galho de cereja dourado",
+        "zh-CN": "金色樱花树枝"
       },
       "description": [
         {
@@ -3559,7 +3632,8 @@
         "de": "Charakterkarte: Beschwörer",
         "es": "Tarjeta Personaje Invocador",
         "pl": "Karta postaci: Summoner",
-        "pt": "Cartão do Pers. Invocador"
+        "pt": "Cartão do Pers. Invocador",
+        "zh-CN": "召唤术师角色卡"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopItem"}],
@@ -3699,7 +3773,8 @@
         "de": "Talisman der Chaos-Kombination",
         "es": "Ensamble Talismán del Caos",
         "pl": "Talizman Kombinacji Chaosu",
-        "pt": "Talismã do Agrup. do Caos"
+        "pt": "Talismã do Agrup. do Caos",
+        "zh-CN": "玛雅合成保护符"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3853,7 +3928,8 @@
         "de": "Weihnachtsknallkörper",
         "es": "Petardo de Navidad",
         "pl": "Świąteczna petarda",
-        "pt": "Fogos de artifício de Natal"
+        "pt": "Fogos de artifício de Natal",
+        "zh-CN": "圣诞烟花"
       },
       "width": 1,
       "height": 1,
@@ -3866,7 +3942,8 @@
         "de": "Glücksmünze",
         "es": "Moneda de la Suerte",
         "pl": "Szczęśliwa moneta",
-        "pt": "Moeda da sorte"
+        "pt": "Moeda da sorte",
+        "zh-CN": "幸运币"
       },
       "description": [
         {
@@ -3908,7 +3985,8 @@
         "de": "Verdächtiger Papierfetzen",
         "es": "Trozo de Papel Sospechoso",
         "pl": "Podejrzany skrawek papieru",
-        "pt": "Pedaço de papel suspeito"
+        "pt": "Pedaço de papel suspeito",
+        "zh-CN": "可疑的纸片"
       },
       "description": [
         {
@@ -4239,7 +4317,8 @@
         "de": "Zeichen der Dimensionen",
         "es": "Signo de Dimensiones",
         "pl": "Znak Wymiarów",
-        "pt": "Sinal das dimensões"
+        "pt": "Sinal das dimensões",
+        "zh-CN": "次元碎片"
       },
       "width": 1,
       "height": 1,
@@ -4253,7 +4332,8 @@
         "de": "Spiegel der Dimensionen",
         "es": "Espejo de Dimensiones",
         "pl": "Lustro Wymiarów",
-        "pt": "Espelho das dimensões"
+        "pt": "Espelho das dimensões",
+        "zh-CN": "次元之镜"
       },
       "description": [
         {
@@ -4309,7 +4389,8 @@
         "de": "Silberschlüssel",
         "es": "Llave de Plata",
         "pl": "Srebrny klucz",
-        "pt": "Chave prateada"
+        "pt": "Chave prateada",
+        "zh-CN": "银钥匙"
       },
       "tags": ["cashShop", "valuable"],
       "description": [
@@ -4346,7 +4427,8 @@
         "de": "Goldschlüssel",
         "es": "Llave de Oro",
         "pl": "Złoty klucz",
-        "pt": "Chave dourada"
+        "pt": "Chave dourada",
+        "zh-CN": "金钥匙"
       },
       "tags": ["cashShop", "valuable"],
       "description": [
@@ -4383,7 +4465,8 @@
         "de": "Rücksetzung der Meisterfähigkeiten",
         "es": "Reinicio de Habilidad Maestra",
         "pl": "Reset umiejętności mistrzowskich",
-        "pt": "Reinic. de Habilidade Mestre"
+        "pt": "Reinic. de Habilidade Mestre",
+        "zh-CN": "大师技能重置"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4402,7 +4485,8 @@
         "de": "Anpassung der Werte",
         "es": "Ajuste de Estadísticas",
         "pl": "Korekta statystyk",
-        "pt": "Ajuste de atributos"
+        "pt": "Ajuste de atributos",
+        "zh-CN": "属性调整"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4421,7 +4505,8 @@
         "de": "Charakter-Umzugsdienst",
         "es": "Cuarto Fragmento Secromicon",
         "pl": "Usługa przeniesienia postaci",
-        "pt": "Serviço Nova Local. de Pers."
+        "pt": "Serviço Nova Local. de Pers.",
+        "zh-CN": "角色转移服务"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4440,7 +4525,8 @@
         "de": "Charakter-Umbenennungsdienst",
         "es": "Servicio Renombrar Personaje",
         "pl": "Usługa zmiany imienia postaci",
-        "pt": "Serviço Novo Nome do Pers."
+        "pt": "Serviço Novo Nome do Pers.",
+        "zh-CN": "角色改名服务"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4459,7 +4545,8 @@
         "de": "Server-Umzugsdienst",
         "es": "Servicio Reubicar Servidor",
         "pl": "Usługa przeniesienia na inny serwer",
-        "pt": "Serviço Nova Local. de Serv."
+        "pt": "Serviço Nova Local. de Serv.",
+        "zh-CN": "服务器转移服务"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4478,7 +4565,8 @@
         "de": "Premiumpaket",
         "es": "Paquete Premium",
         "pl": "Pakiet Premium",
-        "pt": "Pacote Premium"
+        "pt": "Pacote Premium",
+        "zh-CN": "高级礼包"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4497,7 +4585,8 @@
         "de": "Goblin-Goldmünze",
         "es": "Moneda de Oro de Duendes",
         "pl": "Złota moneta goblina",
-        "pt": "Moeda dourada do goblin"
+        "pt": "Moeda dourada do goblin",
+        "zh-CN": "哥布林金币"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4533,7 +4622,8 @@
         "de": "Versiegelte goldene Box",
         "es": "Caja Dorada Sellada",
         "pl": "Zapieczętowana złota szkatuła",
-        "pt": "Caixa dourada lacrada"
+        "pt": "Caixa dourada lacrada",
+        "zh-CN": "封印的金宝箱"
       },
       "tags": ["valuable"],
       "description": [
@@ -4566,7 +4656,8 @@
         "de": "Versiegelte silberne Box",
         "es": "Caja Plateada Sellada",
         "pl": "Zapieczętowana srebrna szkatuła",
-        "pt": "Caixa prateada lacrada"
+        "pt": "Caixa prateada lacrada",
+        "zh-CN": "封印的银宝箱"
       },
       "tags": ["valuable"],
       "description": [
@@ -4599,7 +4690,8 @@
         "de": "Goldene Box",
         "es": "Caja Dorada",
         "pl": "Złota szkatuła",
-        "pt": "Caixa dourada"
+        "pt": "Caixa dourada",
+        "zh-CN": "金宝箱"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4623,7 +4715,8 @@
         "de": "Silberne Box",
         "es": "Caja Plateada",
         "pl": "Srebrna szkatuła",
-        "pt": "Caixa prateada"
+        "pt": "Caixa prateada",
+        "zh-CN": "银宝箱"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4647,7 +4740,8 @@
         "de": "Paketbox",
         "es": "Caja de Paquete",
         "pl": "Paczka",
-        "pt": "Caixa de pacote"
+        "pt": "Caixa de pacote",
+        "zh-CN": "礼包箱"
       },
       "width": 1,
       "height": 1,
@@ -4660,7 +4754,8 @@
         "de": "30-Tage-Pass",
         "es": "Pase por 30 días",
         "pl": "Karnet 30-dniowy",
-        "pt": "Passe de 30 dias"
+        "pt": "Passe de 30 dias",
+        "zh-CN": "30天通行证"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4679,7 +4774,8 @@
         "de": "90-Tage-Pass",
         "es": "Pase por 90 días",
         "pl": "Karnet 90-dniowy",
-        "pt": "Passe de 90 dias"
+        "pt": "Passe de 90 dias",
+        "zh-CN": "90天通行证"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4698,7 +4794,8 @@
         "de": "30-Tage-Pass - Punkte",
         "es": "Puntos - Pase por 30 días",
         "pl": "Karnet 30-dniowy – punkty",
-        "pt": "Passe de 30 dias - Pontos"
+        "pt": "Passe de 30 dias - Pontos",
+        "zh-CN": "30天通行证（积分）"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4717,7 +4814,8 @@
         "de": "90-Tage-Pass - Punkte",
         "es": "Puntos - Pase por 90 días",
         "pl": "Karnet 90-dniowy – punkty",
-        "pt": "Passe de 90 dias - Pontos"
+        "pt": "Passe de 90 dias - Pontos",
+        "zh-CN": "90天通行证（积分）"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4736,7 +4834,8 @@
         "de": "3-Stunden-Pass",
         "es": "Pase por 3 horas",
         "pl": "Karnet 3-godzinny",
-        "pt": "Passe de 3 horas"
+        "pt": "Passe de 3 horas",
+        "zh-CN": "3小时通行证"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4755,7 +4854,8 @@
         "de": "5-Stunden-Pass",
         "es": "Pase por 5 horas",
         "pl": "Karnet 5-godzinny",
-        "pt": "Passe de 5 horas"
+        "pt": "Passe de 5 horas",
+        "zh-CN": "5小时通行证"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4774,7 +4874,8 @@
         "de": "10-Stunden-Pass",
         "es": "Pase por 10 horas",
         "pl": "Karnet 10-godzinny",
-        "pt": "Passe de 10 horas"
+        "pt": "Passe de 10 horas",
+        "zh-CN": "10小时通行证"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "cashShopService"}],
@@ -4793,7 +4894,8 @@
         "de": "Elite-SD-Trank",
         "es": "Pócima de SD de Élite",
         "pl": "Elitarna mikstura SD",
-        "pt": "Poção de SD de elite"
+        "pt": "Poção de SD de elite",
+        "zh-CN": "高级SD药水"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4834,7 +4936,8 @@
         "de": "Paketbox A",
         "es": "Caja de Paquete A",
         "pl": "Paczka A",
-        "pt": "Caixa de pacote A"
+        "pt": "Caixa de pacote A",
+        "zh-CN": "礼包箱A"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4858,7 +4961,8 @@
         "de": "Paketbox B",
         "es": "Caja de Paquete B",
         "pl": "Paczka B",
-        "pt": "Caixa de pacote B"
+        "pt": "Caixa de pacote B",
+        "zh-CN": "礼包箱B"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4882,7 +4986,8 @@
         "de": "Paketbox C",
         "es": "Caja de Paquete C",
         "pl": "Paczka C",
-        "pt": "Caixa de pacote C"
+        "pt": "Caixa de pacote C",
+        "zh-CN": "礼包箱C"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4906,7 +5011,8 @@
         "de": "Paketbox D",
         "es": "Caja de Paquete D",
         "pl": "Paczka D",
-        "pt": "Caixa de pacote D"
+        "pt": "Caixa de pacote D",
+        "zh-CN": "礼包箱D"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4930,7 +5036,8 @@
         "de": "Paketbox E",
         "es": "Caja de Paquete E",
         "pl": "Paczka E",
-        "pt": "Caixa de pacote E"
+        "pt": "Caixa de pacote E",
+        "zh-CN": "礼包箱E"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4954,7 +5061,8 @@
         "de": "Paketbox F",
         "es": "Caja de Paquete F",
         "pl": "Paczka F",
-        "pt": "Caixa de pacote F"
+        "pt": "Caixa de pacote F",
+        "zh-CN": "礼包箱F"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4978,7 +5086,8 @@
         "de": "Schriftrolle der Heilung",
         "es": "Rollo de Curación",
         "pl": "Zwój Leczenia",
-        "pt": "Pergaminho da cura"
+        "pt": "Pergaminho da cura",
+        "zh-CN": "治疗卷轴"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5018,7 +5127,8 @@
         "de": "Glänzendes Schmuckkästchen",
         "es": "Joyero Brillante",
         "pl": "Lśniąca szkatułka na biżuterię",
-        "pt": "Estojo de joias brilhante"
+        "pt": "Estojo de joias brilhante",
+        "zh-CN": "闪耀的首饰盒"
       },
       "description": [
         {
@@ -5042,7 +5152,8 @@
         "de": "Elegantes Schmuckkästchen",
         "es": "Joyero Elegante",
         "pl": "Elegancka szkatułka na biżuterię",
-        "pt": "Estojo de joias elegante"
+        "pt": "Estojo de joias elegante",
+        "zh-CN": "精致的首饰盒"
       },
       "description": [
         {
@@ -5066,7 +5177,8 @@
         "de": "Stählernes Schmuckkästchen",
         "es": "Joyero de Acero",
         "pl": "Stalowa szkatułka na biżuterię",
-        "pt": "Estojo de joias de aço"
+        "pt": "Estojo de joias de aço",
+        "zh-CN": "钢制首饰盒"
       },
       "description": [
         {
@@ -5090,7 +5202,8 @@
         "de": "Altes Schmuckkästchen",
         "es": "Joyero Antiguo",
         "pl": "Stara szkatułka na biżuterię",
-        "pt": "Estojo de joias antigo"
+        "pt": "Estojo de joias antigo",
+        "zh-CN": "旧首饰盒"
       },
       "description": [
         {
@@ -5270,7 +5383,8 @@
         "de": "Auftragsschreiben Lv. 1",
         "es": "Nivel 1 Carta de Petición",
         "pl": "List z prośbą (poz. 1)",
-        "pt": "Nvl. 1Carta de Requisição"
+        "pt": "Nvl. 1Carta de Requisição",
+        "zh-CN": "1级委托书"
       },
       "width": 1,
       "height": 2,
@@ -5283,7 +5397,8 @@
         "de": "Abschlusszertifikat Lv. 1",
         "es": "Nivel 1 Certificado",
         "pl": "Świadectwo ukończenia (poz. 1)",
-        "pt": "Nvl. 1 Completada"
+        "pt": "Nvl. 1 Completada",
+        "zh-CN": "1级完成证明"
       },
       "width": 1,
       "height": 2,
@@ -5296,7 +5411,8 @@
         "de": "Sternenstaub",
         "es": "Polvo estelar",
         "pl": "Gwiezdny pył",
-        "pt": "Poeira estelar"
+        "pt": "Poeira estelar",
+        "zh-CN": "星尘"
       },
       "description": [
         {
@@ -5376,7 +5492,8 @@
         "de": "Grüne Box",
         "es": "Caja verde",
         "pl": "Zielona szkatuła",
-        "pt": "Caixa verde"
+        "pt": "Caixa verde",
+        "zh-CN": "绿色宝箱"
       },
       "width": 1,
       "height": 1,
@@ -5390,7 +5507,8 @@
         "de": "Rote Box",
         "es": "Caja roja",
         "pl": "Czerwona szkatuła",
-        "pt": "Caixa vermelha"
+        "pt": "Caixa vermelha",
+        "zh-CN": "红色宝箱"
       },
       "width": 1,
       "height": 1,
@@ -5404,7 +5522,8 @@
         "de": "Lila Box",
         "es": "Caja púrpura",
         "pl": "Fioletowa szkatuła",
-        "pt": "Caixa roxa"
+        "pt": "Caixa roxa",
+        "zh-CN": "紫色宝箱"
       },
       "width": 1,
       "height": 1,
@@ -5483,7 +5602,8 @@
         "de": "Magischer Rucksack",
         "es": "Morral Mágico",
         "pl": "Magiczny plecak",
-        "pt": "Mochila Mágica"
+        "pt": "Mochila Mágica",
+        "zh-CN": "魔法背包"
       },
       "width": 1,
       "height": 1,
@@ -5496,7 +5616,8 @@
         "de": "Tresorerweiterungs-Zertifikat",
         "es": "Certificado de Expansión de Bóveda",
         "pl": "Certyfikat powiększenia skrytki",
-        "pt": "Certificado de Expansão de Cofre"
+        "pt": "Certificado de Expansão de Cofre",
+        "zh-CN": "仓库扩展凭证"
       },
       "width": 1,
       "height": 1,
@@ -5509,7 +5630,8 @@
         "de": "Charakterkarte: Wutkämpfer",
         "es": "Tarjeta - Peleador Feroz",
         "pl": "Karta postaci: Rage Fighter",
-        "pt": "Carta de Person-RageFighter"
+        "pt": "Carta de Person-RageFighter",
+        "zh-CN": "格斗家角色卡"
       },
       "width": 1,
       "height": 1,

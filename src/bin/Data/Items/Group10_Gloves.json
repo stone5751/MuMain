@@ -9,7 +9,8 @@
         "de": "Bronzehandschuhe",
         "es": "Guantes de Bronce",
         "pl": "Brązowe rękawice",
-        "pt": "Luvas de bronze"
+        "pt": "Luvas de bronze",
+        "zh-CN": "青铜护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -38,7 +39,8 @@
         "de": "Drachenhandschuhe",
         "es": "Guantes Dragón",
         "pl": "Smocze rękawice",
-        "pt": "Luvas do dragão"
+        "pt": "Luvas do dragão",
+        "zh-CN": "龙王护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -66,7 +68,8 @@
         "de": "Polsterhandschuhe",
         "es": "Guantes Rellenos",
         "pl": "Pikowane rękawice",
-        "pt": "Luvas acolchoadas"
+        "pt": "Luvas acolchoadas",
+        "zh-CN": "革护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -92,7 +95,8 @@
         "de": "Legendäre Handschuhe",
         "es": "Guantes Legendarios",
         "pl": "Legendarne rękawice",
-        "pt": "Luvas lendárias"
+        "pt": "Luvas lendárias",
+        "zh-CN": "传说护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -118,7 +122,8 @@
         "de": "Knochenhandschuhe",
         "es": "Guantes de Hueso",
         "pl": "Kościane rękawice",
-        "pt": "Luvas de osso"
+        "pt": "Luvas de osso",
+        "zh-CN": "骷髅护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -144,7 +149,8 @@
         "de": "Lederhandschuhe",
         "es": "Guantes de Cuero",
         "pl": "Skórzane rękawice",
-        "pt": "Luvas de couro"
+        "pt": "Luvas de couro",
+        "zh-CN": "皮护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -172,7 +178,8 @@
         "de": "Schuppenhandschuhe",
         "es": "Guantes de Escamas",
         "pl": "Łuskowe rękawice",
-        "pt": "Luvas de escamas"
+        "pt": "Luvas de escamas",
+        "zh-CN": "翡翠护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -200,7 +207,8 @@
         "de": "Sphinxhandschuhe",
         "es": "Guantes Esfinge",
         "pl": "Rękawice Sfinksa",
-        "pt": "Luvas da esfinge"
+        "pt": "Luvas da esfinge",
+        "zh-CN": "魔王护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -226,7 +234,8 @@
         "de": "Messinghandschuhe",
         "es": "Guantes de Metal",
         "pl": "Mosiężne rękawice",
-        "pt": "Luvas de latão"
+        "pt": "Luvas de latão",
+        "zh-CN": "黄金护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -254,7 +263,8 @@
         "de": "Plattenhandschuhe",
         "es": "Guantes de Plata",
         "pl": "Płytowe rękawice",
-        "pt": "Luvas de placa"
+        "pt": "Luvas de placa",
+        "zh-CN": "白金护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -281,7 +291,8 @@
         "de": "Rankenhandschuhe",
         "es": "Guantes Vid",
         "pl": "Rękawice z pnączy",
-        "pt": "Luvas da vinha"
+        "pt": "Luvas da vinha",
+        "zh-CN": "藤护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -308,7 +319,8 @@
         "de": "Seidenhandschuhe",
         "es": "Guantes de Seda",
         "pl": "Jedwabne rękawice",
-        "pt": "Luvas de seda"
+        "pt": "Luvas de seda",
+        "zh-CN": "蚕丝护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -335,7 +347,8 @@
         "de": "Windhandschuhe",
         "es": "Guantes Viento",
         "pl": "Rękawice Wiatru",
-        "pt": "Luvas do vento"
+        "pt": "Luvas do vento",
+        "zh-CN": "风护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -362,7 +375,8 @@
         "de": "Geisterhandschuhe",
         "es": "Guantes Espíritu",
         "pl": "Rękawice Ducha",
-        "pt": "Luvas do espírito"
+        "pt": "Luvas do espírito",
+        "zh-CN": "精灵护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -389,7 +403,8 @@
         "de": "Wächterhandschuhe",
         "es": "Guantes Guardián",
         "pl": "Rękawice Strażnika",
-        "pt": "Luvas do guardião"
+        "pt": "Luvas do guardião",
+        "zh-CN": "女神护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -443,7 +458,8 @@
         "de": "Schwarzdrachenhandschuhe",
         "es": "Guantes Dragón Negro",
         "pl": "Rękawice Czarnego Smoka",
-        "pt": "Luvas do dragão negro"
+        "pt": "Luvas do dragão negro",
+        "zh-CN": "黑龙王护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -497,7 +513,8 @@
         "de": "Großseelenhandschuhe",
         "es": "Guantes Gran Alma",
         "pl": "Rękawice Wielkiej Duszy",
-        "pt": "Luvas da grande alma"
+        "pt": "Luvas da grande alma",
+        "zh-CN": "魔神护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -659,7 +676,8 @@
         "de": "Rotgeisterhandschuhe",
         "es": "Guantes Espíritu Rojo",
         "pl": "Rękawice Czerwonego Ducha",
-        "pt": "Luvas do espírito vermelho"
+        "pt": "Luvas do espírito vermelho",
+        "zh-CN": "红羽护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -1090,7 +1108,8 @@
         "de": "Rotschwingenhandschuhe",
         "es": "Guantes Ala Roja",
         "pl": "Rękawice Czerwonego Skrzydła",
-        "pt": "Luvas da asa vermelha"
+        "pt": "Luvas da asa vermelha",
+        "zh-CN": "红翼护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -1117,7 +1136,8 @@
         "de": "Uralte Handschuhe",
         "es": "Guantes Antiguos",
         "pl": "Pradawne rękawice",
-        "pt": "Luvas antigas"
+        "pt": "Luvas antigas",
+        "zh-CN": "远古护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -1447,7 +1467,8 @@
         "de": "Schuppenhandschuhe",
         "es": "Guantes de Escamas",
         "pl": "Łuskowe rękawice",
-        "pt": "Luvas de escamas"
+        "pt": "Luvas de escamas",
+        "zh-CN": "翡翠护手"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1483,7 +1504,8 @@
         "de": "Seidenhandschuhe",
         "es": "Guantes de Seda",
         "pl": "Jedwabne rękawice",
-        "pt": "Luvas de seda"
+        "pt": "Luvas de seda",
+        "zh-CN": "蚕丝护手"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1516,7 +1538,8 @@
         "de": "Sphinxhandschuhe",
         "es": "Guantes Esfinge",
         "pl": "Rękawice Sfinksa",
-        "pt": "Luvas de Esfinge"
+        "pt": "Luvas de Esfinge",
+        "zh-CN": "魔王护手"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1615,7 +1638,8 @@
         "de": "Drachenhandschuhe",
         "es": "Guantes Dragón",
         "pl": "Smocze rękawice",
-        "pt": "Luvas de Dragão"
+        "pt": "Luvas de Dragão",
+        "zh-CN": "龙王护手"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1649,7 +1673,8 @@
         "de": "Wächterhandschuhe",
         "es": "Guantes Guardián",
         "pl": "Rękawice Strażnika",
-        "pt": "Luvas de Guardião"
+        "pt": "Luvas de Guardião",
+        "zh-CN": "女神护手"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1682,7 +1707,8 @@
         "de": "Legendäre Handschuhe",
         "es": "Guantes Legendarios",
         "pl": "Legendarne rękawice",
-        "pt": "Luvas Lendárias"
+        "pt": "Luvas Lendárias",
+        "zh-CN": "传说护手"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1715,7 +1741,8 @@
         "de": "Rotschwingenhandschuhe",
         "es": "Guantes Ala Roja",
         "pl": "Rękawice Czerwonego Skrzydła",
-        "pt": "Luvas da asa vermelha"
+        "pt": "Luvas da asa vermelha",
+        "zh-CN": "红翼护手"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],

@@ -9,7 +9,8 @@
         "de": "Kurzbogen",
         "es": "Arco Corto",
         "pl": "Krótki łuk",
-        "pt": "Arco curto"
+        "pt": "Arco curto",
+        "zh-CN": "短弓"
       },
       "options": ["luck"],
       "width": 2,
@@ -40,7 +41,8 @@
         "de": "Bogen",
         "es": "Arco",
         "pl": "Łuk",
-        "pt": "Arco"
+        "pt": "Arco",
+        "zh-CN": "弓"
       },
       "options": ["luck"],
       "width": 2,
@@ -195,7 +197,8 @@
         "de": "Chaos-Naturbogen",
         "es": "Arco Naturaleza del Caos",
         "pl": "Łuk Natury Chaosu",
-        "pt": "Arco da natureza do caos"
+        "pt": "Arco da natureza do caos",
+        "zh-CN": "玛雅神弓"
       },
       "options": ["luck"],
       "width": 2,
@@ -226,7 +229,8 @@
         "de": "Bolzen",
         "es": "Rayo",
         "pl": "Bełty",
-        "pt": "Dardo"
+        "pt": "Dardo",
+        "zh-CN": "弩箭"
       },
       "tags": ["ammunition"],
       "description": [
@@ -479,7 +483,8 @@
         "de": "Pfeil",
         "es": "Flecha",
         "pl": "Strzały",
-        "pt": "Flecha"
+        "pt": "Flecha",
+        "zh-CN": "箭矢"
       },
       "tags": ["ammunition"],
       "description": [
@@ -577,7 +582,8 @@
         "de": "Göttliche Armbrust des Erzengels",
         "es": "Ballesta Divina de Arcángel",
         "pl": "Boska Kusza Archanioła",
-        "pt": "Besta divina do arcanjo"
+        "pt": "Besta divina do arcanjo",
+        "zh-CN": "大天使之弩"
       },
       "tags": ["divineArchangelWeapon", "valuable"],
       "options": ["luck"],

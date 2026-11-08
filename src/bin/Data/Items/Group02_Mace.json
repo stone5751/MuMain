@@ -204,7 +204,8 @@
         "de": "Chaos-Drachenaxt",
         "es": "Hacha Dragón del Caos",
         "pl": "Topór Smoka Chaosu",
-        "pt": "Machado do dragão do caos"
+        "pt": "Machado do dragão do caos",
+        "zh-CN": "玛雅龙斧"
       },
       "options": ["luck"],
       "width": 2,
@@ -425,7 +426,8 @@
         "de": "Göttliches Zepter des Erzengels",
         "es": "Cetro Divino de Arcángel",
         "pl": "Boskie Berło Archanioła",
-        "pt": "Cetro divino do arcanjo"
+        "pt": "Cetro divino do arcanjo",
+        "zh-CN": "大天使权杖"
       },
       "tags": ["divineArchangelWeapon", "sceptre", "valuable"],
       "options": ["luck"],

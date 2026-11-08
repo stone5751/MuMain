@@ -9,7 +9,8 @@
         "de": "Bronzestiefel",
         "es": "Botas de Bronce",
         "pl": "Brązowe buty",
-        "pt": "Botas de bronze"
+        "pt": "Botas de bronze",
+        "zh-CN": "青铜靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -38,7 +39,8 @@
         "de": "Drachenstiefel",
         "es": "Botas Dragón",
         "pl": "Smocze buty",
-        "pt": "Botas do dragão"
+        "pt": "Botas do dragão",
+        "zh-CN": "龙王靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -66,7 +68,8 @@
         "de": "Polsterstiefel",
         "es": "Botas Rellenas",
         "pl": "Pikowane buty",
-        "pt": "Botas acolchoadas"
+        "pt": "Botas acolchoadas",
+        "zh-CN": "革靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -93,7 +96,8 @@
         "de": "Legendäre Stiefel",
         "es": "Botas Legendarias",
         "pl": "Legendarne buty",
-        "pt": "Botas lendárias"
+        "pt": "Botas lendárias",
+        "zh-CN": "传说靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -119,7 +123,8 @@
         "de": "Knochenstiefel",
         "es": "Botas de Hueso",
         "pl": "Kościane buty",
-        "pt": "Botas de osso"
+        "pt": "Botas de osso",
+        "zh-CN": "骷髅靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -146,7 +151,8 @@
         "de": "Lederstiefel",
         "es": "Botas de Cuero",
         "pl": "Skórzane buty",
-        "pt": "Botas de couro"
+        "pt": "Botas de couro",
+        "zh-CN": "皮靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -175,7 +181,8 @@
         "de": "Schuppenstiefel",
         "es": "Botas de Escamas",
         "pl": "Łuskowe buty",
-        "pt": "Botas de escamas"
+        "pt": "Botas de escamas",
+        "zh-CN": "翡翠靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -204,7 +211,8 @@
         "de": "Sphinxstiefel",
         "es": "Botas Esfinge",
         "pl": "Buty Sfinksa",
-        "pt": "Botas da esfinge"
+        "pt": "Botas da esfinge",
+        "zh-CN": "魔王靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -231,7 +239,8 @@
         "de": "Messingstiefel",
         "es": "Botas de Metal",
         "pl": "Mosiężne buty",
-        "pt": "Botas de latão"
+        "pt": "Botas de latão",
+        "zh-CN": "黄金靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -260,7 +269,8 @@
         "de": "Plattenstiefel",
         "es": "Botas de Plata",
         "pl": "Płytowe buty",
-        "pt": "Botas de placa"
+        "pt": "Botas de placa",
+        "zh-CN": "白金靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -288,7 +298,8 @@
         "de": "Rankenstiefel",
         "es": "Botas Vid",
         "pl": "Buty z pnączy",
-        "pt": "Botas da vinha"
+        "pt": "Botas da vinha",
+        "zh-CN": "藤靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -314,7 +325,8 @@
         "de": "Seidenstiefel",
         "es": "Botas de Seda",
         "pl": "Jedwabne buty",
-        "pt": "Botas de seda"
+        "pt": "Botas de seda",
+        "zh-CN": "蚕丝靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -340,7 +352,8 @@
         "de": "Windstiefel",
         "es": "Botas Viento",
         "pl": "Buty Wiatru",
-        "pt": "Botas do vento"
+        "pt": "Botas do vento",
+        "zh-CN": "风靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -366,7 +379,8 @@
         "de": "Geisterstiefel",
         "es": "Botas Espíritu",
         "pl": "Buty Ducha",
-        "pt": "Botas do espírito"
+        "pt": "Botas do espírito",
+        "zh-CN": "精灵靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -392,7 +406,8 @@
         "de": "Wächterstiefel",
         "es": "Botas Guardián",
         "pl": "Buty Strażnika",
-        "pt": "Botas do guardião"
+        "pt": "Botas do guardião",
+        "zh-CN": "女神靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -445,7 +460,8 @@
         "de": "Schwarzdrachenstiefel",
         "es": "Botas Dragón Negro",
         "pl": "Buty Czarnego Smoka",
-        "pt": "Botas do dragão negro"
+        "pt": "Botas do dragão negro",
+        "zh-CN": "黑龙王靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -499,7 +515,8 @@
         "de": "Großseelenstiefel",
         "es": "Botas Gran Alma",
         "pl": "Buty Wielkiej Duszy",
-        "pt": "Botas da grande alma"
+        "pt": "Botas da grande alma",
+        "zh-CN": "魔神靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -656,7 +673,8 @@
         "de": "Rotgeisterstiefel",
         "es": "Botas Espíritu Rojo",
         "pl": "Buty Czerwonego Ducha",
-        "pt": "Botas do espírito vermelho"
+        "pt": "Botas do espírito vermelho",
+        "zh-CN": "红羽靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1071,7 +1089,8 @@
         "de": "Rotschwingenstiefel",
         "es": "Botas Ala Roja",
         "pl": "Buty Czerwonego Skrzydła",
-        "pt": "Botas da asa vermelha"
+        "pt": "Botas da asa vermelha",
+        "zh-CN": "红翼靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1097,7 +1116,8 @@
         "de": "Uralte Stiefel",
         "es": "Botas Antiguas",
         "pl": "Pradawne buty",
-        "pt": "Botas antigas"
+        "pt": "Botas antigas",
+        "zh-CN": "远古靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1416,7 +1436,8 @@
         "de": "Heiligfeuerstiefel",
         "es": "Botas de Fuego Sagrado",
         "pl": "Buty Świętego Ognia",
-        "pt": "Botas de Fogo Sagrado"
+        "pt": "Botas de Fogo Sagrado",
+        "zh-CN": "神圣火焰靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1492,7 +1513,8 @@
         "de": "Schuppenstiefel",
         "es": "Botas de Escamas",
         "pl": "Łuskowe buty",
-        "pt": "Botas de escamas"
+        "pt": "Botas de escamas",
+        "zh-CN": "翡翠靴"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1528,7 +1550,8 @@
         "de": "Seidenstiefel",
         "es": "Botas de Seda",
         "pl": "Jedwabne buty",
-        "pt": "Botas de seda"
+        "pt": "Botas de seda",
+        "zh-CN": "蚕丝靴"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1560,7 +1583,8 @@
         "de": "Sphinxstiefel",
         "es": "Botas Esfinge",
         "pl": "Buty Sfinksa",
-        "pt": "Botas de Esfinge"
+        "pt": "Botas de Esfinge",
+        "zh-CN": "魔王靴"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1658,7 +1682,8 @@
         "de": "Drachenstiefel",
         "es": "Botas Dragón",
         "pl": "Smocze buty",
-        "pt": "Botas de Dragão"
+        "pt": "Botas de Dragão",
+        "zh-CN": "龙王靴"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1692,7 +1717,8 @@
         "de": "Wächterstiefel",
         "es": "Botas Guardián",
         "pl": "Buty Strażnika",
-        "pt": "Botas de Guardião"
+        "pt": "Botas de Guardião",
+        "zh-CN": "女神靴"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1724,7 +1750,8 @@
         "de": "Legendäre Stiefel",
         "es": "Botas Legendarias",
         "pl": "Legendarne buty",
-        "pt": "Botas Lendárias"
+        "pt": "Botas Lendárias",
+        "zh-CN": "传说靴"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1757,7 +1784,8 @@
         "de": "Rotschwingenstiefel",
         "es": "Botas Ala Roja",
         "pl": "Buty Czerwonego Skrzydła",
-        "pt": "Botas da asa vermelha"
+        "pt": "Botas da asa vermelha",
+        "zh-CN": "红翼靴"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],

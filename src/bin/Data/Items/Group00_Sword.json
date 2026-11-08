@@ -9,7 +9,8 @@
         "de": "Kris",
         "es": "Kris",
         "pl": "Kris",
-        "pt": "Cris"
+        "pt": "Cris",
+        "zh-CN": "波刃剑"
       },
       "options": ["luck"],
       "width": 1,
@@ -44,7 +45,8 @@
         "de": "Kurzschwert",
         "es": "Espada Corta",
         "pl": "Krótki miecz",
-        "pt": "Espada curta"
+        "pt": "Espada curta",
+        "zh-CN": "短剑"
       },
       "options": ["luck"],
       "width": 1,
@@ -78,7 +80,8 @@
         "de": "Rapier",
         "es": "Estoque",
         "pl": "Rapier",
-        "pt": "Rapieira"
+        "pt": "Rapieira",
+        "zh-CN": "西洋剑"
       },
       "options": ["luck"],
       "width": 1,
@@ -524,7 +527,8 @@
         "de": "Schwert der Zerstörung",
         "es": "Espada de Destrucción",
         "pl": "Miecz Zniszczenia",
-        "pt": "Espada da destruição"
+        "pt": "Espada da destruição",
+        "zh-CN": "破坏之剑"
       },
       "options": ["luck"],
       "width": 1,
@@ -586,7 +590,8 @@
         "de": "Donnerklinge",
         "es": "Espada del Trueno",
         "pl": "Ostrze Gromu",
-        "pt": "Lâmina do trovão"
+        "pt": "Lâmina do trovão",
+        "zh-CN": "天雷剑"
       },
       "options": ["luck"],
       "width": 2,
@@ -617,7 +622,8 @@
         "de": "Göttliches Schwert des Erzengels",
         "es": "Espada Divina de Arcángel",
         "pl": "Boski Miecz Archanioła",
-        "pt": "Espada divina do arcanjo"
+        "pt": "Espada divina do arcanjo",
+        "zh-CN": "大天使之剑"
       },
       "tags": ["divineArchangelWeapon", "valuable"],
       "options": ["luck"],
@@ -728,7 +734,8 @@
         "de": "Knochenklinge",
         "es": "Espada de Hueso",
         "pl": "Kościane ostrze",
-        "pt": "Lâmina de osso"
+        "pt": "Lâmina de osso",
+        "zh-CN": "龙骨巨晶剑"
       },
       "options": ["luck"],
       "width": 1,

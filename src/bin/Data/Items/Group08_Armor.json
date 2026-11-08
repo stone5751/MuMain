@@ -9,7 +9,8 @@
         "de": "Bronzerüstung",
         "es": "Armadura de Bronce",
         "pl": "Brązowa zbroja",
-        "pt": "Armadura de bronze"
+        "pt": "Armadura de bronze",
+        "zh-CN": "青铜铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -37,7 +38,8 @@
         "de": "Drachenrüstung",
         "es": "Armadura Dragón",
         "pl": "Smocza zbroja",
-        "pt": "Armadura do dragão"
+        "pt": "Armadura do dragão",
+        "zh-CN": "龙王铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -64,7 +66,8 @@
         "de": "Polsterrüstung",
         "es": "Armadura Rellena",
         "pl": "Pikowana zbroja",
-        "pt": "Armadura acolchoada"
+        "pt": "Armadura acolchoada",
+        "zh-CN": "革铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -90,7 +93,8 @@
         "de": "Legendäre Rüstung",
         "es": "Armadura Legendaria",
         "pl": "Legendarna zbroja",
-        "pt": "Armadura lendária"
+        "pt": "Armadura lendária",
+        "zh-CN": "传说铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -116,7 +120,8 @@
         "de": "Knochenrüstung",
         "es": "Armadura de Hueso",
         "pl": "Kościana zbroja",
-        "pt": "Armadura de osso"
+        "pt": "Armadura de osso",
+        "zh-CN": "骷髅铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -142,7 +147,8 @@
         "de": "Lederrüstung",
         "es": "Armadura de Cuero",
         "pl": "Skórzana zbroja",
-        "pt": "Armadura de couro"
+        "pt": "Armadura de couro",
+        "zh-CN": "皮铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -170,7 +176,8 @@
         "de": "Schuppenrüstung",
         "es": "Armadura de Escamas",
         "pl": "Łuskowa zbroja",
-        "pt": "Armadura de escamas"
+        "pt": "Armadura de escamas",
+        "zh-CN": "翡翠铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -198,7 +205,8 @@
         "de": "Sphinxrüstung",
         "es": "Armadura Esfinge",
         "pl": "Zbroja Sfinksa",
-        "pt": "Armadura da esfinge"
+        "pt": "Armadura da esfinge",
+        "zh-CN": "魔王铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -224,7 +232,8 @@
         "de": "Messingrüstung",
         "es": "Armadura de Metal",
         "pl": "Mosiężna zbroja",
-        "pt": "Armadura de latão"
+        "pt": "Armadura de latão",
+        "zh-CN": "黄金铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -252,7 +261,8 @@
         "de": "Plattenrüstung",
         "es": "Armadura de Plata",
         "pl": "Płytowa zbroja",
-        "pt": "Armadura de placa"
+        "pt": "Armadura de placa",
+        "zh-CN": "白金铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -279,7 +289,8 @@
         "de": "Rankenrüstung",
         "es": "Armadura Vid",
         "pl": "Zbroja z pnączy",
-        "pt": "Armadura da vinha"
+        "pt": "Armadura da vinha",
+        "zh-CN": "藤铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -305,7 +316,8 @@
         "de": "Seidenrüstung",
         "es": "Armadura de Seda",
         "pl": "Jedwabna zbroja",
-        "pt": "Armadura de seda"
+        "pt": "Armadura de seda",
+        "zh-CN": "蚕丝铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -331,7 +343,8 @@
         "de": "Windrüstung",
         "es": "Armadura Viento",
         "pl": "Zbroja Wiatru",
-        "pt": "Armadura do vento"
+        "pt": "Armadura do vento",
+        "zh-CN": "风铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -357,7 +370,8 @@
         "de": "Geisterrüstung",
         "es": "Armadura Espíritu",
         "pl": "Zbroja Ducha",
-        "pt": "Armadura do espírito"
+        "pt": "Armadura do espírito",
+        "zh-CN": "精灵铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -383,7 +397,8 @@
         "de": "Wächterrüstung",
         "es": "Armadura Guardián",
         "pl": "Zbroja Strażnika",
-        "pt": "Armadura do guardião"
+        "pt": "Armadura do guardião",
+        "zh-CN": "女神铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -435,7 +450,8 @@
         "de": "Schwarzdrachenrüstung",
         "es": "Armadura Dragón Negro",
         "pl": "Zbroja Czarnego Smoka",
-        "pt": "Armadura do dragão negro"
+        "pt": "Armadura do dragão negro",
+        "zh-CN": "黑龙王铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -487,7 +503,8 @@
         "de": "Großseelenrüstung",
         "es": "Armadura Gran Alma",
         "pl": "Zbroja Wielkiej Duszy",
-        "pt": "Armadura da grande alma"
+        "pt": "Armadura da grande alma",
+        "zh-CN": "魔神铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -1058,7 +1075,8 @@
         "de": "Rotschwingenrüstung",
         "es": "Armadura Ala Roja",
         "pl": "Zbroja Czerwonego Skrzydła",
-        "pt": "Armadura da asa vermelha"
+        "pt": "Armadura da asa vermelha",
+        "zh-CN": "红翼铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -1084,7 +1102,8 @@
         "de": "Uralte Rüstung",
         "es": "Armadura Antigua",
         "pl": "Pradawna zbroja",
-        "pt": "Armadura antiga"
+        "pt": "Armadura antiga",
+        "zh-CN": "远古铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -1403,7 +1422,8 @@
         "de": "Heiligfeuerrüstung",
         "es": "Armadura de Fuego Sagrado",
         "pl": "Zbroja Świętego Ognia",
-        "pt": "Armadura de Fogo Sagrado"
+        "pt": "Armadura de Fogo Sagrado",
+        "zh-CN": "神圣火焰铠甲"
       },
       "options": ["luck"],
       "width": 2,
@@ -1479,7 +1499,8 @@
         "de": "Schuppenrüstung",
         "es": "Armadura de Escamas",
         "pl": "Łuskowa zbroja",
-        "pt": "Armadura de escama"
+        "pt": "Armadura de escama",
+        "zh-CN": "翡翠铠甲"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1514,7 +1535,8 @@
         "de": "Seidenrüstung",
         "es": "Armadura de Seda",
         "pl": "Jedwabna zbroja",
-        "pt": "Armadura de seda"
+        "pt": "Armadura de seda",
+        "zh-CN": "蚕丝铠甲"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1546,7 +1568,8 @@
         "de": "Sphinxrüstung",
         "es": "Armadura Esfinge",
         "pl": "Zbroja Sfinksa",
-        "pt": "Armadura de Esfinge"
+        "pt": "Armadura de Esfinge",
+        "zh-CN": "魔王铠甲"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1643,7 +1666,8 @@
         "de": "Drachenrüstung",
         "es": "Armadura Dragón",
         "pl": "Smocza zbroja",
-        "pt": "Armadura de Dragão"
+        "pt": "Armadura de Dragão",
+        "zh-CN": "龙王铠甲"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1676,7 +1700,8 @@
         "de": "Wächterrüstung",
         "es": "Armadura Guardián",
         "pl": "Zbroja Strażnika",
-        "pt": "Armadura de Guardião"
+        "pt": "Armadura de Guardião",
+        "zh-CN": "女神铠甲"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1708,7 +1733,8 @@
         "de": "Legendäre Rüstung",
         "es": "Armadura Legendaria",
         "pl": "Legendarna zbroja",
-        "pt": "Armadura Lendária"
+        "pt": "Armadura Lendária",
+        "zh-CN": "传说铠甲"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1741,7 +1767,8 @@
         "de": "Rotschwingenrüstung",
         "es": "Armadura Ala Roja",
         "pl": "Zbroja Czerwonego Skrzydła",
-        "pt": "Armadura da asa vermelha"
+        "pt": "Armadura da asa vermelha",
+        "zh-CN": "红翼铠甲"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],

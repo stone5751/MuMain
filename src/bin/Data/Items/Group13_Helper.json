@@ -9,7 +9,8 @@
         "de": "Schutzengel",
         "es": "Angel Guardián",
         "pl": "Anioł Stróż",
-        "pt": "Anjo guardião"
+        "pt": "Anjo guardião",
+        "zh-CN": "守护天使"
       },
       "description": [
         {
@@ -76,7 +77,8 @@
         "de": "Imp",
         "es": "Diablillo",
         "pl": "Chochlik",
-        "pt": "Diabrete"
+        "pt": "Diabrete",
+        "zh-CN": "小恶魔"
       },
       "description": [
         {
@@ -127,7 +129,8 @@
         "de": "Horn der Uniria",
         "es": "Cuerno de Uniria",
         "pl": "Róg Unirii",
-        "pt": "Chifre de Uniria"
+        "pt": "Chifre de Uniria",
+        "zh-CN": "独角兽"
       },
       "tags": ["mount", "hornMount"],
       "description": [
@@ -164,7 +167,8 @@
         "de": "Horn des Dinorant",
         "es": "Cuerno de Dinorant",
         "pl": "Róg Dinoranta",
-        "pt": "Chifre de Dinorant"
+        "pt": "Chifre de Dinorant",
+        "zh-CN": "彩云兽"
       },
       "tags": ["mount", "hornMount", "flying", "valuable"],
       "description": [
@@ -234,7 +238,8 @@
         "de": "Dunkles Pferd",
         "es": "Caballo Oscuro",
         "pl": "Mroczny Koń",
-        "pt": "Cavalo negro"
+        "pt": "Cavalo negro",
+        "zh-CN": "黑王马"
       },
       "tags": ["mount", "flying", "darkLordPet", "valuable"],
       "description": [
@@ -266,7 +271,8 @@
         "de": "Dunkler Rabe",
         "es": "Cuervo Oscuro",
         "pl": "Mroczny Kruk",
-        "pt": "Corvo negro"
+        "pt": "Corvo negro",
+        "zh-CN": "天鹰"
       },
       "tags": ["darkLordPet", "valuable"],
       "description": [
@@ -343,7 +349,8 @@
         "de": "Eisring",
         "es": "Anillo de Hielo",
         "pl": "Pierścień Lodu",
-        "pt": "Anel de gelo"
+        "pt": "Anel de gelo",
+        "zh-CN": "冰之指环"
       },
       "width": 1,
       "height": 1,
@@ -375,7 +382,8 @@
         "de": "Giftring",
         "es": "Anillo de Veneno",
         "pl": "Pierścień Trucizny",
-        "pt": "Anel do veneno"
+        "pt": "Anel do veneno",
+        "zh-CN": "毒之指环"
       },
       "width": 1,
       "height": 1,
@@ -407,7 +415,8 @@
         "de": "Verwandlungsring",
         "es": "Anillo de Transformación",
         "pl": "Pierścień Przemiany",
-        "pt": "Anel de Transformação"
+        "pt": "Anel de Transformação",
+        "zh-CN": "变身戒指"
       },
       "tags": ["transformationRing"],
       "description": [
@@ -608,7 +617,8 @@
         "de": "Blitzanhänger",
         "es": "Pendiente de Luz",
         "pl": "Wisior Błyskawic",
-        "pt": "Pingente da luz"
+        "pt": "Pingente da luz",
+        "zh-CN": "雷之项链"
       },
       "width": 1,
       "height": 1,
@@ -640,7 +650,8 @@
         "de": "Feueranhänger",
         "es": "Pendiente de Fuego",
         "pl": "Wisior Ognia",
-        "pt": "Pingente do fogo"
+        "pt": "Pingente do fogo",
+        "zh-CN": "火之项链"
       },
       "width": 1,
       "height": 1,
@@ -672,7 +683,8 @@
         "de": "Lochs Feder",
         "es": "Pluma de Loch",
         "pl": "Pióro Locha",
-        "pt": "Pena de Loch"
+        "pt": "Pena de Loch",
+        "zh-CN": "洛克之羽"
       },
       "tags": ["valuable"],
       "description": [
@@ -956,7 +968,8 @@
         "de": "Schriftrolle des Erzengels",
         "es": "Rollo de Arcángel",
         "pl": "Zwój Archanioła",
-        "pt": "Pergaminho do arcanjo"
+        "pt": "Pergaminho do arcanjo",
+        "zh-CN": "大天使之书"
       },
       "tags": ["bloodCastleTicketPart"],
       "description": [
@@ -991,7 +1004,8 @@
         "de": "Blutknochen",
         "es": "Hueso Sangriento",
         "pl": "Krwawa Kość",
-        "pt": "Osso de sangue"
+        "pt": "Osso de sangue",
+        "zh-CN": "血灵之骷"
       },
       "tags": ["bloodCastleTicketPart"],
       "description": [
@@ -1026,7 +1040,8 @@
         "de": "Umhang der Unsichtbarkeit",
         "es": "Manto de Invisibilidad",
         "pl": "Płaszcz Niewidzialności",
-        "pt": "Manto da invisibilidade"
+        "pt": "Manto da invisibilidade",
+        "zh-CN": "透明披风"
       },
       "description": [
         {
@@ -1596,7 +1611,8 @@
         "de": "Ring des Zauberers",
         "es": "Anillo de los Magos",
         "pl": "Pierścień Czarodzieja",
-        "pt": "Anel dos magos"
+        "pt": "Anel dos magos",
+        "zh-CN": "魔法戒指"
       },
       "description": [
         {
@@ -1731,7 +1747,8 @@
         "de": "Feuerring",
         "es": "Anillo del Fuego",
         "pl": "Pierścień Ognia",
-        "pt": "Anel do fogo"
+        "pt": "Anel do fogo",
+        "zh-CN": "火之指环"
       },
       "width": 1,
       "height": 1,
@@ -1763,7 +1780,8 @@
         "de": "Erdring",
         "es": "Anillo de la Tierra",
         "pl": "Pierścień Ziemi",
-        "pt": "Anel da terra"
+        "pt": "Anel da terra",
+        "zh-CN": "地之指环"
       },
       "width": 1,
       "height": 1,
@@ -1795,7 +1813,8 @@
         "de": "Windring",
         "es": "Anillo del Viento",
         "pl": "Pierścień Wiatru",
-        "pt": "Anel do vento"
+        "pt": "Anel do vento",
+        "zh-CN": "风之指环"
       },
       "width": 1,
       "height": 1,
@@ -1827,7 +1846,8 @@
         "de": "Magiering",
         "es": "Anillo de lo Mágico",
         "pl": "Pierścień Magii",
-        "pt": "Anel da magia"
+        "pt": "Anel da magia",
+        "zh-CN": "魔之指环"
       },
       "width": 1,
       "height": 1,
@@ -1856,7 +1876,8 @@
         "de": "Eisanhänger",
         "es": "Pendiente del Hielo",
         "pl": "Wisior Lodu",
-        "pt": "Pingente do gelo"
+        "pt": "Pingente do gelo",
+        "zh-CN": "冰之项链"
       },
       "width": 1,
       "height": 1,
@@ -1888,7 +1909,8 @@
         "de": "Windanhänger",
         "es": "Pendiente del Viento",
         "pl": "Wisior Wiatru",
-        "pt": "Pingente do vento"
+        "pt": "Pingente do vento",
+        "zh-CN": "风之项链"
       },
       "width": 1,
       "height": 1,
@@ -1920,7 +1942,8 @@
         "de": "Wasseranhänger",
         "es": "Pendiente del Agua",
         "pl": "Wisior Wody",
-        "pt": "Pingente da água"
+        "pt": "Pingente da água",
+        "zh-CN": "水之项链"
       },
       "width": 1,
       "height": 1,
@@ -1952,7 +1975,8 @@
         "de": "Fähigkeitsanhänger",
         "es": "Pendiente de la Destreza",
         "pl": "Wisior Zdolności",
-        "pt": "Pingente da habilidade"
+        "pt": "Pingente da habilidade",
+        "zh-CN": "技能项链"
       },
       "width": 1,
       "height": 1,
@@ -1980,7 +2004,8 @@
         "de": "Rüstung des Gardisten",
         "es": "Armadura de Guardia",
         "pl": "Zbroja Gwardzisty",
-        "pt": "Armadura do guarda"
+        "pt": "Armadura do guarda",
+        "zh-CN": "卫兵铠甲"
       },
       "tooltipLayout": "noClassLines",
       "width": 2,
@@ -2003,7 +2028,8 @@
         "de": "Umhang des Lords",
         "es": "Capa de Señor",
         "pl": "Peleryna Lorda",
-        "pt": "Capa do Lorde"
+        "pt": "Capa do Lorde",
+        "zh-CN": "王者披风"
       },
       "tags": ["cape", "valuable"],
       "options": ["luck"],
@@ -2159,7 +2185,8 @@
         "de": "Rüstungssplitter",
         "es": "Astilla de Armadura",
         "pl": "Odłamek Zbroi",
-        "pt": "Estilhaço da armadura"
+        "pt": "Estilhaço da armadura",
+        "zh-CN": "兽角碎片"
       },
       "description": [
         {
@@ -2213,7 +2240,8 @@
         "de": "Segen des Wächters",
         "es": "Bendición de Guardián",
         "pl": "Błogosławieństwo Strażnika",
-        "pt": "Bênção do guardião"
+        "pt": "Bênção do guardião",
+        "zh-CN": "守护宝石碎片"
       },
       "description": [
         {
@@ -2267,7 +2295,8 @@
         "de": "Bestienklaue",
         "es": "Garra de Bestia",
         "pl": "Pazur Bestii",
-        "pt": "Garra da besta"
+        "pt": "Garra da besta",
+        "zh-CN": "猛兽的脚爪"
       },
       "tags": ["valuable"],
       "description": [
@@ -2313,7 +2342,8 @@
         "de": "Hornfragment",
         "es": "Fragmento de Cuerno",
         "pl": "Fragment Rogu",
-        "pt": "Fragmento de chifre"
+        "pt": "Fragmento de chifre",
+        "zh-CN": "兽角"
       },
       "tags": ["valuable"],
       "description": [
@@ -2353,7 +2383,8 @@
         "de": "Zerbrochenes Horn",
         "es": "Cuerno Partido",
         "pl": "Złamany Róg",
-        "pt": "Chifre quebrado"
+        "pt": "Chifre quebrado",
+        "zh-CN": "断角"
       },
       "tags": ["valuable"],
       "description": [
@@ -2404,7 +2435,8 @@
         "de": "Horn des Fenrir",
         "es": "Cuerno de Fenrir",
         "pl": "Róg Fenrira",
-        "pt": "Chifre de Fenrir"
+        "pt": "Chifre de Fenrir",
+        "zh-CN": "炎狼兽之角"
       },
       "tags": ["mount", "hornMount", "flying", "valuable"],
       "description": [
@@ -2501,7 +2533,8 @@
         "de": "Mondsteinanhänger",
         "es": "Pendiente de Piedra Lunar",
         "pl": "Wisior z kamieniem księżycowym",
-        "pt": "Pingente da pedra da lua"
+        "pt": "Pingente da pedra da lua",
+        "zh-CN": "月光宝盒"
       },
       "description": [
         {
@@ -3096,7 +3129,8 @@
         "de": "Devil-Square-Ticket",
         "es": "Boleto de la Plaza del Diablo",
         "pl": "Bilet do Devil Square",
-        "pt": "Bilhete da Praça do Diabo"
+        "pt": "Bilhete da Praça do Diabo",
+        "zh-CN": "恶魔广场入场券"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3154,7 +3188,8 @@
         "de": "Blutburg-Ticket",
         "es": "Boleto al Castillo Sangriento",
         "pl": "Bilet do Blood Castle",
-        "pt": "Bilhete do Castelo de Sangue"
+        "pt": "Bilhete do Castelo de Sangue",
+        "zh-CN": "血色城堡入场券"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3212,7 +3247,8 @@
         "de": "Kalima-Ticket",
         "es": "Boleto de Kalima",
         "pl": "Bilet do Kalimy",
-        "pt": "Bilhete de Kalima"
+        "pt": "Bilhete de Kalima",
+        "zh-CN": "卡利玛入场券"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3394,7 +3430,8 @@
         "de": "Kondorflamme",
         "es": "Llama de Cóndor",
         "pl": "Płomień Kondora",
-        "pt": "Chama do Condor"
+        "pt": "Chama do Condor",
+        "zh-CN": "神鹰火种"
       },
       "tags": ["valuable"],
       "description": [
@@ -3426,7 +3463,8 @@
         "de": "Kondorfeder",
         "es": "Pluma de Cóndor",
         "pl": "Pióro Kondora",
-        "pt": "Pena do Condor"
+        "pt": "Pena do Condor",
+        "zh-CN": "神鹰之羽"
       },
       "tags": ["valuable"],
       "description": [
@@ -3458,7 +3496,8 @@
         "de": "Rücksetzfrucht: Stärke",
         "es": "Reiniciar Fruto de Fuerza",
         "pl": "Owoc resetu Siły",
-        "pt": "Reiniciar força da fruta"
+        "pt": "Reiniciar força da fruta",
+        "zh-CN": "力量减点果实"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "resetFruit"}],
@@ -3488,7 +3527,8 @@
         "de": "Rücksetzfrucht: Beweglichkeit",
         "es": "Reiniciar Fruto de Rapidez",
         "pl": "Owoc resetu Zwinności",
-        "pt": "Reiniciar rapidez da fruta"
+        "pt": "Reiniciar rapidez da fruta",
+        "zh-CN": "敏捷减点果实"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "resetFruit"}],
@@ -3518,7 +3558,8 @@
         "de": "Rücksetzfrucht: Vitalität",
         "es": "Reiniciar Fruto de Salud",
         "pl": "Owoc resetu Witalności",
-        "pt": "Reiniciar saúde da Fruta"
+        "pt": "Reiniciar saúde da Fruta",
+        "zh-CN": "体力减点果实"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "resetFruit"}],
@@ -3548,7 +3589,8 @@
         "de": "Rücksetzfrucht: Energie",
         "es": "Reiniciar Fruto de Energía",
         "pl": "Owoc resetu Energii",
-        "pt": "Reiniciar energia da fruta"
+        "pt": "Reiniciar energia da fruta",
+        "zh-CN": "智力减点果实"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "resetFruit"}],
@@ -3578,7 +3620,8 @@
         "de": "Rücksetzfrucht: Führung",
         "es": "Reiniciar Fruto de Control",
         "pl": "Owoc resetu Dowodzenia",
-        "pt": "Reiniciar controle da fruta"
+        "pt": "Reiniciar controle da fruta",
+        "zh-CN": "统率减点果实"
       },
       "tags": ["cashShop"],
       "groundLabels": [{"style": "resetFruit"}],
@@ -3702,7 +3745,8 @@
         "de": "Illusionstempel-Ticket",
         "es": "Boleto al Templo de Ilusión",
         "pl": "Bilet do Illusion Temple",
-        "pt": "Bilhete do Templo da Ilusão"
+        "pt": "Bilhete do Templo da Ilusão",
+        "zh-CN": "幻影寺院入场券"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4060,7 +4104,8 @@
         "de": "Einladung ins Dorf des Weihnachtsmanns",
         "es": "Invitación a Aldea de Santa",
         "pl": "Zaproszenie do Wioski Świętego Mikołaja",
-        "pt": "Conv. p/ Vila do Papai Noel"
+        "pt": "Conv. p/ Vila do Papai Noel",
+        "zh-CN": "圣诞村邀请函"
       },
       "description": [
         {
@@ -4153,7 +4198,8 @@
         "de": "Schneemann-Verwandlungsring",
         "es": "Aro Mutación Hombre de Nieve",
         "pl": "Pierścień Przemiany w Bałwana",
-        "pt": "Anel Transf. Homem da Neve"
+        "pt": "Anel Transf. Homem da Neve",
+        "zh-CN": "雪人变身戒指"
       },
       "tags": ["transformationRing"],
       "description": [
@@ -4192,7 +4238,8 @@
         "de": "Talisman der Wiederbelebung",
         "es": "Talismán de Resurrección",
         "pl": "Talizman Wskrzeszenia",
-        "pt": "Talismã da ressurreição"
+        "pt": "Talismã da ressurreição",
+        "zh-CN": "复活符"
       },
       "tags": ["cashShop"],
       "tooltipLayout": "noClassLines",
@@ -4220,7 +4267,8 @@
         "de": "Talisman der Mobilität",
         "es": "Talismán de Movilidad",
         "pl": "Talizman Mobilności",
-        "pt": "Talismã da mobilidade"
+        "pt": "Talismã da mobilidade",
+        "zh-CN": "移动符"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4301,7 +4349,8 @@
         "de": "Schwert/Streitkolben/Speer",
         "es": "Espada/Maza/Jabalina",
         "pl": "Miecz/Buława/Włócznia",
-        "pt": "Espada/Maça/Lança"
+        "pt": "Espada/Maça/Lança",
+        "zh-CN": "剑/槌/矛"
       },
       "tags": ["gambleItem"],
       "description": [
@@ -4332,7 +4381,8 @@
         "de": "Stab",
         "es": "Báculo",
         "pl": "Kostur",
-        "pt": "Bastão"
+        "pt": "Bastão",
+        "zh-CN": "法杖"
       },
       "tags": ["gambleItem"],
       "description": [
@@ -4363,7 +4413,8 @@
         "de": "Bogen/Armbrust",
         "es": "Arco/Ballesta",
         "pl": "Łuk/Kusza",
-        "pt": "Arco/Besta"
+        "pt": "Arco/Besta",
+        "zh-CN": "弓/弩"
       },
       "tags": ["gambleItem"],
       "description": [
@@ -4394,7 +4445,8 @@
         "de": "Zepter",
         "es": "Cetro",
         "pl": "Berło",
-        "pt": "Cetro"
+        "pt": "Cetro",
+        "zh-CN": "权杖"
       },
       "tags": ["gambleItem"],
       "description": [
@@ -4425,7 +4477,8 @@
         "de": "Stock",
         "es": "Vara",
         "pl": "Różdżka",
-        "pt": "Cajado"
+        "pt": "Cajado",
+        "zh-CN": "魔棒"
       },
       "tags": ["gambleItem"],
       "description": [
@@ -4456,7 +4509,8 @@
         "de": "Panda-Verwandlungsring",
         "es": "Anillo Panda",
         "pl": "Pierścień Pandy",
-        "pt": "Anel do Panda"
+        "pt": "Anel do Panda",
+        "zh-CN": "熊猫变身戒指"
       },
       "tags": ["pandaOrSkeleton", "transformationRing", "valuable"],
       "description": [
@@ -4555,7 +4609,8 @@
         "de": "Haustier Panda",
         "es": "Mascota Panda",
         "pl": "Zwierzak Panda",
-        "pt": "Animal de estimação Panda"
+        "pt": "Animal de estimação Panda",
+        "zh-CN": "熊猫宠物"
       },
       "tags": ["pandaOrSkeleton", "valuable"],
       "description": [
@@ -5294,7 +5349,8 @@
         "de": "Charakterkarte: Magischer Gladiator",
         "es": "Tarjeta de Personaje del Gladiador Mago",
         "pl": "Karta postaci: Magic Gladiator",
-        "pt": "Carta de Personagem - Gladiador Mágico"
+        "pt": "Carta de Personagem - Gladiador Mágico",
+        "zh-CN": "魔剑士角色卡"
       },
       "groundLabels": [{"style": "cashShopService"}],
       "tradable": false,
@@ -5308,7 +5364,8 @@
         "de": "Charakterkarte: Dunkler Lord",
         "es": "Tarjeta de Personaje del Señor Oscuro",
         "pl": "Karta postaci: Dark Lord",
-        "pt": "Carta de Personagem - Lorde Sombrio"
+        "pt": "Carta de Personagem - Lorde Sombrio",
+        "zh-CN": "圣导师角色卡"
       },
       "groundLabels": [{"style": "cashShopService"}],
       "tradable": false,
@@ -5322,7 +5379,8 @@
         "de": "Charakterplatz-Schlüssel",
         "es": "Clave de Ranura de Personaje",
         "pl": "Klucz miejsca na postać",
-        "pt": "Fenda de Chave de Personagem"
+        "pt": "Fenda de Chave de Personagem",
+        "zh-CN": "角色栏位钥匙"
       },
       "groundLabels": [{"style": "cashShopService"}],
       "slot": "mainHand",
@@ -5337,7 +5395,8 @@
         "de": "Schriftrolle der Party-Erfahrung",
         "es": "Rollo EXP de Participación",
         "pl": "Zwój doświadczenia grupy",
-        "pt": "Pergaminho de EXP de grupo"
+        "pt": "Pergaminho de EXP de grupo",
+        "zh-CN": "组队经验卷轴"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5382,7 +5441,8 @@
         "de": "Aura: Max. AG-Erhöhung",
         "es": "Aura de Aumento de Máx AG",
         "pl": "Aura zwiększenia max AG",
-        "pt": "Aura de aumento de AG máx"
+        "pt": "Aura de aumento de AG máx",
+        "zh-CN": "最大AG提升光环"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5427,7 +5487,8 @@
         "de": "Aura: Max. SD-Erhöhung",
         "es": "Aura de Aumento de Máx SD",
         "pl": "Aura zwiększenia max SD",
-        "pt": "Aura de aumento de SD máx"
+        "pt": "Aura de aumento de SD máx",
+        "zh-CN": "最大SD提升光环"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5472,7 +5533,8 @@
         "de": "Haustier Einhorn",
         "es": "Unicornio",
         "pl": "Zwierzak Jednorożec",
-        "pt": "Unic. Est."
+        "pt": "Unic. Est.",
+        "zh-CN": "独角兽宠物"
       },
       "tags": ["cashShop"],
       "description": [
@@ -6113,7 +6175,8 @@
         "de": "Skelett-Verwandlungsring",
         "es": "Aro Mutación de Esqueleto",
         "pl": "Pierścień Przemiany w Szkieleta",
-        "pt": "Anel Transf. de Esqueleto"
+        "pt": "Anel Transf. de Esqueleto",
+        "zh-CN": "骷髅变身戒指"
       },
       "tags": ["pandaOrSkeleton", "transformationRing", "valuable"],
       "description": [
@@ -6233,7 +6296,8 @@
         "de": "Haustier Skelett",
         "es": "Mascota Esqueleto",
         "pl": "Zwierzak Szkielet",
-        "pt": "Mascote esqueleto"
+        "pt": "Mascote esqueleto",
+        "zh-CN": "骷髅宠物"
       },
       "tags": ["pandaOrSkeleton", "valuable"],
       "description": [

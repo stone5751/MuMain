@@ -9,7 +9,8 @@
         "de": "Elfenflügel",
         "es": "Alas de Elfa",
         "pl": "Skrzydła Elfa",
-        "pt": "Asas do elfo"
+        "pt": "Asas do elfo",
+        "zh-CN": "精灵之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -48,7 +49,8 @@
         "de": "Himmelsflügel",
         "es": "Alas de Cielo",
         "pl": "Skrzydła Niebios",
-        "pt": "Asas do paraíso"
+        "pt": "Asas do paraíso",
+        "zh-CN": "天使之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -88,7 +90,8 @@
         "de": "Satansflügel",
         "es": "Alas de Satán",
         "pl": "Skrzydła Szatana",
-        "pt": "Asas de Satã"
+        "pt": "Asas de Satã",
+        "zh-CN": "恶魔之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -128,7 +131,8 @@
         "de": "Geisterflügel",
         "es": "Alas de Espíritus",
         "pl": "Skrzydła Duchów",
-        "pt": "Asas dos espíritos"
+        "pt": "Asas dos espíritos",
+        "zh-CN": "圣灵之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -202,7 +206,8 @@
         "de": "Seelenflügel",
         "es": "Alas de Alma",
         "pl": "Skrzydła Duszy",
-        "pt": "Asas da alma"
+        "pt": "Asas da alma",
+        "zh-CN": "灵魂之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -276,7 +281,8 @@
         "de": "Drachenflügel",
         "es": "Alas de Dragón",
         "pl": "Skrzydła Smoka",
-        "pt": "Asas do dragão"
+        "pt": "Asas do dragão",
+        "zh-CN": "飞龙之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -350,7 +356,8 @@
         "de": "Flügel der Dunkelheit",
         "es": "Alas de Oscuridad",
         "pl": "Skrzydła Ciemności",
-        "pt": "Asas da escuridão"
+        "pt": "Asas da escuridão",
+        "zh-CN": "暗黑之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -424,7 +431,8 @@
         "de": "Kugel: Twisting Slash",
         "es": "Orbe de Azote Tornado",
         "pl": "Kula: Twisting Slash",
-        "pt": "Orbe de golpe torcido"
+        "pt": "Orbe de golpe torcido",
+        "zh-CN": "旋风斩之石"
       },
       "width": 1,
       "height": 1,
@@ -446,7 +454,8 @@
         "de": "Kugel: Heal",
         "es": "Orbe de Curación",
         "pl": "Kula: Heal",
-        "pt": "Orbe de cura"
+        "pt": "Orbe de cura",
+        "zh-CN": "治疗之石"
       },
       "width": 1,
       "height": 1,
@@ -468,7 +477,8 @@
         "de": "Kugel: Greater Defense",
         "es": "Orbe de Mayor Defensa",
         "pl": "Kula: Greater Defense",
-        "pt": "Orbe da defesa maior"
+        "pt": "Orbe da defesa maior",
+        "zh-CN": "守护之石"
       },
       "width": 1,
       "height": 1,
@@ -490,7 +500,8 @@
         "de": "Kugel: Greater Damage",
         "es": "Orbe de Mayor Daño",
         "pl": "Kula: Greater Damage",
-        "pt": "Orbe do dano maior"
+        "pt": "Orbe do dano maior",
+        "zh-CN": "战神之石"
       },
       "width": 1,
       "height": 1,
@@ -512,7 +523,8 @@
         "de": "Kugel: Summoning",
         "es": "Orbe de Invocación",
         "pl": "Kula: Summon",
-        "pt": "Orbe da invocação"
+        "pt": "Orbe da invocação",
+        "zh-CN": "召唤之石"
       },
       "nameLines": [
         {
@@ -653,7 +665,8 @@
         "de": "Kugel: Rageful Blow",
         "es": "Orbe de Golpe Furioso",
         "pl": "Kula: Rageful Blow",
-        "pt": "Orbe do golpe raivoso"
+        "pt": "Orbe do golpe raivoso",
+        "zh-CN": "雷霆裂闪之石"
       },
       "width": 1,
       "height": 1,
@@ -674,7 +687,8 @@
         "de": "Kugel: Impale",
         "es": "Orbe para Atravesar",
         "pl": "Kula: Impale",
-        "pt": "Orbe de empalar"
+        "pt": "Orbe de empalar",
+        "zh-CN": "钻云枪之石"
       },
       "width": 1,
       "height": 1,
@@ -696,7 +710,8 @@
         "de": "Kugel: Greater Fortitude",
         "es": "Orbe de Mayor Fortaleza",
         "pl": "Kula: Greater Fortitude",
-        "pt": "Orbe da sorte maior"
+        "pt": "Orbe da sorte maior",
+        "zh-CN": "生命之光之石"
       },
       "width": 1,
       "height": 1,
@@ -717,7 +732,8 @@
         "de": "Juwel des Chaos",
         "es": "Joya de Caos",
         "pl": "Klejnot Chaosu",
-        "pt": "Joia do caos"
+        "pt": "Joia do caos",
+        "zh-CN": "玛雅之石"
       },
       "tags": ["jewel", "valuable"],
       "description": [
@@ -764,7 +780,8 @@
         "de": "Kugel: Fire Slash",
         "es": "Orbe de Azote de Fuego",
         "pl": "Kula: Fire Slash",
-        "pt": "Orbe do golpe de fogo"
+        "pt": "Orbe do golpe de fogo",
+        "zh-CN": "玄月斩之石"
       },
       "width": 1,
       "height": 1,
@@ -786,7 +803,8 @@
         "de": "Kugel: Penetration",
         "es": "Orbe de Penetración",
         "pl": "Kula: Penetration",
-        "pt": "Orbe da penetração"
+        "pt": "Orbe da penetração",
+        "zh-CN": "穿透箭之石"
       },
       "width": 1,
       "height": 1,
@@ -807,7 +825,8 @@
         "de": "Kugel: Ice Arrow",
         "es": "Orbe de Flecha de Hielo",
         "pl": "Kula: Ice Arrow",
-        "pt": "Orbe da flecha de gelo"
+        "pt": "Orbe da flecha de gelo",
+        "zh-CN": "冰封箭之石"
       },
       "width": 1,
       "height": 1,
@@ -829,7 +848,8 @@
         "de": "Kugel: Death Stab",
         "es": "Orbe de Puñalada de la Muerte",
         "pl": "Kula: Death Stab",
-        "pt": "Orbe da facada mortal"
+        "pt": "Orbe da facada mortal",
+        "zh-CN": "袭风刺之石"
       },
       "width": 1,
       "height": 1,
@@ -874,7 +894,8 @@
         "de": "Schriftrolle: Summon",
         "es": "Rollo de Invocación",
         "pl": "Zwój: Summon",
-        "pt": "Pergaminho de invocação"
+        "pt": "Pergaminho de invocação",
+        "zh-CN": "召唤卷轴"
       },
       "width": 1,
       "height": 2,
@@ -896,7 +917,8 @@
         "de": "Schriftrolle: Critical Damage",
         "es": "Rollo de Daño Crítico",
         "pl": "Zwój: Critical Damage",
-        "pt": "Pergaminho de dano crítico"
+        "pt": "Pergaminho de dano crítico",
+        "zh-CN": "致命圣印卷轴"
       },
       "width": 1,
       "height": 2,
@@ -918,7 +940,8 @@
         "de": "Schriftrolle: Electric Spark",
         "es": "Rollo de Chispa Eléctrica",
         "pl": "Zwój: Electric Spark",
-        "pt": "Pergaminho Centelha Elétrica"
+        "pt": "Pergaminho Centelha Elétrica",
+        "zh-CN": "星云火链卷轴"
       },
       "width": 1,
       "height": 2,
@@ -961,7 +984,8 @@
         "de": "Bündel Juwelen des Segens",
         "es": "Fardo de Joyas de Bendición",
         "pl": "Paczka Klejnotów Błogosławieństwa",
-        "pt": "Lote de Joias da bênção"
+        "pt": "Lote de Joias da bênção",
+        "zh-CN": "祝福宝石组合"
       },
       "tags": ["valuable"],
       "description": [
@@ -1013,7 +1037,8 @@
         "de": "Bündel Juwelen der Seele",
         "es": "Fardo de Joyas de Alma",
         "pl": "Paczka Klejnotów Duszy",
-        "pt": "Lote de Joias da alma"
+        "pt": "Lote de Joias da alma",
+        "zh-CN": "灵魂宝石组合"
       },
       "tags": ["valuable"],
       "description": [
@@ -1065,7 +1090,8 @@
         "de": "Box mit roter Schleife",
         "es": "caja de moño rojo",
         "pl": "Szkatuła z czerwoną wstążką",
-        "pt": "caixa de fita vermelha"
+        "pt": "caixa de fita vermelha",
+        "zh-CN": "红色缎带宝箱"
       },
       "description": [
         {
@@ -1100,7 +1126,8 @@
         "de": "Box mit grüner Schleife",
         "es": "caja de moño verde",
         "pl": "Szkatuła z zieloną wstążką",
-        "pt": "caixa de fita verde"
+        "pt": "caixa de fita verde",
+        "zh-CN": "绿色缎带宝箱"
       },
       "description": [
         {
@@ -1135,7 +1162,8 @@
         "de": "Box mit blauer Schleife",
         "es": "caja de moño azul",
         "pl": "Szkatuła z niebieską wstążką",
-        "pt": "caixa de fita azul"
+        "pt": "caixa de fita azul",
+        "zh-CN": "蓝色缎带宝箱"
       },
       "description": [
         {
@@ -1496,7 +1524,8 @@
         "de": "Umhang des Imperators",
         "es": "Capa de Emperador",
         "pl": "Peleryna Cesarza",
-        "pt": "Capa do Imperador"
+        "pt": "Capa do Imperador",
+        "zh-CN": "君主披风"
       },
       "tags": ["cape", "valuable"],
       "options": ["luck"],
@@ -1777,7 +1806,8 @@
         "de": "Kristall: Multi-Shot",
         "es": "Cristal de Disparo Múltiple",
         "pl": "Kryształ: Multi-Shot",
-        "pt": "Cristal de multidisparo"
+        "pt": "Cristal de multidisparo",
+        "zh-CN": "多重箭之石"
       },
       "width": 1,
       "height": 1,
@@ -2007,7 +2037,8 @@
         "de": "Samen (Feuer)",
         "es": "Simiente (Fuego)",
         "pl": "Ziarno (Ogień)",
-        "pt": "Semente (Fogo)"
+        "pt": "Semente (Fogo)",
+        "zh-CN": "火之种子"
       },
       "tags": ["socketSeed"],
       "nameLines": [
@@ -2040,7 +2071,8 @@
         "de": "Samen (Wasser)",
         "es": "Simiente (Agua)",
         "pl": "Ziarno (Woda)",
-        "pt": "Semente (Água)"
+        "pt": "Semente (Água)",
+        "zh-CN": "水之种子"
       },
       "tags": ["socketSeed"],
       "nameLines": [
@@ -2073,7 +2105,8 @@
         "de": "Samen (Eis)",
         "es": "Simiente (Hielo)",
         "pl": "Ziarno (Lód)",
-        "pt": "Semente (Gelo)"
+        "pt": "Semente (Gelo)",
+        "zh-CN": "冰之种子"
       },
       "tags": ["socketSeed"],
       "nameLines": [
@@ -2106,7 +2139,8 @@
         "de": "Samen (Wind)",
         "es": "Simiente (Viento)",
         "pl": "Ziarno (Wiatr)",
-        "pt": "Semente (Vento)"
+        "pt": "Semente (Vento)",
+        "zh-CN": "风之种子"
       },
       "tags": ["socketSeed"],
       "nameLines": [
@@ -2139,7 +2173,8 @@
         "de": "Samen (Blitz)",
         "es": "Simiente (Relámpago)",
         "pl": "Ziarno (Błyskawica)",
-        "pt": "Semente (Relâmpago)"
+        "pt": "Semente (Relâmpago)",
+        "zh-CN": "雷之种子"
       },
       "tags": ["socketSeed"],
       "nameLines": [
@@ -2172,7 +2207,8 @@
         "de": "Samen (Erde)",
         "es": "Simiente (Tierra)",
         "pl": "Ziarno (Ziemia)",
-        "pt": "Semente (Terra)"
+        "pt": "Semente (Terra)",
+        "zh-CN": "土之种子"
       },
       "tags": ["socketSeed"],
       "nameLines": [
@@ -2314,7 +2350,8 @@
         "de": "Samensphäre (Feuer)",
         "es": "Esfera Simiente (Fuego)",
         "pl": "Sfera z ziarnem (Ogień)",
-        "pt": "Esfera de semente (Fogo)"
+        "pt": "Esfera de semente (Fogo)",
+        "zh-CN": "火属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2347,7 +2384,8 @@
         "de": "Samensphäre (Wasser)",
         "es": "Esfera Simiente (Agua)",
         "pl": "Sfera z ziarnem (Woda)",
-        "pt": "Esfera de semente (Água)"
+        "pt": "Esfera de semente (Água)",
+        "zh-CN": "水属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2380,7 +2418,8 @@
         "de": "Samensphäre (Eis)",
         "es": "Esfera Simiente (Hielo)",
         "pl": "Sfera z ziarnem (Lód)",
-        "pt": "Esfera de semente (Gelo)"
+        "pt": "Esfera de semente (Gelo)",
+        "zh-CN": "冰属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2413,7 +2452,8 @@
         "de": "Samensphäre (Wind)",
         "es": "Esfera Simiente (Viento)",
         "pl": "Sfera z ziarnem (Wiatr)",
-        "pt": "Esfera de semente (Vento)"
+        "pt": "Esfera de semente (Vento)",
+        "zh-CN": "风属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2446,7 +2486,8 @@
         "de": "Samensphäre (Blitz)",
         "es": "Esfera Simiente (Relámpago)",
         "pl": "Sfera z ziarnem (Błyskawica)",
-        "pt": "Esfera Semente (Relâmpago)"
+        "pt": "Esfera Semente (Relâmpago)",
+        "zh-CN": "雷属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2479,7 +2520,8 @@
         "de": "Samensphäre (Erde)",
         "es": "Esfera Simiente (Tierra)",
         "pl": "Sfera z ziarnem (Ziemia)",
-        "pt": "Esfera de semente (Terra)"
+        "pt": "Esfera de semente (Terra)",
+        "zh-CN": "土属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2512,7 +2554,8 @@
         "de": "Samensphäre (Feuer)",
         "es": "Esfera Simiente (Fuego)",
         "pl": "Sfera z ziarnem (Ogień)",
-        "pt": "Esfera de semente (Fogo)"
+        "pt": "Esfera de semente (Fogo)",
+        "zh-CN": "火属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2545,7 +2588,8 @@
         "de": "Samensphäre (Wasser)",
         "es": "Esfera Simiente (Agua)",
         "pl": "Sfera z ziarnem (Woda)",
-        "pt": "Esfera de semente (Água)"
+        "pt": "Esfera de semente (Água)",
+        "zh-CN": "水属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2578,7 +2622,8 @@
         "de": "Samensphäre (Eis)",
         "es": "Esfera Simiente (Hielo)",
         "pl": "Sfera z ziarnem (Lód)",
-        "pt": "Esfera de semente (Gelo)"
+        "pt": "Esfera de semente (Gelo)",
+        "zh-CN": "冰属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2611,7 +2656,8 @@
         "de": "Samensphäre (Wind)",
         "es": "Esfera Simiente (Viento)",
         "pl": "Sfera z ziarnem (Wiatr)",
-        "pt": "Esfera de semente (Vento)"
+        "pt": "Esfera de semente (Vento)",
+        "zh-CN": "风属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2644,7 +2690,8 @@
         "de": "Samensphäre (Blitz)",
         "es": "Esfera Simiente (Relámpago)",
         "pl": "Sfera z ziarnem (Błyskawica)",
-        "pt": "Esfera Semente (Relâmpago)"
+        "pt": "Esfera Semente (Relâmpago)",
+        "zh-CN": "雷属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2677,7 +2724,8 @@
         "de": "Samensphäre (Erde)",
         "es": "Esfera Simiente (Tierra)",
         "pl": "Sfera z ziarnem (Ziemia)",
-        "pt": "Esfera de semente (Terra)"
+        "pt": "Esfera de semente (Terra)",
+        "zh-CN": "土属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2710,7 +2758,8 @@
         "de": "Samensphäre (Feuer)",
         "es": "Esfera Simiente (Fuego)",
         "pl": "Sfera z ziarnem (Ogień)",
-        "pt": "Esfera de semente (Fogo)"
+        "pt": "Esfera de semente (Fogo)",
+        "zh-CN": "火属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2743,7 +2792,8 @@
         "de": "Samensphäre (Wasser)",
         "es": "Esfera Simiente (Agua)",
         "pl": "Sfera z ziarnem (Woda)",
-        "pt": "Esfera de semente (Água)"
+        "pt": "Esfera de semente (Água)",
+        "zh-CN": "水属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2776,7 +2826,8 @@
         "de": "Samensphäre (Eis)",
         "es": "Esfera Simiente (Hielo)",
         "pl": "Sfera z ziarnem (Lód)",
-        "pt": "Esfera de semente (Gelo)"
+        "pt": "Esfera de semente (Gelo)",
+        "zh-CN": "冰属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2809,7 +2860,8 @@
         "de": "Samensphäre (Wind)",
         "es": "Esfera Simiente (Viento)",
         "pl": "Sfera z ziarnem (Wiatr)",
-        "pt": "Esfera de semente (Vento)"
+        "pt": "Esfera de semente (Vento)",
+        "zh-CN": "风属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2842,7 +2894,8 @@
         "de": "Samensphäre (Blitz)",
         "es": "Esfera Simiente (Relámpago)",
         "pl": "Sfera z ziarnem (Błyskawica)",
-        "pt": "Esfera Semente (Relâmpago)"
+        "pt": "Esfera Semente (Relâmpago)",
+        "zh-CN": "雷属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2875,7 +2928,8 @@
         "de": "Samensphäre (Erde)",
         "es": "Esfera Simiente (Tierra)",
         "pl": "Sfera z ziarnem (Ziemia)",
-        "pt": "Esfera de semente (Terra)"
+        "pt": "Esfera de semente (Terra)",
+        "zh-CN": "土属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2908,7 +2962,8 @@
         "de": "Samensphäre (Feuer)",
         "es": "Esfera Simiente (Fuego)",
         "pl": "Sfera z ziarnem (Ogień)",
-        "pt": "Esfera de semente (Fogo)"
+        "pt": "Esfera de semente (Fogo)",
+        "zh-CN": "火属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2931,7 +2986,8 @@
         "de": "Samensphäre (Wasser)",
         "es": "Esfera Simiente (Agua)",
         "pl": "Sfera z ziarnem (Woda)",
-        "pt": "Esfera de semente (Água)"
+        "pt": "Esfera de semente (Água)",
+        "zh-CN": "水属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2954,7 +3010,8 @@
         "de": "Samensphäre (Eis)",
         "es": "Esfera Simiente (Hielo)",
         "pl": "Sfera z ziarnem (Lód)",
-        "pt": "Esfera de semente (Gelo)"
+        "pt": "Esfera de semente (Gelo)",
+        "zh-CN": "冰属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -2977,7 +3034,8 @@
         "de": "Samensphäre (Wind)",
         "es": "Esfera Simiente (Viento)",
         "pl": "Sfera z ziarnem (Wiatr)",
-        "pt": "Esfera de semente (Vento)"
+        "pt": "Esfera de semente (Vento)",
+        "zh-CN": "风属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -3000,7 +3058,8 @@
         "de": "Samensphäre (Blitz)",
         "es": "Esfera Simiente (Relámpago)",
         "pl": "Sfera z ziarnem (Błyskawica)",
-        "pt": "Esfera Semente (Relâmpago)"
+        "pt": "Esfera Semente (Relâmpago)",
+        "zh-CN": "雷属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -3023,7 +3082,8 @@
         "de": "Samensphäre (Erde)",
         "es": "Esfera Simiente (Tierra)",
         "pl": "Sfera z ziarnem (Ziemia)",
-        "pt": "Esfera de semente (Terra)"
+        "pt": "Esfera de semente (Terra)",
+        "zh-CN": "土属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -3046,7 +3106,8 @@
         "de": "Samensphäre (Feuer)",
         "es": "Esfera Simiente (Fuego)",
         "pl": "Sfera z ziarnem (Ogień)",
-        "pt": "Esfera de semente (Fogo)"
+        "pt": "Esfera de semente (Fogo)",
+        "zh-CN": "火属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -3069,7 +3130,8 @@
         "de": "Samensphäre (Wasser)",
         "es": "Esfera Simiente (Agua)",
         "pl": "Sfera z ziarnem (Woda)",
-        "pt": "Esfera de semente (Água)"
+        "pt": "Esfera de semente (Água)",
+        "zh-CN": "水属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -3092,7 +3154,8 @@
         "de": "Samensphäre (Eis)",
         "es": "Esfera Simiente (Hielo)",
         "pl": "Sfera z ziarnem (Lód)",
-        "pt": "Esfera de semente (Gelo)"
+        "pt": "Esfera de semente (Gelo)",
+        "zh-CN": "冰属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -3115,7 +3178,8 @@
         "de": "Samensphäre (Wind)",
         "es": "Esfera Simiente (Viento)",
         "pl": "Sfera z ziarnem (Wiatr)",
-        "pt": "Esfera de semente (Vento)"
+        "pt": "Esfera de semente (Vento)",
+        "zh-CN": "风属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -3138,7 +3202,8 @@
         "de": "Samensphäre (Blitz)",
         "es": "Esfera Simiente (Relámpago)",
         "pl": "Sfera z ziarnem (Błyskawica)",
-        "pt": "Esfera Semente (Relâmpago)"
+        "pt": "Esfera Semente (Relâmpago)",
+        "zh-CN": "雷属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -3161,7 +3226,8 @@
         "de": "Samensphäre (Erde)",
         "es": "Esfera Simiente (Tierra)",
         "pl": "Sfera z ziarnem (Ziemia)",
-        "pt": "Esfera de semente (Terra)"
+        "pt": "Esfera de semente (Terra)",
+        "zh-CN": "土属性镶嵌宝石"
       },
       "tags": ["socketSeedSphere"],
       "nameLines": [
@@ -3456,7 +3522,8 @@
         "de": "Bündel Juwelen des Lebens",
         "es": "Fardo de Joyas de Vida",
         "pl": "Paczka Klejnotów Życia",
-        "pt": "Lote de Joias da vida"
+        "pt": "Lote de Joias da vida",
+        "zh-CN": "生命宝石组合"
       },
       "tags": ["valuable"],
       "description": [
@@ -3508,7 +3575,8 @@
         "de": "Bündel Juwelen der Schöpfung",
         "es": "Fardo de Joyas de la Creación",
         "pl": "Paczka Klejnotów Stworzenia",
-        "pt": "Lote de Joias da criação"
+        "pt": "Lote de Joias da criação",
+        "zh-CN": "创造宝石组合"
       },
       "tags": ["valuable"],
       "description": [
@@ -3560,7 +3628,8 @@
         "de": "Bündel Juwelen des Wächters",
         "es": "Fardo de Joyas de Guardián",
         "pl": "Paczka Klejnotów Strażnika",
-        "pt": "Lote de Joias do guardião"
+        "pt": "Lote de Joias do guardião",
+        "zh-CN": "守护宝石组合"
       },
       "tags": ["valuable"],
       "description": [
@@ -3612,7 +3681,8 @@
         "de": "Bündel Edelsteine",
         "es": "Fardo de Gemas",
         "pl": "Paczka kamieni szlachetnych",
-        "pt": "Lote de Pedras preciosas"
+        "pt": "Lote de Pedras preciosas",
+        "zh-CN": "再生原石组合"
       },
       "tags": ["valuable"],
       "description": [
@@ -3664,7 +3734,8 @@
         "de": "Bündel Juwelen der Harmonie",
         "es": "Fardo de Joyas de la Armonía",
         "pl": "Paczka Klejnotów Harmonii",
-        "pt": "Lote de Joias da harmonia"
+        "pt": "Lote de Joias da harmonia",
+        "zh-CN": "再生宝石组合"
       },
       "tags": ["valuable"],
       "description": [
@@ -3716,7 +3787,8 @@
         "de": "Bündel Juwelen des Chaos",
         "es": "Fardo de Joyas de Caos",
         "pl": "Paczka Klejnotów Chaosu",
-        "pt": "Lote de Joias do caos"
+        "pt": "Lote de Joias do caos",
+        "zh-CN": "玛雅之石组合"
       },
       "tags": ["valuable"],
       "description": [
@@ -3768,7 +3840,8 @@
         "de": "Bündel niederer Verfeinerungssteine",
         "es": "Fardo de Piedras de Más Baja Refinación",
         "pl": "Paczka niższych kamieni rafinacji",
-        "pt": "Lote de Pedras refinadas inferiores"
+        "pt": "Lote de Pedras refinadas inferiores",
+        "zh-CN": "低级进化宝石组合"
       },
       "tags": ["valuable"],
       "description": [
@@ -3820,7 +3893,8 @@
         "de": "Bündel höherer Verfeinerungssteine",
         "es": "Fardo de Piedras de Más Alta Refinación",
         "pl": "Paczka wyższych kamieni rafinacji",
-        "pt": "Lote de Pedras refinadas superiores"
+        "pt": "Lote de Pedras refinadas superiores",
+        "zh-CN": "高级进化宝石组合"
       },
       "tags": ["valuable"],
       "description": [

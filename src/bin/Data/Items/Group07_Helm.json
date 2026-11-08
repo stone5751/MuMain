@@ -9,7 +9,8 @@
         "de": "Bronzehelm",
         "es": "Yelmo de Bronce",
         "pl": "Brązowy hełm",
-        "pt": "Elmo de bronze"
+        "pt": "Elmo de bronze",
+        "zh-CN": "青铜头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -36,7 +37,8 @@
         "de": "Drachenhelm",
         "es": "Yelmo Dragón",
         "pl": "Smoczy hełm",
-        "pt": "Elmo do dragão"
+        "pt": "Elmo do dragão",
+        "zh-CN": "龙王头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -62,7 +64,8 @@
         "de": "Polsterhelm",
         "es": "Yelmo Relleno",
         "pl": "Pikowany hełm",
-        "pt": "Elmo acolchoado"
+        "pt": "Elmo acolchoado",
+        "zh-CN": "革头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -87,7 +90,8 @@
         "de": "Legendärer Helm",
         "es": "Yelmo Legendario",
         "pl": "Legendarny hełm",
-        "pt": "Elmo lendário"
+        "pt": "Elmo lendário",
+        "zh-CN": "传说头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -112,7 +116,8 @@
         "de": "Knochenhelm",
         "es": "Yelmo de Hueso",
         "pl": "Kościany hełm",
-        "pt": "Elmo de osso"
+        "pt": "Elmo de osso",
+        "zh-CN": "骷髅头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -137,7 +142,8 @@
         "de": "Lederhelm",
         "es": "Yelmo de Cuero",
         "pl": "Skórzany hełm",
-        "pt": "Elmo de couro"
+        "pt": "Elmo de couro",
+        "zh-CN": "皮头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -164,7 +170,8 @@
         "de": "Schuppenhelm",
         "es": "Yelmo de Escamas",
         "pl": "Łuskowy hełm",
-        "pt": "Elmo de escamas"
+        "pt": "Elmo de escamas",
+        "zh-CN": "翡翠头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -191,7 +198,8 @@
         "de": "Sphinxmaske",
         "es": "Máscara Esfinge",
         "pl": "Maska Sfinksa",
-        "pt": "Máscara da esfinge"
+        "pt": "Máscara da esfinge",
+        "zh-CN": "魔王面罩"
       },
       "options": ["luck"],
       "width": 2,
@@ -216,7 +224,8 @@
         "de": "Messinghelm",
         "es": "Yelmo de Metal",
         "pl": "Mosiężny hełm",
-        "pt": "Elmo de latão"
+        "pt": "Elmo de latão",
+        "zh-CN": "黄金头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -243,7 +252,8 @@
         "de": "Plattenhelm",
         "es": "Yelmo de Plata",
         "pl": "Płytowy hełm",
-        "pt": "Elmo de placa"
+        "pt": "Elmo de placa",
+        "zh-CN": "白金头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -269,7 +279,8 @@
         "de": "Rankenhelm",
         "es": "Yelmo Vid",
         "pl": "Hełm z pnączy",
-        "pt": "Elmo da vinha"
+        "pt": "Elmo da vinha",
+        "zh-CN": "藤头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -295,7 +306,8 @@
         "de": "Seidenhelm",
         "es": "Yelmo de Seda",
         "pl": "Jedwabny hełm",
-        "pt": "Elmo de seda"
+        "pt": "Elmo de seda",
+        "zh-CN": "蚕丝头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -321,7 +333,8 @@
         "de": "Windhelm",
         "es": "Yelmo Viento",
         "pl": "Hełm Wiatru",
-        "pt": "Elmo do vento"
+        "pt": "Elmo do vento",
+        "zh-CN": "风头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -347,7 +360,8 @@
         "de": "Geisterhelm",
         "es": "Yelmo Espíritu",
         "pl": "Hełm Ducha",
-        "pt": "Elmo do espírito"
+        "pt": "Elmo do espírito",
+        "zh-CN": "精灵头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -373,7 +387,8 @@
         "de": "Wächterhelm",
         "es": "Yelmo Guardián",
         "pl": "Hełm Strażnika",
-        "pt": "Elmo do guardião"
+        "pt": "Elmo do guardião",
+        "zh-CN": "女神头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -399,7 +414,8 @@
         "de": "Schwarzdrachenhelm",
         "es": "Yelmo Dragón Negro",
         "pl": "Hełm Czarnego Smoka",
-        "pt": "Elmo do dragão negro"
+        "pt": "Elmo do dragão negro",
+        "zh-CN": "黑龙王头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -451,7 +467,8 @@
         "de": "Großseelenhelm",
         "es": "Yelmo Gran Alma",
         "pl": "Hełm Wielkiej Duszy",
-        "pt": "Grande elmo da alma"
+        "pt": "Grande elmo da alma",
+        "zh-CN": "魔神头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -555,7 +572,8 @@
         "de": "Rotgeisterhelm",
         "es": "Yelmo Espíritu Rojo",
         "pl": "Hełm Czerwonego Ducha",
-        "pt": "Elmo do espírito vermelho"
+        "pt": "Elmo do espírito vermelho",
+        "zh-CN": "红羽头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -918,7 +936,8 @@
         "de": "Rotschwingenhelm",
         "es": "Yelmo Ala Roja",
         "pl": "Hełm Czerwonego Skrzydła",
-        "pt": "Elmo da asa vermelha"
+        "pt": "Elmo da asa vermelha",
+        "zh-CN": "红翼头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -944,7 +963,8 @@
         "de": "Uralter Helm",
         "es": "Yelmo Antiguo",
         "pl": "Pradawny hełm",
-        "pt": "Elmo antigo"
+        "pt": "Elmo antigo",
+        "zh-CN": "远古头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -1210,7 +1230,8 @@
         "de": "Heiligfeuerhelm",
         "es": "Casco de Fuego Sagrado",
         "pl": "Hełm Świętego Ognia",
-        "pt": "Elmo de Fogo Sagrado"
+        "pt": "Elmo de Fogo Sagrado",
+        "zh-CN": "神圣火焰头盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -1286,7 +1307,8 @@
         "de": "Schuppenhelm",
         "es": "Yelmo de Escamas",
         "pl": "Łuskowy hełm",
-        "pt": "Elmo de escamas"
+        "pt": "Elmo de escamas",
+        "zh-CN": "翡翠头盔"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1320,7 +1342,8 @@
         "de": "Seidenhelm",
         "es": "Yelmo de Seda",
         "pl": "Jedwabny hełm",
-        "pt": "Elmo de seda"
+        "pt": "Elmo de seda",
+        "zh-CN": "蚕丝头盔"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1352,7 +1375,8 @@
         "de": "Sphinxhelm",
         "es": "Casco Esfinge",
         "pl": "Hełm Sfinksa",
-        "pt": "Elmo de Esfinge"
+        "pt": "Elmo de Esfinge",
+        "zh-CN": "魔王头盔"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1448,7 +1472,8 @@
         "de": "Drachenhelm",
         "es": "Casco Dragón",
         "pl": "Smoczy hełm",
-        "pt": "Elmo de Dragão"
+        "pt": "Elmo de Dragão",
+        "zh-CN": "龙王头盔"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1480,7 +1505,8 @@
         "de": "Wächterhelm",
         "es": "Yelmo Guardián",
         "pl": "Hełm Strażnika",
-        "pt": "Elmo de Guardião"
+        "pt": "Elmo de Guardião",
+        "zh-CN": "女神头盔"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1512,7 +1538,8 @@
         "de": "Legendärer Helm",
         "es": "Casco Legendario",
         "pl": "Legendarny hełm",
-        "pt": "Elmo Lendário"
+        "pt": "Elmo Lendário",
+        "zh-CN": "传说头盔"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1544,7 +1571,8 @@
         "de": "Rotschwingenhelm",
         "es": "Yelmo Ala Roja",
         "pl": "Hełm Czerwonego Skrzydła",
-        "pt": "Elmo da asa vermelha"
+        "pt": "Elmo da asa vermelha",
+        "zh-CN": "红翼头盔"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],

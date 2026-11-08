@@ -9,7 +9,8 @@
         "de": "Kleine Axt",
         "es": "Hacha Pequeña",
         "pl": "Mały topór",
-        "pt": "Machado pequeno"
+        "pt": "Machado pequeno",
+        "zh-CN": "短斧"
       },
       "options": ["luck"],
       "width": 1,
@@ -43,7 +44,8 @@
         "de": "Handaxt",
         "es": "Hacha de Mano",
         "pl": "Toporek",
-        "pt": "Machado de mão"
+        "pt": "Machado de mão",
+        "zh-CN": "手斧"
       },
       "options": ["luck"],
       "width": 1,
