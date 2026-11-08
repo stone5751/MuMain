@@ -12,7 +12,7 @@
       "kind": "skills",
       "id": 1,
       "english": "Poison",
-      "zh-CN": "毒咒"
+      "zh-CN": "毒咒术"
     },
     {
       "kind": "skills",
@@ -36,7 +36,7 @@
       "kind": "skills",
       "id": 5,
       "english": "Flame",
-      "zh-CN": "火龙"
+      "zh-CN": "火龙术"
     },
     {
       "kind": "skills",
@@ -48,7 +48,7 @@
       "kind": "skills",
       "id": 7,
       "english": "Ice",
-      "zh-CN": "冰封"
+      "zh-CN": "冰封术"
     },
     {
       "kind": "skills",
@@ -72,19 +72,19 @@
       "kind": "skills",
       "id": 11,
       "english": "Power Wave",
-      "zh-CN": "真空波"
+      "zh-CN": "真空波术"
     },
     {
       "kind": "skills",
       "id": 12,
       "english": "Aqua Beam",
-      "zh-CN": "极光"
+      "zh-CN": "激光术"
     },
     {
       "kind": "skills",
       "id": 13,
       "english": "Cometfall",
-      "zh-CN": "爆炎"
+      "zh-CN": "爆炎术"
     },
     {
       "kind": "skills",
@@ -96,7 +96,7 @@
       "kind": "skills",
       "id": 15,
       "english": "Teleport Ally",
-      "zh-CN": "集体传送"
+      "zh-CN": "小队传送"
     },
     {
       "kind": "skills",
@@ -156,7 +156,7 @@
       "kind": "skills",
       "id": 41,
       "english": "Twisting Slash",
-      "zh-CN": "旋风斩"
+      "zh-CN": "霹雳回旋斩"
     },
     {
       "kind": "skills",

@@ -1,0 +1,69 @@
+kind	id	english	zh-CN
+skills	1	Poison	毒咒术
+skills	2	Meteorite	陨石术
+skills	3	Lightning	掌心雷
+skills	4	Fire Ball	火球术
+skills	5	Flame	火龙术
+skills	6	Teleport	瞬间移动
+skills	7	Ice	冰封术
+skills	8	Twister	龙卷风
+skills	9	Evil Spirit	黑龙波
+skills	10	Hellfire	地狱火
+skills	11	Power Wave	真空波术
+skills	12	Aqua Beam	激光术
+skills	13	Cometfall	爆炎术
+skills	14	Inferno	毁灭烈焰
+skills	15	Teleport Ally	小队传送
+skills	16	Soul Barrier	守护之魂
+skills	17	Energy Ball	能量球
+skills	24	Triple Shot	多重箭
+skills	26	Heal	治疗
+skills	27	Greater Defense	防御力提高
+skills	28	Greater Damage	攻击力提高
+skills	38	Decay	毒炎
+skills	39	Ice Storm	暴风雪
+skills	40	Nova	星辰一怒
+skills	41	Twisting Slash	霹雳回旋斩
+skills	42	Rageful Blow	雷霆裂闪
+skills	43	Death Stab	袭风刺
+skills	48	Swell Life	生命之光
+quest-titles	0	Find the 'Scroll of Emperor'!	寻找帝王之书
+quest-titles	1	Three Treasures of Mu	奇迹大陆的三种宝物
+quest-words	1	Welcome to the world of Mu.;We have been waiting for a hero like you to arrive and put a stop to the chaos brought on to the Mu realm by Kundun.	欢迎来到奇迹世界。;我们一直等待像你这样的勇士，终结昆顿给奇迹大陆带来的混乱。
+quest-words	2	Continue listening.	继续听下去。
+quest-words	3	However, journeys such as this are bound to be perilous.;If you wish, we can provide you with a simple tutorial. What do you say?	然而，这样的旅程必定充满危险。;如果你愿意，我们可以提供简单的新手教学。你意下如何？
+quest-words	4	A tutorial?;I look forward to it!	新手教学？;我很期待！
+quest-words	5	Tutorials are for children. Turn down the offer.	新手教学是给孩子的。拒绝帮助。
+quest-words	6	It won't take up too much of your time. I'll simply explain basic controls and hunting techniques.;Are you sure you don't want our help?	不会占用你太多时间。我只会简单介绍基本操作和打怪技巧。;你确定不需要我们的帮助吗？
+quest-words	7	I have plenty of experience.;To each his own!	我已经很有经验了。;每个人都有自己的选择！
+quest-words	8	How can I turn him down...?;Alright, let's give it a try!	怎能拒绝他的好意呢……;好吧，试试看！
+quest-words	9	I'm glad we can help. We aren't difficult to find.;Simply look for and talk to the Shadow Phantom Soldier in any of the towns.	很高兴能够帮到你。我们并不难找。;在各个城镇找到幻影导师，与他交谈即可。
+quest-words	10	I regret we can't be of any help to you.;Here, at least take this present. I hope, the next time we meet, a great warrior stands before my eyes.;Enjoy your time out there.	很遗憾没能帮到你。;至少请收下这份礼物。希望下次见面时，你已成为一名出色的勇士。;祝你旅途愉快。
+quest-words	11	I respect your decision to go on this journey.;Allow me to teach you a few simple but essential things you need to know before your adventure in MU begins.	我尊重你踏上旅程的决定。;在奇迹冒险开始前，让我教你一些简单却必不可少的知识。
+quest-words	12	...This is Noria, the kingdom of Elves! So this is where my adventure begins.;How exhilarating!	……这里是弓箭手的王国仙踪林！我的冒险就从这里开始。;真令人兴奋！
+quest-words	13	...This is Lorencia, the kingdom of Dark Wizards and Dark Knights! So this is where my adventure begins.;Excellent! My adventure begins!	……这里是魔法师与剑士的王国勇者大陆！我的冒险就从这里开始。;太好了！冒险开始了！
+quest-words	14	...This is Elveland, the kingdom of Summoners! So this is where my adventure begins.;How exhilarating!	……这里是召唤术师的王国幻术园！我的冒险就从这里开始。;真令人兴奋！
+quest-words	15	It's nice to meet you.;May I ask who you are?	很高兴认识你。;请问你是谁？
+quest-words	16	Alright! Let's get started with the tutorial.	好！让我们开始新手教学吧。
+quest-words	26	Let's start with something simple.;Close your quest window and either press C or click on the Character (C) button located on the bottom right of your screen to launch the Character Stats window.	先从简单的操作开始。;关闭任务窗口，按 C 键或点击屏幕右下方的角色（C）按钮，打开角色属性窗口。
+quest-words	43	Now, press the I button or click on the Inventory (I/V) button located on the bottom right to open your Inventory window.	现在按 I 键，或点击屏幕右下方的背包（I/V）按钮，打开背包窗口。
+slides	4	Press Q, W, E to use the items such as healing potion, mana potion, antidote, alcohol or town portal scroll registered under those keys.	按 Q、W、E 键，可使用绑定在对应快捷键上的治疗药水、魔法药水、解毒剂、酒或回城卷轴。
+slides	7	Vault usage fee is deducted from your inventory according to your level.	使用仓库的费用根据角色等级从背包中扣除。
+slides	8	Use the lock function on your vault to protect it.	使用仓库上锁功能保护你的物品。
+slides	9	Point the cursor on the skill button and press ctrl+number key to set hotkey.	将鼠标移到技能按钮上，按 Ctrl＋数字键设置快捷键。
+slides	12	Press space bar to collect loot.	按空格键拾取物品。
+slides	19	To combat normally, left click on monster.	鼠标左键点击怪物进行普通攻击。
+slides	20	To use skill during combat, right click on monster.	鼠标右键点击怪物施放技能。
+slides	21	Right click on scrolls or orbs to master the noted skills.	鼠标右键点击技能卷轴或技能石，即可学习对应技能。
+slides	23	To use skills or magic, right click on monster.	鼠标右键点击怪物，使用技能或魔法。
+slides	24	The command (trade, party, whisper, etc.) system is accessible by pressing the 'D' key.	按 D 键打开指令菜单，可使用交易、组队、密语等功能。
+slides	28	Click shortcut key T to check the quest information.	按 T 键查看任务信息。
+slides	35	Wearing a level +5 or above boots allows you to run.	穿戴强化等级为 +5 或以上的靴子即可奔跑。
+slides	37	When poisoned, you can cure yourself by using the antidote.	中毒后可使用解毒剂解除中毒。
+slides	38	Using the 'town portal scroll' will transport you to the nearest town or safe area.	使用回城卷轴可返回最近的城镇或安全区。
+slides	39	To save a screenshot in your Mu folder, press the 'Print Screen' key.	按 Print Screen 键截图，图片将保存在奇迹客户端目录中。
+slides	40	Item's performance level decreases when the durability decreases.	物品耐久度降低时，其性能也会下降。
+slides	42	To use the saved chatting macro, press Alt+number.	按 Alt＋数字键使用已保存的聊天宏。
+slides	43	To fix your weapon or armor, go to the weapon merchants in town.	前往城镇的武器商人处修理武器或防具。
+slides	50	The supplementary magic of the Elf can be used by clicking the name in the party window.	点击组队窗口中的角色名称，可对其施放弓箭手的辅助魔法。
+slides	52	Click shortcut key T to check the quest information.	按 T 键查看任务信息。
