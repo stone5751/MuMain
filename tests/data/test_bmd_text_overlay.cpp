@@ -7,6 +7,7 @@
 #include "Core/Utilities/StringUtils.h"
 #include "I18N/All.h"
 #include "json.hpp"
+#include <cwctype>
 #include <fstream>
 #include <sstream>
 
