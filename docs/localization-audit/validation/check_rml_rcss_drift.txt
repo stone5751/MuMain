@@ -1,0 +1,3 @@
+COMMAND: C:\Users\stone\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe tools/check_rml_rcss_drift.py
+EXIT: 0
+RML/RCSS theme-fork drift check: OK (111 documents, 333 theme variants, 154 files checked)

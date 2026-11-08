@@ -1,0 +1,1 @@
+EXPECTED BLOCKER: Missing build dependencies: ninja, cl, link, VCPKG_ROOT with vcpkg.cmake. Use a Visual Studio x64 Developer PowerShell; see docs/build/windows/console.md.

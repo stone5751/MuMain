@@ -1,0 +1,11 @@
+COMMAND: C:\Users\stone\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe scripts/validate_zh_cn.py
+EXIT: 0
+{
+  "resource_additions": {
+    "Dialog": 233,
+    "Game": 495
+  },
+  "name_additions": 711,
+  "font_cmap": "passed (regular and bold); visual rendering untested",
+  "errors": []
+}

@@ -1,0 +1,61 @@
+{
+  "resources": {
+    "Dialog": {
+      "english": 233,
+      "translated": 233,
+      "missing": 0,
+      "same_as_english": 0
+    },
+    "Editor": {
+      "english": 1417,
+      "translated": 0,
+      "missing": 1417,
+      "same_as_english": 0
+    },
+    "Game": {
+      "english": 3148,
+      "translated": 750,
+      "missing": 2398,
+      "same_as_english": 0
+    },
+    "Metadata": {
+      "english": 59,
+      "translated": 0,
+      "missing": 59,
+      "same_as_english": 0
+    }
+  },
+  "names": {
+    "item": {
+      "total": 911,
+      "translated": 455,
+      "missing": 456
+    },
+    "monster": {
+      "total": 314,
+      "translated": 192,
+      "missing": 122
+    },
+    "npc": {
+      "total": 101,
+      "translated": 57,
+      "missing": 44
+    },
+    "other": {
+      "total": 1,
+      "translated": 1,
+      "missing": 0
+    },
+    "trap": {
+      "total": 7,
+      "translated": 7,
+      "missing": 0
+    }
+  },
+  "source": {
+    "helper_keys": 65,
+    "helper_missing": 0,
+    "wide_literal_candidates": 3617,
+    "wide_literal_files": 176
+  }
+}

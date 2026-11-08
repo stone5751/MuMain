@@ -1,0 +1,3 @@
+COMMAND: pwsh -NoProfile -Command "$files=Get-Content out/powershell-syntax-files.json -Raw | ConvertFrom-Json; foreach($file in $files) { $tokens=$null; $errors=$null; [System.Management.Automation.Language.Parser]::ParseFile($file,[ref]$tokens,[ref]$errors) | Out-Null; if($errors.Count) { $errors | Format-List; exit 1 } }; Write-Output 'Workflow YAML and all PowerShell snippets parsed successfully. GitHub expressions replaced by dummy paths for syntax parsing; remote execution NOT tested.'"
+EXIT: 0
+Workflow YAML and all PowerShell snippets parsed successfully. GitHub expressions replaced by dummy paths for syntax parsing; remote execution NOT tested.

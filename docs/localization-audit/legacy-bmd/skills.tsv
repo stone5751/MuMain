@@ -1,0 +1,400 @@
+﻿id	english	encoding
+1	Poison	utf-8
+2	Meteorite	utf-8
+3	Lightning	utf-8
+4	Fire Ball	utf-8
+5	Flame	utf-8
+6	Teleport	utf-8
+7	Ice	utf-8
+8	Twister	utf-8
+9	Evil Spirit	utf-8
+10	Hellfire	utf-8
+11	Power Wave	utf-8
+12	Aqua Beam	utf-8
+13	Cometfall	utf-8
+14	Inferno	utf-8
+15	Teleport Ally	utf-8
+16	Soul Barrier	utf-8
+17	Energy Ball	utf-8
+18	Defense	utf-8
+19	Falling Slash	utf-8
+20	Lunge	utf-8
+21	Uppercut	utf-8
+22	Cyclone	utf-8
+23	Slash	utf-8
+24	Triple Shot	utf-8
+26	Heal	utf-8
+27	Greater Defense	utf-8
+28	Greater Damage	utf-8
+30	Summon Goblin	utf-8
+31	Summon Stone Golem	utf-8
+32	Summon Assassin	utf-8
+33	Summon Elite Yeti	utf-8
+34	Summon Dark Knight	utf-8
+35	Summon Bali	utf-8
+36	Summon Soldier	utf-8
+38	Decay	utf-8
+39	Ice Storm	utf-8
+40	Nova	utf-8
+41	Twisting Slash	utf-8
+42	Rageful Blow	utf-8
+43	Death Stab	utf-8
+44	Crescent Moon Slash	utf-8
+45	Lance	utf-8
+46	Starfall	utf-8
+47	Impale	utf-8
+48	Swell Life	utf-8
+49	Fire Breath	utf-8
+50	Flame of Evil (Monster)	utf-8
+51	Ice Arrow	utf-8
+52	Penetration	utf-8
+55	Fire Slash	utf-8
+56	Power Slash	utf-8
+57	Spiral Slash	utf-8
+60	Force	utf-8
+61	Fire Burst	utf-8
+62	Earthshake	utf-8
+63	Summon	utf-8
+64	Increase Critical Damage	utf-8
+65	Electric Spike	utf-8
+66	Force Wave	utf-8
+67	Stun	utf-8
+68	Cancel Stun	utf-8
+69	Swell Mana	utf-8
+70	Invisibility	utf-8
+71	Cancel Invisibility	utf-8
+72	Abolish Magic	utf-8
+73	Mana Rays	utf-8
+74	Fire Blast	utf-8
+76	Plasma Storm	utf-8
+77	Infinity Arrow	utf-8
+78	Fire Scream	utf-8
+79	Explosion	utf-8
+200	Summon Monster	utf-8
+201	Magic Attack Immunity	utf-8
+202	Physical Attack Immunity	utf-8
+203	Potion of Bless	utf-8
+204	Potion of Soul	utf-8
+210	Spell of Protection	utf-8
+211	Spell of Restriction	utf-8
+212	Spell of Pursuit	utf-8
+213	Shied-Burn	utf-8
+214	Drain Life	utf-8
+215	Chain Lightning	utf-8
+217	Damage Reflection	utf-8
+218	Berserker	utf-8
+219	Sleep	utf-8
+221	Weakness	utf-8
+222	Innovation	utf-8
+223	Explosion	utf-8
+224	Requiem	utf-8
+225	Pollution	utf-8
+230	Lightning Shock	utf-8
+232	Strike of Destruction	utf-8
+233	Expansion of Wizardry	utf-8
+234	Recovery	utf-8
+235	Multi-Shot	utf-8
+236	Flame Strike	utf-8
+237	Gigantic Storm	utf-8
+238	Chaotic Diseier	utf-8
+239	Doppeganger Self Explosion Skill	utf-8
+260	Killing Blow	utf-8
+261	Beast Uppercut	utf-8
+262	Chain Drive	utf-8
+263	Dark Side	utf-8
+264	Dragon Roar	utf-8
+265	Dragon Slasher	utf-8
+266	Ignore Defense	utf-8
+267	Increase Health	utf-8
+268	Increase Block	utf-8
+269	Charge	utf-8
+270	Phoenix Shot	utf-8
+300	Durability Reduction (1)	utf-8
+301	PvP Defence Rate Increase	utf-8
+302	Maximum SD increase	utf-8
+303	Automatic Mana Recovery Increase	utf-8
+304	Poison Resistance Increase	utf-8
+305	Durability Reduction (2)	utf-8
+306	SD Recovery Speed Increase	utf-8
+307	Automatic HP Recovery Increase	utf-8
+308	Lightning Resistance Increase	utf-8
+309	Defense Increase	utf-8
+310	Automatic AG Recovery Increase	utf-8
+311	Ice Resistance Increase	utf-8
+312	Durability Reduction (3)	utf-8
+313	Defense Success Rate Increase	utf-8
+314	Cast Invincibility	utf-8
+315	Armor Set Bonus Increase	utf-8
+316	Vengeance	utf-8
+317	Energy Increase	utf-8
+318	Stamina Increase	utf-8
+319	Agility Increase	utf-8
+320	Strength Increase	utf-8
+321	Wing of Storm Absorption PowUp	utf-8
+322	Wing of Storm Defense PowUp	utf-8
+323	Iron Defense	utf-8
+324	Wing of Storm Attack PowUp	utf-8
+325	Attack Success Rate Increase	utf-8
+326	Cyclone Strengthener	utf-8
+327	Slash Strengthener	utf-8
+328	Falling Slash Strengthener	utf-8
+329	Lunge Strengthener	utf-8
+330	Twisting Slash Strengthener	utf-8
+331	Rageful Blow Strengthener	utf-8
+332	Twisting Slash Mastery	utf-8
+333	Rageful Blow Mastery	utf-8
+334	Maximum Life Increase	utf-8
+335	Weapon Mastery	utf-8
+336	Slash Strengthener	utf-8
+337	Strike of Destruction Strengthener	utf-8
+338	Maximum Mana Increase	utf-8
+339	Death Stab Proficiency	utf-8
+340	Strike of Destruction Proficiency	utf-8
+341	Maximum AG Increase	utf-8
+342	Death Stab Mastery	utf-8
+343	Strike of Destruction Mastery	utf-8
+344	Blood Storm	utf-8
+345	Combo Strengthener	utf-8
+346	Blood Storm Strengthener	utf-8
+347	Attack Rate	utf-8
+348	Two-handed Sword Strengthener	utf-8
+349	One-handed Sword Strengthener	utf-8
+350	Mace Strengthener	utf-8
+351	Spear Strengthener	utf-8
+352	Two-handed Sword Mastery	utf-8
+353	One-handed Sword Mastery	utf-8
+354	Mace Mastery	utf-8
+355	Spear Mastery	utf-8
+356	Swell Life Strengthener	utf-8
+357	Mana Reduction	utf-8
+358	Monster Attack SD Increment	utf-8
+359	Monster Attack Life Increment	utf-8
+360	Swell Life Proficiency	utf-8
+361	Minimum Attack Power Increase	utf-8
+362	Monster Attack Mana Increment	utf-8
+363	Swell Life Mastery	utf-8
+364	Maximum Attack Power Increase	utf-8
+366	Increases critical damage rate	utf-8
+367	Restores all Mana	utf-8
+368	Restores all HP	utf-8
+369	Increases excellent damage rate	utf-8
+370	Increases double damage rate	utf-8
+371	Increases chance of ignore Def	utf-8
+372	Restores all SD	utf-8
+373	Increases triple damage rate	utf-8
+374	Eternal Wings Absorption PowUp	utf-8
+375	Eternal Wings Defense PowUp	utf-8
+377	Eternal Wings Attack PowUp	utf-8
+378	Flame Strengthener	utf-8
+379	Lightning Strengthener	utf-8
+380	Expansion of Wizardry Strengthener	utf-8
+381	Inferno Strengthener	utf-8
+382	Blast Strengthener	utf-8
+383	Expansion of Wizardry Mastery	utf-8
+384	Poison Strengthener	utf-8
+385	Evil Spirit Strengthener	utf-8
+386	Magic Mastery	utf-8
+387	Decay Strengthener	utf-8
+388	Hellfire Strengthener	utf-8
+389	Ice Strengthener	utf-8
+390	Meteor Strengthener	utf-8
+391	Ice Storm Strengthener	utf-8
+392	Nova Strengthener	utf-8
+393	Ice Storm Mastery	utf-8
+394	Meteor Mastery	utf-8
+395	Nova Cast Strengthener	utf-8
+397	One-handed Staff Strengthener	utf-8
+398	Two-handed Staff Strengthener	utf-8
+399	Shield Strengthener	utf-8
+400	One-handed Staff Mastery	utf-8
+401	Two-handed Staff Mastery	utf-8
+402	Shield Mastery	utf-8
+403	Soul Barrier Strengthener	utf-8
+404	Soul Barrier Proficiency	utf-8
+405	Minimum Wizardry Increase	utf-8
+406	Soul Barrier Mastery	utf-8
+407	Maximum Wizardry Increase	utf-8
+409	Illusion Wings Absorption PowUp	utf-8
+410	Illusion Wings Defense PowUp	utf-8
+411	Multi-Shot Strengthener	utf-8
+412	Illusion Wings Attack PowUp	utf-8
+413	Heal Strengthener	utf-8
+414	Triple Shot Strengthener	utf-8
+415	Summoned Monster Strengthener (1)	utf-8
+416	Penetration Strengthener	utf-8
+417	Defense Increase Strengthener	utf-8
+418	Triple Shot Mastery	utf-8
+419	Summoned Monster Strengthener (2)	utf-8
+420	Attack Increase Strengthener	utf-8
+421	Weapon Mastery	utf-8
+422	Attack Increase Mastery	utf-8
+423	Defense Increase Mastery	utf-8
+424	Ice Arrow Strengthener	utf-8
+425	Cure	utf-8
+426	Party Healing	utf-8
+427	Poison Arrow	utf-8
+428	Summoned Monster Strengthener (3)	utf-8
+429	Party Healing Strengthener	utf-8
+430	Bless	utf-8
+431	Multi-Shot Mastery	utf-8
+432	Summon Satyros	utf-8
+433	Bless Strengthener	utf-8
+434	Poison Arrow Strengthener	utf-8
+435	Bow Strengthener	utf-8
+436	Crossbow Strengthener	utf-8
+437	Shield Strengthener	utf-8
+438	Bow Mastery	utf-8
+439	Crossbow Mastery	utf-8
+440	Shield Mastery	utf-8
+441	Infinity Arrow Strengthener	utf-8
+442	Minimum Attack Power Increase	utf-8
+443	Maximum Attack Power Increase	utf-8
+445	DimensionWings Absorb PowUp	utf-8
+446	DimensionWings Defense PowUp	utf-8
+447	DimensionWings Attack PowUp	utf-8
+448	Fire Tome Strengthener	utf-8
+449	Wind Tome Strengthener	utf-8
+450	Lightning Tome Strengthener	utf-8
+451	Fire Tome Mastery	utf-8
+452	Wind Tome Mastery	utf-8
+453	Lightning Tome Mastery	utf-8
+454	Sleep Strengthener	utf-8
+455	Chain Lightning Strengthener	utf-8
+456	Lightning Shock Strengthener	utf-8
+457	Magic Mastery	utf-8
+458	Drain Life Strengthener	utf-8
+459	Weakness Strengthener	utf-8
+460	Innovation Strengthener	utf-8
+461	Blind	utf-8
+462	Drain Life Mastery	utf-8
+463	Blind Strengthener	utf-8
+465	Stick Strengthener	utf-8
+466	Other World Tome Strengthener	utf-8
+467	Stick Mastery	utf-8
+468	Other World Tome Mastery	utf-8
+469	Berserker Strengthener	utf-8
+470	Berserker Proficiency	utf-8
+471	Minimum Wizardry/Curse Increase	utf-8
+472	Berserker Mastery	utf-8
+473	Maximum Wizardry/Curse Increase	utf-8
+475	Wing of Ruin Absorption PowUp	utf-8
+476	Wing of Ruin Defense PowUp	utf-8
+478	Wing of Ruin Attack PowUp	utf-8
+479	Cyclone Strengthener	utf-8
+480	Lightning Strengthener	utf-8
+481	Twisting Slash Strengthener	utf-8
+482	Power Slash Strengthener	utf-8
+483	Flame Strengthener	utf-8
+484	Blast Strengthener	utf-8
+485	Weapon Mastery	utf-8
+486	Inferno Strengthener	utf-8
+487	Evil Spirit Strengthener	utf-8
+488	Magic Mastery	utf-8
+489	Ice Strengthener	utf-8
+490	Blood Attack Strengthener	utf-8
+491	Ice Mastery	utf-8
+492	Flame Strike Strengthener	utf-8
+493	Fire Slash Mastery	utf-8
+494	Flame Strike Mastery	utf-8
+495	Earth Prison	utf-8
+496	Gigantic Storm Strengthener	utf-8
+497	Earth Prison Strengthener	utf-8
+504	Emperor Cape Absorption PowUp	utf-8
+505	Emperor Cape Defense PowUp	utf-8
+506	Adds Command Stat	utf-8
+507	Emperor Cape Attack PowUp	utf-8
+508	Fire Burst Strengthener	utf-8
+509	Force Wave Strengthener	utf-8
+510	Dark Horse Strengthener (1)	utf-8
+511	Critical DMG Increase PowUp	utf-8
+512	Earthshake Strengthener	utf-8
+513	Weapon Mastery	utf-8
+514	Fire Burst Mastery	utf-8
+515	Critical DMG Increase PowUp (2)	utf-8
+516	Earthshake Mastery	utf-8
+517	Critical DMG Increase PowUp (3)	utf-8
+518	Fire Scream Strengthener	utf-8
+519	Electric Spark Strengthener	utf-8
+520	Fire Scream Mastery	utf-8
+521	Iron Defense 	utf-8
+522	Critical Damage Increase Mastery	utf-8
+523	Chaotic Diseier Strengthener	utf-8
+524	Iron Defense Strengthener	utf-8
+526	Dark Spirit Strengthener	utf-8
+527	Scepter Strengthener	utf-8
+528	Shield Strengthener	utf-8
+529	Use Scepter : Pet Strengthener	utf-8
+530	Dark Spirit Strengthener (2)	utf-8
+531	Scepter Mastery	utf-8
+532	Shield Mastery	utf-8
+533	Command Attack Increase	utf-8
+534	Dark Spirit Strengthener (3)	utf-8
+535	Pet Durability Strengthener	utf-8
+536	Dark Spirit Strengthener (4)	utf-8
+538	Dark Spirit Strengthener (5)	utf-8
+539	Spirit Lord	utf-8
+548	Reigning Cloak Absorption PowUp	utf-8
+549	Reigning Cloak Defense PowUp	utf-8
+550	Reigning Cloak Attack PowUp	utf-8
+551	Killing Blow Strengthener	utf-8
+552	Beast Uppercut Strengthener	utf-8
+554	Killing Blow Mastery	utf-8
+555	Beast Uppercut Mastery	utf-8
+556	Def Success Rate Strengthener	utf-8
+557	Weapon Mastery	utf-8
+558	Chain Drive Strengthener	utf-8
+559	Dark Side Strengthener	utf-8
+560	Dragon Roar Strengthener	utf-8
+561	Dragon Roar Mastery	utf-8
+562	Chain Drive Mastery	utf-8
+563	Dark Side Mastery	utf-8
+564	Dragon Slasher Strengthener	utf-8
+565	Blood Howling	utf-8
+566	Dragon Slasher Mastery	utf-8
+567	Blood Howling Strengthener	utf-8
+568	Equipped Weapon Strengthener	utf-8
+569	Def SuccessRate Increase PowUp	utf-8
+571	Equipped Weapon Mastery	utf-8
+572	DefSuccessRate Increase Mastery	utf-8
+573	Stamina Increase Strengthener	utf-8
+574	Defense Switch	utf-8
+578	Durability Reduction (1)	utf-8
+579	Increase PvP Defense Rate	utf-8
+580	Increase Maximum SD	utf-8
+581	Increase Mana Recovery Rate	utf-8
+582	Increase Poison Resistance	utf-8
+583	Durability Reduction (2)	utf-8
+584	Increase SD Recovery Rate	utf-8
+585	Increase HP Recovery Rate	utf-8
+586	Increase Lightning Resistance	utf-8
+587	Increases Defense	utf-8
+588	Increases AG Recovery Rate	utf-8
+589	Increase Ice Resistance	utf-8
+590	Durability Reduction(3)	utf-8
+591	Increase Defense Success Rate	utf-8
+592	Cast Invincibility	utf-8
+593	Increase Set Defense	utf-8
+594	Vengeance	utf-8
+595	Increase Energy	utf-8
+596	Increase HP	utf-8
+597	Increase Agility	utf-8
+598	Increase Strength	utf-8
+599	Increase Attack Success Rate	utf-8
+600	Increase Maximum HP	utf-8
+601	Increase Maximum Mana	utf-8
+602	Increase Maximum AG	utf-8
+603	Increase PvP Attack Rate	utf-8
+604	Decrease Mana	utf-8
+605	Recover SD from Monster Kills	utf-8
+606	Recover HP from Monster Kills	utf-8
+607	Increase Minimum Attack Power	utf-8
+608	Recover Mana from Monster Kills	utf-8
+609	Increase Maximum Attack Power	utf-8
+610	Increases Critical Damage Chance	utf-8
+611	Recover Mana Fully	utf-8
+612	Recovers HP Fully	utf-8
+613	Increase Excellent Damage Chance	utf-8
+614	Increase Double Damage Chance	utf-8
+615	Increase Ignore Def Chance	utf-8
+616	Recovers SD Fully	utf-8
+617	Increase Triple Damage Chance	utf-8

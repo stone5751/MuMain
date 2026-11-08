@@ -1,0 +1,3 @@
+COMMAND: C:\Users\stone\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe tools/check_layout_transform_users.py
+EXIT: 0
+Layout transform guard: OK (no use outside the infrastructure)

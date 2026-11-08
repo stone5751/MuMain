@@ -1,0 +1,6 @@
+{
+  "narrow_literal_candidates": 14286,
+  "narrow_display_candidates": 405,
+  "rml_text_candidates": 248,
+  "limitation": "Heuristic inventory, not a count of missing translations. Multiline strings, comments, macros and data bindings need manual classification."
+}

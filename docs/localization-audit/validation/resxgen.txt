@@ -1,0 +1,3 @@
+COMMAND: D:\Downloads\MuMain\source-v1.37.0\out\dotnet-sdk\dotnet.exe run --project tools/ResxGen --configuration Release -- --input src/Localization --output out/zh-CN-generated/I18N --wide-groups Game,Dialog
+EXIT: 0
+ResxGen: wrote 4 group(s) to out/zh-CN-generated/I18N

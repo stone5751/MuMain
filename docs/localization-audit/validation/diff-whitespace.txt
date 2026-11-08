@@ -1,0 +1,4 @@
+COMMAND: git -c safe.directory=D:/Downloads/MuMain/source-v1.37.0 diff --check v1.37.0 -- . :(glob,exclude)docs/localization-audit/**/*.tsv
+EXIT: 0
+warning: in the working copy of 'src/Localization/Game.zh-CN.resx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/validate_zh_cn.py', LF will be replaced by CRLF the next time Git touches it

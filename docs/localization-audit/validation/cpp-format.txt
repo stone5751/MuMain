@@ -1,0 +1,1 @@
+Changed C++ lines formatting check with pipefail and Git safe.directory: exit 0.

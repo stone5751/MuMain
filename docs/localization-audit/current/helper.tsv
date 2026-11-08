@@ -1,0 +1,66 @@
+﻿key	english	zh-CN
+Activation Skill	Activation Skill	触发技能
+Activation Skill 1	Activation Skill 1	触发1
+Activation Skill 2	Activation Skill 2	触发2
+Add	Add	添加
+Add Extra Item	Add Extra Item	自定义拾取
+Attack Together	Attack Together	协同攻击
+Auto Attack	Auto Attack	自动攻击
+Auto Heal	Auto Heal	自动治疗
+Auto Potion	Auto Potion	自动喝药
+Auto Recovery	Auto Recovery	自动恢复
+Auto accept - Friend	Auto accept - Friend	自动接受好友请求
+Auto accept - Guild Member	Auto accept - Guild Member	自动接受入盟请求
+Basic Skill	Basic Skill	主技能
+BasicAttackFallback	Basic Attack Fallback	无法施放时普通攻击
+Buff Duration	Buff Duration	增益持续时间
+Buff Duration for All Party Members	Buff Duration for All Party Members	保持全队增益
+Buff Support	Buff Support	辅助增益
+Cease Attack	Cease Attack	停止攻击
+Close388	Close	关闭
+Combo	Combo	连击
+Con	Con	条件
+Delay	Delay	间隔
+Delete	Delete	删除
+Distance	Distance	距离
+Drain Life	Drain Life	吸血
+Excellent Item	Excellent Item	卓越物品
+HP Status	HP Status	生命值
+HP Status of Party Members	HP Status of Party Members	队员生命值
+Heal Support	Heal Support	辅助治疗
+Hunting	Hunting	战斗
+InOrderToUseComboSkill	In order to use Combo Skill, Basic Skill and Activation Skill should be registered first	使用连击前，请先设置基础技能和触发技能。
+Initialization	Initialization	重置
+Jewel/Gem	Jewel/Gem	宝石
+Long-Distance Counter Attack	Long-Distance Counter Attack	远程反击
+Monster Attacking Me	Monster Attacking Me	攻击我的怪物
+Monster Within Hunting range	Monster Within Hunting range	战斗范围内的怪物
+More Than 2 Mobs	More Than 2 Mobs	超过 2 只怪物
+More Than 3 Mobs	More Than 3 Mobs	超过 3 只怪物
+More than 4 mobs	More than 4 mobs	超过 4 只怪物
+More than 5 mobs	More than 5 mobs	超过 5 只怪物
+No Extension Function Being Used	No Extension Function Being Used	未使用扩展功能
+Obtaining	Obtaining	拾取
+Official MU Helper	Official MU Helper	奇迹助手
+Official MU Helper Setting	Official MU Helper Setting	奇迹助手设置
+Original Position	Original Position	返回原位
+Other Settings	Other Settings	其他设置
+PVP Counterattack	PVP Counterattack	玩家攻击反击
+Party	Party	组队
+Pick All Near Items	Pick All Near Items	拾取周围所有物品
+Pick Selected Items	Pick Selected Items	拾取指定物品
+Potion	Potion	药水
+Pre-con	Pre-con	触发目标
+Preference of Party Heal	Preference of Party Heal	优先治疗队员
+Range	Range	范围
+Repair Item	Repair Item	修理物品
+Save Setting	Save Setting	保存设置
+Set Item	Set Item	套装物品
+Setting	Setting	设置
+Start Official MU Helper	Start Official MU Helper	启动奇迹助手
+Stop Official MU Helper	Stop Official MU Helper	停止奇迹助手
+Sub-con	Sub-con	数量条件
+Time Space of Casting Buff	Time Space of Casting Buff	增益施放间隔
+Use Dark Spirits	Use Dark Spirits	使用天鹰
+Used Extension function	Used Extension function	已使用扩展功能
+Zen	Zen	金币

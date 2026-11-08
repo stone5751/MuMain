@@ -1,0 +1,249 @@
+﻿file	line	literal	context
+src/bin/Data/Interface/RmlUi/battle_soccer_score.rml	3	Battle Soccer	<title>Battle Soccer</title>
+src/bin/Data/Interface/RmlUi/blood_castle_enter.rml	3	Blood Castle entry	<title>Blood Castle entry</title>
+src/bin/Data/Interface/RmlUi/blood_castle_time.rml	3	Blood Castle time (CBloodCastle)	<title>Blood Castle time (CBloodCastle)</title>
+src/bin/Data/Interface/RmlUi/buff_strip.rml	3	Buff Strip	<title>Buff Strip</title>
+src/bin/Data/Interface/RmlUi/castle_window.rml	5	Senatus	<title>Senatus</title>
+src/bin/Data/Interface/RmlUi/catapult.rml	3	Catapult	<title>Catapult</title>
+src/bin/Data/Interface/RmlUi/chaos_castle_time.rml	3	Chaos Castle time (CChaosCastleTime)	<title>Chaos Castle time (CChaosCastleTime)</title>
+src/bin/Data/Interface/RmlUi/char_info_balloon.rml	4	Character Info Balloons	<title>Character Info Balloons</title>
+src/bin/Data/Interface/RmlUi/char_make.rml	3	Character Creation	<title>Character Creation</title>
+src/bin/Data/Interface/RmlUi/char_sel_main.rml	3	Character Select Bar	<title>Character Select Bar</title>
+src/bin/Data/Interface/RmlUi/character_info.rml	3	Character Info	<title>Character Info</title>
+src/bin/Data/Interface/RmlUi/chat_command.rml	3	Chat Commands	<title>Chat Commands</title>
+src/bin/Data/Interface/RmlUi/chat_input.rml	3	Chat Input	<title>Chat Input</title>
+src/bin/Data/Interface/RmlUi/chat_log.rml	4	Chat Log	<title>Chat Log</title>
+src/bin/Data/Interface/RmlUi/chat_room.rml	3	Chat Room	<title>Chat Room</title>
+src/bin/Data/Interface/RmlUi/command_window.rml	4	Command Window	<title>Command Window</title>
+src/bin/Data/Interface/RmlUi/credit_win.rml	3	Credits	<title>Credits</title>
+src/bin/Data/Interface/RmlUi/crywolf.rml	6	Crywolf (CCryWolf)	<title>Crywolf (CCryWolf)</title>
+src/bin/Data/Interface/RmlUi/cursed_temple_enter.rml	3	Illusion Temple	<title>Illusion Temple</title>
+src/bin/Data/Interface/RmlUi/cursed_temple_result.rml	3	Illusion Temple Result	<title>Illusion Temple Result</title>
+src/bin/Data/Interface/RmlUi/cursed_temple_system.rml	5	Illusion Temple HUD (CCursedTempleSystem)	<title>Illusion Temple HUD (CCursedTempleSystem)</title>
+src/bin/Data/Interface/RmlUi/cursor_item.rml	3	Cursor item	<title>Cursor item</title>
+src/bin/Data/Interface/RmlUi/devil_square_enter.rml	3	Devil Square entry	<title>Devil Square entry</title>
+src/bin/Data/Interface/RmlUi/diagnostics.rml	3	Performance diagnostics	<title>Performance diagnostics</title>
+src/bin/Data/Interface/RmlUi/diagnostics.rml	11	FPS	"<div class=""title"">FPS {{fps | fixed}}</div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	13	Average	"<div class=""metric""><span class=""label"">Average</span><span class=""value"">{{average_fps | fixed}}</span><span class=""label"">1% low</span><span class=""value"">{{low_fps | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	13	1% low	"<div class=""metric""><span class=""label"">Average</span><span class=""value"">{{average_fps | fixed}}</span><span class=""label"">1% low</span><span class=""value"">{{low_fps | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	14	Slowest	"<div class=""metric""><span class=""label"">Slowest</span><span class=""value"">{{slowest_fps | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	15	Frame	"<div class=""metric""><span class=""label"">Frame</span><span class=""value"">{{frame_ms | fixed}} ms</span><span class=""label"">CPU</span><span class=""value"">{{cpu | fixed}}%</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	15	ms	"<div class=""metric""><span class=""label"">Frame</span><span class=""value"">{{frame_ms | fixed}} ms</span><span class=""label"">CPU</span><span class=""value"">{{cpu | fixed}}%</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	15	CPU	"<div class=""metric""><span class=""label"">Frame</span><span class=""value"">{{frame_ms | fixed}} ms</span><span class=""label"">CPU</span><span class=""value"">{{cpu | fixed}}%</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	16	SDL GPU	"<div class=""metric""><span class=""label"">SDL GPU</span><span class=""value"">{{driver}}</span><span class=""label"">VSync</span><span class=""value"">{{vsync}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	16	VSync	"<div class=""metric""><span class=""label"">SDL GPU</span><span class=""value"">{{driver}}</span><span class=""label"">VSync</span><span class=""value"">{{vsync}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	17	CPU time (ms)	"<div class=""heading"">CPU time (ms)</div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	18	UI	"<div class=""metric""><span class=""label"">UI</span><span class=""value pair"">update {{ui_update | fixed}}</span><span class=""value pair"">render {{ui_render | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	18	update	"<div class=""metric""><span class=""label"">UI</span><span class=""value pair"">update {{ui_update | fixed}}</span><span class=""value pair"">render {{ui_render | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	18	render	"<div class=""metric""><span class=""label"">UI</span><span class=""value pair"">update {{ui_update | fixed}}</span><span class=""value pair"">render {{ui_render | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	19	RmlUi	"<div class=""metric""><span class=""label"">RmlUi</span><span class=""value pair"">update {{rml_update | fixed}}</span><span class=""value pair"">render {{rml_render | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	19	update	"<div class=""metric""><span class=""label"">RmlUi</span><span class=""value pair"">update {{rml_update | fixed}}</span><span class=""value pair"">render {{rml_render | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	19	render	"<div class=""metric""><span class=""label"">RmlUi</span><span class=""value pair"">update {{rml_update | fixed}}</span><span class=""value pair"">render {{rml_render | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	20	Renderer	"<div class=""metric""><span class=""label"">Renderer</span><span class=""value pair"">begin {{renderer_begin | fixed}}</span><span class=""value pair"">end {{renderer_end | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	20	begin	"<div class=""metric""><span class=""label"">Renderer</span><span class=""value pair"">begin {{renderer_begin | fixed}}</span><span class=""value pair"">end {{renderer_end | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	20	end	"<div class=""metric""><span class=""label"">Renderer</span><span class=""value pair"">begin {{renderer_begin | fixed}}</span><span class=""value pair"">end {{renderer_end | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	21	End	"<div class=""metric""><span class=""label"">End</span><span class=""value pair"">stage {{end_stage | fixed}}</span><span class=""value pair"">replay {{end_replay | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	21	stage	"<div class=""metric""><span class=""label"">End</span><span class=""value pair"">stage {{end_stage | fixed}}</span><span class=""value pair"">replay {{end_replay | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	21	replay	"<div class=""metric""><span class=""label"">End</span><span class=""value pair"">stage {{end_stage | fixed}}</span><span class=""value pair"">replay {{end_replay | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	22	offscr	"<div class=""metric""><span class=""label""></span><span class=""value pair"">offscr {{end_offscreen | fixed}}</span><span class=""value pair"">post UI {{end_post_ui | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	22	post UI	"<div class=""metric""><span class=""label""></span><span class=""value pair"">offscr {{end_offscreen | fixed}}</span><span class=""value pair"">post UI {{end_post_ui | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	23	Submit	"<div class=""metric""><span class=""label"">Submit</span><span class=""value"">{{submit | fixed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	29	Inclusive: a pass contains the passes it calls.	"<div class=""note"">Inclusive: a pass contains the passes it calls.</div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	35	SDL GPU:	"<div class=""title"">SDL GPU: {{driver}}</div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	39	Pass	"<div class=""pass-row pass-head""><span>Pass</span><span>ms</span><span>Draw</span><span>Merge</span><span>KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	39	ms	"<div class=""pass-row pass-head""><span>Pass</span><span>ms</span><span>Draw</span><span>Merge</span><span>KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	39	Draw	"<div class=""pass-row pass-head""><span>Pass</span><span>ms</span><span>Draw</span><span>Merge</span><span>KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	39	Merge	"<div class=""pass-row pass-head""><span>Pass</span><span>ms</span><span>Draw</span><span>Merge</span><span>KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	39	KB	"<div class=""pass-row pass-head""><span>Pass</span><span>ms</span><span>Draw</span><span>Merge</span><span>KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	43	Pass	"<div class=""pass-row pass-head""><span>Pass</span><span>ms</span><span>Draw</span><span>Merge</span><span>KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	43	ms	"<div class=""pass-row pass-head""><span>Pass</span><span>ms</span><span>Draw</span><span>Merge</span><span>KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	43	Draw	"<div class=""pass-row pass-head""><span>Pass</span><span>ms</span><span>Draw</span><span>Merge</span><span>KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	43	Merge	"<div class=""pass-row pass-head""><span>Pass</span><span>ms</span><span>Draw</span><span>Merge</span><span>KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	43	KB	"<div class=""pass-row pass-head""><span>Pass</span><span>ms</span><span>Draw</span><span>Merge</span><span>KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	47	Draws	"<div class=""metric""><span class=""label"">Draws</span><span class=""value pair"">requested {{requested}}</span><span class=""value pair"">submitted {{submitted}}</span><span class=""value pair"">commands {{commands}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	47	requested	"<div class=""metric""><span class=""label"">Draws</span><span class=""value pair"">requested {{requested}}</span><span class=""value pair"">submitted {{submitted}}</span><span class=""value pair"">commands {{commands}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	47	submitted	"<div class=""metric""><span class=""label"">Draws</span><span class=""value pair"">requested {{requested}}</span><span class=""value pair"">submitted {{submitted}}</span><span class=""value pair"">commands {{commands}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	47	commands	"<div class=""metric""><span class=""label"">Draws</span><span class=""value pair"">requested {{requested}}</span><span class=""value pair"">submitted {{submitted}}</span><span class=""value pair"">commands {{commands}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	48	Vertices	"<div class=""metric""><span class=""label"">Vertices</span><span class=""value pair"">{{frame_vertex_kb | fixed}} KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	48	KB	"<div class=""metric""><span class=""label"">Vertices</span><span class=""value pair"">{{frame_vertex_kb | fixed}} KB</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	49	Uploads	"<div class=""metric""><span class=""label"">Uploads</span><span class=""value pair"">textures {{textures_uploaded}}</span><span class=""value pair"">glyphs {{glyphs_uploaded}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	49	textures	"<div class=""metric""><span class=""label"">Uploads</span><span class=""value pair"">textures {{textures_uploaded}}</span><span class=""value pair"">glyphs {{glyphs_uploaded}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	49	glyphs	"<div class=""metric""><span class=""label"">Uploads</span><span class=""value pair"">textures {{textures_uploaded}}</span><span class=""value pair"">glyphs {{glyphs_uploaded}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	50	Binds	"<div class=""metric""><span class=""label"">Binds</span><span class=""value pair"">pipeline {{pipeline_binds}}</span><span class=""value pair"">sampler {{sampler_binds}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	50	pipeline	"<div class=""metric""><span class=""label"">Binds</span><span class=""value pair"">pipeline {{pipeline_binds}}</span><span class=""value pair"">sampler {{sampler_binds}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	50	sampler	"<div class=""metric""><span class=""label"">Binds</span><span class=""value pair"">pipeline {{pipeline_binds}}</span><span class=""value pair"">sampler {{sampler_binds}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	51	Uniforms	"<div class=""metric""><span class=""label"">Uniforms</span><span class=""value pair"">vertex {{vertex_uniforms}}</span><span class=""value pair"">fragment {{fragment_uniforms}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	51	vertex	"<div class=""metric""><span class=""label"">Uniforms</span><span class=""value pair"">vertex {{vertex_uniforms}}</span><span class=""value pair"">fragment {{fragment_uniforms}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	51	fragment	"<div class=""metric""><span class=""label"">Uniforms</span><span class=""value pair"">vertex {{vertex_uniforms}}</span><span class=""value pair"">fragment {{fragment_uniforms}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	52	Batches	"<div class=""metric""><span class=""label"">Batches</span><span class=""value pair"">draws {{batch_draws}}</span><span class=""value pair"">vtx/draw {{vertices_per_batch | fixed}}</span><span class=""value pair"">2D merged {{merged_2d}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	52	draws	"<div class=""metric""><span class=""label"">Batches</span><span class=""value pair"">draws {{batch_draws}}</span><span class=""value pair"">vtx/draw {{vertices_per_batch | fixed}}</span><span class=""value pair"">2D merged {{merged_2d}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	52	vtx/draw	"<div class=""metric""><span class=""label"">Batches</span><span class=""value pair"">draws {{batch_draws}}</span><span class=""value pair"">vtx/draw {{vertices_per_batch | fixed}}</span><span class=""value pair"">2D merged {{merged_2d}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	52	2D merged	"<div class=""metric""><span class=""label"">Batches</span><span class=""value pair"">draws {{batch_draws}}</span><span class=""value pair"">vtx/draw {{vertices_per_batch | fixed}}</span><span class=""value pair"">2D merged {{merged_2d}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	53	Skinning	"<div class=""metric""><span class=""label"">Skinning</span><span class=""value pair"">GPU {{skin_gpu}}</span><span class=""value pair"">CPU only {{skin_cpu_ineligible}}</span><span class=""value pair"">failed {{skin_failed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	53	GPU	"<div class=""metric""><span class=""label"">Skinning</span><span class=""value pair"">GPU {{skin_gpu}}</span><span class=""value pair"">CPU only {{skin_cpu_ineligible}}</span><span class=""value pair"">failed {{skin_failed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	53	CPU only	"<div class=""metric""><span class=""label"">Skinning</span><span class=""value pair"">GPU {{skin_gpu}}</span><span class=""value pair"">CPU only {{skin_cpu_ineligible}}</span><span class=""value pair"">failed {{skin_failed}}</span></div>"
+src/bin/Data/Interface/RmlUi/diagnostics.rml	53	failed	"<div class=""metric""><span class=""label"">Skinning</span><span class=""value pair"">GPU {{skin_gpu}}</span><span class=""value pair"">CPU only {{skin_cpu_ineligible}}</span><span class=""value pair"">failed {{skin_failed}}</span></div>"
+src/bin/Data/Interface/RmlUi/doppelganger_enter.rml	3	Lugard's Doppelganger entry (CDoppelGangerWindow)	<title>Lugard's Doppelganger entry (CDoppelGangerWindow)</title>
+src/bin/Data/Interface/RmlUi/doppelganger_frame.rml	6	Doppelganger frame (CDoppelGangerFrame)	<title>Doppelganger frame (CDoppelGangerFrame)</title>
+src/bin/Data/Interface/RmlUi/duel_watch.rml	3	Duel Watch	<title>Duel Watch</title>
+src/bin/Data/Interface/RmlUi/duel_watch_frame.rml	6	Duel spectator frame (CDuelWatchMainFrameWindow)	<title>Duel spectator frame (CDuelWatchMainFrameWindow)</title>
+src/bin/Data/Interface/RmlUi/duel_watch_spectators.rml	3	Duel spectators (CDuelWatchUserListWindow)	<title>Duel spectators (CDuelWatchUserListWindow)</title>
+src/bin/Data/Interface/RmlUi/duel_window.rml	3	Duel	<title>Duel</title>
+src/bin/Data/Interface/RmlUi/empire_guardian_enter.rml	3	Jerint's Imperial Guardian entry (CEmpireGuardianNPC)	<title>Jerint's Imperial Guardian entry (CEmpireGuardianNPC)</title>
+src/bin/Data/Interface/RmlUi/empire_guardian_timer.rml	3	Imperial Guardian timer (CEmpireGuardianTimer)	<title>Imperial Guardian timer (CEmpireGuardianTimer)</title>
+src/bin/Data/Interface/RmlUi/friend_shell.rml	3	Friends	<title>Friends</title>
+src/bin/Data/Interface/RmlUi/gate_switch.rml	3	Castle Gate Switch	<title>Castle Gate Switch</title>
+src/bin/Data/Interface/RmlUi/gateman.rml	3	Guard NPC	<title>Guard NPC</title>
+src/bin/Data/Interface/RmlUi/generic_confirm_dialog.rml	4	Generic Confirm Dialog	<title>Generic Confirm Dialog</title>
+src/bin/Data/Interface/RmlUi/generic_confirm_dialog.rml	67	Del	"<div class=""btn gcd-keypad-delete"" data-event-click=""gcd_keypad_delete_click"">Del</div>"
+src/bin/Data/Interface/RmlUi/generic_menu_dialog.rml	4	Generic Menu Dialog	<title>Generic Menu Dialog</title>
+src/bin/Data/Interface/RmlUi/gens_ranking.rml	3	Gens Info	<title>Gens Info</title>
+src/bin/Data/Interface/RmlUi/gold_bowman.rml	4	Golden Archer's lucky number registration (CGoldBowmanWindow)	<title>Golden Archer's lucky number registration (CGoldBowmanWindow)</title>
+src/bin/Data/Interface/RmlUi/gold_bowman_lena.rml	3	Golden Archer's Rena registration (CGoldBowmanLena)	<title>Golden Archer's Rena registration (CGoldBowmanLena)</title>
+src/bin/Data/Interface/RmlUi/guard_window.rml	3	Guard NPC	<title>Guard NPC</title>
+src/bin/Data/Interface/RmlUi/guild_info.rml	3	Guild	<title>Guild</title>
+src/bin/Data/Interface/RmlUi/guild_make.rml	3	Guild Master	<title>Guild Master</title>
+src/bin/Data/Interface/RmlUi/help_window.rml	3	Help	<title>Help</title>
+src/bin/Data/Interface/RmlUi/hud_status.rml	5	HUD Status	<title>HUD Status</title>
+src/bin/Data/Interface/RmlUi/hud_status.rml	26	Macro Time	"<div class=""sharp-text macro-label"" data-style-font-size=""text_px + 'px'"">Macro Time</div>"
+src/bin/Data/Interface/RmlUi/igs_buy_package.rml	3	IGS Buy Package	<title>IGS Buy Package</title>
+src/bin/Data/Interface/RmlUi/igs_buy_select.rml	3	IGS Buy Select	<title>IGS Buy Select</title>
+src/bin/Data/Interface/RmlUi/igs_send_gift.rml	3	IGS Send Gift	<title>IGS Send Gift</title>
+src/bin/Data/Interface/RmlUi/in_game_shop.rml	3	In Game Shop	<title>In Game Shop</title>
+src/bin/Data/Interface/RmlUi/item_endurance.rml	5	Item endurance (CItemEnduranceInfo)	<title>Item endurance (CItemEnduranceInfo)</title>
+src/bin/Data/Interface/RmlUi/item_explanation.rml	3	CItemExplanationWindow	<title>CItemExplanationWindow</title>
+src/bin/Data/Interface/RmlUi/kanturu_enter.rml	3	Kanturu	<title>Kanturu</title>
+src/bin/Data/Interface/RmlUi/kanturu_info.rml	3	Kanturu info (CKanturuInfoWindow)	<title>Kanturu info (CKanturuInfoWindow)</title>
+src/bin/Data/Interface/RmlUi/letter_read.rml	3	Letter	<title>Letter</title>
+src/bin/Data/Interface/RmlUi/letter_write.rml	3	Write Letter	<title>Write Letter</title>
+src/bin/Data/Interface/RmlUi/loading.rml	3	Loading	<title>Loading</title>
+src/bin/Data/Interface/RmlUi/login.rml	3	Login	<title>Login</title>
+src/bin/Data/Interface/RmlUi/login_main.rml	3	Login Main Bar	<title>Login Main Bar</title>
+src/bin/Data/Interface/RmlUi/login_main.rml	18	Menu	"<span class=""btn-icon-caption"">Menu</span>"
+src/bin/Data/Interface/RmlUi/login_main.rml	26	Credits	"<span class=""btn-icon-caption"">Credits</span>"
+src/bin/Data/Interface/RmlUi/login_scene.rml	3	Login scene lines	<title>Login scene lines</title>
+src/bin/Data/Interface/RmlUi/lucky_coin_exchange.rml	4	Delgado's lucky coin exchange (CExchangeLuckyCoin)	<title>Delgado's lucky coin exchange (CExchangeLuckyCoin)</title>
+src/bin/Data/Interface/RmlUi/lucky_coin_registration.rml	3	Delgado's lucky coin registration (CRegistrationLuckyCoin)	<title>Delgado's lucky coin registration (CRegistrationLuckyCoin)</title>
+src/bin/Data/Interface/RmlUi/main_frame.rml	8	Main Frame	<title>Main Frame</title>
+src/bin/Data/Interface/RmlUi/main_frame.rml	71	SHOP	"<span class=""btn-icon-label"">SHOP</span>"
+src/bin/Data/Interface/RmlUi/main_frame.rml	74	CHAR	"<span class=""btn-icon-label"">CHAR</span>"
+src/bin/Data/Interface/RmlUi/main_frame.rml	78	INV	"<span class=""btn-icon-label"">INV</span>"
+src/bin/Data/Interface/RmlUi/main_frame.rml	81	FRIEND	"<span class=""btn-icon-label"">FRIEND</span>"
+src/bin/Data/Interface/RmlUi/main_frame.rml	85	MENU	"<span class=""btn-icon-label"">MENU</span>"
+src/bin/Data/Interface/RmlUi/main_frame_top.rml	3	Main Frame Top	<title>Main Frame Top</title>
+src/bin/Data/Interface/RmlUi/main_frame_top.rml	17	SHOP	<span>SHOP</span>
+src/bin/Data/Interface/RmlUi/main_frame_top.rml	20	CHAR	<span>CHAR</span>
+src/bin/Data/Interface/RmlUi/main_frame_top.rml	24	INV	<span>INV</span>
+src/bin/Data/Interface/RmlUi/main_frame_top.rml	27	FRIEND	<span>FRIEND</span>
+src/bin/Data/Interface/RmlUi/main_frame_top.rml	31	MENU	<span>MENU</span>
+src/bin/Data/Interface/RmlUi/map_name.rml	3	Map name (CUIMapName)	<title>Map name (CUIMapName)</title>
+src/bin/Data/Interface/RmlUi/master_level.rml	3	Master Skill Tree	<title>Master Skill Tree</title>
+src/bin/Data/Interface/RmlUi/master_level_band.rml	3	Master Skill Tree Background	<title>Master Skill Tree Background</title>
+src/bin/Data/Interface/RmlUi/match_status.rml	4	Match Status	<title>Match Status</title>
+src/bin/Data/Interface/RmlUi/match_status.rml	53	OK	"<span class=""sharp-text sharp-centre sharp-middle ok-label"" data-style-font-size=""text_px + 'px'"">OK</span>"
+src/bin/Data/Interface/RmlUi/message_box_view.rml	4	Message Box	<title>Message Box</title>
+src/bin/Data/Interface/RmlUi/mini_map.rml	9	Mini Map	<title>Mini Map</title>
+src/bin/Data/Interface/RmlUi/move_command.rml	3	Warp List	<title>Warp List</title>
+src/bin/Data/Interface/RmlUi/msg_win.rml	3	Message Box	<title>Message Box</title>
+src/bin/Data/Interface/RmlUi/mu_helper_bar.rml	3	MU Helper Bar	<title>MU Helper Bar</title>
+src/bin/Data/Interface/RmlUi/mu_helper_config.rml	3	MU Helper	<title>MU Helper</title>
+src/bin/Data/Interface/RmlUi/mu_helper_detail.rml	4	MU Helper Detail	<title>MU Helper Detail</title>
+src/bin/Data/Interface/RmlUi/mu_helper_skill_picker.rml	5	MU Helper Skill Picker	<title>MU Helper Skill Picker</title>
+src/bin/Data/Interface/RmlUi/my_quest_info.rml	3	My Quest Info	<title>My Quest Info</title>
+src/bin/Data/Interface/RmlUi/my_quest_info.rml	17	Quest	"<span class=""sharp-text"" id=""title"" data-style-font-size=""text_px + 'px'"">Quest</span>"
+src/bin/Data/Interface/RmlUi/notices.rml	3	Notices	<title>Notices</title>
+src/bin/Data/Interface/RmlUi/npc_dialogue.rml	3	NPC Dialogue	<title>NPC Dialogue</title>
+src/bin/Data/Interface/RmlUi/npc_quest.rml	3	NPC Quest	<title>NPC Quest</title>
+src/bin/Data/Interface/RmlUi/option_window.rml	4	Options	<title>Options</title>
+src/bin/Data/Interface/RmlUi/party_info.rml	4	Party Info	<title>Party Info</title>
+src/bin/Data/Interface/RmlUi/party_list.rml	4	Party List	<title>Party List</title>
+src/bin/Data/Interface/RmlUi/pet_info.rml	4	Pet Info	<title>Pet Info</title>
+src/bin/Data/Interface/RmlUi/quest_progress.rml	3	Quest Progress	<title>Quest Progress</title>
+src/bin/Data/Interface/RmlUi/quest_progress.rml	23	Quest	"<span class=""sharp-text"" id=""title"" data-style-font-size=""text_px + 'px'"">Quest</span>"
+src/bin/Data/Interface/RmlUi/quest_progress_etc.rml	3	Quest Progress	<title>Quest Progress</title>
+src/bin/Data/Interface/RmlUi/quest_progress_etc.rml	22	Quest	"<span class=""sharp-text"" id=""title"" data-style-font-size=""text_px + 'px'"">Quest</span>"
+src/bin/Data/Interface/RmlUi/quick_command.rml	3	Quick Command	<title>Quick Command</title>
+src/bin/Data/Interface/RmlUi/reconnect_dialog.rml	4	Reconnect	<title>Reconnect</title>
+src/bin/Data/Interface/RmlUi/remember_password_prompt.rml	3	Remember Password Prompt	<title>Remember Password Prompt</title>
+src/bin/Data/Interface/RmlUi/server_msg.rml	5	Server Message	<title>Server Message</title>
+src/bin/Data/Interface/RmlUi/server_select.rml	4	Select Server	<title>Select Server</title>
+src/bin/Data/Interface/RmlUi/server_select.rml	31	= s.text_from && i	"data-style-visibility=""i >= s.text_from && i < s.text_to ? 'hidden' : 'visible'""><div class=""server-gauge-fill"""
+src/bin/Data/Interface/RmlUi/set_item_explanation.rml	3	CSetItemExplanation	<title>CSetItemExplanation</title>
+src/bin/Data/Interface/RmlUi/siege_warfare.rml	5	Siege Warfare	<title>Siege Warfare</title>
+src/bin/Data/Interface/RmlUi/slide_notice.rml	5	Slide Notice	<title>Slide Notice</title>
+src/bin/Data/Interface/RmlUi/sys_menu.rml	3	System Menu	<title>System Menu</title>
+src/bin/Data/Interface/RmlUi/system_log.rml	3	System Log	<title>System Log</title>
+src/bin/Data/Interface/RmlUi/themes/classic/char_make.rml	3	Character Creation	<title>Character Creation</title>
+src/bin/Data/Interface/RmlUi/themes/classic/char_sel_main.rml	3	Character Select Bar	<title>Character Select Bar</title>
+src/bin/Data/Interface/RmlUi/themes/classic/crywolf.rml	6	Crywolf (CCryWolf)	<title>Crywolf (CCryWolf)</title>
+src/bin/Data/Interface/RmlUi/themes/classic/cursed_temple_system.rml	5	Illusion Temple HUD (CCursedTempleSystem)	<title>Illusion Temple HUD (CCursedTempleSystem)</title>
+src/bin/Data/Interface/RmlUi/themes/classic/duel_window.rml	3	Duel	<title>Duel</title>
+src/bin/Data/Interface/RmlUi/themes/classic/duel_window.rml	17	vs	"<span class=""duel-text vs counter-scaled"" id=""duel_vs"" data-style-font-size=""bold_text_px + 'px'"">vs</span>"
+src/bin/Data/Interface/RmlUi/themes/classic/kanturu_info.rml	3	Kanturu info (CKanturuInfoWindow)	<title>Kanturu info (CKanturuInfoWindow)</title>
+src/bin/Data/Interface/RmlUi/themes/classic/login.rml	3	Login	<title>Login</title>
+src/bin/Data/Interface/RmlUi/themes/classic/main_frame.rml	5	Main Frame	<title>Main Frame</title>
+src/bin/Data/Interface/RmlUi/themes/classic/main_frame.rml	80	SHOP	"<span class=""btn-icon-label"">SHOP</span>"
+src/bin/Data/Interface/RmlUi/themes/classic/main_frame.rml	83	CHAR	"<span class=""btn-icon-label"">CHAR</span>"
+src/bin/Data/Interface/RmlUi/themes/classic/main_frame.rml	87	INV	"<span class=""btn-icon-label"">INV</span>"
+src/bin/Data/Interface/RmlUi/themes/classic/main_frame.rml	90	FRIEND	"<span class=""btn-icon-label"">FRIEND</span>"
+src/bin/Data/Interface/RmlUi/themes/classic/main_frame.rml	94	MENU	"<span class=""btn-icon-label"">MENU</span>"
+src/bin/Data/Interface/RmlUi/themes/classic/match_status.rml	4	Match Status	<title>Match Status</title>
+src/bin/Data/Interface/RmlUi/themes/classic/match_status.rml	60	OK	"<span class=""sharp-text sharp-centre sharp-middle ok-label"" data-style-font-size=""text_px + 'px'"">OK</span>"
+src/bin/Data/Interface/RmlUi/themes/classic/tooltip.rml	4	Tooltip	<title>Tooltip</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/chat_log.rml	4	Chat Log	<title>Chat Log</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/inventory_extension.rml	3	Inventory Extension	<title>Inventory Extension</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/lucky_item.rml	3	Lucky Item	<title>Lucky Item</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/mix_inventory.rml	3	Mix Inventory	<title>Mix Inventory</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/my_inventory.rml	3	My Inventory	<title>My Inventory</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/my_shop.rml	3	Personal Store	<title>Personal Store</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/npc_shop.rml	3	NPC Shop	<title>NPC Shop</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/purchase_shop.rml	3	Personal Store - Purchase	<title>Personal Store - Purchase</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/storage.rml	3	Storage	<title>Storage</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/storage_ext.rml	3	Storage Extension	<title>Storage Extension</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/system_log.rml	3	System Log	<title>System Log</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/tooltip.rml	4	Tooltip	<title>Tooltip</title>
+src/bin/Data/Interface/RmlUi/themes/legacy/trade.rml	4	Trade	<title>Trade</title>
+src/bin/Data/Interface/RmlUi/themes/modern/character_info.rml	3	Character Info	<title>Character Info</title>
+src/bin/Data/Interface/RmlUi/themes/modern/command_window.rml	4	Command Window	<title>Command Window</title>
+src/bin/Data/Interface/RmlUi/themes/modern/generic_confirm_dialog.rml	4	Generic Confirm Dialog	<title>Generic Confirm Dialog</title>
+src/bin/Data/Interface/RmlUi/themes/modern/generic_confirm_dialog.rml	64	Del	"<div class=""btn gcd-keypad-delete"" data-event-click=""gcd_keypad_delete_click"">Del</div>"
+src/bin/Data/Interface/RmlUi/themes/modern/generic_menu_dialog.rml	3	Generic Menu Dialog	<title>Generic Menu Dialog</title>
+src/bin/Data/Interface/RmlUi/themes/modern/generic_menu_dialog.rml	49	Esc	"<span class=""gmd-sys-keycap"">Esc</span><span class=""gmd-sys-footer-label"">{{close_label}}</span>"
+src/bin/Data/Interface/RmlUi/themes/modern/inventory_extension.rml	3	Inventory Extension	<title>Inventory Extension</title>
+src/bin/Data/Interface/RmlUi/themes/modern/login.rml	3	Login	<title>Login</title>
+src/bin/Data/Interface/RmlUi/themes/modern/lucky_item.rml	3	Lucky Item	<title>Lucky Item</title>
+src/bin/Data/Interface/RmlUi/themes/modern/mix_inventory.rml	3	Mix Inventory	<title>Mix Inventory</title>
+src/bin/Data/Interface/RmlUi/themes/modern/msg_win.rml	3	Message Box	<title>Message Box</title>
+src/bin/Data/Interface/RmlUi/themes/modern/mu_helper_config.rml	3	MU Helper	<title>MU Helper</title>
+src/bin/Data/Interface/RmlUi/themes/modern/mu_helper_detail.rml	4	MU Helper Detail	<title>MU Helper Detail</title>
+src/bin/Data/Interface/RmlUi/themes/modern/my_inventory.rml	3	My Inventory	<title>My Inventory</title>
+src/bin/Data/Interface/RmlUi/themes/modern/my_inventory.rml	69	Zen	"<span class=""modern-wallet-label-px"">Zen</span>"
+src/bin/Data/Interface/RmlUi/themes/modern/my_quest_info.rml	3	My Quest Info	<title>My Quest Info</title>
+src/bin/Data/Interface/RmlUi/themes/modern/my_quest_info.rml	29	Quest	"<div id=""title"" class=""modern-header-title-px"">Quest</div>"
+src/bin/Data/Interface/RmlUi/themes/modern/my_shop.rml	3	Personal Store	<title>Personal Store</title>
+src/bin/Data/Interface/RmlUi/themes/modern/npc_dialogue.rml	3	NPC Dialogue	<title>NPC Dialogue</title>
+src/bin/Data/Interface/RmlUi/themes/modern/npc_quest.rml	3	NPC Quest	<title>NPC Quest</title>
+src/bin/Data/Interface/RmlUi/themes/modern/npc_shop.rml	3	NPC Shop	<title>NPC Shop</title>
+src/bin/Data/Interface/RmlUi/themes/modern/option_window.rml	4	Options	<title>Options</title>
+src/bin/Data/Interface/RmlUi/themes/modern/option_window.rml	481	Esc	"<span class=""opt-keycap"">Esc</span><span class=""opt-footer-label"">{{close_label}}</span>"
+src/bin/Data/Interface/RmlUi/themes/modern/party_info.rml	4	Party Info	<title>Party Info</title>
+src/bin/Data/Interface/RmlUi/themes/modern/pet_info.rml	4	Pet Info	<title>Pet Info</title>
+src/bin/Data/Interface/RmlUi/themes/modern/purchase_shop.rml	3	Personal Store - Purchase	<title>Personal Store - Purchase</title>
+src/bin/Data/Interface/RmlUi/themes/modern/quest_progress.rml	3	Quest Progress	<title>Quest Progress</title>
+src/bin/Data/Interface/RmlUi/themes/modern/quest_progress.rml	21	Quest	"<div id=""title"" class=""modern-header-title-px"">Quest</div>"
+src/bin/Data/Interface/RmlUi/themes/modern/quest_progress_etc.rml	3	Quest Progress	<title>Quest Progress</title>
+src/bin/Data/Interface/RmlUi/themes/modern/quest_progress_etc.rml	20	Quest	"<div id=""title"" class=""modern-header-title-px"">Quest</div>"
+src/bin/Data/Interface/RmlUi/themes/modern/remember_password_prompt.rml	3	Remember Password Prompt	<title>Remember Password Prompt</title>
+src/bin/Data/Interface/RmlUi/themes/modern/storage.rml	3	Storage	<title>Storage</title>
+src/bin/Data/Interface/RmlUi/themes/modern/storage.rml	54	Zen	"<span class=""modern-wallet-label-px"">Zen</span>"
+src/bin/Data/Interface/RmlUi/themes/modern/storage_ext.rml	3	Storage Extension	<title>Storage Extension</title>
+src/bin/Data/Interface/RmlUi/themes/modern/sys_menu.rml	3	System Menu	<title>System Menu</title>
+src/bin/Data/Interface/RmlUi/themes/modern/trade.rml	4	Trade	<title>Trade</title>
+src/bin/Data/Interface/RmlUi/themes/modern/trade.rml	81	Zen	"<span class=""modern-wallet-label-px"">Zen</span>"
+src/bin/Data/Interface/RmlUi/themes/modern/trade.rml	99	Zen	"<span class=""modern-wallet-label-px"">Zen</span>"
+src/bin/Data/Interface/RmlUi/title_scene.rml	3	Title Loading Bar	<title>Title Loading Bar</title>
+src/bin/Data/Interface/RmlUi/tooltip.rml	4	Tooltip	<title>Tooltip</title>
+src/bin/Data/Interface/RmlUi/united_market_place.rml	3	Julia	<title>Julia</title>
+src/bin/Data/Interface/RmlUi/window_menu.rml	3	Window Menu	<title>Window Menu</title>
+src/bin/Data/Interface/RmlUi/workspace.rml	3	Workspace	<title>Workspace</title>
+src/bin/Data/Interface/RmlUi/world_labels.rml	3	World Labels	<title>World Labels</title>
