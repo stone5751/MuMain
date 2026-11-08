@@ -88,24 +88,28 @@ jobs:
       # The browser release URL repeatedly returned HTTP 504 on this runner.
       # Seed the exact FetchContent archive via the release API; CMake still
       # verifies its pinned hash and runs all original unpack/patch commands.
-      - name: Fetch pinned SDL_ttf release archive
+      - name: Fetch pinned SDL release archives
         shell: pwsh
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          $downloadDir = 'out/build/zh-cn-windows/_deps/sdl3_ttf-subbuild/sdl3_ttf-populate-prefix/src'
-          $archive = 'SDL3_ttf-3.2.2.tar.gz'
-          $expected = '63547d58d0185c833213885b635a2c0548201cc8f301e6587c0be1a67e1e045d'
-          New-Item -ItemType Directory -Path $downloadDir -Force | Out-Null
-          for ($attempt = 1; $attempt -le 3; $attempt++) {
-            gh release download release-3.2.2 --repo libsdl-org/SDL_ttf --pattern $archive --dir $downloadDir --clobber
-            if ($LASTEXITCODE -eq 0) { break }
-            if ($attempt -eq 3) { throw 'Failed to fetch the pinned SDL_ttf archive.' }
-            Start-Sleep -Seconds 5
+          $dependencies = @(
+            @{ Name = 'sdl3_ttf'; Repo = 'libsdl-org/SDL_ttf'; Version = '3.2.2'; Archive = 'SDL3_ttf-3.2.2.tar.gz'; Hash = '63547d58d0185c833213885b635a2c0548201cc8f301e6587c0be1a67e1e045d' },
+            @{ Name = 'sdl3_image'; Repo = 'libsdl-org/SDL_image'; Version = '3.2.4'; Archive = 'SDL3_image-3.2.4.tar.gz'; Hash = 'a725bd6d04261fdda0dd8d950659e1dc15a8065d025275ef460d32ae7dcfc182' }
+          )
+          foreach ($dependency in $dependencies) {
+            $downloadDir = "out/build/zh-cn-windows/_deps/$($dependency.Name)-subbuild/$($dependency.Name)-populate-prefix/src"
+            New-Item -ItemType Directory -Path $downloadDir -Force | Out-Null
+            for ($attempt = 1; $attempt -le 3; $attempt++) {
+              gh release download "release-$($dependency.Version)" --repo $dependency.Repo --pattern $dependency.Archive --dir $downloadDir --clobber
+              if ($LASTEXITCODE -eq 0) { break }
+              if ($attempt -eq 3) { throw "Failed to fetch $($dependency.Archive)." }
+              Start-Sleep -Seconds 5
+            }
+            $actual = (Get-FileHash -LiteralPath (Join-Path $downloadDir $dependency.Archive) -Algorithm SHA256).Hash
+            if ($actual -ne $dependency.Hash) { throw "Pinned hash mismatch: $($dependency.Archive)" }
+            Write-Output "Verified $($dependency.Archive): $actual"
           }
-          $actual = (Get-FileHash -LiteralPath (Join-Path $downloadDir $archive) -Algorithm SHA256).Hash
-          if ($actual -ne $expected) { throw 'SDL_ttf archive hash differs from the pinned source.' }
-          Write-Output "Verified SDL_ttf release archive: $actual"
 
       - name: Configure player build
         run: >
