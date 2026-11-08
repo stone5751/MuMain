@@ -2316,4 +2316,814 @@
   <data name="Reconnect" xml:space="preserve">
     <value>重新连接</value>
   </data>
+  <data name="Welcome to" xml:space="preserve">
+    <value>欢迎来到%s</value>
+  </data>
+  <data name="Arrows reloaded" xml:space="preserve">
+    <value>箭矢已补充</value>
+  </data>
+  <data name="No more arrows" xml:space="preserve">
+    <value>箭矢不足</value>
+  </data>
+  <data name="Storage must be closed to warp" xml:space="preserve">
+    <value>请先关闭仓库再传送</value>
+  </data>
+  <data name="Your level must be over %d to warp" xml:space="preserve">
+    <value>等级需超过%d级才能传送</value>
+  </data>
+  <data name="You are already in a guild" xml:space="preserve">
+    <value>你已加入战盟</value>
+  </data>
+  <data name="You are already in a party" xml:space="preserve">
+    <value>你已加入队伍</value>
+  </data>
+  <data name="You cannot go to Atlans while riding a Unicorn" xml:space="preserve">
+    <value>骑乘独角兽时无法前往亚特兰蒂斯</value>
+  </data>
+  <data name="You can enter Altans only after joining a party." xml:space="preserve">
+    <value>加入队伍后才能进入亚特兰蒂斯。</value>
+  </data>
+  <data name="You can enter Icarus only with wings, dinorant, fenrirr" xml:space="preserve">
+    <value>需装备翅膀、彩云兽或炎狼兽才能进入天空之城</value>
+  </data>
+  <data name="Whisper function is now off" xml:space="preserve">
+    <value>密语已关闭</value>
+  </data>
+  <data name="Whisper function is now on" xml:space="preserve">
+    <value>密语已开启</value>
+  </data>
+  <data name="Only characters over level %d can enter." xml:space="preserve">
+    <value>只有超过%d级的角色才能进入。</value>
+  </data>
+  <data name="Exp: %d/%d" xml:space="preserve">
+    <value>经验：%d/%d</value>
+  </data>
+  <data name="Life: %d/%d" xml:space="preserve">
+    <value>生命：%d/%d</value>
+  </data>
+  <data name="ManaDD359" xml:space="preserve">
+    <value>魔法：%d/%d</value>
+  </data>
+  <data name="Party (P)" xml:space="preserve">
+    <value>组队 (P)</value>
+  </data>
+  <data name="Character (C)" xml:space="preserve">
+    <value>角色 (C)</value>
+  </data>
+  <data name="Guild (G)" xml:space="preserve">
+    <value>战盟 (G)</value>
+  </data>
+  <data name="Level" xml:space="preserve">
+    <value>等级</value>
+  </data>
+  <data name="(%s) stat %d points have been generated." xml:space="preserve">
+    <value>（%s）属性增加了%d点。</value>
+  </data>
+  <data name="stat creation failed from fruit combination." xml:space="preserve">
+    <value>果实属性增加失败。</value>
+  </data>
+  <data name="(%s fruit) stat %d points have been %s." xml:space="preserve">
+    <value>（%s果实）属性%d点已%s。</value>
+  </data>
+  <data name="You will exit game in %d seconds." xml:space="preserve">
+    <value>将在%d秒后退出游戏。</value>
+  </data>
+  <data name="Video" xml:space="preserve">
+    <value>画面</value>
+  </data>
+  <data name="UI" xml:space="preserve">
+    <value>界面</value>
+  </data>
+  <data name="S6 player models" xml:space="preserve">
+    <value>S6角色模型</value>
+  </data>
+  <data name="S6 Player Models Tooltip" xml:space="preserve">
+    <value>开启：使用原版S6模型。关闭：使用改进模型。重启游戏后生效。</value>
+  </data>
+  <data name="Legacy" xml:space="preserve">
+    <value>经典</value>
+  </data>
+  <data name="Modern" xml:space="preserve">
+    <value>现代</value>
+  </data>
+  <data name="Volume" xml:space="preserve">
+    <value>音量</value>
+  </data>
+  <data name="Restricted words are" xml:space="preserve">
+    <value>包含</value>
+  </data>
+  <data name="included." xml:space="preserve">
+    <value>禁用词语。</value>
+  </data>
+  <data name="Invalid character name" xml:space="preserve">
+    <value>角色名称无效</value>
+  </data>
+  <data name="or name supplied already exists." xml:space="preserve">
+    <value>或该名称已被使用。</value>
+  </data>
+  <data name="If you would like to remove %s" xml:space="preserve">
+    <value>如果要删除%s</value>
+  </data>
+  <data name="you must enter your vault password." xml:space="preserve">
+    <value>请输入仓库密码。</value>
+  </data>
+  <data name="New version of game is required" xml:space="preserve">
+    <value>需要更新游戏客户端</value>
+  </data>
+  <data name="Please download the new version" xml:space="preserve">
+    <value>请下载新版本</value>
+  </data>
+  <data name="Connection error" xml:space="preserve">
+    <value>连接错误</value>
+  </data>
+  <data name="Connection closed due to 3 failed attempts." xml:space="preserve">
+    <value>连续3次尝试失败，连接已关闭。</value>
+  </data>
+  <data name="You can not trade over 50 million Zen at once" xml:space="preserve">
+    <value>单次交易金额不能超过5000万金币</value>
+  </data>
+  <data name="Someone requests you to join their a party" xml:space="preserve">
+    <value>有人邀请你加入队伍</value>
+  </data>
+  <data name="Please draw your guild emblem" xml:space="preserve">
+    <value>请绘制战盟徽章</value>
+  </data>
+  <data name="If you want to leave your guild," xml:space="preserve">
+    <value>如果要退出战盟，</value>
+  </data>
+  <data name="You have received an offer to join a guild." xml:space="preserve">
+    <value>你收到了加入战盟的邀请。</value>
+  </data>
+  <data name="%s guild challenges you" xml:space="preserve">
+    <value>%s战盟向你发起</value>
+  </data>
+  <data name="to a Guild War." xml:space="preserve">
+    <value>战盟战挑战。</value>
+  </data>
+  <data name="You have been challenged to Battle Soccer" xml:space="preserve">
+    <value>你收到了战盟足球赛挑战</value>
+  </data>
+  <data name="if you want to lock the inventory," xml:space="preserve">
+    <value>如果要锁定背包，</value>
+  </data>
+  <data name="No more stats would be increased on your level." xml:space="preserve">
+    <value>当前等级无法继续增加属性。</value>
+  </data>
+  <data name="Dissolve or leave your guild" xml:space="preserve">
+    <value>解散或退出战盟</value>
+  </data>
+  <data name="Operation" xml:space="preserve">
+    <value>操作</value>
+  </data>
+  <data name="%s: Screenshot Saved" xml:space="preserve">
+    <value>%s：截图已保存</value>
+  </data>
+  <data name="Connecting to the server" xml:space="preserve">
+    <value>正在连接服务器</value>
+  </data>
+  <data name="You cannot use your items while using the vault or while trading." xml:space="preserve">
+    <value>打开仓库或交易时无法使用物品。</value>
+  </data>
+  <data name="You have requested %s to trade." xml:space="preserve">
+    <value>已向%s发送交易请求。</value>
+  </data>
+  <data name="You have requested %s to join your party." xml:space="preserve">
+    <value>已邀请%s加入队伍。</value>
+  </data>
+  <data name="You have requested %s to join your guild." xml:space="preserve">
+    <value>已邀请%s加入战盟。</value>
+  </data>
+  <data name="You can use the trade command at character level 6" xml:space="preserve">
+    <value>角色达到6级后才能使用交易命令</value>
+  </data>
+  <data name="You can use the whisper command at character level 6" xml:space="preserve">
+    <value>角色达到6级后才能使用密语命令</value>
+  </data>
+  <data name="Tied!!!" xml:space="preserve">
+    <value>平局！</value>
+  </data>
+  <data name="You are connected to the server" xml:space="preserve">
+    <value>已连接服务器</value>
+  </data>
+  <data name="No users" xml:space="preserve">
+    <value>没有玩家</value>
+  </data>
+  <data name="[Notice for guild members] %s" xml:space="preserve">
+    <value>[战盟公告] %s</value>
+  </data>
+  <data name="Obtained %d Exp" xml:space="preserve">
+    <value>获得%d经验</value>
+  </data>
+  <data name="Hero" xml:space="preserve">
+    <value>英雄</value>
+  </data>
+  <data name="Outlaw Warning" xml:space="preserve">
+    <value>红名警告</value>
+  </data>
+  <data name="1st Stage Outlaw" xml:space="preserve">
+    <value>一级红名</value>
+  </data>
+  <data name="2nd Stage Outlaw" xml:space="preserve">
+    <value>二级红名</value>
+  </data>
+  <data name="Creating a party has failed." xml:space="preserve">
+    <value>创建队伍失败。</value>
+  </data>
+  <data name="Your request has been denied." xml:space="preserve">
+    <value>请求被拒绝。</value>
+  </data>
+  <data name="Party is full." xml:space="preserve">
+    <value>队伍已满。</value>
+  </data>
+  <data name="The user has left the game." xml:space="preserve">
+    <value>该玩家已离线。</value>
+  </data>
+  <data name="The user is already in another party." xml:space="preserve">
+    <value>该玩家已加入其他队伍。</value>
+  </data>
+  <data name="You have just left the party." xml:space="preserve">
+    <value>你已退出队伍。</value>
+  </data>
+  <data name="Guild master has refused your request to join the guild." xml:space="preserve">
+    <value>盟主拒绝了你的入盟申请。</value>
+  </data>
+  <data name="You have just joined the guild." xml:space="preserve">
+    <value>你已加入战盟。</value>
+  </data>
+  <data name="The guild is full." xml:space="preserve">
+    <value>战盟人数已满。</value>
+  </data>
+  <data name="The user is not a guild master." xml:space="preserve">
+    <value>该玩家不是盟主。</value>
+  </data>
+  <data name="You cannot join more than one guild." xml:space="preserve">
+    <value>不能同时加入多个战盟。</value>
+  </data>
+  <data name="The guild master is too busy to approve your request to join the guild" xml:space="preserve">
+    <value>盟主正忙，暂时无法处理你的入盟申请</value>
+  </data>
+  <data name="Chracters over level 6 can join a guild." xml:space="preserve">
+    <value>超过6级的角色才能加入战盟。</value>
+  </data>
+  <data name="You have left the guild." xml:space="preserve">
+    <value>你已退出战盟。</value>
+  </data>
+  <data name="Only a guild master can disband a guild." xml:space="preserve">
+    <value>只有盟主才能解散战盟。</value>
+  </data>
+  <data name="You have failed from the guild" xml:space="preserve">
+    <value>战盟操作失败</value>
+  </data>
+  <data name="The guild has been dissolved" xml:space="preserve">
+    <value>战盟已解散</value>
+  </data>
+  <data name="The guild name already exists" xml:space="preserve">
+    <value>战盟名称已被使用</value>
+  </data>
+  <data name="Guild name must be at least 4 characters" xml:space="preserve">
+    <value>战盟名称至少需要4个字符</value>
+  </data>
+  <data name="YouAreAlreadyInAGuild518" xml:space="preserve">
+    <value>你已加入战盟。</value>
+  </data>
+  <data name="That guild does not exist." xml:space="preserve">
+    <value>该战盟不存在。</value>
+  </data>
+  <data name="You have declared a Guild War." xml:space="preserve">
+    <value>已发起战盟战。</value>
+  </data>
+  <data name="The opposing guild master is not in the game." xml:space="preserve">
+    <value>对方盟主不在线。</value>
+  </data>
+  <data name="You can not declare a Guild War now." xml:space="preserve">
+    <value>现在无法发起战盟战。</value>
+  </data>
+  <data name="Only guild masters can declare a Guild War." xml:space="preserve">
+    <value>只有盟主才能发起战盟战。</value>
+  </data>
+  <data name="Your request for a Guild War is refused." xml:space="preserve">
+    <value>战盟战请求被拒绝。</value>
+  </data>
+  <data name="A Guild War against %s guild has started!" xml:space="preserve">
+    <value>与%s战盟的战盟战开始了！</value>
+  </data>
+  <data name="You have lost the Guild War!!!" xml:space="preserve">
+    <value>战盟战失败！</value>
+  </data>
+  <data name="You have won the Guild War!!!" xml:space="preserve">
+    <value>战盟战胜利！</value>
+  </data>
+  <data name="You have won the Guild War!!!(Opposing guild master left)" xml:space="preserve">
+    <value>战盟战胜利！（对方盟主离线）</value>
+  </data>
+  <data name="You have lost the Guild War!!!(Guild master left)" xml:space="preserve">
+    <value>战盟战失败！（盟主离线）</value>
+  </data>
+  <data name="You have won the Guild War!!!(Opposing guild disbanded)" xml:space="preserve">
+    <value>战盟战胜利！（对方战盟解散）</value>
+  </data>
+  <data name="You have lost the Guild War!!!(Guild disbanded)" xml:space="preserve">
+    <value>战盟战失败！（战盟解散）</value>
+  </data>
+  <data name="A Battle Soccer has started with %s guild." xml:space="preserve">
+    <value>与%s战盟的足球赛开始了。</value>
+  </data>
+  <data name="%s guild wins a point." xml:space="preserve">
+    <value>%s战盟获得一分。</value>
+  </data>
+  <data name="The level gap between you two has to be less than 130" xml:space="preserve">
+    <value>双方等级差必须小于130级</value>
+  </data>
+  <data name="guild member has been withdrawn." xml:space="preserve">
+    <value>战盟成员已退出。</value>
+  </data>
+  <data name="You cannot warp while riding on a unicorn" xml:space="preserve">
+    <value>骑乘独角兽时无法传送</value>
+  </data>
+  <data name="Absorb 30%% of damage" xml:space="preserve">
+    <value>吸收30%%伤害</value>
+  </data>
+  <data name="Skill Damage: %d%%" xml:space="preserve">
+    <value>技能伤害：%d%%</value>
+  </data>
+  <data name="%s Required Zen: %s" xml:space="preserve">
+    <value>%s 所需金币：%s</value>
+  </data>
+  <data name="when %s, You must have a Jewel of Chaos" xml:space="preserve">
+    <value>%s时，必须持有玛雅之石</value>
+  </data>
+  <data name="in order to combine items" xml:space="preserve">
+    <value>才能进行物品合成</value>
+  </data>
+  <data name="in case you fail on" xml:space="preserve">
+    <value>如果失败，</value>
+  </data>
+  <data name="Please note that" xml:space="preserve">
+    <value>请注意</value>
+  </data>
+  <data name="the level of items decreases" xml:space="preserve">
+    <value>物品等级会降低</value>
+  </data>
+  <data name="Chaos combination has failed" xml:space="preserve">
+    <value>玛雅合成失败</value>
+  </data>
+  <data name="Chaos combination has succeeded" xml:space="preserve">
+    <value>玛雅合成成功</value>
+  </data>
+  <data name="Your IP is not allowed to connect" xml:space="preserve">
+    <value>你的IP地址不允许连接</value>
+  </data>
+  <data name="Item levels must be identical to combine. items are of the same Level" xml:space="preserve">
+    <value>用于合成的物品等级必须相同</value>
+  </data>
+  <data name="Chaos combination" xml:space="preserve">
+    <value>玛雅合成</value>
+  </data>
+  <data name="create a ticket of Devil Square" xml:space="preserve">
+    <value>合成恶魔广场通行证</value>
+  </data>
+  <data name="Create +10 item" xml:space="preserve">
+    <value>合成+10物品</value>
+  </data>
+  <data name="Create +11 item" xml:space="preserve">
+    <value>合成+11物品</value>
+  </data>
+  <data name="During creation of +10 ~ +15 items," xml:space="preserve">
+    <value>合成+10～+15物品时，</value>
+  </data>
+  <data name="notice that there is a possibility" xml:space="preserve">
+    <value>请注意，可能会</value>
+  </data>
+  <data name="that you may lose the items." xml:space="preserve">
+    <value>失去合成物品。</value>
+  </data>
+  <data name="Conversation is over" xml:space="preserve">
+    <value>对话结束</value>
+  </data>
+  <data name="Notice that when you fail to combine the items" xml:space="preserve">
+    <value>请注意，合成失败时</value>
+  </data>
+  <data name="you can lose the items" xml:space="preserve">
+    <value>可能会失去物品</value>
+  </data>
+  <data name="Create Dinorant" xml:space="preserve">
+    <value>合成彩云兽</value>
+  </data>
+  <data name="Create Fruit" xml:space="preserve">
+    <value>合成果实</value>
+  </data>
+  <data name="Create Wings" xml:space="preserve">
+    <value>合成翅膀</value>
+  </data>
+  <data name="Create cloak of Invisibility" xml:space="preserve">
+    <value>合成透明披风</value>
+  </data>
+  <data name="Create Set Item" xml:space="preserve">
+    <value>合成套装物品</value>
+  </data>
+  <data name="Excellent" xml:space="preserve">
+    <value>卓越</value>
+  </data>
+  <data name="Increase Max HP +4%%" xml:space="preserve">
+    <value>最大生命值增加4%%</value>
+  </data>
+  <data name="Increase Max Mana +4%%" xml:space="preserve">
+    <value>最大魔法值增加4%%</value>
+  </data>
+  <data name="Damage Decrease +4%%" xml:space="preserve">
+    <value>伤害减少4%%</value>
+  </data>
+  <data name="Reflect Damage +5%%" xml:space="preserve">
+    <value>反射伤害5%%</value>
+  </data>
+  <data name="Defense success rate +10%%" xml:space="preserve">
+    <value>防御成功率增加10%%</value>
+  </data>
+  <data name="Increases acquisition rate of Zen after hunting monsters +30%%" xml:space="preserve">
+    <value>打怪获得金币增加30%%</value>
+  </data>
+  <data name="Excellent Damage rate +10%%" xml:space="preserve">
+    <value>卓越一击几率增加10%%</value>
+  </data>
+  <data name="Increase Damage +level/20" xml:space="preserve">
+    <value>攻击力增加+level/20</value>
+  </data>
+  <data name="Increase Damage +%d%%" xml:space="preserve">
+    <value>攻击力增加%d%%</value>
+  </data>
+  <data name="Increase Wizardry Dmg +level/20" xml:space="preserve">
+    <value>魔法攻击力增加+level/20</value>
+  </data>
+  <data name="Increase Wizardry Dmg +%d%%" xml:space="preserve">
+    <value>魔法攻击力增加%d%%</value>
+  </data>
+  <data name="Increase Attacking(Wizardry)speed +%d" xml:space="preserve">
+    <value>攻击（施法）速度增加%d</value>
+  </data>
+  <data name="Increases acquisition rate of Life after hunting monsters +life/8" xml:space="preserve">
+    <value>打怪恢复生命+life/8</value>
+  </data>
+  <data name="Increases acquisition rate of Mana after hunting monsters +Mana/8" xml:space="preserve">
+    <value>打怪恢复魔法+Mana/8</value>
+  </data>
+  <data name="You will enter Devil Square (%d seconds from now)" xml:space="preserve">
+    <value>将在%d秒后进入恶魔广场</value>
+  </data>
+  <data name="The gate of Devil Square will close down in %d seconds" xml:space="preserve">
+    <value>恶魔广场入口将在%d秒后关闭</value>
+  </data>
+  <data name="The gate of Devil Square is closing down (%d seconds remaining)" xml:space="preserve">
+    <value>恶魔广场即将关闭（剩余%d秒）</value>
+  </data>
+  <data name="You can enter Devil Square now!!" xml:space="preserve">
+    <value>现在可以进入恶魔广场！</value>
+  </data>
+  <data name="Devil Square will open in %d minutes." xml:space="preserve">
+    <value>恶魔广场将在%d分钟后开放。</value>
+  </data>
+  <data name="The %d Square (%d-%d level)" xml:space="preserve">
+    <value>第%d广场（%d～%d级）</value>
+  </data>
+  <data name="The %d Square (Over %d level)" xml:space="preserve">
+    <value>第%d广场（超过%d级）</value>
+  </data>
+  <data name="Congratulations!" xml:space="preserve">
+    <value>恭喜！</value>
+  </data>
+  <data name="%s, Your bravery is proven in Devil Square." xml:space="preserve">
+    <value>%s，你已在恶魔广场证明了自己的勇气。</value>
+  </data>
+  <data name="Must be over level 10 to combine the invitation to Devil Square." xml:space="preserve">
+    <value>超过10级才能合成恶魔广场通行证。</value>
+  </data>
+  <data name="Only level above %d can do the Chaos Combination." xml:space="preserve">
+    <value>超过%d级才能进行玛雅合成。</value>
+  </data>
+  <data name="+%d Item creation" xml:space="preserve">
+    <value>合成+%d物品</value>
+  </data>
+  <data name="+12 Item creation" xml:space="preserve">
+    <value>合成+12物品</value>
+  </data>
+  <data name="+13 Item creation" xml:space="preserve">
+    <value>合成+13物品</value>
+  </data>
+  <data name="Valley of Loren" xml:space="preserve">
+    <value>罗兰峡谷</value>
+  </data>
+  <data name="Enter a new character name." xml:space="preserve">
+    <value>请输入新的角色名称。</value>
+  </data>
+  <data name="Bring the Devil's invitation to enter." xml:space="preserve">
+    <value>请携带恶魔广场通行证入场。</value>
+  </data>
+  <data name="Party chat" xml:space="preserve">
+    <value>队伍聊天</value>
+  </data>
+  <data name="Master skill tree (A)" xml:space="preserve">
+    <value>大师技能 (A)</value>
+  </data>
+  <data name="Would you like to strengthen the skill?" xml:space="preserve">
+    <value>是否强化该技能？</value>
+  </data>
+  <data name="Re-Initialization Helper" xml:space="preserve">
+    <value>重置助手</value>
+  </data>
+  <data name="Skills will improve through upgrading." xml:space="preserve">
+    <value>升级后可提升技能效果。</value>
+  </data>
+  <data name="Defensive skill +%d" xml:space="preserve">
+    <value>防御技能+%d</value>
+  </data>
+  <data name="Can't execute combination. Check free space in your inventory." xml:space="preserve">
+    <value>无法合成，请检查背包剩余空间。</value>
+  </data>
+  <data name="MU Item Shop(X)" xml:space="preserve">
+    <value>游戏商城(X)</value>
+  </data>
+  <data name="Add to shopping cart?" xml:space="preserve">
+    <value>是否加入购物车？</value>
+  </data>
+  <data name="Delete from shopping cart?" xml:space="preserve">
+    <value>是否从购物车删除？</value>
+  </data>
+  <data name="Fail to use MU Item Shop. Please contact CS team." xml:space="preserve">
+    <value>无法使用游戏商城，请联系客服。</value>
+  </data>
+  <data name="MU Item Shop Item can't be sold to merchant NPC." xml:space="preserve">
+    <value>商城物品无法出售给商店NPC。</value>
+  </data>
+  <data name="%s has accepted your request for party battle." xml:space="preserve">
+    <value>%s接受了你的队伍对战请求。</value>
+  </data>
+  <data name="%s has rejected your request for party battle." xml:space="preserve">
+    <value>%s拒绝了你的队伍对战请求。</value>
+  </data>
+  <data name="Party battle has been cancelled." xml:space="preserve">
+    <value>队伍对战已取消。</value>
+  </data>
+  <data name="You cannot request another battle during the party battle." xml:space="preserve">
+    <value>队伍对战期间无法发起其他对战请求。</value>
+  </data>
+  <data name="You have a request for the party battle." xml:space="preserve">
+    <value>你收到了队伍对战请求。</value>
+  </data>
+  <data name="Would you like to accept the party battle?" xml:space="preserve">
+    <value>是否接受队伍对战？</value>
+  </data>
+  <data name="You've successfully completed the quest." xml:space="preserve">
+    <value>任务已完成。</value>
+  </data>
+  <data name="You gave up on the quest." xml:space="preserve">
+    <value>你已放弃任务。</value>
+  </data>
+  <data name="You do not have the quest item necessary to enter." xml:space="preserve">
+    <value>缺少入场所需的任务物品。</value>
+  </data>
+  <data name="Quest Item Missing" xml:space="preserve">
+    <value>缺少任务物品</value>
+  </data>
+  <data name="Gift Inventory" xml:space="preserve">
+    <value>礼品箱</value>
+  </data>
+  <data name="Shop" xml:space="preserve">
+    <value>商店</value>
+  </data>
+  <data name="You cannot form a party with a member of the opposing gens." xml:space="preserve">
+    <value>无法与敌对家族成员组队。</value>
+  </data>
+  <data name="The guild master has not joined the gens." xml:space="preserve">
+    <value>盟主尚未加入家族。</value>
+  </data>
+  <data name="The guild master is with a different gens." xml:space="preserve">
+    <value>盟主所属家族与你不同。</value>
+  </data>
+  <data name="YouMustBelongToTheSame" xml:space="preserve">
+    <value>加入战盟前，必须与盟主属于同一家族。</value>
+  </data>
+  <data name="You cannot form a party within a Battle Zone." xml:space="preserve">
+    <value>战斗区域内无法组队。</value>
+  </data>
+  <data name="Cannot open MU Item Shop.#Please reconnect to the game." xml:space="preserve">
+    <value>无法打开游戏商城。#请重新连接游戏。</value>
+  </data>
+  <data name="You can only open MU Item Shop in a town or safe zone." xml:space="preserve">
+    <value>只能在城镇或安全区域打开游戏商城。</value>
+  </data>
+  <data name="Map (Tab)" xml:space="preserve">
+    <value>地图 (Tab)</value>
+  </data>
+  <data name="You cannot ask others to join your party while in Loren Market." xml:space="preserve">
+    <value>罗兰市场内无法邀请他人组队。</value>
+  </data>
+  <data name="Right click on your inventory to use." xml:space="preserve">
+    <value>在背包中右键点击即可使用。</value>
+  </data>
+  <data name="You cannot join the gens while you're in a guild alliance." xml:space="preserve">
+    <value>加入战盟联盟期间无法加入家族。</value>
+  </data>
+  <data name="Click the item to see the quest information again." xml:space="preserve">
+    <value>点击物品可再次查看任务信息。</value>
+  </data>
+  <data name="You must meet all skill requirements." xml:space="preserve">
+    <value>必须满足技能的全部使用条件。</value>
+  </data>
+  <data name="Insufficient space in the expanded vault" xml:space="preserve">
+    <value>扩展仓库空间不足</value>
+  </data>
+  <data name="F7: Party Chat On/Off" xml:space="preserve">
+    <value>F7：开关队伍聊天</value>
+  </data>
+  <data name="F8: Guild Chat On/Off" xml:space="preserve">
+    <value>F8：开关战盟聊天</value>
+  </data>
+  <data name="Use this to expand your vault." xml:space="preserve">
+    <value>用于扩展仓库。</value>
+  </data>
+  <data name="You need a 5 person party to enter this area." xml:space="preserve">
+    <value>需要组成5人队伍才能进入此区域。</value>
+  </data>
+  <data name="All party members must be of the same level for this area." xml:space="preserve">
+    <value>所有队员必须属于此区域的同一等级区间。</value>
+  </data>
+  <data name="My Quests" xml:space="preserve">
+    <value>我的任务</value>
+  </data>
+  <data name="In-game Shop" xml:space="preserve">
+    <value>游戏商城</value>
+  </data>
+  <data name="View Map" xml:space="preserve">
+    <value>查看地图</value>
+  </data>
+  <data name="Guild Mark" xml:space="preserve">
+    <value>战盟徽章</value>
+  </data>
+  <data name="Guild Score" xml:space="preserve">
+    <value>战盟积分</value>
+  </data>
+  <data name="Guild Members" xml:space="preserve">
+    <value>战盟成员</value>
+  </data>
+  <data name="Choose Hostility Guild" xml:space="preserve">
+    <value>选择敌对战盟</value>
+  </data>
+  <data name="Normal Guild Members" xml:space="preserve">
+    <value>普通成员</value>
+  </data>
+  <data name="NPC Quest" xml:space="preserve">
+    <value>NPC任务</value>
+  </data>
+  <data name="Register Guild" xml:space="preserve">
+    <value>战盟登记</value>
+  </data>
+  <data name="Trade Target" xml:space="preserve">
+    <value>交易对象</value>
+  </data>
+  <data name="InTheCaseOfDeregisteringBasic" xml:space="preserve">
+    <value>取消主技能或触发技能1、2后，将无法使用连击。</value>
+  </data>
+  <data name="DelayAndConditionSettingMenusCan" xml:space="preserve">
+    <value>使用连击时，无法设置间隔和触发条件。</value>
+  </data>
+  <data name="ThisSkillWasAlreadyRegisteredRegistered" xml:space="preserve">
+    <value>该技能已设置。右键点击可取消设置。</value>
+  </data>
+  <data name="Any characters under level %d can't run Official MU Helper." xml:space="preserve">
+    <value>低于%d级的角色无法运行奇迹助手。</value>
+  </data>
+  <data name="Official MU Helper only runs in filed" xml:space="preserve">
+    <value>奇迹助手只能在野外运行</value>
+  </data>
+  <data name="In order to run Official MU Helper, please close Inventory window" xml:space="preserve">
+    <value>请先关闭背包再运行奇迹助手</value>
+  </data>
+  <data name="In order to run Official MU Helper, please close MU Guide window" xml:space="preserve">
+    <value>请先关闭游戏指南再运行奇迹助手</value>
+  </data>
+  <data name="InOrderToRunOfficialMU" xml:space="preserve">
+    <value>请先设置技能，以便奇迹助手正常运行（弓箭手除外）</value>
+  </data>
+  <data name="Official MU Helper is running." xml:space="preserve">
+    <value>奇迹助手运行中。</value>
+  </data>
+  <data name="Official MU Helper is closed" xml:space="preserve">
+    <value>奇迹助手已停止</value>
+  </data>
+  <data name="Official MU Helper Setting has been saved." xml:space="preserve">
+    <value>奇迹助手设置已保存。</value>
+  </data>
+  <data name="Official MU Helper can't be implemented in this region." xml:space="preserve">
+    <value>此区域无法使用奇迹助手。</value>
+  </data>
+  <data name="CertainAmountOfZenIsSpent" xml:space="preserve">
+    <value>奇迹助手运行期间，每5分钟消耗一定数量的金币</value>
+  </data>
+  <data name="%d zen(s) have been spent in implementing Official MU Helper" xml:space="preserve">
+    <value>运行奇迹助手消耗了%d金币</value>
+  </data>
+  <data name="Zen is not sufficient to run Official MU Helper" xml:space="preserve">
+    <value>金币不足，无法运行奇迹助手</value>
+  </data>
+  <data name="In order to run Official MU Helper, please install Add-on first" xml:space="preserve">
+    <value>请先安装扩展功能再运行奇迹助手</value>
+  </data>
+  <data name="Official MU Helper is closed due to the excess of %d hour(s)" xml:space="preserve">
+    <value>运行时间超过%d小时，奇迹助手已停止</value>
+  </data>
+  <data name="Unable to use if you have not spent points on your master skill tree." xml:space="preserve">
+    <value>尚未分配大师技能点，无法使用。</value>
+  </data>
+  <data name="The master skill point will reset." xml:space="preserve">
+    <value>大师技能点将被重置。</value>
+  </data>
+  <data name="Reset all master skill trees" xml:space="preserve">
+    <value>重置全部大师技能</value>
+  </data>
+  <data name="You're not in a guild." xml:space="preserve">
+    <value>你尚未加入战盟。</value>
+  </data>
+  <data name="Move the item in the inventory area and close the combination window." xml:space="preserve">
+    <value>请将物品移回背包，再关闭合成窗口。</value>
+  </data>
+  <data name="Use skills closely" xml:space="preserve">
+    <value>近身使用技能</value>
+  </data>
+  <data name="QuestCompletedSuccessfully" xml:space="preserve">
+    <value>任务已成功完成。</value>
+  </data>
+  <data name="QuestFailedUnfortunately" xml:space="preserve">
+    <value>很遗憾，任务失败。</value>
+  </data>
+  <data name="RequestHasFailed" xml:space="preserve">
+    <value>请求失败。</value>
+  </data>
+  <data name="BloodCastleQuestCompleted" xml:space="preserve">
+    <value>恭喜！你已成功完成血色城堡任务！</value>
+  </data>
+  <data name="BloodCastleQuestFailed" xml:space="preserve">
+    <value>很遗憾，你未能完成血色城堡任务。</value>
+  </data>
+  <data name="QuestRequirementSkill" xml:space="preserve">
+    <value>技能：%ls</value>
+  </data>
+  <data name="Attack rate: %d" xml:space="preserve">
+    <value>攻击成功率：%d</value>
+  </data>
+  <data name="Attack rate: %d (+%d)" xml:space="preserve">
+    <value>攻击成功率：%d (+%d)</value>
+  </data>
+  <data name="Attack target" xml:space="preserve">
+    <value>攻击目标</value>
+  </data>
+  <data name="Attack with owner" xml:space="preserve">
+    <value>协同攻击</value>
+  </data>
+  <data name="Basic action" xml:space="preserve">
+    <value>基本动作</value>
+  </data>
+  <data name="Close (%s)" xml:space="preserve">
+    <value>关闭 (%s)</value>
+  </data>
+  <data name="Commands" xml:space="preserve">
+    <value>指令</value>
+  </data>
+  <data name=" Curse Spell: %d ~ %d(+%d)" xml:space="preserve">
+    <value> 诅咒攻击：%d～%d(+%d)</value>
+  </data>
+  <data name="CurseSpellDD1694" xml:space="preserve">
+    <value>诅咒攻击：%d～%d</value>
+  </data>
+  <data name="DefenseRateDD2110" xml:space="preserve">
+    <value>防御成功率：%d (+%d)</value>
+  </data>
+  <data name="Error Code :" xml:space="preserve">
+    <value>错误代码：</value>
+  </data>
+  <data name="EXP:%I64d / %I64d" xml:space="preserve">
+    <value>经验：%llu / %llu</value>
+  </data>
+  <data name="Level: %u | Resets: %u" xml:space="preserve">
+    <value>等级：%u | 重置：%u</value>
+  </data>
+  <data name="Melee Damage: %d%%" xml:space="preserve">
+    <value>近战伤害：%d%%</value>
+  </data>
+  <data name="No %s." xml:space="preserve">
+    <value>没有%s。</value>
+  </data>
+  <data name="No pet" xml:space="preserve">
+    <value>未携带宠物</value>
+  </data>
+  <data name="Pet" xml:space="preserve">
+    <value>宠物</value>
+  </data>
+  <data name="Random automatic attack" xml:space="preserve">
+    <value>自动攻击</value>
+  </data>
+  <data name="StatPointsAdded" xml:space="preserve">
+    <value>增加</value>
+  </data>
+  <data name="StatPointsRemoved" xml:space="preserve">
+    <value>减少</value>
+  </data>
 </root>

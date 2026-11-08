@@ -1,0 +1,271 @@
+# Reviewed player-facing resources; existing keys and formatting tokens retained.
+Welcome to	欢迎来到%s
+Arrows reloaded	箭矢已补充
+No more arrows	箭矢不足
+Storage must be closed to warp	请先关闭仓库再传送
+Your level must be over %d to warp	等级需超过%d级才能传送
+You are already in a guild	你已加入战盟
+You are already in a party	你已加入队伍
+You cannot go to Atlans while riding a Unicorn	骑乘独角兽时无法前往亚特兰蒂斯
+You can enter Altans only after joining a party.	加入队伍后才能进入亚特兰蒂斯。
+You can enter Icarus only with wings, dinorant, fenrirr	需装备翅膀、彩云兽或炎狼兽才能进入天空之城
+Whisper function is now off	密语已关闭
+Whisper function is now on	密语已开启
+Only characters over level %d can enter.	只有超过%d级的角色才能进入。
+Exp: %d/%d	经验：%d/%d
+Life: %d/%d	生命：%d/%d
+ManaDD359	魔法：%d/%d
+Party (P)	组队 (P)
+Character (C)	角色 (C)
+Guild (G)	战盟 (G)
+Level	等级
+(%s) stat %d points have been generated.	（%s）属性增加了%d点。
+stat creation failed from fruit combination.	果实属性增加失败。
+(%s fruit) stat %d points have been %s.	（%s果实）属性%d点已%s。
+You will exit game in %d seconds.	将在%d秒后退出游戏。
+Video	画面
+UI	界面
+S6 player models	S6角色模型
+S6 Player Models Tooltip	开启：使用原版S6模型。关闭：使用改进模型。重启游戏后生效。
+Legacy	经典
+Modern	现代
+Volume	音量
+Restricted words are	包含
+included.	禁用词语。
+Invalid character name	角色名称无效
+or name supplied already exists.	或该名称已被使用。
+If you would like to remove %s	如果要删除%s
+you must enter your vault password.	请输入仓库密码。
+New version of game is required	需要更新游戏客户端
+Please download the new version	请下载新版本
+Connection error	连接错误
+Connection closed due to 3 failed attempts.	连续3次尝试失败，连接已关闭。
+You can not trade over 50 million Zen at once	单次交易金额不能超过5000万金币
+Someone requests you to join their a party	有人邀请你加入队伍
+Please draw your guild emblem	请绘制战盟徽章
+If you want to leave your guild,	如果要退出战盟，
+You have received an offer to join a guild.	你收到了加入战盟的邀请。
+%s guild challenges you	%s战盟向你发起
+to a Guild War.	战盟战挑战。
+You have been challenged to Battle Soccer	你收到了战盟足球赛挑战
+if you want to lock the inventory,	如果要锁定背包，
+No more stats would be increased on your level.	当前等级无法继续增加属性。
+Dissolve or leave your guild	解散或退出战盟
+Operation	操作
+%s: Screenshot Saved	%s：截图已保存
+Connecting to the server	正在连接服务器
+You cannot use your items while using the vault or while trading.	打开仓库或交易时无法使用物品。
+You have requested %s to trade.	已向%s发送交易请求。
+You have requested %s to join your party.	已邀请%s加入队伍。
+You have requested %s to join your guild.	已邀请%s加入战盟。
+You can use the trade command at character level 6	角色达到6级后才能使用交易命令
+You can use the whisper command at character level 6	角色达到6级后才能使用密语命令
+Tied!!!	平局！
+You are connected to the server	已连接服务器
+No users	没有玩家
+[Notice for guild members] %s	[战盟公告] %s
+Obtained %d Exp	获得%d经验
+Hero	英雄
+Outlaw Warning	红名警告
+1st Stage Outlaw	一级红名
+2nd Stage Outlaw	二级红名
+Creating a party has failed.	创建队伍失败。
+Your request has been denied.	请求被拒绝。
+Party is full.	队伍已满。
+The user has left the game.	该玩家已离线。
+The user is already in another party.	该玩家已加入其他队伍。
+You have just left the party.	你已退出队伍。
+Guild master has refused your request to join the guild.	盟主拒绝了你的入盟申请。
+You have just joined the guild.	你已加入战盟。
+The guild is full.	战盟人数已满。
+The user is not a guild master.	该玩家不是盟主。
+You cannot join more than one guild.	不能同时加入多个战盟。
+The guild master is too busy to approve your request to join the guild	盟主正忙，暂时无法处理你的入盟申请
+Chracters over level 6 can join a guild.	超过6级的角色才能加入战盟。
+You have left the guild.	你已退出战盟。
+Only a guild master can disband a guild.	只有盟主才能解散战盟。
+You have failed from the guild	战盟操作失败
+The guild has been dissolved	战盟已解散
+The guild name already exists	战盟名称已被使用
+Guild name must be at least 4 characters	战盟名称至少需要4个字符
+YouAreAlreadyInAGuild518	你已加入战盟。
+That guild does not exist.	该战盟不存在。
+You have declared a Guild War.	已发起战盟战。
+The opposing guild master is not in the game.	对方盟主不在线。
+You can not declare a Guild War now.	现在无法发起战盟战。
+Only guild masters can declare a Guild War.	只有盟主才能发起战盟战。
+Your request for a Guild War is refused.	战盟战请求被拒绝。
+A Guild War against %s guild has started!	与%s战盟的战盟战开始了！
+You have lost the Guild War!!!	战盟战失败！
+You have won the Guild War!!!	战盟战胜利！
+You have won the Guild War!!!(Opposing guild master left)	战盟战胜利！（对方盟主离线）
+You have lost the Guild War!!!(Guild master left)	战盟战失败！（盟主离线）
+You have won the Guild War!!!(Opposing guild disbanded)	战盟战胜利！（对方战盟解散）
+You have lost the Guild War!!!(Guild disbanded)	战盟战失败！（战盟解散）
+A Battle Soccer has started with %s guild.	与%s战盟的足球赛开始了。
+%s guild wins a point.	%s战盟获得一分。
+The level gap between you two has to be less than 130	双方等级差必须小于130级
+guild member has been withdrawn.	战盟成员已退出。
+You cannot warp while riding on a unicorn	骑乘独角兽时无法传送
+Absorb 30%% of damage	吸收30%%伤害
+Skill Damage: %d%%	技能伤害：%d%%
+%s Required Zen: %s	%s 所需金币：%s
+when %s, You must have a Jewel of Chaos	%s时，必须持有玛雅之石
+in order to combine items	才能进行物品合成
+in case you fail on	如果失败，
+Please note that	请注意
+the level of items decreases	物品等级会降低
+Chaos combination has failed	玛雅合成失败
+Chaos combination has succeeded	玛雅合成成功
+Your IP is not allowed to connect	你的IP地址不允许连接
+Item levels must be identical to combine. items are of the same Level	用于合成的物品等级必须相同
+Chaos combination	玛雅合成
+create a ticket of Devil Square	合成恶魔广场通行证
+Create +10 item	合成+10物品
+Create +11 item	合成+11物品
+During creation of +10 ~ +15 items,	合成+10～+15物品时，
+notice that there is a possibility	请注意，可能会
+that you may lose the items.	失去合成物品。
+Conversation is over	对话结束
+Notice that when you fail to combine the items	请注意，合成失败时
+you can lose the items	可能会失去物品
+Create Dinorant	合成彩云兽
+Create Fruit	合成果实
+Create Wings	合成翅膀
+Create cloak of Invisibility	合成透明披风
+Create Set Item	合成套装物品
+Excellent	卓越
+Increase Max HP +4%%	最大生命值增加4%%
+Increase Max Mana +4%%	最大魔法值增加4%%
+Damage Decrease +4%%	伤害减少4%%
+Reflect Damage +5%%	反射伤害5%%
+Defense success rate +10%%	防御成功率增加10%%
+Increases acquisition rate of Zen after hunting monsters +30%%	打怪获得金币增加30%%
+Excellent Damage rate +10%%	卓越一击几率增加10%%
+Increase Damage +level/20	攻击力增加+level/20
+Increase Damage +%d%%	攻击力增加%d%%
+Increase Wizardry Dmg +level/20	魔法攻击力增加+level/20
+Increase Wizardry Dmg +%d%%	魔法攻击力增加%d%%
+Increase Attacking(Wizardry)speed +%d	攻击（施法）速度增加%d
+Increases acquisition rate of Life after hunting monsters +life/8	打怪恢复生命+life/8
+Increases acquisition rate of Mana after hunting monsters +Mana/8	打怪恢复魔法+Mana/8
+You will enter Devil Square (%d seconds from now)	将在%d秒后进入恶魔广场
+The gate of Devil Square will close down in %d seconds	恶魔广场入口将在%d秒后关闭
+The gate of Devil Square is closing down (%d seconds remaining)	恶魔广场即将关闭（剩余%d秒）
+You can enter Devil Square now!!	现在可以进入恶魔广场！
+Devil Square will open in %d minutes.	恶魔广场将在%d分钟后开放。
+The %d Square (%d-%d level)	第%d广场（%d～%d级）
+The %d Square (Over %d level)	第%d广场（超过%d级）
+Congratulations!	恭喜！
+%s, Your bravery is proven in Devil Square.	%s，你已在恶魔广场证明了自己的勇气。
+Must be over level 10 to combine the invitation to Devil Square.	超过10级才能合成恶魔广场通行证。
+Only level above %d can do the Chaos Combination.	超过%d级才能进行玛雅合成。
++%d Item creation	合成+%d物品
++12 Item creation	合成+12物品
++13 Item creation	合成+13物品
+Valley of Loren	罗兰峡谷
+Enter a new character name.	请输入新的角色名称。
+Bring the Devil's invitation to enter.	请携带恶魔广场通行证入场。
+Party chat	队伍聊天
+Master skill tree (A)	大师技能 (A)
+Would you like to strengthen the skill?	是否强化该技能？
+Re-Initialization Helper	重置助手
+Skills will improve through upgrading.	升级后可提升技能效果。
+Defensive skill +%d	防御技能+%d
+Can't execute combination. Check free space in your inventory.	无法合成，请检查背包剩余空间。
+MU Item Shop(X)	游戏商城(X)
+Add to shopping cart?	是否加入购物车？
+Delete from shopping cart?	是否从购物车删除？
+Fail to use MU Item Shop. Please contact CS team.	无法使用游戏商城，请联系客服。
+MU Item Shop Item can't be sold to merchant NPC.	商城物品无法出售给商店NPC。
+%s has accepted your request for party battle.	%s接受了你的队伍对战请求。
+%s has rejected your request for party battle.	%s拒绝了你的队伍对战请求。
+Party battle has been cancelled.	队伍对战已取消。
+You cannot request another battle during the party battle.	队伍对战期间无法发起其他对战请求。
+You have a request for the party battle.	你收到了队伍对战请求。
+Would you like to accept the party battle?	是否接受队伍对战？
+You've successfully completed the quest.	任务已完成。
+You gave up on the quest.	你已放弃任务。
+You do not have the quest item necessary to enter.	缺少入场所需的任务物品。
+Quest Item Missing	缺少任务物品
+Gift Inventory	礼品箱
+Shop	商店
+You cannot form a party with a member of the opposing gens.	无法与敌对家族成员组队。
+The guild master has not joined the gens.	盟主尚未加入家族。
+The guild master is with a different gens.	盟主所属家族与你不同。
+YouMustBelongToTheSame	加入战盟前，必须与盟主属于同一家族。
+You cannot form a party within a Battle Zone.	战斗区域内无法组队。
+Cannot open MU Item Shop.#Please reconnect to the game.	无法打开游戏商城。#请重新连接游戏。
+You can only open MU Item Shop in a town or safe zone.	只能在城镇或安全区域打开游戏商城。
+Map (Tab)	地图 (Tab)
+You cannot ask others to join your party while in Loren Market.	罗兰市场内无法邀请他人组队。
+Right click on your inventory to use.	在背包中右键点击即可使用。
+You cannot join the gens while you're in a guild alliance.	加入战盟联盟期间无法加入家族。
+Click the item to see the quest information again.	点击物品可再次查看任务信息。
+You must meet all skill requirements.	必须满足技能的全部使用条件。
+Insufficient space in the expanded vault	扩展仓库空间不足
+F7: Party Chat On/Off	F7：开关队伍聊天
+F8: Guild Chat On/Off	F8：开关战盟聊天
+Use this to expand your vault.	用于扩展仓库。
+You need a 5 person party to enter this area.	需要组成5人队伍才能进入此区域。
+All party members must be of the same level for this area.	所有队员必须属于此区域的同一等级区间。
+My Quests	我的任务
+In-game Shop	游戏商城
+View Map	查看地图
+Guild Mark	战盟徽章
+Guild Score	战盟积分
+Guild Members	战盟成员
+Choose Hostility Guild	选择敌对战盟
+Normal Guild Members	普通成员
+NPC Quest	NPC任务
+Register Guild	战盟登记
+Trade Target	交易对象
+InTheCaseOfDeregisteringBasic	取消主技能或触发技能1、2后，将无法使用连击。
+DelayAndConditionSettingMenusCan	使用连击时，无法设置间隔和触发条件。
+ThisSkillWasAlreadyRegisteredRegistered	该技能已设置。右键点击可取消设置。
+Any characters under level %d can't run Official MU Helper.	低于%d级的角色无法运行奇迹助手。
+Official MU Helper only runs in filed	奇迹助手只能在野外运行
+In order to run Official MU Helper, please close Inventory window	请先关闭背包再运行奇迹助手
+In order to run Official MU Helper, please close MU Guide window	请先关闭游戏指南再运行奇迹助手
+InOrderToRunOfficialMU	请先设置技能，以便奇迹助手正常运行（弓箭手除外）
+Official MU Helper is running.	奇迹助手运行中。
+Official MU Helper is closed	奇迹助手已停止
+Official MU Helper Setting has been saved.	奇迹助手设置已保存。
+Official MU Helper can't be implemented in this region.	此区域无法使用奇迹助手。
+CertainAmountOfZenIsSpent	奇迹助手运行期间，每5分钟消耗一定数量的金币
+%d zen(s) have been spent in implementing Official MU Helper	运行奇迹助手消耗了%d金币
+Zen is not sufficient to run Official MU Helper	金币不足，无法运行奇迹助手
+In order to run Official MU Helper, please install Add-on first	请先安装扩展功能再运行奇迹助手
+Official MU Helper is closed due to the excess of %d hour(s)	运行时间超过%d小时，奇迹助手已停止
+Unable to use if you have not spent points on your master skill tree.	尚未分配大师技能点，无法使用。
+The master skill point will reset.	大师技能点将被重置。
+Reset all master skill trees	重置全部大师技能
+You're not in a guild.	你尚未加入战盟。
+Move the item in the inventory area and close the combination window.	请将物品移回背包，再关闭合成窗口。
+Use skills closely	近身使用技能
+QuestCompletedSuccessfully	任务已成功完成。
+QuestFailedUnfortunately	很遗憾，任务失败。
+RequestHasFailed	请求失败。
+BloodCastleQuestCompleted	恭喜！你已成功完成血色城堡任务！
+BloodCastleQuestFailed	很遗憾，你未能完成血色城堡任务。
+QuestRequirementSkill	技能：%ls
+Attack rate: %d	攻击成功率：%d
+Attack rate: %d (+%d)	攻击成功率：%d (+%d)
+Attack target	攻击目标
+Attack with owner	协同攻击
+Basic action	基本动作
+Close (%s)	关闭 (%s)
+Commands	指令
+ Curse Spell: %d ~ %d(+%d)	 诅咒攻击：%d～%d(+%d)
+CurseSpellDD1694	诅咒攻击：%d～%d
+DefenseRateDD2110	防御成功率：%d (+%d)
+Error Code :	错误代码：
+EXP:%I64d / %I64d	经验：%llu / %llu
+Level: %u | Resets: %u	等级：%u | 重置：%u
+Melee Damage: %d%%	近战伤害：%d%%
+No %s.	没有%s。
+No pet	未携带宠物
+Pet	宠物
+Random automatic attack	自动攻击
+StatPointsAdded	增加
+StatPointsRemoved	减少
