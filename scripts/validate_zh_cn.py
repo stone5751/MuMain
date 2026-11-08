@@ -93,6 +93,8 @@ def main():
             text += ''.join(i.get('name', {}).get('zh-CN', '') for i in json.loads(path.read_text(encoding='utf-8'))['items'])
         text += ''.join(i.get('name', {}).get('zh-CN', '') for i in json.loads((ROOT / 'src/bin/Data/Monsters/Monsters.json').read_text(encoding='utf-8'))['monsters'])
         fonts = ROOT / 'src/bin/fonts'
+        overlay = json.loads((ROOT / 'src/bin/Data/Local/BmdText.zh-CN.json').read_text(encoding='utf-8'))
+        text += ''.join(entry['zh-CN'] for entry in overlay['entries'])
         for filename in ['NotoSansSC-Regular.otf', 'NotoSansSC-Bold.otf']:
             with TTFont(fonts / filename) as font:
                 missing = sorted({c for c in text if not c.isspace() and ord(c) not in font.getBestCmap()})

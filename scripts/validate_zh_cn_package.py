@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 def validate(directory):
-    allowed = re.compile(r'(?:Main\.exe|[^/]+\.dll|README\.zh-CN\.md|localization-build\.txt|ctest-results\.xml|shaders/[^/]+\.(?:spv|msl|dxil)|Data/Items/Group\d+_[A-Za-z]+\.json|Data/Monsters/Monsters\.json)')
+    allowed = re.compile(r'(?:Main\.exe|[^/]+\.dll|README\.zh-CN\.md|localization-build\.txt|ctest-results\.xml|shaders/[^/]+\.(?:spv|msl|dxil)|Data/Items/Group\d+_[A-Za-z]+\.json|Data/Monsters/Monsters\.json|Data/Local/BmdText\.zh-CN\.json)')
     files = sorted(p for p in directory.rglob('*') if p.is_file())
     names = {p.relative_to(directory).as_posix() for p in files}
     unexpected = sorted(name for name in names if not allowed.fullmatch(name))
@@ -30,6 +30,7 @@ def validate(directory):
         raise ValueError('CTest report is empty, failed or entirely skipped')
     data_paths = subprocess.check_output(['git', 'diff', '--name-only', 'v1.37.0', 'HEAD', '--', 'src/bin/Data/Items', 'src/bin/Data/Monsters'], cwd=ROOT, text=True).splitlines()
     expected_data = {p.removeprefix('src/bin/') for p in data_paths}
+    expected_data.add('Data/Local/BmdText.zh-CN.json')
     if {n for n in names if n.startswith('Data/')} != expected_data:
         raise ValueError('Packaged name files do not match the localized source changes')
     for name in expected_data:
