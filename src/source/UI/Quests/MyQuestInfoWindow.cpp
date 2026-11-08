@@ -225,6 +225,8 @@ void mu::ui::window::CMyQuestInfoWindow::RefreshLocalizedText()
     if (!IsVisible() || m_textLocale == I18N::GetCurrentLocale())
         return;
     m_textLocale = I18N::GetCurrentLocale();
+    m_RmlView.GetModel().tabQuestLabel = StringUtils::WideToNarrow(I18N::Game::Quest);
+    m_RmlView.MarkDirty("tab_quest_label");
     auto* selectedItem = m_pSelectedRewardItem;
     SetSelQuestSummary();
     SetSelQuestRequestReward();

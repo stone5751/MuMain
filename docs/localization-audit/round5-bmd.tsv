@@ -1,3 +1,50 @@
 kind	id	english	zh-CN
 quest-dialogue	18011	I'm sure you are well aware of Kundun. The weakest and most disorganized monsters of Kundun's army are frequently attacking and plundering civilians just outside of town. I wanted to ask you to eliminate these plundering monsters.... Will you accept this quest? (Level 15-25)	你一定听说过昆顿吧。昆顿军中最弱小、最散乱的怪物经常在城外袭击和抢掠平民。我想请你消灭这些劫掠者……你愿意接受这个任务吗？（等级15-25）
 quest-words	18902	Dispose of the Town Plunderers!	消灭城外的劫掠者！
+quest-dialogue	17	Oh, I haven't introduced myself yet. My name is Olga. My fellow comrades from the Shadow Phantom Guardians and I serve Erin Gustiv, the queen of Noria.	啊，还没自我介绍。我叫 Olga。我和幻影守护者的同伴们共同效忠于仙踪林女王 Erin Gustiv。
+quest-words	18	...Shadow Phantom?;Guardians of the queen?	……幻影守护者？;女王的卫士？
+quest-words	19	What are the queen's guardians doing at a place like this?	女王的卫士为什么会在这里？
+quest-dialogue	20	The queen's orders are to help those warriors starting out on their journey so that they can at least defend themselves against the forces of Kundun.	女王命我们帮助初出茅庐的勇士，让他们至少能够抵御昆顿的势力，保护自己。
+quest-words	21	...I'm moved that the queen has made such orders.	……女王竟有这样的命令，真令人感动。
+quest-words	22	How will you help, exactly?	你们具体会怎样帮助我？
+quest-dialogue	23	I will teach you basic hunting and controls through a simple tutorial.;It's not that difficult, and I'm sure you'll finish it in no time.	我会通过简单的新手教学，教你基本操作和打怪技巧。;并不难，相信你很快就能学会。
+quest-words	24	Great! I'll finish this tutorial in no time!	太好了！我一定很快就能完成教学！
+quest-words	25	Excellent! Let's get started with the tutorial.	很好！让我们开始新手教学吧。
+quest-dialogue	18001	The elder says Spiders are spinning webs on the outer walls of the town and has asked us to take care of them. Although the request was made to the Shadow Phantom Guardians, I believe the job is suitable for travelers who are just starting out on their journey. Will you accept this quest? (Level 1-14)	长老说，蜘蛛在城镇外墙上结网，请我们处理。虽然委托交给了幻影守护者，但我觉得这份工作很适合刚踏上旅程的冒险者。你愿意接受这个任务吗？（等级1-14）
+quest-words	18002	It sounds like an easy job...	听起来很容易……
+quest-words	18003	I accept your quest. (Accept)	我接受你的委托。（接受）
+quest-words	18004	Hunting down measly Spiders is beneath me. (Refuse)	区区蜘蛛，不值得我出手。（拒绝）
+quest-dialogue	18005	That's unfortunate. You shouldn't pass this up if you want fast growth.... Come see me again before you reach level 15 if you want to accept the quest. (The quest has been cancelled.)	真遗憾。如果想快速成长，就不该错过这次机会……若改变主意，记得在达到15级之前回来找我。（任务已取消）
+quest-dialogue	18006	Hunt down 10 Spiders from around town, and I'll give you a reward.	消灭城镇周围的10只蜘蛛，回来后我会给你奖励。
+quest-words	18012	Plunderers...	劫掠者……
+quest-words	18013	I accept your quest. (Accept)	我接受你的委托。（接受）
+quest-words	18014	Plunderers are too much for me to handle. (Refuse)	这些劫掠者不是我能对付的。（拒绝）
+quest-dialogue	18015	That's unfortunate. You shouldn't pass up on this if you want fast growth.... Come see me again before you reach level 26 if you want to accept the request. (The quest has been cancelled.)	真遗憾。如果想快速成长，就不该错过这次机会……若改变主意，记得在达到26级之前回来找我。（任务已取消）
+quest-dialogue	18016	Defeat 15 Giants from near the Devias entrance (22, 45) on the east side of town and return to me for a reward.	消灭15只巨人。它们位于城镇东侧通往冰风谷的入口（22, 45）附近，完成后回来领取奖励。
+quest-dialogue	18017	Defeat 15 Liches from near the Dungeon entrance (159, 205) on the southwest side of town and return to me for a reward.	消灭15只黑巫师。它们位于城镇西南侧地下城入口（159, 205）附近，完成后回来领取奖励。
+quest-dialogue	18018	Defeat 15 Agons from near the south side (173, 222) of town and return to me for a reward.	消灭15只亚昆。它们位于城镇南侧（173, 222）附近，完成后回来领取奖励。
+quest-dialogue	18019	Defeat 15 Polluted Butterflies from near the tombstone (121, 156) on the north side of town and return to me for a reward.	消灭15只 Polluted Butterfly。它们位于城镇北侧墓碑（121, 156）附近，完成后回来领取奖励。
+quest-dialogue	18021	Our reconnaissance party reports that stolen supplies are being sent to Kundun's army. Please defeat the monsters controlling these plunderers while we ascertain the location of the supply route. Will you accept this quest? (Level 26-35)	侦察队报告，遭劫掠的物资正被运往昆顿军队。我们查明运输路线期间，请你消灭指挥这些劫掠者的怪物。你愿意接受这个任务吗？（等级26-35）
+quest-words	18022	Things are becoming serious....	事情越来越严重了……
+quest-words	18023	I accept your quest. (Accept)	我接受你的委托。（接受）
+quest-words	18024	I don't have the time. I'm sorry. (Refuse)	对不起，我没有时间。（拒绝）
+quest-dialogue	18025	That's unfortunate. You shouldn't pass up on this if you want fast growth.... Come see me again before you reach level 36 if you want to accept the request. (The quest has been cancelled.)	真遗憾。如果想快速成长，就不该错过这次机会……若改变主意，记得在达到36级之前回来找我。（任务已取消）
+quest-dialogue	18026	Defeat 20 Skeleton Warriors from near the Dungeon entrance (123, 227) on the southwest side of town and return to me for a reward.	消灭20只骷髅战士。它们位于城镇西南侧地下城入口（123, 227）附近，完成后回来领取奖励。
+quest-dialogue	18027	Defeat 20 Giants from near the Devias entrance (22, 45) on the east side of town and return to me for a reward.	消灭20只巨人。它们位于城镇东侧通往冰风谷的入口（22, 45）附近，完成后回来领取奖励。
+quest-dialogue	18028	Defeat 20 Stone Golems from near the southwest side (30, 214) of town and return to me for a reward.	消灭20只石巨人。它们位于城镇西南侧（30, 214）附近，完成后回来领取奖励。
+quest-words	18801	The town's Shadow Phantom Soldier is looking for someone he can rely on to carry out quests both big and small. Go see the Shadow Phantom Soldier again.	城里的幻影导师正在寻找可靠的人，帮助处理大小委托。请再去见见他。
+quest-words	18802	Return to the Shadow Phantom Soldier after defeating 10 Spiders.	消灭10只蜘蛛后，返回幻影导师处。
+quest-words	18803	The town's Shadow Phantom Soldier is looking for someone he can rely on to carry out quests both big and small. Go see the Shadow Phantom Soldier again.	城里的幻影导师正在寻找可靠的人，帮助处理大小委托。请再去见见他。
+quest-words	18804	Return to the Shadow Phantom Soldier after defeating 15 Giants.	消灭15只巨人后，返回幻影导师处。
+quest-words	18805	Return to the Shadow Phantom Soldier after defeating 15 Liches.	消灭15只黑巫师后，返回幻影导师处。
+quest-words	18806	Return to the Shadow Phantom Soldier after defeating 15 Agons.	消灭15只亚昆后，返回幻影导师处。
+quest-words	18807	Return to the Shadow Phantom Soldier after defeating 15 Polluted Butterflies.	消灭15只 Polluted Butterfly 后，返回幻影导师处。
+quest-words	18808	The town's Shadow Phantom Soldier is looking for someone he can rely on to carry out quests both big and small. Go see the Shadow Phantom Soldier again.	城里的幻影导师正在寻找可靠的人，帮助处理大小委托。请再去见见他。
+quest-words	18809	Return to the Shadow Phantom Soldier after defeating 20 Skeleton Warriors.	消灭20只骷髅战士后，返回幻影导师处。
+quest-words	18810	Return to the Shadow Phantom Soldier after defeating 20 Giants.	消灭20只巨人后，返回幻影导师处。
+quest-words	18811	Return to the Shadow Phantom Soldier after defeating 20 Stone Golems.	消灭20只石巨人后，返回幻影导师处。
+quest-words	18901	Spider Hunt!	猎杀蜘蛛！
+quest-words	18903	Dispose of the Plunderers' Leader!	消灭劫掠者首领！
+quest-titles	2	Gain'Hero status'!	获得英雄资格！
+quest-titles	3	Secret of'Dark Stone'	暗黑之石的秘密
+quest-titles	4	Evidence of Strength	实力的证明

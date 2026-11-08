@@ -3,6 +3,8 @@
 #include "Data/Translation/BmdTextOverlay.h"
 #include "GameLogic/Skills/SkillManager.h"
 #include "GameLogic/Quests/QuestMng.h"
+#include "Core/Text/TextLineWrap.h"
+#include "Core/Utilities/StringUtils.h"
 #include "I18N/All.h"
 #include "json.hpp"
 #include <fstream>
@@ -201,6 +203,7 @@ TEST_CASE("BMD quest dialogue translations cannot enter subject or answer buffer
     for (const auto* locale : {"zh-CN", "en", "zh-CN"})
     {
         I18N::SetLocale(locale);
+        CHECK(std::wstring(I18N::Game::Quest) == (std::string_view(locale) == "zh-CN" ? L"任务" : L"Quest"));
         const auto expected = std::string_view(locale) == "zh-CN" ? std::wstring(100, L'x') : L"Original body";
         CHECK(std::wstring(quest.GetNPCWords(1)) == expected);
         CHECK(std::wstring(quest.GetNPCDlgNPCWords(0)) == expected);
@@ -215,6 +218,37 @@ TEST_CASE("BMD quest dialogue translations cannot enter subject or answer buffer
     CHECK_FALSE(Load(overlay, document));
     CHECK(overlay.Size() == 0);
     I18N::SetLocale(previousLocale.c_str());
+}
+
+TEST_CASE("shipped Chinese NPC bodies fit the existing paginated line buffers [data][i18n]")
+{
+    std::ifstream file(MU_TEST_DATA_DIR "/Local/BmdText.zh-CN.json");
+    const auto document = nlohmann::json::parse(file);
+    constexpr int BodyWidth = 160;
+    constexpr int ConservativeGlyphWidth = 24;
+    constexpr std::size_t MaximumLines = 35;
+    constexpr std::size_t LineCapacity = 64;
+    for (const auto& row : document.at("entries"))
+    {
+        if (row.at("kind") != "quest-dialogue")
+            continue;
+        const auto text = StringUtils::NarrowToWide(row.at("zh-CN").get<std::string>());
+        const auto lines = WrapTextToWidth(text, BodyWidth, [](const wchar_t*, std::size_t size)
+                                           { return static_cast<int>(size) * ConservativeGlyphWidth; });
+        CHECK(lines.size() <= MaximumLines);
+        std::wstring joined;
+        for (const auto& line : lines)
+        {
+            CHECK(line.size() < LineCapacity);
+            joined += line;
+        }
+        auto withoutSpaces = [](std::wstring value)
+        {
+            std::erase_if(value, [](wchar_t ch) { return std::iswspace(ch) != 0; });
+            return value;
+        };
+        CHECK(withoutSpaces(joined) == withoutSpaces(text));
+    }
 }
 
 TEST_CASE("BMD skill accessor switches language without mutating attributes [data][i18n]")

@@ -427,6 +427,288 @@
       "id": 18902,
       "english": "Dispose of the Town Plunderers!",
       "zh-CN": "消灭城外的劫掠者！"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 17,
+      "english": "Oh, I haven't introduced myself yet. My name is Olga. My fellow comrades from the Shadow Phantom Guardians and I serve Erin Gustiv, the queen of Noria.",
+      "zh-CN": "啊，还没自我介绍。我叫 Olga。我和幻影守护者的同伴们共同效忠于仙踪林女王 Erin Gustiv。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18,
+      "english": "...Shadow Phantom?;Guardians of the queen?",
+      "zh-CN": "……幻影守护者？;女王的卫士？"
+    },
+    {
+      "kind": "quest-words",
+      "id": 19,
+      "english": "What are the queen's guardians doing at a place like this?",
+      "zh-CN": "女王的卫士为什么会在这里？"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 20,
+      "english": "The queen's orders are to help those warriors starting out on their journey so that they can at least defend themselves against the forces of Kundun.",
+      "zh-CN": "女王命我们帮助初出茅庐的勇士，让他们至少能够抵御昆顿的势力，保护自己。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 21,
+      "english": "...I'm moved that the queen has made such orders.",
+      "zh-CN": "……女王竟有这样的命令，真令人感动。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 22,
+      "english": "How will you help, exactly?",
+      "zh-CN": "你们具体会怎样帮助我？"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 23,
+      "english": "I will teach you basic hunting and controls through a simple tutorial.;It's not that difficult, and I'm sure you'll finish it in no time.",
+      "zh-CN": "我会通过简单的新手教学，教你基本操作和打怪技巧。;并不难，相信你很快就能学会。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 24,
+      "english": "Great! I'll finish this tutorial in no time!",
+      "zh-CN": "太好了！我一定很快就能完成教学！"
+    },
+    {
+      "kind": "quest-words",
+      "id": 25,
+      "english": "Excellent! Let's get started with the tutorial.",
+      "zh-CN": "很好！让我们开始新手教学吧。"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18001,
+      "english": "The elder says Spiders are spinning webs on the outer walls of the town and has asked us to take care of them. Although the request was made to the Shadow Phantom Guardians, I believe the job is suitable for travelers who are just starting out on their journey. Will you accept this quest? (Level 1-14)",
+      "zh-CN": "长老说，蜘蛛在城镇外墙上结网，请我们处理。虽然委托交给了幻影守护者，但我觉得这份工作很适合刚踏上旅程的冒险者。你愿意接受这个任务吗？（等级1-14）"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18002,
+      "english": "It sounds like an easy job...",
+      "zh-CN": "听起来很容易……"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18003,
+      "english": "I accept your quest. (Accept)",
+      "zh-CN": "我接受你的委托。（接受）"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18004,
+      "english": "Hunting down measly Spiders is beneath me. (Refuse)",
+      "zh-CN": "区区蜘蛛，不值得我出手。（拒绝）"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18005,
+      "english": "That's unfortunate. You shouldn't pass this up if you want fast growth.... Come see me again before you reach level 15 if you want to accept the quest. (The quest has been cancelled.)",
+      "zh-CN": "真遗憾。如果想快速成长，就不该错过这次机会……若改变主意，记得在达到15级之前回来找我。（任务已取消）"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18006,
+      "english": "Hunt down 10 Spiders from around town, and I'll give you a reward.",
+      "zh-CN": "消灭城镇周围的10只蜘蛛，回来后我会给你奖励。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18012,
+      "english": "Plunderers...",
+      "zh-CN": "劫掠者……"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18013,
+      "english": "I accept your quest. (Accept)",
+      "zh-CN": "我接受你的委托。（接受）"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18014,
+      "english": "Plunderers are too much for me to handle. (Refuse)",
+      "zh-CN": "这些劫掠者不是我能对付的。（拒绝）"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18015,
+      "english": "That's unfortunate. You shouldn't pass up on this if you want fast growth.... Come see me again before you reach level 26 if you want to accept the request. (The quest has been cancelled.)",
+      "zh-CN": "真遗憾。如果想快速成长，就不该错过这次机会……若改变主意，记得在达到26级之前回来找我。（任务已取消）"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18016,
+      "english": "Defeat 15 Giants from near the Devias entrance (22, 45) on the east side of town and return to me for a reward.",
+      "zh-CN": "消灭15只巨人。它们位于城镇东侧通往冰风谷的入口（22, 45）附近，完成后回来领取奖励。"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18017,
+      "english": "Defeat 15 Liches from near the Dungeon entrance (159, 205) on the southwest side of town and return to me for a reward.",
+      "zh-CN": "消灭15只黑巫师。它们位于城镇西南侧地下城入口（159, 205）附近，完成后回来领取奖励。"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18018,
+      "english": "Defeat 15 Agons from near the south side (173, 222) of town and return to me for a reward.",
+      "zh-CN": "消灭15只亚昆。它们位于城镇南侧（173, 222）附近，完成后回来领取奖励。"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18019,
+      "english": "Defeat 15 Polluted Butterflies from near the tombstone (121, 156) on the north side of town and return to me for a reward.",
+      "zh-CN": "消灭15只 Polluted Butterfly。它们位于城镇北侧墓碑（121, 156）附近，完成后回来领取奖励。"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18021,
+      "english": "Our reconnaissance party reports that stolen supplies are being sent to Kundun's army. Please defeat the monsters controlling these plunderers while we ascertain the location of the supply route. Will you accept this quest? (Level 26-35)",
+      "zh-CN": "侦察队报告，遭劫掠的物资正被运往昆顿军队。我们查明运输路线期间，请你消灭指挥这些劫掠者的怪物。你愿意接受这个任务吗？（等级26-35）"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18022,
+      "english": "Things are becoming serious....",
+      "zh-CN": "事情越来越严重了……"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18023,
+      "english": "I accept your quest. (Accept)",
+      "zh-CN": "我接受你的委托。（接受）"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18024,
+      "english": "I don't have the time. I'm sorry. (Refuse)",
+      "zh-CN": "对不起，我没有时间。（拒绝）"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18025,
+      "english": "That's unfortunate. You shouldn't pass up on this if you want fast growth.... Come see me again before you reach level 36 if you want to accept the request. (The quest has been cancelled.)",
+      "zh-CN": "真遗憾。如果想快速成长，就不该错过这次机会……若改变主意，记得在达到36级之前回来找我。（任务已取消）"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18026,
+      "english": "Defeat 20 Skeleton Warriors from near the Dungeon entrance (123, 227) on the southwest side of town and return to me for a reward.",
+      "zh-CN": "消灭20只骷髅战士。它们位于城镇西南侧地下城入口（123, 227）附近，完成后回来领取奖励。"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18027,
+      "english": "Defeat 20 Giants from near the Devias entrance (22, 45) on the east side of town and return to me for a reward.",
+      "zh-CN": "消灭20只巨人。它们位于城镇东侧通往冰风谷的入口（22, 45）附近，完成后回来领取奖励。"
+    },
+    {
+      "kind": "quest-dialogue",
+      "id": 18028,
+      "english": "Defeat 20 Stone Golems from near the southwest side (30, 214) of town and return to me for a reward.",
+      "zh-CN": "消灭20只石巨人。它们位于城镇西南侧（30, 214）附近，完成后回来领取奖励。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18801,
+      "english": "The town's Shadow Phantom Soldier is looking for someone he can rely on to carry out quests both big and small. Go see the Shadow Phantom Soldier again.",
+      "zh-CN": "城里的幻影导师正在寻找可靠的人，帮助处理大小委托。请再去见见他。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18802,
+      "english": "Return to the Shadow Phantom Soldier after defeating 10 Spiders.",
+      "zh-CN": "消灭10只蜘蛛后，返回幻影导师处。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18803,
+      "english": "The town's Shadow Phantom Soldier is looking for someone he can rely on to carry out quests both big and small. Go see the Shadow Phantom Soldier again.",
+      "zh-CN": "城里的幻影导师正在寻找可靠的人，帮助处理大小委托。请再去见见他。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18804,
+      "english": "Return to the Shadow Phantom Soldier after defeating 15 Giants.",
+      "zh-CN": "消灭15只巨人后，返回幻影导师处。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18805,
+      "english": "Return to the Shadow Phantom Soldier after defeating 15 Liches.",
+      "zh-CN": "消灭15只黑巫师后，返回幻影导师处。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18806,
+      "english": "Return to the Shadow Phantom Soldier after defeating 15 Agons.",
+      "zh-CN": "消灭15只亚昆后，返回幻影导师处。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18807,
+      "english": "Return to the Shadow Phantom Soldier after defeating 15 Polluted Butterflies.",
+      "zh-CN": "消灭15只 Polluted Butterfly 后，返回幻影导师处。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18808,
+      "english": "The town's Shadow Phantom Soldier is looking for someone he can rely on to carry out quests both big and small. Go see the Shadow Phantom Soldier again.",
+      "zh-CN": "城里的幻影导师正在寻找可靠的人，帮助处理大小委托。请再去见见他。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18809,
+      "english": "Return to the Shadow Phantom Soldier after defeating 20 Skeleton Warriors.",
+      "zh-CN": "消灭20只骷髅战士后，返回幻影导师处。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18810,
+      "english": "Return to the Shadow Phantom Soldier after defeating 20 Giants.",
+      "zh-CN": "消灭20只巨人后，返回幻影导师处。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18811,
+      "english": "Return to the Shadow Phantom Soldier after defeating 20 Stone Golems.",
+      "zh-CN": "消灭20只石巨人后，返回幻影导师处。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18901,
+      "english": "Spider Hunt!",
+      "zh-CN": "猎杀蜘蛛！"
+    },
+    {
+      "kind": "quest-words",
+      "id": 18903,
+      "english": "Dispose of the Plunderers' Leader!",
+      "zh-CN": "消灭劫掠者首领！"
+    },
+    {
+      "kind": "quest-titles",
+      "id": 2,
+      "english": "Gain'Hero status'!",
+      "zh-CN": "获得英雄资格！"
+    },
+    {
+      "kind": "quest-titles",
+      "id": 3,
+      "english": "Secret of'Dark Stone'",
+      "zh-CN": "暗黑之石的秘密"
+    },
+    {
+      "kind": "quest-titles",
+      "id": 4,
+      "english": "Evidence of Strength",
+      "zh-CN": "实力的证明"
     }
   ]
 }
