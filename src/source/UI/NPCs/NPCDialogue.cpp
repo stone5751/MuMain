@@ -192,7 +192,7 @@ void CNPCDialogue::RefreshLocalizedText()
     const auto view = m_eLowerView;
     if (m_bQuestListMode)
     {
-        const int count = std::max(0, m_nSelTextCount - 1);
+        const int count = std::clamp(m_nSelTextCount - 1, 0, ND_QUEST_INDEX_MAX_COUNT);
         std::array<std::uint32_t, ND_QUEST_INDEX_MAX_COUNT> indices{};
         std::copy_n(m_adwQuestIndex, count, indices.begin());
         SetCurNPCWords(count);
@@ -203,9 +203,11 @@ void CNPCDialogue::RefreshLocalizedText()
         SetCurNPCWords();
         SetCurSelTexts();
     }
-    m_eLowerView = view;
     m_nSelNPCPage = std::min(page, m_nMaxNPCPage);
     m_nSelSelTextPage = std::min(answerPage, m_nMaxSelTextPage);
+    // A shorter translation can move the current page to the last page. Keep
+    // already-revealed answers visible, and do not leave a one-page dialog stuck.
+    m_eLowerView = view == SEL_TEXTS_MODE || m_nSelNPCPage >= m_nMaxNPCPage ? SEL_TEXTS_MODE : NON_SEL_TEXTS_MODE;
 }
 
 bool CNPCDialogue::Update()
