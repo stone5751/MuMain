@@ -71,6 +71,8 @@ namespace mu::ui::window
     private:
         void BuildRmlUi();
         void SyncRmlModel();
+        void RefreshLocalizedText();
+        std::string m_textLocale;
 
         void SetCurNPCWords();
         void SetCurRequestReward();

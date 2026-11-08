@@ -182,8 +182,35 @@ bool CNPCDialogue::UpdateKeyEvent()
     return true;
 }
 
+void CNPCDialogue::RefreshLocalizedText()
+{
+    if (!IsVisible() || m_textLocale == I18N::GetCurrentLocale())
+        return;
+    m_textLocale = I18N::GetCurrentLocale();
+    const int page = m_nSelNPCPage;
+    const int answerPage = m_nSelSelTextPage;
+    const auto view = m_eLowerView;
+    if (m_bQuestListMode)
+    {
+        const int count = std::max(0, m_nSelTextCount - 1);
+        std::array<std::uint32_t, ND_QUEST_INDEX_MAX_COUNT> indices{};
+        std::copy_n(m_adwQuestIndex, count, indices.begin());
+        SetCurNPCWords(count);
+        SetQuestListText(std::span(indices.data(), static_cast<std::size_t>(count)));
+    }
+    else
+    {
+        SetCurNPCWords();
+        SetCurSelTexts();
+    }
+    m_eLowerView = view;
+    m_nSelNPCPage = std::min(page, m_nMaxNPCPage);
+    m_nSelSelTextPage = std::min(answerPage, m_nMaxSelTextPage);
+}
+
 bool CNPCDialogue::Update()
 {
+    RefreshLocalizedText();
     SyncRmlModel();
     return true;
 }

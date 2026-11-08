@@ -52,9 +52,9 @@ public:
 
     std::uint8_t getCurrQuestState(void);
     const wchar_t* GetNPCName(BYTE byQuestIndex);
-    wchar_t* getQuestTitle();
-    wchar_t* getQuestTitle(BYTE byQuestIndex);
-    wchar_t* getQuestTitleWindow();
+    const wchar_t* getQuestTitle();
+    const wchar_t* getQuestTitle(BYTE byQuestIndex);
+    const wchar_t* getQuestTitleWindow();
     void SetEventCount(std::uint8_t type, std::uint8_t count);
     int GetEventCount(std::uint8_t byType);
     std::uint32_t GetNeedZen() { return m_dwNeedZen; }

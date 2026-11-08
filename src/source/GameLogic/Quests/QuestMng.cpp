@@ -3,12 +3,12 @@
 //*****************************************************************************
 
 #include "stdafx.h"
+#include "Data/Translation/BmdTextOverlay.h"
 #include "QuestMng.h"
 #include "Data/DataHandler/DataFileIO.h"
 #include "Core/Utilities/FileHandle.h"
 #include "I18N/All.h"
-
-
+#include "GameLogic/Skills/SkillManager.h"
 
 #include "Core/Platform/CrtDbg.h"
 
@@ -314,7 +314,8 @@ const wchar_t* CQuestMng::GetWords(int nWordsIndex)
     if (iter == m_mapQuestWords.end())
         return NULL;
 
-    return iter->second.c_str();
+    return Data::Translation::BmdDisplayText(Data::Translation::BmdTextOverlay::Kind::QuestWords, nWordsIndex,
+                                             iter->second.c_str());
 }
 
 const wchar_t* CQuestMng::GetNPCDlgNPCWords(DWORD dwDlgState)
@@ -648,7 +649,7 @@ bool CQuestMng::GetRequestRewardText(SRequestRewardText* aDest, int nDestCount, 
                 aDest[nLine].m_eKind = RRTK_REQUIREMENT;
 
             FormatRequestRewardText(aDest[nLine], I18N::Game::QuestRequirementSkill,
-                                    SkillAttribute[pRequestInfo->m_wIndex].Name);
+                                    gSkillManager.GetSkillDisplayName(pRequestInfo->m_wIndex));
             break;
 
 #ifndef ASG_ADD_TIME_LIMIT_QUEST

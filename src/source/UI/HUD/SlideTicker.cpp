@@ -1,4 +1,6 @@
 #include "stdafx.h"
+#include "Data/Translation/BmdTextOverlay.h"
+#include "I18N/All.h"
 #include "Core/Utilities/Random.h"
 #include "UI/HUD/SlideTicker.h"
 #include "Data/DataHandler/DataFileIO.h"
@@ -73,6 +75,7 @@ int g_iNoticeInverse = 0;
 
 void SlideLane::Render(BOOL bForceFadeOut)
 {
+    RefreshLocalizedText();
     if (g_pOption->IsSlideHelp() == false)
     {
         return;
@@ -161,6 +164,7 @@ void SlideLane::Render(BOOL bForceFadeOut)
 // Render()'s state half: the alpha ramp, the scroll step and the wrap, with nothing drawn.
 void SlideLane::Advance(BOOL bForceFadeOut)
 {
+    RefreshLocalizedText();
     if (g_pOption->IsSlideHelp() == false)
         return;
 
@@ -265,13 +269,36 @@ void SlideLane::ComputeSpeed()
     m_fMovePosition -= m_fMoveSpeed * FPS_ANIMATION_FACTOR;
 }
 
-BOOL SlideLane::AddSlideText(const wchar_t* pszNewText, DWORD dwTextColor)
+void SlideLane::RefreshLocalizedText()
+{
+    if (m_textLocale == I18N::GetCurrentLocale())
+        return;
+    m_textLocale = I18N::GetCurrentLocale();
+    if (m_bmdId < 0 || !m_pszSlideText || !m_pszSlideText[0])
+        return;
+    const auto* text = Data::Translation::BmdDisplayText(Data::Translation::BmdTextOverlay::Kind::Slide, m_bmdId,
+                                                         m_bmdOriginal.c_str());
+    wcscpy_s(m_pszSlideText, SLIDE_TEXT_LENGTH, text);
+    m_iCutLength = 0;
+    m_iCutSize = 0;
+    m_fMovePosition = static_cast<float>(REFERENCE_WIDTH);
+}
+
+BOOL SlideLane::AddSlideText(const wchar_t* pszNewText, DWORD dwTextColor, int bmdId)
 {
     if (pszNewText == nullptr || pszNewText[0] == '\0') return TRUE;
 
+    m_bmdId = bmdId;
+    m_textLocale = I18N::GetCurrentLocale();
+    if (bmdId >= 0)
+    {
+        m_bmdOriginal = pszNewText;
+        pszNewText =
+            Data::Translation::BmdDisplayText(Data::Translation::BmdTextOverlay::Kind::Slide, bmdId, pszNewText);
+    }
     m_dwSlideTextColor = dwTextColor;
     g_pRenderText->SetFont(m_hFont);
-    wcscat(m_pszSlideText, pszNewText);
+    wcscat_s(m_pszSlideText, SLIDE_TEXT_LENGTH, pszNewText);
     return TRUE;
 }
 
@@ -309,7 +336,8 @@ void SlideLane::SetScrollSpeed(float fSpeed)
     m_fMaxMoveSpeed = fSpeed * g_fScreenRate_x;
 }
 
-void SlideLane::AddSlide(int iLoopCount, int iLoopDelay, const wchar_t* pszText, int iType, float fSpeed, DWORD dwTextColor)
+void SlideLane::AddSlide(int iLoopCount, int iLoopDelay, const wchar_t* pszText, int iType, float fSpeed,
+                         DWORD dwTextColor, int bmdId)
 {
     if (SceneFlag != MAIN_SCENE) return;
     if (pszText == nullptr || pszText[0] == '\0') return;
@@ -318,6 +346,7 @@ void SlideLane::AddSlide(int iLoopCount, int iLoopDelay, const wchar_t* pszText,
 
     SLIDE_QUEUE_DATA slidedata;
     slidedata.m_iType = iType;
+    slidedata.bmdId = bmdId;
     slidedata.m_pszText = new wchar_t[iLength + 1];
     memset(slidedata.m_pszText, 0, iLength + 1);
     wcsncpy(slidedata.m_pszText, pszText, iLength + 1);
@@ -376,7 +405,8 @@ void SlideLane::ManageSlide()
             const bool expiredNotice = m_SlideQueueIter->second.m_iType == -1 &&
                 m_SlideQueueIter->first + ExpiredNoticeAgeSeconds < m_dwCurrentSecond;
             if (!expiredNotice &&
-                AddSlideText(m_SlideQueueIter->second.m_pszText, m_SlideQueueIter->second.m_dwTextColor) == FALSE)
+                AddSlideText(m_SlideQueueIter->second.m_pszText, m_SlideQueueIter->second.m_dwTextColor,
+                             m_SlideQueueIter->second.bmdId) == FALSE)
                 break;
 
             SetScrollSpeed(m_SlideQueueIter->second.m_fSpeed);
@@ -481,8 +511,20 @@ void SlideTicker::CreateSlideText()
 
     const wchar_t* pszNewText = GetSlideText(iLevel);
 
-    AddSlide(1, 0, pszNewText, 1, m_fHelpSlideSpeed);
+    constexpr DWORD HelpTextColor = (255u << 24) + (200u << 16) + (220u << 8) + 230u;
+    m_HelpSlide.AddSlide(1, 0, pszNewText, 0, m_fHelpSlideSpeed, HelpTextColor, m_selectedBmdId);
 }
+
+namespace
+{
+wchar_t* DecodeSlideText(const char* text)
+{
+    const int length = MultiByteToWideChar(CP_UTF8, 0, text, -1, nullptr, 0);
+    auto* result = new wchar_t[length + 1]{};
+    MultiByteToWideChar(CP_UTF8, 0, text, -1, result, length);
+    return result;
+}
+} // namespace
 
 void SlideTicker::OpenSlideTextFile(const wchar_t* szFileName)
 {
@@ -525,10 +567,7 @@ void SlideTicker::OpenSlideTextFile(const wchar_t* szFileName)
         m_iTextNumber[i] = SlideHelp.SlideHelp[i].iNumber;
         for (int j = 0; j < m_iTextNumber[i]; ++j)
         {
-            auto charText = SlideHelp.SlideHelp[i].szSlideHelpText[j];
-            int iLength = MultiByteToWideChar(CP_UTF8, 0, charText, -1, 0, 0);
-            auto pszText = new wchar_t[iLength + 1];
-            MultiByteToWideChar(CP_UTF8, 0, charText, -1, pszText, iLength);
+            auto pszText = DecodeSlideText(SlideHelp.SlideHelp[i].szSlideHelpText[j]);
             m_SlideTextList[i].push_back(pszText);
         }
     }
@@ -554,6 +593,7 @@ void SlideTicker::ClearSlideText()
 
 const wchar_t* SlideTicker::GetSlideText(int iLevel)
 {
+    m_selectedBmdId = -1;
     int iHelpType = -1;
     for (int i = 0; i < SLIDE_LEVEL_MAX; ++i)
     {
@@ -574,6 +614,7 @@ const wchar_t* SlideTicker::GetSlideText(int iLevel)
     for (int i = 0; i < iRandom; ++i)
         ++m_SlideTextListIter;
 
+    m_selectedBmdId = iHelpType * Data::Translation::BmdTextOverlay::SlideSlotsPerLevel + iRandom;
     return *m_SlideTextListIter;
 }
 

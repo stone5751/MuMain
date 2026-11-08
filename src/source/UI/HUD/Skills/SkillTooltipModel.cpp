@@ -515,7 +515,8 @@ void EmitBottomBanners(Model& m, const BuildOptions& options, int skillType)
     const int SkillUseType = SkillAttribute[skillType].SkillUseType;
     if (SkillUseType == SKILL_USE_TYPE_BRAND)
     {
-        AddFormattedWide(m, I18N::Game::ReceiveSkillFromS, LineColor::DarkRed, SkillAttribute[BrandType].Name);
+        AddFormattedWide(m, I18N::Game::ReceiveSkillFromS, LineColor::DarkRed,
+                         gSkillManager.GetSkillDisplayName(BrandType));
         AddFormatted(m, I18N::Game::CanOnlyBeUsedForDSeconds, LineColor::DarkRed, SkillAttribute[BrandType].Damage);
     }
     if (SkillUseType == SKILL_USE_TYPE_MASTER)

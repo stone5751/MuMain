@@ -220,8 +220,22 @@ bool mu::ui::window::CMyQuestInfoWindow::UpdateKeyEvent()
     return true;
 }
 
+void mu::ui::window::CMyQuestInfoWindow::RefreshLocalizedText()
+{
+    if (!IsVisible() || m_textLocale == I18N::GetCurrentLocale())
+        return;
+    m_textLocale = I18N::GetCurrentLocale();
+    auto* selectedItem = m_pSelectedRewardItem;
+    SetSelQuestSummary();
+    SetSelQuestRequestReward();
+    m_pSelectedRewardItem = selectedItem;
+    m_RmlView.GetModel().jobChangeTitle = StringUtils::WideToNarrow(g_csQuest.getQuestTitleWindow());
+    m_RmlView.MarkDirty("jobchange_title");
+}
+
 bool mu::ui::window::CMyQuestInfoWindow::Update()
 {
+    RefreshLocalizedText();
     SyncRmlModel();
 
     // Mirrors Render()'s own condition for drawing the reward-item info popup: whenever it

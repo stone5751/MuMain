@@ -1,6 +1,7 @@
 //////////////////////////////////////////////////////////////////////////
 
 #include "stdafx.h"
+#include "Data/Translation/BmdTextOverlay.h"
 #include "I18N/All.h"
 #include "Core/Platform/PathResolve.h"
 
@@ -198,19 +199,22 @@ const wchar_t* CSQuest::GetNPCName(BYTE byQuestIndex)
     return getMonsterName(int(m_Quest[byQuestIndex].wNpcType));
 }
 
-wchar_t* CSQuest::getQuestTitle()
+const wchar_t* CSQuest::getQuestTitle()
 {
-    return m_Quest[m_byCurrQuestIndex].strQuestName;
+    return getQuestTitle(m_byCurrQuestIndex);
 }
 
-wchar_t* CSQuest::getQuestTitle(BYTE byQuestIndex)
+const wchar_t* CSQuest::getQuestTitle(BYTE byQuestIndex)
 {
-    return m_Quest[byQuestIndex].strQuestName;
+    if (byQuestIndex >= MAX_QUESTS)
+        return L"";
+    return Data::Translation::BmdDisplayText(Data::Translation::BmdTextOverlay::Kind::QuestTitle, byQuestIndex,
+                                             m_Quest[byQuestIndex].strQuestName);
 }
 
-wchar_t* CSQuest::getQuestTitleWindow()
+const wchar_t* CSQuest::getQuestTitleWindow()
 {
-    return m_Quest[m_byCurrQuestIndexWnd].strQuestName;
+    return getQuestTitle(m_byCurrQuestIndexWnd);
 }
 
 void CSQuest::SetEventCount(std::uint8_t type, std::uint8_t count)

@@ -167,8 +167,22 @@ bool CQuestProgressByEtc::UpdateKeyEvent()
     return true;
 }
 
+void CQuestProgressByEtc::RefreshLocalizedText()
+{
+    if (!IsVisible() || m_textLocale == I18N::GetCurrentLocale())
+        return;
+    m_textLocale = I18N::GetCurrentLocale();
+    const int page = m_nSelNPCPage;
+    SetCurNPCWords();
+    m_nSelNPCPage = std::min(page, m_nMaxNPCPage);
+    const bool complete = m_bRequestComplete;
+    SetCurRequestReward();
+    m_bRequestComplete = complete;
+}
+
 bool CQuestProgressByEtc::Update()
 {
+    RefreshLocalizedText();
     SyncRmlModel();
 
     if (IsVisible() && !(m_eLowerView == REQUEST_REWARD_MODE && m_pSelectedRewardItem))

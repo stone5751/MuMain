@@ -2,6 +2,7 @@
 #include "stdafx.h"
 #include "UI/HUD/BuffStrip.h"
 #include "I18N/All.h"
+#include "GameLogic/Skills/SkillManager.h"
 
 #include "Engine/Object/ZzzCharacter.h"
 #include "Engine/Object/ZzzInventory.h"
@@ -353,7 +354,7 @@ void CBuffStrip::OnBuffRightClick(int slot)
         return;
 
     wchar_t text[MAX_GLOBAL_TEXT_STRING];
-    mu_swprintf(text, I18N::Game::CancelSkillQuestion, SkillAttribute[skill].Name);
+    mu_swprintf(text, I18N::Game::CancelSkillQuestion, gSkillManager.GetSkillDisplayName(skill));
 
     UI::Dialogs::ConfirmRequest request;
     request.cancellable = true;

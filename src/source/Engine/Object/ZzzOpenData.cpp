@@ -1,4 +1,5 @@
-﻿#include "stdafx.h"
+#include "stdafx.h"
+#include "Data/Translation/BmdTextOverlay.h"
 #include "Render/Models/ZzzBMD.h"
 #include "Core/Utilities/Random.h"
 #include "Engine/Object/ZzzInfomation.h"
@@ -2172,6 +2173,7 @@ void OpenBasicData(HDC hDC)
     mu_swprintf(Text, L"Data\\Local\\%ls\\movereq_%ls.bmd", g_strSelectedML.c_str(), g_strSelectedML.c_str());
     SEASON3B::CMoveCommandData::OpenMoveReqScript(Text);
 
+    Data::Translation::LoadBmdTextOverlay();
     OpenMonsterData();
     OpenMapData();
 

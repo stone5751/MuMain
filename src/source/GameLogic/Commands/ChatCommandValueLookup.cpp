@@ -2,6 +2,7 @@
 #include "GameLogic/Commands/ChatCommandValueLookup.h"
 
 #include "I18N/All.h"
+#include "GameLogic/Skills/SkillManager.h"
 
 #include "Engine/Object/ZzzCharacter.h"
 #include "Engine/Object/ZzzInfomation.h"
@@ -72,7 +73,7 @@ std::wstring GetSkillName(int number)
         return {};
     }
 
-    return SkillAttribute[number].Name;
+    return gSkillManager.GetSkillDisplayName(number);
 }
 
 // The id of an object is only known while it's in the scope of the character.

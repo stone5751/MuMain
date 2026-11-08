@@ -42,6 +42,7 @@ class CSkillManager
 public:
     CSkillManager();
     virtual ~CSkillManager();
+    const wchar_t* GetSkillDisplayName(int skill) const;
     int FindSkillIndex(int skillType) const;
     bool FindHeroSkill(ActionSkillType eSkillType);
     void GetSkillInformation(int iType, int iLevel, wchar_t* lpszName, int* piMana, int* piDistance, int* piSkillMana = NULL);

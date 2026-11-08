@@ -120,6 +120,8 @@ namespace mu::ui::window
     private:
         void BuildRmlUi();
         void SyncRmlModel();
+        void RefreshLocalizedText();
+        std::string m_textLocale;
 
         void SetCurNPCWords(int nQuestListCount = 0);
         void SetCurSelTexts();

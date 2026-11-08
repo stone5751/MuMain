@@ -54,6 +54,9 @@ build-linux/
 !src/bin/Data/Logo/Classic/
 !src/bin/Data/Logo/Classic/**
 # Item data (JSON, written by the item editor) is source-controlled.
+!src/bin/Data/Local/
+src/bin/Data/Local/*
+!src/bin/Data/Local/BmdText.zh-CN.json
 !src/bin/Data/Items/
 !src/bin/Data/Items/**
 src/bin/Data/Items/**/*.tmp

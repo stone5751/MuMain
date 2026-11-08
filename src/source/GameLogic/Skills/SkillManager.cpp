@@ -1,7 +1,8 @@
-﻿// SkillManager.cpp: implementation of the CSkillManager class.
+// SkillManager.cpp: implementation of the CSkillManager class.
 //////////////////////////////////////////////////////////////////////
 
 #include "stdafx.h"
+#include "Data/Translation/BmdTextOverlay.h"
 #include "SkillManager.h"
 #include "Character/CharacterManager.h"
 #include "World/MapInfra/MapManager.h"
@@ -128,14 +129,20 @@ bool CSkillManager::FindHeroSkill(ActionSkillType eSkillType)
     return false;
 }
 
+const wchar_t* CSkillManager::GetSkillDisplayName(int skill) const
+{
+    if (!SkillAttribute || skill < 0 || skill >= MAX_SKILLS)
+        return L"";
+    return Data::Translation::BmdDisplayText(Data::Translation::BmdTextOverlay::Kind::Skill, skill,
+                                             SkillAttribute[skill].Name);
+}
+
 void CSkillManager::GetSkillInformation(int iType, int iLevel, wchar_t* lpszName, int* piMana, int* piDistance, int* piSkillMana)
 {
     SKILL_ATTRIBUTE* p = &SkillAttribute[iType];
     if (lpszName)
     {
-        wcscpy(lpszName, p->Name);
-        // int wchars_num = MultiByteToWideChar(CP_UTF8, 0, p->Name, -1, NULL, 0);
-        // MultiByteToWideChar(CP_UTF8, 0, p->Name, -1, lpszName, wchars_num);
+        wcscpy(lpszName, GetSkillDisplayName(iType));
     }
     if (piMana)
     {

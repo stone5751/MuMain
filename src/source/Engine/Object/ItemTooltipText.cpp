@@ -224,9 +224,10 @@ size_t Write(const Compiled& text, int level, const ItemTooltipValues& values, w
         case Piece::Kind::SkillName:
         case Piece::Kind::MonsterName:
         {
-            const wchar_t* name = piece.kind == Piece::Kind::SkillName
-                                      ? (SkillAttribute != nullptr ? SkillAttribute[piece.number].Name : nullptr)
-                                      : GameLogic::Items::NameParts::MonsterName(piece.number);
+            const wchar_t* name =
+                piece.kind == Piece::Kind::SkillName
+                    ? (SkillAttribute != nullptr ? gSkillManager.GetSkillDisplayName(piece.number) : nullptr)
+                    : GameLogic::Items::NameParts::MonsterName(piece.number);
             if (name == nullptr)
             {
                 // Not in the skill list or the monster list: the rest of the line as written.

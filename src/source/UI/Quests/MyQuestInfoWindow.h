@@ -124,6 +124,8 @@ namespace mu::ui::window
         };
 
         void SyncRmlModel();
+        void RefreshLocalizedText();
+        std::string m_textLocale;
         static std::vector<TextLine> BuildTextLines(const wchar_t* text, int nPixelWidth);
 
         struct MyQuestInfoRmlModel

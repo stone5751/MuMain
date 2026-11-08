@@ -1,4 +1,13 @@
 mu_add_test(
+    NAME bmd_text_overlay_tests
+    SOURCES test_bmd_text_overlay.cpp ${MU_TEST_WINMAIN}
+    LINK_LIBS MuClient
+)
+target_compile_definitions(bmd_text_overlay_tests PRIVATE
+    MU_TEST_DATA_DIR="${CMAKE_SOURCE_DIR}/src/bin/Data"
+)
+
+mu_add_test(
     NAME test_item_database
     SOURCES
         test_color_folders.cpp

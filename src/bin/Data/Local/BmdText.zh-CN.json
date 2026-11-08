@@ -1,0 +1,420 @@
+{
+  "formatVersion": 1,
+  "locale": "zh-CN",
+  "sourceSha256": {
+    "skill_eng.bmd": "8ca29f43317552a639fea84153dafb1cc263453318bbbe6d40ca41caacb69982",
+    "Quest_eng.bmd": "561994c1857edf66c253d868c9babc9b86ab41af104ec162c4131e3bd850f89b",
+    "QuestWords_eng.bmd": "2487b6e90ac044f70506936add51eb069c4c6a4a7451e2aaa831d5ed0da2297e",
+    "slide_eng.bmd": "e029f7e6dd0610dfe5d3aa17bc98ca50cf2bde43520e09746c407ccdd5667662"
+  },
+  "entries": [
+    {
+      "kind": "skills",
+      "id": 1,
+      "english": "Poison",
+      "zh-CN": "毒咒"
+    },
+    {
+      "kind": "skills",
+      "id": 2,
+      "english": "Meteorite",
+      "zh-CN": "陨石术"
+    },
+    {
+      "kind": "skills",
+      "id": 3,
+      "english": "Lightning",
+      "zh-CN": "掌心雷"
+    },
+    {
+      "kind": "skills",
+      "id": 4,
+      "english": "Fire Ball",
+      "zh-CN": "火球术"
+    },
+    {
+      "kind": "skills",
+      "id": 5,
+      "english": "Flame",
+      "zh-CN": "火龙"
+    },
+    {
+      "kind": "skills",
+      "id": 6,
+      "english": "Teleport",
+      "zh-CN": "瞬间移动"
+    },
+    {
+      "kind": "skills",
+      "id": 7,
+      "english": "Ice",
+      "zh-CN": "冰封"
+    },
+    {
+      "kind": "skills",
+      "id": 8,
+      "english": "Twister",
+      "zh-CN": "龙卷风"
+    },
+    {
+      "kind": "skills",
+      "id": 9,
+      "english": "Evil Spirit",
+      "zh-CN": "黑龙波"
+    },
+    {
+      "kind": "skills",
+      "id": 10,
+      "english": "Hellfire",
+      "zh-CN": "地狱火"
+    },
+    {
+      "kind": "skills",
+      "id": 11,
+      "english": "Power Wave",
+      "zh-CN": "真空波"
+    },
+    {
+      "kind": "skills",
+      "id": 12,
+      "english": "Aqua Beam",
+      "zh-CN": "极光"
+    },
+    {
+      "kind": "skills",
+      "id": 13,
+      "english": "Cometfall",
+      "zh-CN": "爆炎"
+    },
+    {
+      "kind": "skills",
+      "id": 14,
+      "english": "Inferno",
+      "zh-CN": "毁灭烈焰"
+    },
+    {
+      "kind": "skills",
+      "id": 15,
+      "english": "Teleport Ally",
+      "zh-CN": "集体传送"
+    },
+    {
+      "kind": "skills",
+      "id": 16,
+      "english": "Soul Barrier",
+      "zh-CN": "守护之魂"
+    },
+    {
+      "kind": "skills",
+      "id": 17,
+      "english": "Energy Ball",
+      "zh-CN": "能量球"
+    },
+    {
+      "kind": "skills",
+      "id": 24,
+      "english": "Triple Shot",
+      "zh-CN": "多重箭"
+    },
+    {
+      "kind": "skills",
+      "id": 26,
+      "english": "Heal",
+      "zh-CN": "治疗"
+    },
+    {
+      "kind": "skills",
+      "id": 27,
+      "english": "Greater Defense",
+      "zh-CN": "防御力提高"
+    },
+    {
+      "kind": "skills",
+      "id": 28,
+      "english": "Greater Damage",
+      "zh-CN": "攻击力提高"
+    },
+    {
+      "kind": "skills",
+      "id": 38,
+      "english": "Decay",
+      "zh-CN": "毒炎"
+    },
+    {
+      "kind": "skills",
+      "id": 39,
+      "english": "Ice Storm",
+      "zh-CN": "暴风雪"
+    },
+    {
+      "kind": "skills",
+      "id": 40,
+      "english": "Nova",
+      "zh-CN": "星辰一怒"
+    },
+    {
+      "kind": "skills",
+      "id": 41,
+      "english": "Twisting Slash",
+      "zh-CN": "旋风斩"
+    },
+    {
+      "kind": "skills",
+      "id": 42,
+      "english": "Rageful Blow",
+      "zh-CN": "雷霆裂闪"
+    },
+    {
+      "kind": "skills",
+      "id": 43,
+      "english": "Death Stab",
+      "zh-CN": "袭风刺"
+    },
+    {
+      "kind": "skills",
+      "id": 48,
+      "english": "Swell Life",
+      "zh-CN": "生命之光"
+    },
+    {
+      "kind": "quest-titles",
+      "id": 0,
+      "english": "Find the 'Scroll of Emperor'!",
+      "zh-CN": "寻找帝王之书"
+    },
+    {
+      "kind": "quest-titles",
+      "id": 1,
+      "english": "Three Treasures of Mu",
+      "zh-CN": "奇迹大陆的三种宝物"
+    },
+    {
+      "kind": "quest-words",
+      "id": 1,
+      "english": "Welcome to the world of Mu.;We have been waiting for a hero like you to arrive and put a stop to the chaos brought on to the Mu realm by Kundun.",
+      "zh-CN": "欢迎来到奇迹世界。;我们一直等待像你这样的勇士，终结昆顿给奇迹大陆带来的混乱。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 2,
+      "english": "Continue listening.",
+      "zh-CN": "继续听下去。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 3,
+      "english": "However, journeys such as this are bound to be perilous.;If you wish, we can provide you with a simple tutorial. What do you say?",
+      "zh-CN": "然而，这样的旅程必定充满危险。;如果你愿意，我们可以提供简单的新手教学。你意下如何？"
+    },
+    {
+      "kind": "quest-words",
+      "id": 4,
+      "english": "A tutorial?;I look forward to it!",
+      "zh-CN": "新手教学？;我很期待！"
+    },
+    {
+      "kind": "quest-words",
+      "id": 5,
+      "english": "Tutorials are for children. Turn down the offer.",
+      "zh-CN": "新手教学是给孩子的。拒绝帮助。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 6,
+      "english": "It won't take up too much of your time. I'll simply explain basic controls and hunting techniques.;Are you sure you don't want our help?",
+      "zh-CN": "不会占用你太多时间。我只会简单介绍基本操作和打怪技巧。;你确定不需要我们的帮助吗？"
+    },
+    {
+      "kind": "quest-words",
+      "id": 7,
+      "english": "I have plenty of experience.;To each his own!",
+      "zh-CN": "我已经很有经验了。;每个人都有自己的选择！"
+    },
+    {
+      "kind": "quest-words",
+      "id": 8,
+      "english": "How can I turn him down...?;Alright, let's give it a try!",
+      "zh-CN": "怎能拒绝他的好意呢……;好吧，试试看！"
+    },
+    {
+      "kind": "quest-words",
+      "id": 9,
+      "english": "I'm glad we can help. We aren't difficult to find.;Simply look for and talk to the Shadow Phantom Soldier in any of the towns.",
+      "zh-CN": "很高兴能够帮到你。我们并不难找。;在各个城镇找到幻影导师，与他交谈即可。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 10,
+      "english": "I regret we can't be of any help to you.;Here, at least take this present. I hope, the next time we meet, a great warrior stands before my eyes.;Enjoy your time out there.",
+      "zh-CN": "很遗憾没能帮到你。;至少请收下这份礼物。希望下次见面时，你已成为一名出色的勇士。;祝你旅途愉快。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 11,
+      "english": "I respect your decision to go on this journey.;Allow me to teach you a few simple but essential things you need to know before your adventure in MU begins.",
+      "zh-CN": "我尊重你踏上旅程的决定。;在奇迹冒险开始前，让我教你一些简单却必不可少的知识。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 12,
+      "english": "...This is Noria, the kingdom of Elves! So this is where my adventure begins.;How exhilarating!",
+      "zh-CN": "……这里是弓箭手的王国仙踪林！我的冒险就从这里开始。;真令人兴奋！"
+    },
+    {
+      "kind": "quest-words",
+      "id": 13,
+      "english": "...This is Lorencia, the kingdom of Dark Wizards and Dark Knights! So this is where my adventure begins.;Excellent! My adventure begins!",
+      "zh-CN": "……这里是魔法师与剑士的王国勇者大陆！我的冒险就从这里开始。;太好了！冒险开始了！"
+    },
+    {
+      "kind": "quest-words",
+      "id": 14,
+      "english": "...This is Elveland, the kingdom of Summoners! So this is where my adventure begins.;How exhilarating!",
+      "zh-CN": "……这里是召唤术师的王国幻术园！我的冒险就从这里开始。;真令人兴奋！"
+    },
+    {
+      "kind": "quest-words",
+      "id": 15,
+      "english": "It's nice to meet you.;May I ask who you are?",
+      "zh-CN": "很高兴认识你。;请问你是谁？"
+    },
+    {
+      "kind": "quest-words",
+      "id": 16,
+      "english": "Alright! Let's get started with the tutorial.",
+      "zh-CN": "好！让我们开始新手教学吧。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 26,
+      "english": "Let's start with something simple.;Close your quest window and either press C or click on the Character (C) button located on the bottom right of your screen to launch the Character Stats window.",
+      "zh-CN": "先从简单的操作开始。;关闭任务窗口，按 C 键或点击屏幕右下方的角色（C）按钮，打开角色属性窗口。"
+    },
+    {
+      "kind": "quest-words",
+      "id": 43,
+      "english": "Now, press the I button or click on the Inventory (I/V) button located on the bottom right to open your Inventory window.",
+      "zh-CN": "现在按 I 键，或点击屏幕右下方的背包（I/V）按钮，打开背包窗口。"
+    },
+    {
+      "kind": "slides",
+      "id": 4,
+      "english": "Press Q, W, E to use the items such as healing potion, mana potion, antidote, alcohol or town portal scroll registered under those keys.",
+      "zh-CN": "按 Q、W、E 键，可使用绑定在对应快捷键上的治疗药水、魔法药水、解毒剂、酒或回城卷轴。"
+    },
+    {
+      "kind": "slides",
+      "id": 7,
+      "english": "Vault usage fee is deducted from your inventory according to your level.",
+      "zh-CN": "使用仓库的费用根据角色等级从背包中扣除。"
+    },
+    {
+      "kind": "slides",
+      "id": 8,
+      "english": "Use the lock function on your vault to protect it.",
+      "zh-CN": "使用仓库上锁功能保护你的物品。"
+    },
+    {
+      "kind": "slides",
+      "id": 9,
+      "english": "Point the cursor on the skill button and press ctrl+number key to set hotkey.",
+      "zh-CN": "将鼠标移到技能按钮上，按 Ctrl＋数字键设置快捷键。"
+    },
+    {
+      "kind": "slides",
+      "id": 12,
+      "english": "Press space bar to collect loot.",
+      "zh-CN": "按空格键拾取物品。"
+    },
+    {
+      "kind": "slides",
+      "id": 19,
+      "english": "To combat normally, left click on monster.",
+      "zh-CN": "鼠标左键点击怪物进行普通攻击。"
+    },
+    {
+      "kind": "slides",
+      "id": 20,
+      "english": "To use skill during combat, right click on monster.",
+      "zh-CN": "鼠标右键点击怪物施放技能。"
+    },
+    {
+      "kind": "slides",
+      "id": 21,
+      "english": "Right click on scrolls or orbs to master the noted skills.",
+      "zh-CN": "鼠标右键点击技能卷轴或技能石，即可学习对应技能。"
+    },
+    {
+      "kind": "slides",
+      "id": 23,
+      "english": "To use skills or magic, right click on monster.",
+      "zh-CN": "鼠标右键点击怪物，使用技能或魔法。"
+    },
+    {
+      "kind": "slides",
+      "id": 24,
+      "english": "The command (trade, party, whisper, etc.) system is accessible by pressing the 'D' key.",
+      "zh-CN": "按 D 键打开指令菜单，可使用交易、组队、密语等功能。"
+    },
+    {
+      "kind": "slides",
+      "id": 28,
+      "english": "Click shortcut key T to check the quest information.",
+      "zh-CN": "按 T 键查看任务信息。"
+    },
+    {
+      "kind": "slides",
+      "id": 35,
+      "english": "Wearing a level +5 or above boots allows you to run.",
+      "zh-CN": "穿戴强化等级为 +5 或以上的靴子即可奔跑。"
+    },
+    {
+      "kind": "slides",
+      "id": 37,
+      "english": "When poisoned, you can cure yourself by using the antidote.",
+      "zh-CN": "中毒后可使用解毒剂解除中毒。"
+    },
+    {
+      "kind": "slides",
+      "id": 38,
+      "english": "Using the 'town portal scroll' will transport you to the nearest town or safe area.",
+      "zh-CN": "使用回城卷轴可返回最近的城镇或安全区。"
+    },
+    {
+      "kind": "slides",
+      "id": 39,
+      "english": "To save a screenshot in your Mu folder, press the 'Print Screen' key.",
+      "zh-CN": "按 Print Screen 键截图，图片将保存在奇迹客户端目录中。"
+    },
+    {
+      "kind": "slides",
+      "id": 40,
+      "english": "Item's performance level decreases when the durability decreases.",
+      "zh-CN": "物品耐久度降低时，其性能也会下降。"
+    },
+    {
+      "kind": "slides",
+      "id": 42,
+      "english": "To use the saved chatting macro, press Alt+number.",
+      "zh-CN": "按 Alt＋数字键使用已保存的聊天宏。"
+    },
+    {
+      "kind": "slides",
+      "id": 43,
+      "english": "To fix your weapon or armor, go to the weapon merchants in town.",
+      "zh-CN": "前往城镇的武器商人处修理武器或防具。"
+    },
+    {
+      "kind": "slides",
+      "id": 50,
+      "english": "The supplementary magic of the Elf can be used by clicking the name in the party window.",
+      "zh-CN": "点击组队窗口中的角色名称，可对其施放弓箭手的辅助魔法。"
+    },
+    {
+      "kind": "slides",
+      "id": 52,
+      "english": "Click shortcut key T to check the quest information.",
+      "zh-CN": "按 T 键查看任务信息。"
+    }
+  ]
+}

@@ -9,6 +9,7 @@
 
 #include <list>
 #include <map>
+#include <string>
 
 namespace UI::HUD
 {
@@ -49,6 +50,7 @@ struct SLIDE_QUEUE_DATA
     DWORD m_dwTextColor;
     float m_fSpeed;
     BOOL m_bLastData;
+    int bmdId = -1;
 };
 
 typedef std::multimap<DWORD, SLIDE_QUEUE_DATA, std::less<DWORD>> SLIDE_QUEUE;
@@ -63,7 +65,8 @@ public:
     BOOL DoMouseAction();
     void Render(BOOL bForceFadeOut = FALSE);
     void SetScrollSpeed(float fSpeed);
-    BOOL AddSlideText(const wchar_t* pszNewText, DWORD dwTextColor = (255u << 24) + (200u << 16) + (220u << 8) + 230u);
+    BOOL AddSlideText(const wchar_t* pszNewText, DWORD dwTextColor = (255u << 24) + (200u << 16) + (220u << 8) + 230u,
+                      int bmdId = -1);
 
     int GetAlphaRate()
     {
@@ -71,7 +74,8 @@ public:
     }
     BOOL HaveText();
 
-    void AddSlide(int iLoopCount, int iLoopDelay, const wchar_t* pszText, int iType, float fSpeed, DWORD dwTextColor);
+    void AddSlide(int iLoopCount, int iLoopDelay, const wchar_t* pszText, int iType, float fSpeed, DWORD dwTextColor,
+                  int bmdId = -1);
     void CheckTime();
     void ManageSlide();
     DWORD m_dwTimer;
@@ -91,6 +95,10 @@ public:
 
 protected:
     void SlideMove();
+    void RefreshLocalizedText();
+    int m_bmdId = -1;
+    std::wstring m_bmdOriginal;
+    std::string m_textLocale;
     void ComputeSpeed();
 
     int CheckCutSize(const wchar_t* pszSource, int iNeedValue);
@@ -148,5 +156,6 @@ protected:
     std::list<wchar_t*> m_SlideTextList[SLIDE_LEVEL_MAX];
     std::list<wchar_t*>::iterator m_SlideTextListIter;
     float m_fHelpSlideSpeed;
+    int m_selectedBmdId = -1;
 };
 } // namespace UI::HUD
