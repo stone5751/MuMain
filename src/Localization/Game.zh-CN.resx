@@ -3126,4 +3126,10 @@
   <data name="StatPointsRemoved" xml:space="preserve">
     <value>减少</value>
   </data>
+  <data name="Obtained" xml:space="preserve">
+    <value>已获得</value>
+  </data>
+  <data name="I'll be your strength for the journey to become a warrior." xml:space="preserve">
+    <value>我会助你成长为一名勇士。</value>
+  </data>
 </root>

@@ -1758,7 +1758,6 @@ Game	The duel has been canceled.	TheDuelHasBeenCanceled	The duel has been cancel
 Game	You cannot challenge, player is already in a duel.	YouCannotChallengePlayerIsAlreadyInADuel	You cannot challenge, player is already in a duel.
 Game	Please make sure to differentiate	PleaseMakeSureToDifferentiate	Please make sure to differentiate
 Game	Alphabet O and number 0, and Alphabet I and number 1	AlphabetOAndNumber0AndAlphabetIAndNumber1	Alphabet O and number 0, and Alphabet I and number 1
-Game	Obtained	Obtained	Obtained
 Game	4 shot skill (Mana: %d)	_4ShotSkillManaD	4 shot skill (Mana: %d)
 Game	5 shot skill (Mana: %d)	_5ShotSkillManaD	5 shot skill (Mana: %d)
 Game	Ring of Warrior	RingOfWarrior	Ring of Warrior
@@ -2433,7 +2432,6 @@ Game	Thank you! Finally you got it back.	ThankYouFinallyYouGotItBack	Thank you! 
 Game	You are back safely.	YouAreBackSafely	You are back safely.
 Game	Thank you for your help.	ThankYouForYourHelp	Thank you for your help.
 Game	You can now stand alone without my support.	YouCanNowStandAloneWithoutMySupport	You can now stand alone without my support.
-Game	I'll be your strength for the journey to become a warrior.	ILlBeYourStrengthForTheJourneyToBecomeAWarrior	I'll be your strength for the journey to become a warrior.
 Game	Damage and defense increased with a blessing.	DamageAndDefenseIncreasedWithABlessing	Damage and defense increased with a blessing.
 Game	Le-Al (New)	LeAlNew	Le-Al (New)
 Game	You are already blessed.	YouAreAlreadyBlessed	You are already blessed.

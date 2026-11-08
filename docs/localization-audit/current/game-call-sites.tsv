@@ -59,7 +59,7 @@ src/source/Character/CharSelMainWin.cpp	376	PleaseCheckOnHttpMuonlineWebzenComSi
 src/source/Engine/Object/ZzzCharacter.cpp	3316	FeelTheUnusualForcesAroundTheFortressOfCrywolf	Feel the unusual forces around the Fortress of Crywolf.	Feel the unusual forces around the Fortress of Crywolf.	
 src/source/Engine/Object/ZzzCharacter.cpp	3320	ThePowerOfTheWolfStatue	ThePowerOfTheWolfStatue	The power of the Wolf statue is weakening. Feel the evil sprit getting stronger.	
 src/source/Engine/Object/ZzzCharacter.cpp	3323	CrywolfIsAskingForYourHelpOnlyYouCanSaveThisContinent	Crywolf is asking for your help. Only you can save this continent.	Crywolf is asking for your help. Only you can save this continent.	
-src/source/Engine/Object/ZzzCharacter.cpp	3327	ILlBeYourStrengthForTheJourneyToBecomeAWarrior	I'll be your strength for the journey to become a warrior.	I'll be your strength for the journey to become a warrior.	
+src/source/Engine/Object/ZzzCharacter.cpp	3327	ILlBeYourStrengthForTheJourneyToBecomeAWarrior	I'll be your strength for the journey to become a warrior.	I'll be your strength for the journey to become a warrior.	我会助你成长为一名勇士。
 src/source/Engine/Object/ZzzCharacter.cpp	3977	DToKalima	%d to Kalima	%d to Kalima	
 src/source/Engine/Object/ZzzCharacter.cpp	15623	MagicStoneOfOwner	MagicStoneOfOwner	Magic stone of %ls	
 src/source/Engine/Object/ZzzInterface.cpp	1176	ArrowsReloaded	Arrows reloaded	Arrows reloaded	箭矢已补充
@@ -916,8 +916,8 @@ src/source/Network/Server/WSclient.cpp	5849	ObtainedDExp	Obtained %d Exp	Obtaine
 src/source/Network/Server/WSclient.cpp	5946	MasterEXPAchievementD	Master EXP achievement %d	Master EXP achievement %d	
 src/source/Network/Server/WSclient.cpp	5950	ObtainedDExp	Obtained %d Exp	Obtained %d Exp	获得%d经验
 src/source/Network/Server/WSclient.cpp	6224	Zen	Zen	Zen	金币
-src/source/Network/Server/WSclient.cpp	6224	Obtained	Obtained	Obtained	
-src/source/Network/Server/WSclient.cpp	6274	Obtained	Obtained	Obtained	
+src/source/Network/Server/WSclient.cpp	6224	Obtained	Obtained	Obtained	已获得
+src/source/Network/Server/WSclient.cpp	6274	Obtained	Obtained	Obtained	已获得
 src/source/Network/Server/WSclient.cpp	6497	Warning2223	Warning2223	!! Warning !!	！！注意！！
 src/source/Network/Server/WSclient.cpp	6499	RefineryHasStartedRefineryIsA	RefineryHasStartedRefineryIsA	Refinery has started. Refinery is a part of process to change the item to Refining Stone to be reinforced. Refined item will be disapper, make sure to check the item.	
 src/source/Network/Server/WSclient.cpp	6632	CannotBeTraded	Cannot be traded.	Cannot be traded.	无法交易。
@@ -964,7 +964,7 @@ src/source/Network/Server/WSclient.cpp	7493	Set	Set	Set
 src/source/Network/Server/WSclient.cpp	7499	Skill	+Skill	+Skill	+技能
 src/source/Network/Server/WSclient.cpp	7501	Option	+Option	+Option	+追加属性
 src/source/Network/Server/WSclient.cpp	7503	Luck	+Luck	+Luck	+幸运
-src/source/Network/Server/WSclient.cpp	7505	Obtained	Obtained	Obtained	
+src/source/Network/Server/WSclient.cpp	7505	Obtained	Obtained	Obtained	已获得
 src/source/Network/Server/WSclient.cpp	7523	YouHaveReceivedAnOfferToJoinAGuild	You have received an offer to join a guild.	You have received an offer to join a guild.	你收到了加入战盟的邀请。
 src/source/Network/Server/WSclient.cpp	7535	GuildMasterHasRefusedYourRequestToJoinTheGuild	Guild master has refused your request to join the guild.	Guild master has refused your request to join the guild.	盟主拒绝了你的入盟申请。
 src/source/Network/Server/WSclient.cpp	7539	YouHaveJustJoinedTheGuild	You have just joined the guild.	You have just joined the guild.	你已加入战盟。
