@@ -484,6 +484,34 @@ Add future translations to `Game.zh-CN.resx` by screen or feature. Keep English
 resource keys, formatting arguments and command tokens unchanged.
 Missing translations intentionally use the existing English fallback.
 
+## Experimental Simplified Chinese BMD display text
+
+The fourth-round localization test package reads `Data/Local/BmdText.zh-CN.json`
+at startup. It translates a small selection of skill names, quest titles,
+QuestWords text and scrolling help tips only when the UI locale is `zh-CN`.
+The original BMD files and their data remain unchanged. Each entry must match
+both the numeric ID and the original text; missing entries and other locales
+retain the text from the original BMD. The legacy `[LOGIN]` data-language
+selection still controls which BMD is loaded.
+
+An invalid or absent overlay is reported in `MuError.log` and falls back to the
+original text. Restart after editing the JSON. The loader rejects duplicate IDs,
+invalid JSON/UTF-8, unsupported kinds, out-of-range IDs, changed formatting tokens
+and translations exceeding the display limits. QuestWords is temporarily limited
+to 50 UTF-16 units because it also supplies short quest-list subjects.
+
+Switching the UI language refreshes cached task display text and the current help
+tip without resending task requests. Keep this experiment in a separate client
+copy until it passes the manual checks in
+[`ROUND4-README.zh-CN.md`](localization-audit/ROUND4-README.zh-CN.md).
+The complete sample list is in
+[`round4-bmd.tsv`](localization-audit/round4-bmd.tsv).
+
+Validate the authored overlay without game assets using
+`python scripts/validate_bmd_overlay.py`. To verify IDs and source-file hashes
+against an installed English v1.37.0 client, add `--data <client>/Data`.
+These checks do not replace in-game text, layout, task and locale-switch testing.
+
 ## Monster and NPC names
 
 Monster and NPC names are not in the `.resx` files either. They are in the
