@@ -2,7 +2,7 @@
   "formatVersion": 2,
   "monsters": [
     {
-      "name": {"en": "Bull Fighter", "es": "Toro Luchador", "pt": "Toureiro"},
+      "name": {"en": "Bull Fighter", "es": "Toro Luchador", "pt": "Toureiro", "zh-CN": "牛怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "name": {"en": "Hound", "es": "Sabueso", "pt": "Cão"},
+      "name": {"en": "Hound", "es": "Sabueso", "pt": "Cão", "zh-CN": "猎犬怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_HOUND",
       "soundSet": "Hound",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "name": {"en": "Budge Dragon", "es": "Dragón Escurridizo", "pt": "Dragão Lento"},
+      "name": {"en": "Budge Dragon", "es": "Dragón Escurridizo", "pt": "Dragão Lento", "zh-CN": "幼龙"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BUDGE_DRAGON",
       "soundSet": "Budge Dragon",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "name": {"en": "Spider", "es": "Araña", "pt": "Aranha"},
+      "name": {"en": "Spider", "es": "Araña", "pt": "Aranha", "zh-CN": "蜘蛛"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SPIDER",
       "soundSet": "Spider",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": {"en": "Elite Bull Fighter", "es": "Toro Luchador de Élite", "pt": "Toureiro de elite"},
+      "name": {"en": "Elite Bull Fighter", "es": "Toro Luchador de Élite", "pt": "Toureiro de elite", "zh-CN": "蛮牛怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": {"en": "Hell Hound", "es": "Sabueso Infernal", "pt": "Cão do inferno"},
+      "name": {"en": "Hell Hound", "es": "Sabueso Infernal", "pt": "Cão do inferno", "zh-CN": "地狱猎犬怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_HOUND",
       "soundSet": "Hound",
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "name": {"en": "LIch", "es": "Lich", "pt": "Liche"},
+      "name": {"en": "LIch", "es": "Lich", "pt": "Liche", "zh-CN": "黑巫师"},
       "kind": "monster",
       "model": "MONSTER_MODEL_LICH",
       "soundSet": "LIch",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": {"en": "Giant", "es": "Gigante", "pt": "Gigante"},
+      "name": {"en": "Giant", "es": "Gigante", "pt": "Gigante", "zh-CN": "巨人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GIANT",
       "soundSet": "Giant",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": {"en": "Poison Bull Fighter", "es": "Toro Luchador Venenoso", "pt": "Toureiro Venenoso"},
+      "name": {"en": "Poison Bull Fighter", "es": "Toro Luchador Venenoso", "pt": "Toureiro Venenoso", "zh-CN": "毒牛怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "name": {"en": "Thunder Lich", "es": "Lich de Trueno", "pt": "Liche do trovão"},
+      "name": {"en": "Thunder Lich", "es": "Lich de Trueno", "pt": "Liche do trovão", "zh-CN": "死灵巫师"},
       "kind": "monster",
       "model": "MONSTER_MODEL_LICH",
       "soundSet": "LIch",
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "name": {"en": "Dark Knight", "es": "Caballero Oscuro", "pt": "Cavaleiro negro"},
+      "name": {"en": "Dark Knight", "es": "Caballero Oscuro", "pt": "Cavaleiro negro", "zh-CN": "暗黑骑士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DARK_KNIGHT",
       "soundSet": "Dark Knight",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": {"en": "Ghost", "es": "Espíritu Fantasmal", "pt": "Fantasma"},
+      "name": {"en": "Ghost", "es": "Espíritu Fantasmal", "pt": "Fantasma", "zh-CN": "幽灵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GHOST",
       "soundSet": "Ghost",
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "name": {"en": "Larva", "es": "Larva", "pt": "Larva"},
+      "name": {"en": "Larva", "es": "Larva", "pt": "Larva", "zh-CN": "毒虫"},
       "kind": "monster",
       "model": "MONSTER_MODEL_LARVA",
       "soundSet": "Larva",
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "name": {"en": "Hell Spider", "es": "Araña Infernal", "pt": "Aranha do inferno"},
+      "name": {"en": "Hell Spider", "es": "Araña Infernal", "pt": "Aranha do inferno", "zh-CN": "地狱蜘蛛"},
       "kind": "monster",
       "model": "MONSTER_MODEL_HELL_SPIDER",
       "soundSet": "Hell Spider",
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": {"en": "Skeleton", "es": "Esqueleto", "pt": "Esqueleto"},
+      "name": {"en": "Skeleton", "es": "Esqueleto", "pt": "Esqueleto", "zh-CN": "骷髅兵"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "name": {"en": "Skeleton Archer", "es": "Arquero Esqueleto", "pt": "Arqueiro esqueleto"},
+      "name": {"en": "Skeleton Archer", "es": "Arquero Esqueleto", "pt": "Arqueiro esqueleto", "zh-CN": "骷髅弓箭手"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "name": {"en": "Chief Skeleton Warrior", "es": "Jefe Guerrero Esqueleto", "pt": "Guerreiro Esqueleto Chefe"},
+      "name": {"en": "Chief Skeleton Warrior", "es": "Jefe Guerrero Esqueleto", "pt": "Guerreiro Esqueleto Chefe", "zh-CN": "骷髅战士"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "name": {"en": "Cyclops", "es": "Cíclope", "pt": "Ciclope"},
+      "name": {"en": "Cyclops", "es": "Cíclope", "pt": "Ciclope", "zh-CN": "独眼巨人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CYCLOPS",
       "soundSet": "Cyclops",
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "name": {"en": "Gorgon", "es": "Gorgon", "pt": "Górgone"},
+      "name": {"en": "Gorgon", "es": "Gorgon", "pt": "Górgone", "zh-CN": "魔鬼戈登"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GORGON",
       "soundSet": "Gorgon",
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": {"en": "Yeti", "es": "Yeti", "pt": "Ieti"},
+      "name": {"en": "Yeti", "es": "Yeti", "pt": "Ieti", "zh-CN": "雪人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_YETI",
       "soundSet": "Yeti",
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "name": {"en": "Elite Yeti", "es": "Yeti de Élite", "pt": "Ieti de elite"},
+      "name": {"en": "Elite Yeti", "es": "Yeti de Élite", "pt": "Ieti de elite", "zh-CN": "雪人王"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ELITE_YETI",
       "soundSet": "Elite Yeti",
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "name": {"en": "Assassin", "es": "Asesino", "pt": "Assassino"},
+      "name": {"en": "Assassin", "es": "Asesino", "pt": "Assassino", "zh-CN": "暗杀者"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ASSASSIN",
       "soundSet": "Assassin",
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "name": {"en": "Ice Monster", "es": "Monstruo de Hielo", "pt": "Monstro de gelo"},
+      "name": {"en": "Ice Monster", "es": "Monstruo de Hielo", "pt": "Monstro de gelo", "zh-CN": "寒冰魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ICE_MONSTER",
       "soundSet": "Ice Monster",
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "name": {"en": "Hommerd", "es": "Hommerd", "pt": "Hommerd"},
+      "name": {"en": "Hommerd", "es": "Hommerd", "pt": "Hommerd", "zh-CN": "蓝魔怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_HOMMERD",
       "soundSet": "Hommerd",
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "name": {"en": "Worm", "es": "Gusano", "pt": "Verme"},
+      "name": {"en": "Worm", "es": "Gusano", "pt": "Verme", "zh-CN": "雪虫"},
       "kind": "monster",
       "model": "MONSTER_MODEL_WORM",
       "soundSet": "Worm",
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "name": {"en": "Ice Queen", "es": "Reina de Hielo", "pt": "Rainha de gelo"},
+      "name": {"en": "Ice Queen", "es": "Reina de Hielo", "pt": "Rainha de gelo", "zh-CN": "冰后"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ICE_QUEEN",
       "soundSet": "Ice Queen",
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "name": {"en": "Goblin", "es": "Duende", "pt": "Goblin"},
+      "name": {"en": "Goblin", "es": "Duende", "pt": "Goblin", "zh-CN": "小哥布林"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GOBLIN",
       "soundSet": "Goblin",
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "name": {"en": "Chain Scorpion", "es": "Escorpión Cadena", "pt": "Escorpião de correntes"},
+      "name": {"en": "Chain Scorpion", "es": "Escorpión Cadena", "pt": "Escorpião de correntes", "zh-CN": "勾尾蝎"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAIN_SCORPION",
       "soundSet": "Chain Scorpion",
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "name": {"en": "Beetle Monster", "es": "Monstruo Escarabajo", "pt": "Monstro besouro"},
+      "name": {"en": "Beetle Monster", "es": "Monstruo Escarabajo", "pt": "Monstro besouro", "zh-CN": "瓢虫怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BEETLE_MONSTER",
       "soundSet": "Beetle Monster",
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "name": {"en": "Hunter", "es": "Cazador", "pt": "Caçador"},
+      "name": {"en": "Hunter", "es": "Cazador", "pt": "Caçador", "zh-CN": "偷猎者"},
       "kind": "monster",
       "model": "MONSTER_MODEL_HUNTER",
       "soundSet": "Hunter",
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "name": {"en": "Forest Monster", "es": "Monstruo del Bosque", "pt": "Monstro da floresta"},
+      "name": {"en": "Forest Monster", "es": "Monstruo del Bosque", "pt": "Monstro da floresta", "zh-CN": "树妖"},
       "kind": "monster",
       "model": "MONSTER_MODEL_FOREST_MONSTER",
       "soundSet": "Forest Monster",
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "name": {"en": "Agon", "es": "Agon", "pt": "Agon"},
+      "name": {"en": "Agon", "es": "Agon", "pt": "Agon", "zh-CN": "亚昆"},
       "kind": "monster",
       "model": "MONSTER_MODEL_AGON",
       "soundSet": "Agon",
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "name": {"en": "Stone Golem", "es": "Gólem de Piedra", "pt": "Golem de pedra"},
+      "name": {"en": "Stone Golem", "es": "Gólem de Piedra", "pt": "Golem de pedra", "zh-CN": "石巨人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_STONE_GOLEM",
       "soundSet": "Stone Golem",
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "name": {"en": "Elite Goblin", "es": "Duende de Élite", "pt": "Goblin de Elite"},
+      "name": {"en": "Elite Goblin", "es": "Duende de Élite", "pt": "Goblin de Elite", "zh-CN": "大哥布林"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GOBLIN",
       "soundSet": "Goblin",
@@ -306,7 +306,7 @@
       ]
     },
     {
-      "name": {"en": "Cursed Wizard", "es": "Mago Maldito", "pt": "Mago amaldiçoado"},
+      "name": {"en": "Cursed Wizard", "es": "Mago Maldito", "pt": "Mago amaldiçoado", "zh-CN": "诅咒巫师"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "name": {"en": "Death Gorgon", "es": "Gorgon de la Muerte", "pt": "Górgone da morte"},
+      "name": {"en": "Death Gorgon", "es": "Gorgon de la Muerte", "pt": "Górgone da morte", "zh-CN": "死神戈登"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GORGON",
       "soundSet": "Gorgon",
@@ -323,7 +323,7 @@
       ]
     },
     {
-      "name": {"en": "Shadow", "es": "Sombra", "pt": "Sombra"},
+      "name": {"en": "Shadow", "es": "Sombra", "pt": "Sombra", "zh-CN": "鬼魂"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SHADOW",
       "soundSet": "Shadow",
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "name": {"en": "Devil", "es": "Diablo", "pt": "Demônio"},
+      "name": {"en": "Devil", "es": "Diablo", "pt": "Demônio", "zh-CN": "恶魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEVIL",
       "soundSet": "Devil",
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "name": {"en": "Balrog", "es": "Balrog", "pt": "Balrog"},
+      "name": {"en": "Balrog", "es": "Balrog", "pt": "Balrog", "zh-CN": "魔王巴洛克"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BALROG",
       "soundSet": "Balrog",
@@ -350,7 +350,7 @@
       ]
     },
     {
-      "name": {"en": "Poison Shadow", "es": "Sombra Venenosa", "pt": "Sombra venenosa"},
+      "name": {"en": "Poison Shadow", "es": "Sombra Venenosa", "pt": "Sombra venenosa", "zh-CN": "剧毒鬼魂"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SHADOW",
       "soundSet": "Shadow",
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "name": {"en": "Death Knight", "es": "Caballero de la Muerte", "pt": "Cavaleiro da morte"},
+      "name": {"en": "Death Knight", "es": "Caballero de la Muerte", "pt": "Cavaleiro da morte", "zh-CN": "死神骑士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEATH_KNIGHT",
       "soundSet": "Dark Knight",
@@ -368,7 +368,7 @@
       ]
     },
     {
-      "name": {"en": "Death Cow", "es": "Vaca de la Muerte", "pt": "Vaca da morte"},
+      "name": {"en": "Death Cow", "es": "Vaca de la Muerte", "pt": "Vaca da morte", "zh-CN": "牛魔王"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEATH_COW",
       "soundSet": "Bull Fighter",
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "name": {"en": "Red Dragon", "es": "Dragón Rojo", "pt": "Dragão Vermelho"},
+      "name": {"en": "Red Dragon", "es": "Dragón Rojo", "pt": "Dragão Vermelho", "zh-CN": "红龙"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DRAGON",
       "soundSet": "Red Dragon",
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Budge Dragon", "es": "Dragón Escurridizo Dorado", "pt": "Dragão Lento Dourado"},
+      "name": {"en": "Golden Budge Dragon", "es": "Dragón Escurridizo Dorado", "pt": "Dragão Lento Dourado", "zh-CN": "黄金幼龙"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BUDGE_DRAGON",
       "soundSet": "Budge Dragon",
@@ -395,7 +395,7 @@
       ]
     },
     {
-      "name": {"en": "Dragon", "es": "Dragón", "pt": "Dragão"},
+      "name": {"en": "Dragon", "es": "Dragón", "pt": "Dragão", "zh-CN": "巨龙"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DRAGON",
       "soundSet": "Red Dragon",
@@ -404,7 +404,7 @@
       ]
     },
     {
-      "name": {"en": "Bahamut", "es": "Bahamut", "pt": "Bahamut"},
+      "name": {"en": "Bahamut", "es": "Bahamut", "pt": "Bahamut", "zh-CN": "小巴哈姆特"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BAHAMUT",
       "soundSet": "Bahamut",
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "name": {"en": "Vepar", "es": "Vepar", "pt": "Vepar"},
+      "name": {"en": "Vepar", "es": "Vepar", "pt": "Vepar", "zh-CN": "死亡美人鱼"},
       "kind": "monster",
       "model": "MONSTER_MODEL_VEPAR",
       "soundSet": "Vepar",
@@ -422,7 +422,7 @@
       ]
     },
     {
-      "name": {"en": "Valkyrie", "es": "Valquiria", "pt": "Valquíria"},
+      "name": {"en": "Valkyrie", "es": "Valquiria", "pt": "Valquíria", "zh-CN": "蓝翼海怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_VALKYRIE",
       "soundSet": "Valkyrie",
@@ -431,7 +431,7 @@
       ]
     },
     {
-      "name": {"en": "Lizard King", "es": "Rey Lagarto", "pt": "Rei Lagarto"},
+      "name": {"en": "Lizard King", "es": "Rey Lagarto", "pt": "Rei Lagarto", "zh-CN": "巫师王"},
       "kind": "monster",
       "model": "MONSTER_MODEL_LIZARD",
       "soundSet": "Lizard King",
@@ -440,7 +440,7 @@
       ]
     },
     {
-      "name": {"en": "Hydra", "es": "Hidra", "pt": "Hidra"},
+      "name": {"en": "Hydra", "es": "Hidra", "pt": "Hidra", "zh-CN": "海魔希特拉"},
       "kind": "monster",
       "model": "MONSTER_MODEL_HYDRA",
       "soundSet": "Hydra",
@@ -449,7 +449,7 @@
       ]
     },
     {
-      "name": {"en": "Sea Worm", "es": "Gusano Marítimo", "pt": "Verme marinho"},
+      "name": {"en": "Sea Worm", "es": "Gusano Marítimo", "pt": "Verme marinho", "zh-CN": "海虫"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SEA_WORM",
       "numbers": [
@@ -457,7 +457,7 @@
       ]
     },
     {
-      "name": {"en": "Great Bahamut", "es": "Gran Bahamut", "pt": "Grande Bahamut"},
+      "name": {"en": "Great Bahamut", "es": "Gran Bahamut", "pt": "Grande Bahamut", "zh-CN": "大巴哈姆特"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BAHAMUT",
       "soundSet": "Bahamut",
@@ -466,7 +466,7 @@
       ]
     },
     {
-      "name": {"en": "Silver Valkyrie", "es": "Valquiria Plateada", "pt": "Valquíria prateada"},
+      "name": {"en": "Silver Valkyrie", "es": "Valquiria Plateada", "pt": "Valquíria prateada", "zh-CN": "银弓海怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_VALKYRIE",
       "soundSet": "Valkyrie",
@@ -475,7 +475,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Titan", "es": "Titán Dorado", "pt": "Titã dourado"},
+      "name": {"en": "Golden Titan", "es": "Titán Dorado", "pt": "Titã dourado", "zh-CN": "黄金泰坦"},
       "kind": "monster",
       "model": "MONSTER_MODEL_TITAN",
       "soundSet": "Dark Knight",
@@ -484,7 +484,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Soldier", "es": "Soldado Dorado", "pt": "Soldado dourado"},
+      "name": {"en": "Golden Soldier", "es": "Soldado Dorado", "pt": "Soldado dourado", "zh-CN": "黄金战士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SOLDIER",
       "soundSet": "Lizard King",
@@ -493,7 +493,7 @@
       ]
     },
     {
-      "name": {"en": "Death King", "es": "Rey de la Muerte", "pt": "Rei da Morte"},
+      "name": {"en": "Death King", "es": "Rey de la Muerte", "pt": "Rei da Morte", "zh-CN": "骷髅王"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -501,7 +501,7 @@
       ]
     },
     {
-      "name": {"en": "Death Bone", "es": "Hueso de la Muerte", "pt": "Osso da Morte"},
+      "name": {"en": "Death Bone", "es": "Hueso de la Muerte", "pt": "Osso da Morte", "zh-CN": "骷髅卫兵"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -509,7 +509,7 @@
       ]
     },
     {
-      "name": {"en": "Iron Wheel", "es": "Rueda de Acero", "pt": "Roda de ferro"},
+      "name": {"en": "Iron Wheel", "es": "Rueda de Acero", "pt": "Roda de ferro", "zh-CN": "铁轮战士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GOLDEN_WHEEL",
       "soundSet": "Iron Wheel",
@@ -518,7 +518,7 @@
       ]
     },
     {
-      "name": {"en": "Tantalos", "es": "Tantalos", "pt": "Tântalo"},
+      "name": {"en": "Tantalos", "es": "Tantalos", "pt": "Tântalo", "zh-CN": "铁脊怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_TANTALLOS",
       "soundSet": "Tantalos",
@@ -527,7 +527,7 @@
       ]
     },
     {
-      "name": {"en": "Zaikan", "es": "Zaikan", "pt": "Zaikan"},
+      "name": {"en": "Zaikan", "es": "Zaikan", "pt": "Zaikan", "zh-CN": "魔王扎坎"},
       "kind": "monster",
       "model": "MONSTER_MODEL_TANTALLOS",
       "soundSet": "Tantalos",
@@ -536,7 +536,7 @@
       ]
     },
     {
-      "name": {"en": "Bloody wolf", "es": "Lobo Sangriento", "pt": "Lobo sanguinário"},
+      "name": {"en": "Bloody wolf", "es": "Lobo Sangriento", "pt": "Lobo sanguinário", "zh-CN": "巨齿怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BLOODY_WOLF",
       "soundSet": "Bloody wolf",
@@ -545,7 +545,7 @@
       ]
     },
     {
-      "name": {"en": "Beam Knight", "es": "Caballero de Rayo", "pt": "Cavaleiro do raio"},
+      "name": {"en": "Beam Knight", "es": "Caballero de Rayo", "pt": "Cavaleiro do raio", "zh-CN": "黑炎魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BEAM_KNIGHT",
       "soundSet": "Beam Knight",
@@ -554,7 +554,7 @@
       ]
     },
     {
-      "name": {"en": "Mutant", "es": "Mutante", "pt": "Mutante"},
+      "name": {"en": "Mutant", "es": "Mutante", "pt": "Mutante", "zh-CN": "破坏骑士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_MUTANT",
       "soundSet": "Mutant",
@@ -563,7 +563,7 @@
       ]
     },
     {
-      "name": {"en": "Death Beam Knight", "es": "Caballero de Rayo de la Muerte", "pt": "Cavaleiro do raio da morte"},
+      "name": {"en": "Death Beam Knight", "es": "Caballero de Rayo de la Muerte", "pt": "Cavaleiro do raio da morte", "zh-CN": "炽炎魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BEAM_KNIGHT",
       "soundSet": "Beam Knight",
@@ -617,7 +617,7 @@
       ]
     },
     {
-      "name": {"en": "Alquamos", "es": "Alquamos", "pt": "Alquamos"},
+      "name": {"en": "Alquamos", "es": "Alquamos", "pt": "Alquamos", "zh-CN": "阿卡摩斯"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ALQUAMOS",
       "soundSet": "Alquamos",
@@ -626,7 +626,7 @@
       ]
     },
     {
-      "name": {"en": "Queen Rainier", "es": "Reina Rainier", "pt": "Rainha Rainier"},
+      "name": {"en": "Queen Rainier", "es": "Reina Rainier", "pt": "Rainha Rainier", "zh-CN": "风后"},
       "kind": "monster",
       "model": "MONSTER_MODEL_QUEEN_RAINER",
       "soundSet": "Queen Rainier",
@@ -635,7 +635,7 @@
       ]
     },
     {
-      "name": {"en": "Mega Crust", "es": "Mega Corteza", "pt": "Mega Crust"},
+      "name": {"en": "Mega Crust", "es": "Mega Corteza", "pt": "Mega Crust", "zh-CN": "恶灵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CRUST",
       "soundSet": "Mega Crust",
@@ -644,7 +644,7 @@
       ]
     },
     {
-      "name": {"en": "Phantom Knight", "es": "Caballero Fantasma", "pt": "Cavaleiro fantasma"},
+      "name": {"en": "Phantom Knight", "es": "Caballero Fantasma", "pt": "Cavaleiro fantasma", "zh-CN": "幻影骑士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_PHANTOM_KNIGHT",
       "soundSet": "Phantom Knight",
@@ -653,7 +653,7 @@
       ]
     },
     {
-      "name": {"en": "Drakan", "es": "Drakan", "pt": "Drakan"},
+      "name": {"en": "Drakan", "es": "Drakan", "pt": "Drakan", "zh-CN": "蓝魔龙"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DRAKAN",
       "soundSet": "Drakan",
@@ -662,7 +662,7 @@
       ]
     },
     {
-      "name": {"en": "Alpha Crust", "es": "Corteza Alfa", "pt": "Crust Alfa"},
+      "name": {"en": "Alpha Crust", "es": "Corteza Alfa", "pt": "Crust Alfa", "zh-CN": "恶灵王"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CRUST",
       "soundSet": "Mega Crust",
@@ -671,7 +671,7 @@
       ]
     },
     {
-      "name": {"en": "Great Drakan", "es": "Gran Drakan", "pt": "Grande Drakan"},
+      "name": {"en": "Great Drakan", "es": "Gran Drakan", "pt": "Grande Drakan", "zh-CN": "红魔龙"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DRAKAN",
       "soundSet": "Drakan",
@@ -680,7 +680,7 @@
       ]
     },
     {
-      "name": {"en": "Phoenix Darkness shield", "es": "Escudo de Fénix de Oscuridad", "pt": "Escudo da Fênix da escuridão"},
+      "name": {"en": "Phoenix Darkness shield", "es": "Escudo de Fénix de Oscuridad", "pt": "Escudo da Fênix da escuridão", "zh-CN": "天魔菲尼斯护盾"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -689,7 +689,7 @@
       ]
     },
     {
-      "name": {"en": "Phoenix of Darkness", "es": "Fénix de la Oscuridad", "pt": "Fênix da escuridão"},
+      "name": {"en": "Phoenix of Darkness", "es": "Fénix de la Oscuridad", "pt": "Fênix da escuridão", "zh-CN": "天魔菲尼斯"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DARK_PHOENIX_SHIELD",
       "soundSet": "Phoenix of Darkness",
@@ -698,7 +698,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Goblin", "es": "Duende Dorado", "pt": "Goblin dourado"},
+      "name": {"en": "Golden Goblin", "es": "Duende Dorado", "pt": "Goblin dourado", "zh-CN": "黄金哥布林"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GOBLIN",
       "soundSet": "Goblin",
@@ -707,7 +707,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Derkon", "es": "Derkon Dorado", "pt": "Derkon dourado"},
+      "name": {"en": "Golden Derkon", "es": "Derkon Dorado", "pt": "Derkon dourado", "zh-CN": "黄金火龙王"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DRAGON",
       "soundSet": "Red Dragon",
@@ -716,7 +716,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Lizard King", "es": "Rey Lagarto Dorado", "pt": "Rei Lagarto dourado"},
+      "name": {"en": "Golden Lizard King", "es": "Rey Lagarto Dorado", "pt": "Rei Lagarto dourado", "zh-CN": "黄金巫师王"},
       "kind": "monster",
       "model": "MONSTER_MODEL_LIZARD",
       "soundSet": "Lizard King",
@@ -725,7 +725,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Vepar", "es": "Vepar Dorado", "pt": "Vepar dourado"},
+      "name": {"en": "Golden Vepar", "es": "Vepar Dorado", "pt": "Vepar dourado", "zh-CN": "黄金美人鱼"},
       "kind": "monster",
       "model": "MONSTER_MODEL_VEPAR",
       "soundSet": "Vepar",
@@ -734,7 +734,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Tantalos", "es": "Tantalos Dorado", "pt": "Tântalo dourado"},
+      "name": {"en": "Golden Tantalos", "es": "Tantalos Dorado", "pt": "Tântalo dourado", "zh-CN": "黄金铁脊怪"},
       "kind": "monster",
       "model": "MONSTER_MODEL_TANTALLOS",
       "soundSet": "Tantalos",
@@ -743,7 +743,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Wheel", "es": "Rueda Dorada", "pt": "Roda dourada"},
+      "name": {"en": "Golden Wheel", "es": "Rueda Dorada", "pt": "Roda dourada", "zh-CN": "黄金铁轮战士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GOLDEN_WHEEL",
       "soundSet": "Iron Wheel",
@@ -752,7 +752,7 @@
       ]
     },
     {
-      "name": {"en": "Chief Skeleton Warrior", "es": "Jefe Guerrero Esqueleto", "pt": "Guerreiro Esqueleto Chefe"},
+      "name": {"en": "Chief Skeleton Warrior", "es": "Jefe Guerrero Esqueleto", "pt": "Guerreiro Esqueleto Chefe", "zh-CN": "骷髅战士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ORC",
       "soundSet": "Elite Ogre",
@@ -768,7 +768,7 @@
       ]
     },
     {
-      "name": {"en": "Chief Skeleton Archer", "es": "Jefe Arquero Esqueleto", "pt": "Arqueiro esqueleto chefe"},
+      "name": {"en": "Chief Skeleton Archer", "es": "Jefe Arquero Esqueleto", "pt": "Arqueiro esqueleto chefe", "zh-CN": "骷髅弓箭手队长"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ORC_ARCHER",
       "soundSet": "Ogre archer",
@@ -784,7 +784,7 @@
       ]
     },
     {
-      "name": {"en": "Dark Skull Soldier", "es": "Soldado Calavera Oscura", "pt": "Soldado da caveira negra"},
+      "name": {"en": "Dark Skull Soldier", "es": "Soldado Calavera Oscura", "pt": "Soldado da caveira negra", "zh-CN": "暗黑骷髅士兵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DARK_SKULL_SOLDIER",
       "soundSet": "Dark Skull Soldier",
@@ -800,7 +800,7 @@
       ]
     },
     {
-      "name": {"en": "Giant Ogre", "es": "Ogro Gigante", "pt": "Ogro gigante"},
+      "name": {"en": "Giant Ogre", "es": "Ogro Gigante", "pt": "Ogro gigante", "zh-CN": "巨型食人魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GIANT_OGRE",
       "soundSet": "Giant Ogre",
@@ -816,7 +816,7 @@
       ]
     },
     {
-      "name": {"en": "Red Skeleton Knight", "es": "Caballero Rojo Esqueleto", "pt": "Cavaleiro Esqueleto Vermelho"},
+      "name": {"en": "Red Skeleton Knight", "es": "Caballero Rojo Esqueleto", "pt": "Cavaleiro Esqueleto Vermelho", "zh-CN": "红骷髅骑士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_RED_SKELETON_KNIGHT",
       "soundSet": "Red Skeleton Knight",
@@ -832,7 +832,7 @@
       ]
     },
     {
-      "name": {"en": "Magic Skeleton", "es": "Esqueleto Mágico", "pt": "Esqueleto mágico"},
+      "name": {"en": "Magic Skeleton", "es": "Esqueleto Mágico", "pt": "Esqueleto mágico", "zh-CN": "骷髅法师"},
       "kind": "monster",
       "model": "MONSTER_MODEL_MAGIC_SKELETON",
       "soundSet": "Magic Skeleton",
@@ -848,7 +848,7 @@
       ]
     },
     {
-      "name": {"en": "Lance", "es": "Lance", "pt": "Lança"},
+      "name": {"en": "Lance", "es": "Lance", "pt": "Lança", "zh-CN": "长矛"},
       "kind": "trap",
       "model": "mapObject 39",
       "attacks": {
@@ -862,7 +862,7 @@
       ]
     },
     {
-      "name": {"en": "Iron Stick", "es": "Vara de Hierro", "pt": "Vara de ferro"},
+      "name": {"en": "Iron Stick", "es": "Vara de Hierro", "pt": "Vara de ferro", "zh-CN": "铁棍"},
       "kind": "trap",
       "model": "mapObject 40",
       "attacks": {
@@ -876,7 +876,7 @@
       ]
     },
     {
-      "name": {"en": "Fire", "es": "Fuego", "pt": "Fogo"},
+      "name": {"en": "Fire", "es": "Fuego", "pt": "Fogo", "zh-CN": "火焰"},
       "kind": "trap",
       "model": "mapObject 51",
       "attacks": {
@@ -889,7 +889,7 @@
       ]
     },
     {
-      "name": {"en": "Meteorite", "es": "Meteorito", "pt": "Meteorito"},
+      "name": {"en": "Meteorite", "es": "Meteorito", "pt": "Meteorito", "zh-CN": "陨石"},
       "kind": "trap",
       "model": "mapObject 25",
       "numbers": [
@@ -897,7 +897,7 @@
       ]
     },
     {
-      "name": {"en": "Trap", "es": "Trampa", "pt": "Armadilha"},
+      "name": {"en": "Trap", "es": "Trampa", "pt": "Armadilha", "zh-CN": "陷阱"},
       "kind": "trap",
       "model": "mapObject 11",
       "numbers": [
@@ -905,7 +905,7 @@
       ]
     },
     {
-      "name": {"en": "Canon Trap", "es": "Trampa Cañón", "pt": "Armadilha de canhão"},
+      "name": {"en": "Canon Trap", "es": "Trampa Cañón", "pt": "Armadilha de canhão", "zh-CN": "火炮陷阱"},
       "kind": "trap",
       "model": "MODEL_TRAP_CANON",
       "numbers": [
@@ -913,7 +913,7 @@
       ]
     },
     {
-      "name": {"en": "Laser Trap", "es": "Trampa Láser", "pt": "Armadilha de laser"},
+      "name": {"en": "Laser Trap", "es": "Trampa Láser", "pt": "Armadilha de laser", "zh-CN": "激光陷阱"},
       "kind": "trap",
       "model": "mapObject 51",
       "attacks": {
@@ -926,7 +926,7 @@
       ]
     },
     {
-      "name": {"en": "Castle Gate", "es": "Puerta del Castillo", "pt": "Portão do castelo"},
+      "name": {"en": "Castle Gate", "es": "Puerta del Castillo", "pt": "Portão do castelo", "zh-CN": "城门"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CASTLE_GATE",
       "numbers": [
@@ -934,7 +934,7 @@
       ]
     },
     {
-      "name": {"en": "Statue of Saint", "es": "Estatua de Santo", "pt": "Estátua do Santo"},
+      "name": {"en": "Statue of Saint", "es": "Estatua de Santo", "pt": "Estátua do Santo", "zh-CN": "大天使石像"},
       "kind": "monster",
       "model": "MONSTER_MODEL_STATUE_OF_SAINT",
       "numbers": [
@@ -944,7 +944,7 @@
       ]
     },
     {
-      "name": {"en": "White wizard", "es": "Mago Blanco", "pt": "Mago branco"},
+      "name": {"en": "White wizard", "es": "Mago Blanco", "pt": "Mago branco", "zh-CN": "白魔法师"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CURSED_KING",
       "soundSet": "Cursed king",
@@ -1103,7 +1103,7 @@
       ]
     },
     {
-      "name": {"en": "Gate to Kalima 1"},
+      "name": {"en": "Gate to Kalima 1", "zh-CN": "卡利玛1层入口"},
       "kind": "monster",
       "model": "MODEL_WARCRAFT",
       "numbers": [
@@ -1111,7 +1111,7 @@
       ]
     },
     {
-      "name": {"en": "Gate to Kalima 2"},
+      "name": {"en": "Gate to Kalima 2", "zh-CN": "卡利玛2层入口"},
       "kind": "monster",
       "model": "MODEL_WARCRAFT",
       "numbers": [
@@ -1119,7 +1119,7 @@
       ]
     },
     {
-      "name": {"en": "Gate to Kalima 3"},
+      "name": {"en": "Gate to Kalima 3", "zh-CN": "卡利玛3层入口"},
       "kind": "monster",
       "model": "MODEL_WARCRAFT",
       "numbers": [
@@ -1127,7 +1127,7 @@
       ]
     },
     {
-      "name": {"en": "Gate to Kalima 4"},
+      "name": {"en": "Gate to Kalima 4", "zh-CN": "卡利玛4层入口"},
       "kind": "monster",
       "model": "MODEL_WARCRAFT",
       "numbers": [
@@ -1135,7 +1135,7 @@
       ]
     },
     {
-      "name": {"en": "Gate to Kalima 5"},
+      "name": {"en": "Gate to Kalima 5", "zh-CN": "卡利玛5层入口"},
       "kind": "monster",
       "model": "MODEL_WARCRAFT",
       "numbers": [
@@ -1143,7 +1143,7 @@
       ]
     },
     {
-      "name": {"en": "Gate to Kalima 6"},
+      "name": {"en": "Gate to Kalima 6", "zh-CN": "卡利玛6层入口"},
       "kind": "monster",
       "model": "MODEL_WARCRAFT",
       "numbers": [
@@ -1151,7 +1151,7 @@
       ]
     },
     {
-      "name": {"en": "Gate to Kalima 7"},
+      "name": {"en": "Gate to Kalima 7", "zh-CN": "卡利玛7层入口"},
       "kind": "monster",
       "model": "MODEL_WARCRAFT",
       "numbers": [
@@ -1178,7 +1178,7 @@
       ]
     },
     {
-      "name": {"en": "Illusion of Kundun", "es": "Ilusión de Kundun", "pt": "Ilusão de Kundun"},
+      "name": {"en": "Illusion of Kundun", "es": "Ilusión de Kundun", "pt": "Ilusão de Kundun", "zh-CN": "昆顿幻影"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SHRIKER",
       "soundSet": "Illusion of Kundun",
@@ -1196,7 +1196,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 1", "es": "Castillo del Caos 1", "pt": "Castelo do Caos 1"},
+      "name": {"en": "Chaos Castle 1", "es": "Castillo del Caos 1", "pt": "Castelo do Caos 1", "zh-CN": "赤色要塞1"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_KNIGHT",
       "soundSet": "Chaos Castle",
@@ -1205,7 +1205,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 2", "es": "Castillo del Caos 2", "pt": "Castelo do Caos 2"},
+      "name": {"en": "Chaos Castle 2", "es": "Castillo del Caos 2", "pt": "Castelo do Caos 2", "zh-CN": "赤色要塞2"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_ELF",
       "soundSet": "Chaos Castle",
@@ -1217,7 +1217,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 3", "es": "Castillo del Caos 3", "pt": "Castelo do Caos 3"},
+      "name": {"en": "Chaos Castle 3", "es": "Castillo del Caos 3", "pt": "Castelo do Caos 3", "zh-CN": "赤色要塞3"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_KNIGHT",
       "soundSet": "Chaos Castle",
@@ -1226,7 +1226,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 4", "es": "Castillo del Caos 4", "pt": "Castelo do Caos 4"},
+      "name": {"en": "Chaos Castle 4", "es": "Castillo del Caos 4", "pt": "Castelo do Caos 4", "zh-CN": "赤色要塞4"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_ELF",
       "soundSet": "Chaos Castle",
@@ -1238,7 +1238,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 5", "es": "Castillo del Caos 5", "pt": "Castelo do Caos 5"},
+      "name": {"en": "Chaos Castle 5", "es": "Castillo del Caos 5", "pt": "Castelo do Caos 5", "zh-CN": "赤色要塞5"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_KNIGHT",
       "soundSet": "Chaos Castle",
@@ -1247,7 +1247,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 6", "es": "Castillo del Caos 6", "pt": "Castelo do Caos 6"},
+      "name": {"en": "Chaos Castle 6", "es": "Castillo del Caos 6", "pt": "Castelo do Caos 6", "zh-CN": "赤色要塞6"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_ELF",
       "soundSet": "Chaos Castle",
@@ -1259,7 +1259,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 7", "es": "Castillo del Caos 7", "pt": "Castelo do Caos 7"},
+      "name": {"en": "Chaos Castle 7", "es": "Castillo del Caos 7", "pt": "Castelo do Caos 7", "zh-CN": "赤色要塞7"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_KNIGHT",
       "soundSet": "Chaos Castle",
@@ -1268,7 +1268,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 8", "es": "Castillo del Caos 8", "pt": "Castelo do Caos 8"},
+      "name": {"en": "Chaos Castle 8", "es": "Castillo del Caos 8", "pt": "Castelo do Caos 8", "zh-CN": "赤色要塞8"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_ELF",
       "soundSet": "Chaos Castle",
@@ -1280,7 +1280,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 9", "es": "Castillo del Caos 9", "pt": "Castelo do Caos 9"},
+      "name": {"en": "Chaos Castle 9", "es": "Castillo del Caos 9", "pt": "Castelo do Caos 9", "zh-CN": "赤色要塞9"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_KNIGHT",
       "soundSet": "Chaos Castle",
@@ -1289,7 +1289,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 10", "es": "Castillo del Caos 10", "pt": "Castelo do Caos 10"},
+      "name": {"en": "Chaos Castle 10", "es": "Castillo del Caos 10", "pt": "Castelo do Caos 10", "zh-CN": "赤色要塞10"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_ELF",
       "soundSet": "Chaos Castle",
@@ -1301,7 +1301,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 11", "es": "Castillo del Caos 11", "pt": "Castelo do Caos 11"},
+      "name": {"en": "Chaos Castle 11", "es": "Castillo del Caos 11", "pt": "Castelo do Caos 11", "zh-CN": "赤色要塞11"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_KNIGHT",
       "soundSet": "Chaos Castle",
@@ -1310,7 +1310,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle 12", "es": "Castillo del Caos 12", "pt": "Castelo do Caos 12"},
+      "name": {"en": "Chaos Castle 12", "es": "Castillo del Caos 12", "pt": "Castelo do Caos 12", "zh-CN": "赤色要塞12"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_ELF",
       "soundSet": "Chaos Castle",
@@ -1322,7 +1322,7 @@
       ]
     },
     {
-      "name": {"en": "Soccer Ball", "es": "Bola de Fútbol", "pt": "Bola de futebol"},
+      "name": {"en": "Soccer Ball", "es": "Bola de Fútbol", "pt": "Bola de futebol", "zh-CN": "足球"},
       "kind": "monster",
       "model": "MODEL_BALL",
       "numbers": [
@@ -1338,7 +1338,7 @@
       ]
     },
     {
-      "name": {"en": "Wolf Altar1", "es": "Altar de Lobo1", "pt": "Altar do lobo1"},
+      "name": {"en": "Wolf Altar1", "es": "Altar de Lobo1", "pt": "Altar do lobo1", "zh-CN": "狼魂祭坛1"},
       "kind": "npc",
       "model": "MODEL_CRYWOLF_ALTAR1",
       "numbers": [
@@ -1346,7 +1346,7 @@
       ]
     },
     {
-      "name": {"en": "Wolf Altar2", "es": "Altar de Lobo2", "pt": "Altar do lobo2"},
+      "name": {"en": "Wolf Altar2", "es": "Altar de Lobo2", "pt": "Altar do lobo2", "zh-CN": "狼魂祭坛2"},
       "kind": "npc",
       "model": "MODEL_CRYWOLF_ALTAR2",
       "numbers": [
@@ -1354,7 +1354,7 @@
       ]
     },
     {
-      "name": {"en": "Wolf Altar3", "es": "Altar de Lobo3", "pt": "Altar do lobo3"},
+      "name": {"en": "Wolf Altar3", "es": "Altar de Lobo3", "pt": "Altar do lobo3", "zh-CN": "狼魂祭坛3"},
       "kind": "npc",
       "model": "MODEL_CRYWOLF_ALTAR3",
       "numbers": [
@@ -1362,7 +1362,7 @@
       ]
     },
     {
-      "name": {"en": "Wolf Altar4", "es": "Altar de Lobo4", "pt": "Altar do lobo4"},
+      "name": {"en": "Wolf Altar4", "es": "Altar de Lobo4", "pt": "Altar do lobo4", "zh-CN": "狼魂祭坛4"},
       "kind": "npc",
       "model": "MODEL_CRYWOLF_ALTAR4",
       "numbers": [
@@ -1370,7 +1370,7 @@
       ]
     },
     {
-      "name": {"en": "Wolf Altar5", "es": "Altar de Lobo5", "pt": "Altar do lobo5"},
+      "name": {"en": "Wolf Altar5", "es": "Altar de Lobo5", "pt": "Altar do lobo5", "zh-CN": "狼魂祭坛5"},
       "kind": "npc",
       "model": "MODEL_CRYWOLF_ALTAR5",
       "numbers": [
@@ -1378,7 +1378,7 @@
       ]
     },
     {
-      "name": {"en": "Shield", "es": "Escudo", "pt": "Escudo"},
+      "name": {"en": "Shield", "es": "Escudo", "pt": "Escudo", "zh-CN": "护盾"},
       "kind": "npc",
       "model": "MODEL_NPC_BARRIER",
       "numbers": [
@@ -1386,7 +1386,7 @@
       ]
     },
     {
-      "name": {"en": "Crown", "es": "Corona", "pt": "Coroa"},
+      "name": {"en": "Crown", "es": "Corona", "pt": "Coroa", "zh-CN": "王冠"},
       "kind": "npc",
       "model": "MODEL_NPC_CROWN",
       "numbers": [
@@ -1394,7 +1394,7 @@
       ]
     },
     {
-      "name": {"en": "Crown Switch2", "es": "Corona Conmutador2", "pt": "Troca de coroa2"},
+      "name": {"en": "Crown Switch2", "es": "Corona Conmutador2", "pt": "Troca de coroa2", "zh-CN": "王冠开关2"},
       "kind": "npc",
       "model": "MODEL_NPC_CHECK_FLOOR",
       "numbers": [
@@ -1402,7 +1402,7 @@
       ]
     },
     {
-      "name": {"en": "Crown Switch1", "es": "Corona Conmutador1", "pt": "Troca de coroa1"},
+      "name": {"en": "Crown Switch1", "es": "Corona Conmutador1", "pt": "Troca de coroa1", "zh-CN": "王冠开关1"},
       "kind": "npc",
       "model": "MODEL_NPC_CHECK_FLOOR",
       "numbers": [
@@ -1410,7 +1410,7 @@
       ]
     },
     {
-      "name": {"en": "Castle Gate Switch", "es": "Interruptor Puerta de Castillo", "pt": "Inter. do Portão do Castelo"},
+      "name": {"en": "Castle Gate Switch", "es": "Interruptor Puerta de Castillo", "pt": "Inter. do Portão do Castelo", "zh-CN": "城门开关"},
       "kind": "npc",
       "model": "MODEL_NPC_GATE_SWITCH",
       "numbers": [
@@ -1418,7 +1418,7 @@
       ]
     },
     {
-      "name": {"en": "Gatekeeper", "es": "Guardián de Entrada", "pt": "Porteiro"},
+      "name": {"en": "Gatekeeper", "es": "Guardián de Entrada", "pt": "Porteiro", "zh-CN": "守门人"},
       "kind": "npc",
       "model": "MONSTER_MODEL_BATTLE_GUARD2",
       "soundSet": "Gatekeeper",
@@ -1431,7 +1431,7 @@
       ]
     },
     {
-      "name": {"en": "Slingshot attack", "es": "Ataque con honda", "pt": "Ataque de estilingue"},
+      "name": {"en": "Slingshot attack", "es": "Ataque con honda", "pt": "Ataque de estilingue", "zh-CN": "进攻投石车"},
       "kind": "npc",
       "model": "MODEL_NPC_CAPATULT_ATT",
       "numbers": [
@@ -1439,7 +1439,7 @@
       ]
     },
     {
-      "name": {"en": "Slingshot defense", "es": "Defensa con honda", "pt": "Defesa de estilingue"},
+      "name": {"en": "Slingshot defense", "es": "Defensa con honda", "pt": "Defesa de estilingue", "zh-CN": "防守投石车"},
       "kind": "npc",
       "model": "MODEL_NPC_CAPATULT_DEF",
       "numbers": [
@@ -1447,7 +1447,7 @@
       ]
     },
     {
-      "name": {"en": "Senior", "es": "Superior", "pt": "Sênior"},
+      "name": {"en": "Senior", "es": "Superior", "pt": "Sênior", "zh-CN": "城主助手"},
       "kind": "npc",
       "model": "MODEL_NPC_SENATUS",
       "numbers": [
@@ -1455,7 +1455,7 @@
       ]
     },
     {
-      "name": {"en": "Guardsman", "es": "Guardia", "pt": "Guarda"},
+      "name": {"en": "Guardsman", "es": "Guardia", "pt": "Guarda", "zh-CN": "卫兵"},
       "kind": "npc",
       "model": "MODEL_NPC_CLERK",
       "numbers": [
@@ -1463,7 +1463,7 @@
       ]
     },
     {
-      "name": {"en": "Trainer", "es": "Adiestrador", "pt": "Treinador"},
+      "name": {"en": "Trainer", "es": "Adiestrador", "pt": "Treinador", "zh-CN": "训兽师"},
       "kind": "npc",
       "model": "MODEL_NPC_BREEDER",
       "numbers": [
@@ -1471,7 +1471,7 @@
       ]
     },
     {
-      "name": {"en": "Marlon", "es": "Marlon", "pt": "Marlon"},
+      "name": {"en": "Marlon", "es": "Marlon", "pt": "Marlon", "zh-CN": "警卫队长摩伦"},
       "kind": "npc",
       "model": "player",
       "numbers": [
@@ -1479,7 +1479,7 @@
       ]
     },
     {
-      "name": {"en": "Wandering Merchant Alex", "es": "Mercader Errante Alex", "pt": "Alex, o Mercador itinerante"},
+      "name": {"en": "Wandering Merchant Alex", "es": "Mercader Errante Alex", "pt": "Alex, o Mercador itinerante", "zh-CN": "流浪商人阿莱斯"},
       "kind": "npc",
       "model": "MODEL_MERCHANT_MAN",
       "numbers": [
@@ -1495,7 +1495,7 @@
       ]
     },
     {
-      "name": {"en": "Archangel", "es": "Arcángel", "pt": "Arcanjo"},
+      "name": {"en": "Archangel", "es": "Arcángel", "pt": "Arcanjo", "zh-CN": "大天使"},
       "kind": "npc",
       "model": "MODEL_NPC_ARCHANGEL",
       "numbers": [
@@ -1503,7 +1503,7 @@
       ]
     },
     {
-      "name": {"en": "Messenger of Archangel", "es": "Mensajero de Arcángel", "pt": "Mensageiro do Arcanjo"},
+      "name": {"en": "Messenger of Archangel", "es": "Mensajero de Arcángel", "pt": "Mensageiro do Arcanjo", "zh-CN": "大天使的使者"},
       "kind": "npc",
       "model": "MODEL_NPC_ARCHANGEL_MESSENGER",
       "numbers": [
@@ -1511,7 +1511,7 @@
       ]
     },
     {
-      "name": {"en": "Pet Trainer", "es": "Mascota Adiestrador", "pt": "Trein. de Animais de Estimação"},
+      "name": {"en": "Pet Trainer", "es": "Mascota Adiestrador", "pt": "Trein. de Animais de Estimação", "zh-CN": "宠物训练师"},
       "kind": "npc",
       "model": "MONSTER_MODEL_GOBLIN",
       "soundSet": "Goblin",
@@ -1520,7 +1520,7 @@
       ]
     },
     {
-      "name": {"en": "Sebina the Priest", "es": "Sebina la Sacerdotisa", "pt": "Sebina, a Madre"},
+      "name": {"en": "Sebina the Priest", "es": "Sebina la Sacerdotisa", "pt": "Sebina, a Madre", "zh-CN": "圣导士赛维娜"},
       "kind": "npc",
       "model": "MODEL_NPC_SEVINA",
       "numbers": [
@@ -1528,7 +1528,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Archer", "es": "Arquero Dorado", "pt": "Arqueiro dourado"},
+      "name": {"en": "Golden Archer", "es": "Arquero Dorado", "pt": "Arqueiro dourado", "zh-CN": "黄金弓箭手"},
       "kind": "npc",
       "model": "player",
       "numbers": [
@@ -1536,7 +1536,7 @@
       ]
     },
     {
-      "name": {"en": "Charon", "es": "Charon", "pt": "Charon"},
+      "name": {"en": "Charon", "es": "Charon", "pt": "Charon", "zh-CN": "卡隆"},
       "kind": "npc",
       "model": "MODEL_NPC_DEVILSQUARE",
       "numbers": [
@@ -1544,7 +1544,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Goblin", "es": "Duende del Caos", "pt": "Goblin do Caos"},
+      "name": {"en": "Chaos Goblin", "es": "Duende del Caos", "pt": "Goblin do Caos", "zh-CN": "玛雅哥布林"},
       "kind": "npc",
       "model": "MODEL_MIX_NPC",
       "soundSet": "Chaos Goblin",
@@ -1553,7 +1553,7 @@
       ]
     },
     {
-      "name": {"en": "Arena Guard", "es": "Guardia de la Arena", "pt": "Guarda da arena"},
+      "name": {"en": "Arena Guard", "es": "Guardia de la Arena", "pt": "Guarda da arena", "zh-CN": "竞技场守卫"},
       "kind": "npc",
       "model": "MODEL_TOURNAMENT",
       "numbers": [
@@ -1561,7 +1561,7 @@
       ]
     },
     {
-      "name": {"en": "Safety Guardian", "es": "Guardián de Seguridad", "pt": "Guardião de segurança"},
+      "name": {"en": "Safety Guardian", "es": "Guardián de Seguridad", "pt": "Guardião de segurança", "zh-CN": "安全守卫"},
       "kind": "npc",
       "model": "MODEL_STORAGE",
       "numbers": [
@@ -1569,7 +1569,7 @@
       ]
     },
     {
-      "name": {"en": "Royal Guard Captain Lorence", "es": "Lorence Capitán Guardia Real", "pt": "Lorence, o Cap. da Guarda Real"},
+      "name": {"en": "Royal Guard Captain Lorence", "es": "Lorence Capitán Guardia Real", "pt": "Lorence, o Cap. da Guarda Real", "zh-CN": "战盟使者罗兰斯"},
       "kind": "npc",
       "model": "MODEL_MASTER",
       "numbers": [
@@ -1577,7 +1577,7 @@
       ]
     },
     {
-      "name": {"en": "Elf Lala", "es": "Elfa Lala", "pt": "Elfa Lala"},
+      "name": {"en": "Elf Lala", "es": "Elfa Lala", "pt": "Elfa Lala", "zh-CN": "精灵安吉拉"},
       "kind": "npc",
       "model": "MODEL_ELF_WIZARD",
       "soundSet": "Elf Lala",
@@ -1586,7 +1586,7 @@
       ]
     },
     {
-      "name": {"en": "Eo the Craftsman", "es": "Eo el Artesano", "pt": "Eo, o artesão"},
+      "name": {"en": "Eo the Craftsman", "es": "Eo el Artesano", "pt": "Eo, o artesão", "zh-CN": "工艺尤达"},
       "kind": "npc",
       "model": "MODEL_ELF_MERCHANT",
       "numbers": [
@@ -1594,7 +1594,7 @@
       ]
     },
     {
-      "name": {"en": "Caren the Barmaid", "es": "Caren la Mesera", "pt": "Caren, a garçonete"},
+      "name": {"en": "Caren the Barmaid", "es": "Caren la Mesera", "pt": "Caren, a garçonete", "zh-CN": "老板娘莉娜"},
       "kind": "npc",
       "model": "MODEL_SNOW_MERCHANT",
       "numbers": [
@@ -1602,7 +1602,7 @@
       ]
     },
     {
-      "name": {"en": "Wizard Izabel", "es": "Maga Izabel", "pt": "Maga Izabel"},
+      "name": {"en": "Wizard Izabel", "es": "Maga Izabel", "pt": "Maga Izabel", "zh-CN": "魔导师露茜"},
       "kind": "npc",
       "model": "MODEL_SNOW_WIZARD",
       "numbers": [
@@ -1610,7 +1610,7 @@
       ]
     },
     {
-      "name": {"en": "Weapons Merchant Zienna", "es": "Mercader de Armas Zienna", "pt": "Zienna, a Mercadora de armas"},
+      "name": {"en": "Weapons Merchant Zienna", "es": "Mercader de Armas Zienna", "pt": "Zienna, a Mercadora de armas", "zh-CN": "武器商人苏菲"},
       "kind": "npc",
       "model": "MODEL_SNOW_SMITH",
       "numbers": [
@@ -1618,7 +1618,7 @@
       ]
     },
     {
-      "name": {"en": "Guard", "es": "Guardia", "pt": "Guarda"},
+      "name": {"en": "Guard", "es": "Guardia", "pt": "Guarda", "zh-CN": "守卫"},
       "kind": "npc",
       "model": "player",
       "numbers": [
@@ -1635,7 +1635,7 @@
       ]
     },
     {
-      "name": {"en": "Wandering Merchant", "es": "Mercader Errante", "pt": "Mercador itinerante"},
+      "name": {"en": "Wandering Merchant", "es": "Mercader Errante", "pt": "Mercador itinerante", "zh-CN": "流浪商人"},
       "kind": "npc",
       "model": "MODEL_MERCHANT_MAN",
       "numbers": [
@@ -1643,7 +1643,7 @@
       ]
     },
     {
-      "name": {"en": "Hanzo the Blacksmith", "es": "Hanzo el Herrero", "pt": "Hanzo, o ferreiro"},
+      "name": {"en": "Hanzo the Blacksmith", "es": "Hanzo el Herrero", "pt": "Hanzo, o ferreiro", "zh-CN": "铁匠汉斯"},
       "kind": "npc",
       "model": "MODEL_SMITH",
       "soundSet": "Hanzo the Blacksmith",
@@ -1661,7 +1661,7 @@
       ]
     },
     {
-      "name": {"en": "Potion Girl Amy", "es": "Amy la Chica de las Pócimas", "pt": "Amy, a Garota das poções"},
+      "name": {"en": "Potion Girl Amy", "es": "Amy la Chica de las Pócimas", "pt": "Amy, a Garota das poções", "zh-CN": "少女安娜"},
       "kind": "npc",
       "model": "MODEL_MERCHANT_GIRL",
       "numbers": [
@@ -1669,7 +1669,7 @@
       ]
     },
     {
-      "name": {"en": "Pasi the Mage", "es": "Pasi el Mágico", "pt": "Pasi, o mago"},
+      "name": {"en": "Pasi the Mage", "es": "Pasi el Mágico", "pt": "Pasi, o mago", "zh-CN": "魔导师帕希"},
       "kind": "npc",
       "model": "MODEL_SCIENTIST",
       "numbers": [
@@ -1677,7 +1677,7 @@
       ]
     },
     {
-      "name": {"en": "Lumen the Barmaid", "es": "Lumen la Mesera", "pt": "Lumen, a garçonete"},
+      "name": {"en": "Lumen the Barmaid", "es": "Lumen la Mesera", "pt": "Lumen, a garçonete", "zh-CN": "老板娘莉雅"},
       "kind": "npc",
       "model": "MODEL_MERCHANT_FEMALE",
       "numbers": [
@@ -1693,7 +1693,7 @@
       ]
     },
     {
-      "name": {"en": "Shadow Phantom Soldier", "es": "Soldado Fantasma de la Sombra", "pt": "Soldado Fantasma das sombras"},
+      "name": {"en": "Shadow Phantom Soldier", "es": "Soldado Fantasma de la Sombra", "pt": "Soldado Fantasma das sombras", "zh-CN": "幻影导师"},
       "kind": "npc",
       "model": "player",
       "numbers": [
@@ -1717,7 +1717,7 @@
       ]
     },
     {
-      "name": {"en": "Kundun", "es": "Kundun", "pt": "Kundun"},
+      "name": {"en": "Kundun", "es": "Kundun", "pt": "Kundun", "zh-CN": "昆顿"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ILLUSION_OF_KUNDUN",
       "soundSet": "Kundun",
@@ -1730,7 +1730,7 @@
       ]
     },
     {
-      "name": {"en": "Castle Gate", "es": "Puerta del Castillo", "pt": "Portão do castelo"},
+      "name": {"en": "Castle Gate", "es": "Puerta del Castillo", "pt": "Portão do castelo", "zh-CN": "城门"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CASTLE_GATE1",
       "soundSet": "Castle Gate",
@@ -1739,7 +1739,7 @@
       ]
     },
     {
-      "name": {"en": "Life Stone", "es": "Piedra de la Vida", "pt": "Pedra da Vida"},
+      "name": {"en": "Life Stone", "es": "Piedra de la Vida", "pt": "Pedra da Vida", "zh-CN": "生命石"},
       "kind": "monster",
       "model": "MONSTER_MODEL_LIFE_STONE",
       "numbers": [
@@ -1747,7 +1747,7 @@
       ]
     },
     {
-      "name": {"en": "Guardian Statue", "es": "Estatua Guardián", "pt": "Estátua do guardião"},
+      "name": {"en": "Guardian Statue", "es": "Estatua Guardián", "pt": "Estátua do guardião", "zh-CN": "守护石像"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GUARDIAN_STATUE",
       "numbers": [
@@ -1755,7 +1755,7 @@
       ]
     },
     {
-      "name": {"en": "Guardian", "es": "Guardián", "pt": "Guardião"},
+      "name": {"en": "Guardian", "es": "Guardián", "pt": "Guardião", "zh-CN": "守卫"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GUARDIAN_STATUE",
       "numbers": [
@@ -1763,7 +1763,7 @@
       ]
     },
     {
-      "name": {"en": "Archer", "es": "Arquero", "pt": "Arqueiro"},
+      "name": {"en": "Archer", "es": "Arquero", "pt": "Arqueiro", "zh-CN": "弓箭手"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BATTLE_GUARD1",
       "soundSet": "Archer",
@@ -1776,7 +1776,7 @@
       ]
     },
     {
-      "name": {"en": "Spearman", "es": "Lancero", "pt": "Lanceiro"},
+      "name": {"en": "Spearman", "es": "Lancero", "pt": "Lanceiro", "zh-CN": "长矛兵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BATTLE_GUARD2",
       "soundSet": "Gatekeeper",
@@ -1789,7 +1789,7 @@
       ]
     },
     {
-      "name": {"en": "Canon Tower", "es": "Torre Cañón", "pt": "Torre de canhão"},
+      "name": {"en": "Canon Tower", "es": "Torre Cañón", "pt": "Torre de canhão", "zh-CN": "炮塔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CANON_TOWER",
       "numbers": [
@@ -1797,7 +1797,7 @@
       ]
     },
     {
-      "name": {"en": "Lizard Warrior", "es": "Guerrero Lagartija", "pt": "Guerreiro lagarto"},
+      "name": {"en": "Lizard Warrior", "es": "Guerrero Lagartija", "pt": "Guerreiro lagarto", "zh-CN": "蜥蜴战士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_LIZARD_WARRIOR",
       "numbers": [
@@ -1805,7 +1805,7 @@
       ]
     },
     {
-      "name": {"en": "Fire Golem", "es": "Gólem de Fuego", "pt": "Golem de fogo"},
+      "name": {"en": "Fire Golem", "es": "Gólem de Fuego", "pt": "Golem de fogo", "zh-CN": "火焰巨人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_FIRE_GOLEM",
       "attacks": {
@@ -1827,7 +1827,7 @@
       ]
     },
     {
-      "name": {"en": "Queen Bee", "es": "Reina Abeja", "pt": "Abelha Rainha"},
+      "name": {"en": "Queen Bee", "es": "Reina Abeja", "pt": "Abelha Rainha", "zh-CN": "蜂后"},
       "kind": "monster",
       "model": "MONSTER_MODEL_QUEEN_BEE",
       "numbers": [
@@ -1835,7 +1835,7 @@
       ]
     },
     {
-      "name": {"en": "Poison Golem", "es": "Gólem Venenoso", "pt": "Golem venenoso"},
+      "name": {"en": "Poison Golem", "es": "Gólem Venenoso", "pt": "Golem venenoso", "zh-CN": "毒巨人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_POISON_GOLEM",
       "numbers": [
@@ -1843,7 +1843,7 @@
       ]
     },
     {
-      "name": {"en": "Ax Warrior", "es": "Guerrero Hachero", "pt": "Guerreiro do machado"},
+      "name": {"en": "Ax Warrior", "es": "Guerrero Hachero", "pt": "Guerreiro do machado", "zh-CN": "战斧勇士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_AXE_HERO",
       "numbers": [
@@ -1851,7 +1851,7 @@
       ]
     },
     {
-      "name": {"en": "Erohim", "es": "Erohim", "pt": "Erohim"},
+      "name": {"en": "Erohim", "es": "Erohim", "pt": "Erohim", "zh-CN": "魔炼之地领主"},
       "kind": "monster",
       "model": "MONSTER_MODEL_EROHIM",
       "numbers": [
@@ -1936,7 +1936,7 @@
       ]
     },
     {
-      "name": {"en": "Death Rider", "es": "Jinete de la Muerte", "pt": "Cavaleiro da morte"},
+      "name": {"en": "Death Rider", "es": "Jinete de la Muerte", "pt": "Cavaleiro da morte", "zh-CN": "丛林猎杀者"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEATH_RIDER",
       "soundSet": "Death Rider",
@@ -1945,7 +1945,7 @@
       ]
     },
     {
-      "name": {"en": "Forest Orc", "es": "Orc del Bosque", "pt": "Orc da floresta"},
+      "name": {"en": "Forest Orc", "es": "Orc del Bosque", "pt": "Orc da floresta", "zh-CN": "丛林生命体"},
       "kind": "monster",
       "model": "MONSTER_MODEL_FOREST_ORC",
       "soundSet": "Forest Orc",
@@ -1954,7 +1954,7 @@
       ]
     },
     {
-      "name": {"en": "Death Tree", "es": "Árbol de la Muerte", "pt": "Árvore da morte"},
+      "name": {"en": "Death Tree", "es": "Árbol de la Muerte", "pt": "Árvore da morte", "zh-CN": "丛林树精灵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEATH_TREE",
       "soundSet": "Death Tree",
@@ -1963,7 +1963,7 @@
       ]
     },
     {
-      "name": {"en": "Hell Maine", "es": "Maine Infernal", "pt": "Maine do inferno"},
+      "name": {"en": "Hell Maine", "es": "Maine Infernal", "pt": "Maine do inferno", "zh-CN": "丛林召唤者"},
       "kind": "monster",
       "model": "MONSTER_MODEL_HELL_MAINE",
       "soundSet": "Hell Maine",
@@ -2001,7 +2001,7 @@
       ]
     },
     {
-      "name": {"en": "Werewolf", "es": "Hombre Lobo", "pt": "Lobisomem"},
+      "name": {"en": "Werewolf", "es": "Hombre Lobo", "pt": "Lobisomem", "zh-CN": "狼人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_WEREWOLF_HERO",
       "numbers": [
@@ -2051,7 +2051,7 @@
       ]
     },
     {
-      "name": {"en": "Dark Elf", "es": "Elfo Oscuro", "pt": "Elfo negro"},
+      "name": {"en": "Dark Elf", "es": "Elfo Oscuro", "pt": "Elfo negro", "zh-CN": "暗黑精灵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DARK_ELF_1",
       "attacks": {
@@ -2086,7 +2086,7 @@
       ]
     },
     {
-      "name": {"en": "Balgass", "es": "Balgass", "pt": "Balgass"},
+      "name": {"en": "Balgass", "es": "Balgass", "pt": "Balgass", "zh-CN": "巴卡斯"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BALGASS",
       "attacks": {
@@ -2242,7 +2242,7 @@
       ]
     },
     {
-      "name": {"en": "Nightmare", "es": "Pesadilla", "pt": "Pesadelo"},
+      "name": {"en": "Nightmare", "es": "Pesadilla", "pt": "Pesadelo", "zh-CN": "咒怨魔王"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DARK_SKULL_SOLDIER_5",
       "attacks": {
@@ -2255,7 +2255,7 @@
       ]
     },
     {
-      "name": {"en": "Maya Hand", "es": "Mano de Maya", "pt": "Mão de Maya"},
+      "name": {"en": "Maya Hand", "es": "Mano de Maya", "pt": "Mão de Maya", "zh-CN": "玛雅之手"},
       "kind": "monster",
       "model": "MONSTER_MODEL_MAYA_HAND_LEFT",
       "attacks": {
@@ -2268,7 +2268,7 @@
       ]
     },
     {
-      "name": {"en": "Maya Hand", "es": "Mano de Maya", "pt": "Mão de Maya"},
+      "name": {"en": "Maya Hand", "es": "Mano de Maya", "pt": "Mão de Maya", "zh-CN": "玛雅之手"},
       "kind": "monster",
       "model": "MONSTER_MODEL_MAYA_HAND_RIGHT",
       "attacks": {
@@ -2281,7 +2281,7 @@
       ]
     },
     {
-      "name": {"en": "Maya", "es": "Maya", "pt": "Maya"},
+      "name": {"en": "Maya", "es": "Maya", "pt": "Maya", "zh-CN": "玛雅"},
       "kind": "monster",
       "model": "MONSTER_MODEL_MAYA",
       "attacks": {
@@ -2293,7 +2293,7 @@
       ]
     },
     {
-      "name": {"en": "Pouch of Blessing", "es": "Saco de Bendiciones", "pt": "Bolsa da bênção"},
+      "name": {"en": "Pouch of Blessing", "es": "Saco de Bendiciones", "pt": "Bolsa da bênção", "zh-CN": "祝福袋"},
       "kind": "monster",
       "model": "MONSTER_MODEL_POUCH_OF_BLESSING",
       "numbers": [
@@ -2301,7 +2301,7 @@
       ]
     },
     {
-      "name": {"en": "Gateway Machine", "es": "Máquina de Portón", "pt": "Máquina do portal"},
+      "name": {"en": "Gateway Machine", "es": "Máquina de Portón", "pt": "Máquina do portal", "zh-CN": "入口装置"},
       "kind": "npc",
       "model": "MODEL_KANTURU2ND_ENTER_NPC",
       "soundSet": "Gateway Machine",
@@ -2366,7 +2366,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Card Master", "es": "Amo de Tarjetas de Caos", "pt": "Mestre das cartas do caos"},
+      "name": {"en": "Chaos Card Master", "es": "Amo de Tarjetas de Caos", "pt": "Mestre das cartas do caos", "zh-CN": "玛雅使者"},
       "kind": "npc",
       "model": "player",
       "numbers": [
@@ -2406,7 +2406,7 @@
       ]
     },
     {
-      "name": {"en": "Stone Statue", "es": "Estatua de Piedra", "pt": "Estátua de pedra"},
+      "name": {"en": "Stone Statue", "es": "Estatua de Piedra", "pt": "Estátua de pedra", "zh-CN": "石像"},
       "kind": "npc",
       "model": "MODEL_CURSEDTEMPLE_STATUE",
       "numbers": [
@@ -2430,7 +2430,7 @@
       ]
     },
     {
-      "name": {"en": "Alliance Sacred Item Storage", "es": "Almacén Alianza Ítems Sagrados", "pt": "Armaz. Item Sagr. da Aliança"},
+      "name": {"en": "Alliance Sacred Item Storage", "es": "Almacén Alianza Ítems Sagrados", "pt": "Armaz. Item Sagr. da Aliança", "zh-CN": "联盟圣物保管处"},
       "kind": "npc",
       "model": "MODEL_CURSEDTEMPLE_ALLIED_BASKET",
       "numbers": [
@@ -2438,7 +2438,7 @@
       ]
     },
     {
-      "name": {"en": "Illusion Castle Sacred Item Storage", "es": "Alm. Ít. Sagrado Cast. Ilusión", "pt": "Armaz. It. Sagr. Cast. Ilusão"},
+      "name": {"en": "Illusion Castle Sacred Item Storage", "es": "Alm. Ít. Sagrado Cast. Ilusión", "pt": "Armaz. It. Sagr. Cast. Ilusão", "zh-CN": "幻影城堡圣物保管处"},
       "kind": "npc",
       "model": "MODEL_CURSEDTEMPLE_ILLUSION__BASKET",
       "numbers": [
@@ -2514,7 +2514,7 @@
       ]
     },
     {
-      "name": {"en": "Apostle Devin", "es": "Apóstol Devin", "pt": "Apóstolo Devin"},
+      "name": {"en": "Apostle Devin", "es": "Apóstol Devin", "pt": "Apóstolo Devin", "zh-CN": "弟子黛彬"},
       "kind": "npc",
       "model": "MODEL_NPC_DEVIN",
       "numbers": [
@@ -2522,7 +2522,7 @@
       ]
     },
     {
-      "name": {"en": "Werewolf Quarel", "es": "Hombre Lobo Quarel", "pt": "Lobisomem Quarel"},
+      "name": {"en": "Werewolf Quarel", "es": "Hombre Lobo Quarel", "pt": "Lobisomem Quarel", "zh-CN": "暗黑血狼人扩雷"},
       "kind": "npc",
       "model": "MODEL_NPC_QUARREL",
       "numbers": [
@@ -2530,7 +2530,7 @@
       ]
     },
     {
-      "name": {"en": "Gatekeeper", "es": "Guardián de Entrada", "pt": "Porteiro"},
+      "name": {"en": "Gatekeeper", "es": "Guardián de Entrada", "pt": "Porteiro", "zh-CN": "守门人"},
       "kind": "npc",
       "model": "MODEL_NPC_CASTEL_GATE",
       "numbers": [
@@ -2589,7 +2589,7 @@
       ]
     },
     {
-      "name": {"en": "Lunar Rabbit", "es": "Conejo Lunar", "pt": "Coelho lunar"},
+      "name": {"en": "Lunar Rabbit", "es": "Conejo Lunar", "pt": "Coelho lunar", "zh-CN": "月兔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_LUNAR_RABBIT",
       "numbers": [
@@ -2647,7 +2647,7 @@
       ]
     },
     {
-      "name": {"en": "Werewolf", "es": "Hombre Lobo", "pt": "Lobisomem"},
+      "name": {"en": "Werewolf", "es": "Hombre Lobo", "pt": "Lobisomem", "zh-CN": "狼人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_HIDEOUS_RABBIT",
       "soundSet": "Werewolf",
@@ -2701,7 +2701,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle13", "es": "Castillo del Caos13", "pt": "Castelo do Caos13"},
+      "name": {"en": "Chaos Castle13", "es": "Castillo del Caos13", "pt": "Castelo do Caos13", "zh-CN": "赤色要塞13"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_KNIGHT",
       "soundSet": "Chaos Castle",
@@ -2710,7 +2710,7 @@
       ]
     },
     {
-      "name": {"en": "Chaos Castle14", "es": "Castillo del Caos14", "pt": "Castelo do Caos14"},
+      "name": {"en": "Chaos Castle14", "es": "Castillo del Caos14", "pt": "Castelo do Caos14", "zh-CN": "赤色要塞14"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CHAOSCASTLE_ELF",
       "soundSet": "Chaos Castle",
@@ -2803,7 +2803,7 @@
       ]
     },
     {
-      "name": {"en": "Cherry Blossom Spirit", "es": "Espíritu Flor de Cerezo", "pt": "Espírito da flor de cereja"},
+      "name": {"en": "Cherry Blossom Spirit", "es": "Espíritu Flor de Cerezo", "pt": "Espírito da flor de cereja", "zh-CN": "樱花精灵"},
       "kind": "npc",
       "model": "MODEL_NPC_CHERRYBLOSSOM",
       "numbers": [
@@ -2811,7 +2811,7 @@
       ]
     },
     {
-      "name": {"en": "Cherry Blossom Tree", "es": "Árbol Flor de Cerezo", "pt": "Cerejeira"},
+      "name": {"en": "Cherry Blossom Tree", "es": "Árbol Flor de Cerezo", "pt": "Cerejeira", "zh-CN": "樱花树"},
       "kind": "other",
       "model": "MODEL_NPC_CHERRYBLOSSOMTREE",
       "numbers": [
@@ -2819,7 +2819,7 @@
       ]
     },
     {
-      "name": {"en": "Seed Master", "es": "Amo de Simientes", "pt": "Mestre das sementes"},
+      "name": {"en": "Seed Master", "es": "Amo de Simientes", "pt": "Mestre das sementes", "zh-CN": "种子大师"},
       "kind": "npc",
       "model": "MODEL_SEED_MASTER",
       "numbers": [
@@ -2827,7 +2827,7 @@
       ]
     },
     {
-      "name": {"en": "Seed Researcher", "es": "Investigador de Simientes", "pt": "Pesquisador de sementes"},
+      "name": {"en": "Seed Researcher", "es": "Investigador de Simientes", "pt": "Pesquisador de sementes", "zh-CN": "种子研究员"},
       "kind": "npc",
       "model": "MODEL_SEED_INVESTIGATOR",
       "numbers": [
@@ -2850,7 +2850,7 @@
       ]
     },
     {
-      "name": {"en": "Giant Mammoth", "es": "Mamut Gigante", "pt": "Mamute gigante"},
+      "name": {"en": "Giant Mammoth", "es": "Mamut Gigante", "pt": "Mamute gigante", "zh-CN": "巨型猛犸"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GIANT_MAMMOTH",
       "soundSet": "Giant Mammoth",
@@ -2864,7 +2864,7 @@
       ]
     },
     {
-      "name": {"en": "Ice Giant", "es": "Gigante de Hielo", "pt": "Gigante de gelo"},
+      "name": {"en": "Ice Giant", "es": "Gigante de Hielo", "pt": "Gigante de gelo", "zh-CN": "冰巨人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ICE_GIANT",
       "soundSet": "Ice Giant",
@@ -2892,7 +2892,7 @@
       ]
     },
     {
-      "name": {"en": "Iron Knight", "es": "Caballero de Acero", "pt": "Cavaleiro de ferro"},
+      "name": {"en": "Iron Knight", "es": "Caballero de Acero", "pt": "Cavaleiro de ferro", "zh-CN": "铁甲骑士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_IRON_KNIGHT",
       "soundSet": "Iron Knight",
@@ -2920,7 +2920,7 @@
       ]
     },
     {
-      "name": {"en": "Spider Eggs", "es": "Huevos de Araña", "pt": "Ovos de aranha"},
+      "name": {"en": "Spider Eggs", "es": "Huevos de Araña", "pt": "Ovos de aranha", "zh-CN": "蜘蛛卵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SPIDER_EGGS_1",
       "numbers": [
@@ -2928,7 +2928,7 @@
       ]
     },
     {
-      "name": {"en": "Spider Eggs", "es": "Huevos de Araña", "pt": "Ovos de aranha"},
+      "name": {"en": "Spider Eggs", "es": "Huevos de Araña", "pt": "Ovos de aranha", "zh-CN": "蜘蛛卵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SPIDER_EGGS_2",
       "numbers": [
@@ -2936,7 +2936,7 @@
       ]
     },
     {
-      "name": {"en": "Spider Eggs", "es": "Huevos de Araña", "pt": "Ovos de aranha"},
+      "name": {"en": "Spider Eggs", "es": "Huevos de Araña", "pt": "Ovos de aranha", "zh-CN": "蜘蛛卵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SPIDER_EGGS_3",
       "numbers": [
@@ -2952,7 +2952,7 @@
       ]
     },
     {
-      "name": {"en": "Reset Helper", "es": "Ayudante de Reinicio", "pt": "Assistente de Reinicialização"},
+      "name": {"en": "Reset Helper", "es": "Ayudante de Reinicio", "pt": "Assistente de Reinicialização", "zh-CN": "重置助手"},
       "kind": "npc",
       "model": "player",
       "numbers": [
@@ -2960,7 +2960,7 @@
       ]
     },
     {
-      "name": {"en": "Santa Claus", "es": "Santa", "pt": "Papai Noel"},
+      "name": {"en": "Santa Claus", "es": "Santa", "pt": "Papai Noel", "zh-CN": "圣诞老人"},
       "kind": "npc",
       "model": "MODEL_XMAS2008_SANTA_NPC",
       "numbers": [
@@ -2977,7 +2977,7 @@
       ]
     },
     {
-      "name": {"en": "Snowman", "es": "Hombre de nieve", "pt": "Homem de neve"},
+      "name": {"en": "Snowman", "es": "Hombre de nieve", "pt": "Homem de neve", "zh-CN": "雪人"},
       "kind": "npc",
       "model": "MODEL_XMAS2008_SNOWMAN_NPC",
       "numbers": [
@@ -3001,7 +3001,7 @@
       ]
     },
     {
-      "name": {"en": "Little Santa", "es": "Pequeño Santa", "pt": "Pequeno Papai Noel"},
+      "name": {"en": "Little Santa", "es": "Pequeño Santa", "pt": "Pequeno Papai Noel", "zh-CN": "小圣诞老人"},
       "kind": "npc",
       "model": "MODEL_LITTLESANTA+2",
       "numbers": [
@@ -3058,7 +3058,7 @@
       ]
     },
     {
-      "name": {"en": "Transformed Snowman", "es": "Hombre de nieve transformado", "pt": "Homem de neve transformado"},
+      "name": {"en": "Transformed Snowman", "es": "Hombre de nieve transformado", "pt": "Homem de neve transformado", "zh-CN": "变身雪人"},
       "kind": "monster",
       "model": "MODEL_XMAS2008_SNOWMAN",
       "soundSet": "Transformed Snowman",
@@ -3160,7 +3160,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Dark Knight", "es": "Caballero Oscuro Dorado", "pt": "Cavaleiro negro dourado"},
+      "name": {"en": "Golden Dark Knight", "es": "Caballero Oscuro Dorado", "pt": "Cavaleiro negro dourado", "zh-CN": "黄金暗黑骑士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DARK_KNIGHT",
       "soundSet": "Dark Knight",
@@ -3169,7 +3169,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Devil", "es": "Diablo Dorado", "pt": "Demônio dourado"},
+      "name": {"en": "Golden Devil", "es": "Diablo Dorado", "pt": "Demônio dourado", "zh-CN": "黄金恶魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEVIL",
       "soundSet": "Devil",
@@ -3178,7 +3178,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Stone Golem", "es": "Gólem de Piedra Dorado", "pt": "Golem de pedra dourado"},
+      "name": {"en": "Golden Stone Golem", "es": "Gólem de Piedra Dorado", "pt": "Golem de pedra dourado", "zh-CN": "黄金石巨人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GOLDEN_STONE_GOLEM",
       "soundSet": "Blue Golem",
@@ -3232,7 +3232,7 @@
       ]
     },
     {
-      "name": {"en": "Great Golden Dragon", "es": "Gran Dragón Dorado", "pt": "Grande Dragão dourado"},
+      "name": {"en": "Great Golden Dragon", "es": "Gran Dragón Dorado", "pt": "Grande Dragão dourado", "zh-CN": "巨型黄金龙"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DRAGON",
       "soundSet": "Red Dragon",
@@ -3241,7 +3241,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Rabbit", "es": "Conejo Dorado", "pt": "Coelho dourado"},
+      "name": {"en": "Golden Rabbit", "es": "Conejo Dorado", "pt": "Coelho dourado", "zh-CN": "黄金兔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_RABBIT",
       "soundSet": "Strange Rabbit",
@@ -3250,7 +3250,7 @@
       ]
     },
     {
-      "name": {"en": "Transformed Panda", "es": "Panda transformado", "pt": "Panda transformado"},
+      "name": {"en": "Transformed Panda", "es": "Panda transformado", "pt": "Panda transformado", "zh-CN": "变身熊猫"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -3379,7 +3379,7 @@
       ]
     },
     {
-      "name": {"en": "Quartermaster", "es": "Amo del Cuartel", "pt": "Contramestre"},
+      "name": {"en": "Quartermaster", "es": "Amo del Cuartel", "pt": "Contramestre", "zh-CN": "军需官"},
       "kind": "monster",
       "model": "MONSTER_MODEL_QUARTER_MASTER",
       "soundSet": "Quartermaster",
@@ -3388,7 +3388,7 @@
       ]
     },
     {
-      "name": {"en": "Combat Instructor", "es": "Instructor de Combate", "pt": "Instrutor de combate"},
+      "name": {"en": "Combat Instructor", "es": "Instructor de Combate", "pt": "Instrutor de combate", "zh-CN": "战斗教官"},
       "kind": "monster",
       "model": "MONSTER_MODEL_COMBAT_INSTRUCTOR",
       "soundSet": "Combat Instructor",
@@ -3402,7 +3402,7 @@
       ]
     },
     {
-      "name": {"en": "Knight Commander", "es": "Comandante de Caballeros", "pt": "Comandante dos Cavaleiros"},
+      "name": {"en": "Knight Commander", "es": "Comandante de Caballeros", "pt": "Comandante dos Cavaleiros", "zh-CN": "骑士指挥官"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ATICLES_HEAD",
       "soundSet": "Knight Commander",
@@ -3416,7 +3416,7 @@
       ]
     },
     {
-      "name": {"en": "Grand Wizard", "es": "Gran Mago", "pt": "Grande Mago"},
+      "name": {"en": "Grand Wizard", "es": "Gran Mago", "pt": "Grande Mago", "zh-CN": "大魔法师"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DARK_GHOST",
       "soundSet": "Grand Wizard",
@@ -3430,7 +3430,7 @@
       ]
     },
     {
-      "name": {"en": "Master Assassin", "es": "Amo Asesino", "pt": "Mestre Assassino"},
+      "name": {"en": "Master Assassin", "es": "Amo Asesino", "pt": "Mestre Assassino", "zh-CN": "刺客大师"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BANSHEE",
       "soundSet": "Master Assassin",
@@ -3444,7 +3444,7 @@
       ]
     },
     {
-      "name": {"en": "Cavalry Captain", "es": "Capitán de Caballería", "pt": "Capitão da Cavalaria"},
+      "name": {"en": "Cavalry Captain", "es": "Capitán de Caballería", "pt": "Capitão da Cavalaria", "zh-CN": "骑兵队长"},
       "kind": "monster",
       "model": "MONSTER_MODEL_HEAD_MOUNTER",
       "soundSet": "Cavalry Captain",
@@ -3458,7 +3458,7 @@
       ]
     },
     {
-      "name": {"en": "Shield Bearer", "es": "Portador de Escudo", "pt": "Portador do escudo"},
+      "name": {"en": "Shield Bearer", "es": "Portador de Escudo", "pt": "Portador do escudo", "zh-CN": "持盾卫兵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEFENDER",
       "soundSet": "Shield Bearer",
@@ -3472,7 +3472,7 @@
       ]
     },
     {
-      "name": {"en": "Medic", "es": "Médico", "pt": "Médico"},
+      "name": {"en": "Medic", "es": "Médico", "pt": "Médico", "zh-CN": "医师"},
       "kind": "monster",
       "model": "MONSTER_MODEL_FORSAKER",
       "soundSet": "Medic",
@@ -3486,7 +3486,7 @@
       ]
     },
     {
-      "name": {"en": "Knights", "es": "Caballeros", "pt": "Cavaleiros"},
+      "name": {"en": "Knights", "es": "Caballeros", "pt": "Cavaleiros", "zh-CN": "骑士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_OCELOT",
       "numbers": [
@@ -3494,7 +3494,7 @@
       ]
     },
     {
-      "name": {"en": "Bodyguard", "es": "Guardaespaldas", "pt": "Guarda-costas"},
+      "name": {"en": "Bodyguard", "es": "Guardaespaldas", "pt": "Guarda-costas", "zh-CN": "护卫"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ERIC",
       "numbers": [
@@ -3511,7 +3511,7 @@
       ]
     },
     {
-      "name": {"en": "Trap", "es": "Trampa", "pt": "Armadilha"},
+      "name": {"en": "Trap", "es": "Trampa", "pt": "Armadilha", "zh-CN": "陷阱"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -3520,7 +3520,7 @@
       ]
     },
     {
-      "name": {"en": "Castle Gate 1", "es": "Puerta del Castillo 1", "pt": "Portão 1 do castelo"},
+      "name": {"en": "Castle Gate 1", "es": "Puerta del Castillo 1", "pt": "Portão 1 do castelo", "zh-CN": "城门1"},
       "kind": "monster",
       "model": "MONSTER_MODEL_EVIL_GATE",
       "numbers": [
@@ -3528,7 +3528,7 @@
       ]
     },
     {
-      "name": {"en": "Castle Gate 2", "es": "Puerta del Castillo 2", "pt": "Portão 2 do castelo"},
+      "name": {"en": "Castle Gate 2", "es": "Puerta del Castillo 2", "pt": "Portão 2 do castelo", "zh-CN": "城门2"},
       "kind": "monster",
       "model": "MONSTER_MODEL_LION_GATE",
       "numbers": [
@@ -3536,7 +3536,7 @@
       ]
     },
     {
-      "name": {"en": "Stone Statue 1", "es": "Estatua de Piedra 1", "pt": "Estátua de pedra 1"},
+      "name": {"en": "Stone Statue 1", "es": "Estatua de Piedra 1", "pt": "Estátua de pedra 1", "zh-CN": "石像1"},
       "kind": "monster",
       "model": "MONSTER_MODEL_STATUE",
       "numbers": [
@@ -3544,7 +3544,7 @@
       ]
     },
     {
-      "name": {"en": "Castle Gate 3", "es": "Puerta del Castillo 3", "pt": "Portão 3 do castelo"},
+      "name": {"en": "Castle Gate 3", "es": "Puerta del Castillo 3", "pt": "Portão 3 do castelo", "zh-CN": "城门3"},
       "kind": "monster",
       "model": "MONSTER_MODEL_STAR_GATE",
       "numbers": [
@@ -3552,7 +3552,7 @@
       ]
     },
     {
-      "name": {"en": "Castle Gate 4", "es": "Puerta del Castillo 4", "pt": "Portão 4 do castelo"},
+      "name": {"en": "Castle Gate 4", "es": "Puerta del Castillo 4", "pt": "Portão 4 do castelo", "zh-CN": "城门4"},
       "kind": "monster",
       "model": "MONSTER_MODEL_RUSH_GATE",
       "numbers": [
@@ -3578,7 +3578,7 @@
       ]
     },
     {
-      "name": {"en": "Doppelganger", "es": "Doppelganger", "pt": "Doppelganger"},
+      "name": {"en": "Doppelganger", "es": "Doppelganger", "pt": "Doppelganger", "zh-CN": "分身"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DOPPELGANGER",
       "soundSet": "Doppelganger",
@@ -3587,7 +3587,7 @@
       ]
     },
     {
-      "name": {"en": "Doppelganger Elf", "es": "Elfo Doppelganger", "pt": "Elfo Doppelganger "},
+      "name": {"en": "Doppelganger Elf", "es": "Elfo Doppelganger", "pt": "Elfo Doppelganger ", "zh-CN": "弓箭手分身"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -3595,7 +3595,7 @@
       ]
     },
     {
-      "name": {"en": "Doppelganger Knight", "es": "Caballero Doppelganger", "pt": "Cavaleiro Doppelganger"},
+      "name": {"en": "Doppelganger Knight", "es": "Caballero Doppelganger", "pt": "Cavaleiro Doppelganger", "zh-CN": "剑士分身"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -3603,7 +3603,7 @@
       ]
     },
     {
-      "name": {"en": "Doppelganger Wizard", "es": "Mago Doppelganger", "pt": "Mago Doppelganger"},
+      "name": {"en": "Doppelganger Wizard", "es": "Mago Doppelganger", "pt": "Mago Doppelganger", "zh-CN": "魔法师分身"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -3611,7 +3611,7 @@
       ]
     },
     {
-      "name": {"en": "Doppelganger Magic Gladiator", "es": "Gladiador Mágico Doppelganger", "pt": "Gladiador mágico Doppelganger"},
+      "name": {"en": "Doppelganger Magic Gladiator", "es": "Gladiador Mágico Doppelganger", "pt": "Gladiador mágico Doppelganger", "zh-CN": "魔剑士分身"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -3619,7 +3619,7 @@
       ]
     },
     {
-      "name": {"en": "Doppelganger Dark Lord", "es": "Señor Oscuro Doppelganger", "pt": "Lorde negro Doppelganger"},
+      "name": {"en": "Doppelganger Dark Lord", "es": "Señor Oscuro Doppelganger", "pt": "Lorde negro Doppelganger", "zh-CN": "圣导师分身"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -3627,7 +3627,7 @@
       ]
     },
     {
-      "name": {"en": "Doppelganger Summoner", "es": "Invocadora Doppelganger", "pt": "Invocador Doppelganger"},
+      "name": {"en": "Doppelganger Summoner", "es": "Invocadora Doppelganger", "pt": "Invocador Doppelganger", "zh-CN": "召唤术师分身"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -3644,7 +3644,7 @@
       ]
     },
     {
-      "name": {"en": "Interim Reward Chest", "es": "Arcón de Recompensa Provisorio", "pt": "Baú de recompensa temporário"},
+      "name": {"en": "Interim Reward Chest", "es": "Arcón de Recompensa Provisorio", "pt": "Baú de recompensa temporário", "zh-CN": "阶段奖励宝箱"},
       "kind": "npc",
       "model": "MODEL_DOPPELGANGER_NPC_BOX",
       "soundSet": "Interim Reward Chest",
@@ -3653,7 +3653,7 @@
       ]
     },
     {
-      "name": {"en": "Final Reward Chest", "es": "Arcón de Recompensa Final", "pt": "Baú de recompensa final"},
+      "name": {"en": "Final Reward Chest", "es": "Arcón de Recompensa Final", "pt": "Baú de recompensa final", "zh-CN": "最终奖励宝箱"},
       "kind": "npc",
       "model": "MODEL_DOPPELGANGER_NPC_GOLDENBOX",
       "soundSet": "Interim Reward Chest",
@@ -3702,7 +3702,7 @@
       ]
     },
     {
-      "name": {"en": "Transformed Skeleton", "es": "Esqueleto transformado", "pt": "Esqueleto transformado"},
+      "name": {"en": "Transformed Skeleton", "es": "Esqueleto transformado", "pt": "Esqueleto transformado", "zh-CN": "变身骷髅"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -3862,7 +3862,7 @@
       ]
     },
     {
-      "name": {"en": "Medusa", "es": "Medusa", "pt": "Medusa"},
+      "name": {"en": "Medusa", "es": "Medusa", "pt": "Medusa", "zh-CN": "美杜莎"},
       "kind": "monster",
       "model": "MONSTER_MODEL_MEDUSA",
       "attacks": {
@@ -3875,7 +3875,7 @@
       ]
     },
     {
-      "name": {"en": "Dark Mammoth", "es": "Mamut Oscuro", "pt": "Mamute negro"},
+      "name": {"en": "Dark Mammoth", "es": "Mamut Oscuro", "pt": "Mamute negro", "zh-CN": "暗黑猛犸"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DARK_MAMMOTH",
       "soundSet": "Dark Mammoth",
@@ -3889,7 +3889,7 @@
       ]
     },
     {
-      "name": {"en": "Dark Giant", "es": "Gigante Oscuro", "pt": "Gigante negro"},
+      "name": {"en": "Dark Giant", "es": "Gigante Oscuro", "pt": "Gigante negro", "zh-CN": "暗黑巨人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DARK_GIANT",
       "soundSet": "Dark Giant",
@@ -3917,7 +3917,7 @@
       ]
     },
     {
-      "name": {"en": "Dark Iron Knight", "es": "Caballero de Hierro Oscuro", "pt": "Cavaleiro de ferro negro"},
+      "name": {"en": "Dark Iron Knight", "es": "Caballero de Hierro Oscuro", "pt": "Cavaleiro de ferro negro", "zh-CN": "暗黑铁甲骑士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DARK_IRON_KNIGHT",
       "soundSet": "Dark Iron Knight",
@@ -4051,7 +4051,7 @@
       ]
     },
     {
-      "name": {"en": "Scarecrow", "es": "Scarecrow", "pt": "Scarecrow"},
+      "name": {"en": "Scarecrow", "es": "Scarecrow", "pt": "Scarecrow", "zh-CN": "稻草人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -4060,7 +4060,7 @@
       ]
     },
     {
-      "name": {"en": "Cursed Statue"},
+      "name": {"en": "Cursed Statue", "zh-CN": "诅咒石像"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -4069,7 +4069,7 @@
       ]
     },
     {
-      "name": {"en": "Captured Stone Statue (1)"},
+      "name": {"en": "Captured Stone Statue (1)", "zh-CN": "被占领的石像（1）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -4078,7 +4078,7 @@
       ]
     },
     {
-      "name": {"en": "Captured Stone Statue (2)"},
+      "name": {"en": "Captured Stone Statue (2)", "zh-CN": "被占领的石像（2）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -4087,7 +4087,7 @@
       ]
     },
     {
-      "name": {"en": "Captured Stone Statue (3)"},
+      "name": {"en": "Captured Stone Statue (3)", "zh-CN": "被占领的石像（3）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -4096,7 +4096,7 @@
       ]
     },
     {
-      "name": {"en": "Captured Stone Statue (4)"},
+      "name": {"en": "Captured Stone Statue (4)", "zh-CN": "被占领的石像（4）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -4105,7 +4105,7 @@
       ]
     },
     {
-      "name": {"en": "Captured Stone Statue (5)"},
+      "name": {"en": "Captured Stone Statue (5)", "zh-CN": "被占领的石像（5）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -4114,7 +4114,7 @@
       ]
     },
     {
-      "name": {"en": "Captured Stone Statue (6)"},
+      "name": {"en": "Captured Stone Statue (6)", "zh-CN": "被占领的石像（6）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -4123,7 +4123,7 @@
       ]
     },
     {
-      "name": {"en": "Captured Stone Statue (7)"},
+      "name": {"en": "Captured Stone Statue (7)", "zh-CN": "被占领的石像（7）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -4132,7 +4132,7 @@
       ]
     },
     {
-      "name": {"en": "Captured Stone Statue (8)"},
+      "name": {"en": "Captured Stone Statue (8)", "zh-CN": "被占领的石像（8）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -4141,7 +4141,7 @@
       ]
     },
     {
-      "name": {"en": "Captured Stone Statue (9)"},
+      "name": {"en": "Captured Stone Statue (9)", "zh-CN": "被占领的石像（9）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
@@ -4150,7 +4150,7 @@
       ]
     },
     {
-      "name": {"en": "Captured Stone Statue (10)"},
+      "name": {"en": "Captured Stone Statue (10)", "zh-CN": "被占领的石像（10）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BULL_FIGHTER",
       "soundSet": "Bull Fighter",
