@@ -41,7 +41,7 @@ def update_file(path, mappings, seen):
             indent = re.search(r'\n( +)"', old).group(1)
             new = old[:insertion].rstrip() + ',\n' + indent + '"zh-CN": ' + value + old[insertion:]
         else:
-            new = old[:-1].rstrip() + ', "zh-CN": ' + value + ' }'
+            new = old[:-1].rstrip() + ', "zh-CN": ' + value + '}'
         changes.append((block.start(), block.end(), new))
     for start, end, replacement in reversed(changes):
         text = text[:start] + replacement + text[end:]
