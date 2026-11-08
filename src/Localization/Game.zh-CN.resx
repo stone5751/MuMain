@@ -831,4 +831,190 @@
   <data name="Base Attributes" xml:space="preserve">
     <value>基础属性</value>
   </data>
+  <data name="Activation Skill" xml:space="preserve">
+    <value>触发技能</value>
+  </data>
+  <data name="Activation Skill 1" xml:space="preserve">
+    <value>触发技能 1</value>
+  </data>
+  <data name="Activation Skill 2" xml:space="preserve">
+    <value>触发技能 2</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>添加</value>
+  </data>
+  <data name="Add Extra Item" xml:space="preserve">
+    <value>自定义拾取</value>
+  </data>
+  <data name="Attack Together" xml:space="preserve">
+    <value>协同攻击</value>
+  </data>
+  <data name="Auto Attack" xml:space="preserve">
+    <value>自动攻击</value>
+  </data>
+  <data name="Auto Heal" xml:space="preserve">
+    <value>自动治疗</value>
+  </data>
+  <data name="Auto Potion" xml:space="preserve">
+    <value>自动喝药</value>
+  </data>
+  <data name="Auto Recovery" xml:space="preserve">
+    <value>自动恢复</value>
+  </data>
+  <data name="Auto accept - Friend" xml:space="preserve">
+    <value>自动接受好友请求</value>
+  </data>
+  <data name="Auto accept - Guild Member" xml:space="preserve">
+    <value>自动接受入盟请求</value>
+  </data>
+  <data name="Basic Skill" xml:space="preserve">
+    <value>基础技能</value>
+  </data>
+  <data name="BasicAttackFallback" xml:space="preserve">
+    <value>无法施放时普通攻击</value>
+  </data>
+  <data name="Buff Duration" xml:space="preserve">
+    <value>增益持续时间</value>
+  </data>
+  <data name="Buff Duration for All Party Members" xml:space="preserve">
+    <value>保持全队增益</value>
+  </data>
+  <data name="Buff Support" xml:space="preserve">
+    <value>辅助增益</value>
+  </data>
+  <data name="Cease Attack" xml:space="preserve">
+    <value>停止攻击</value>
+  </data>
+  <data name="Combo" xml:space="preserve">
+    <value>连击</value>
+  </data>
+  <data name="Con" xml:space="preserve">
+    <value>条件</value>
+  </data>
+  <data name="Delay" xml:space="preserve">
+    <value>间隔</value>
+  </data>
+  <data name="Distance" xml:space="preserve">
+    <value>距离</value>
+  </data>
+  <data name="Drain Life" xml:space="preserve">
+    <value>吸血</value>
+  </data>
+  <data name="Excellent Item" xml:space="preserve">
+    <value>卓越物品</value>
+  </data>
+  <data name="HP Status" xml:space="preserve">
+    <value>生命值</value>
+  </data>
+  <data name="HP Status of Party Members" xml:space="preserve">
+    <value>队员生命值</value>
+  </data>
+  <data name="Heal Support" xml:space="preserve">
+    <value>辅助治疗</value>
+  </data>
+  <data name="Hunting" xml:space="preserve">
+    <value>战斗</value>
+  </data>
+  <data name="InOrderToUseComboSkill" xml:space="preserve">
+    <value>使用连击前，请先设置基础技能和触发技能。</value>
+  </data>
+  <data name="Initialization" xml:space="preserve">
+    <value>重置</value>
+  </data>
+  <data name="Jewel/Gem" xml:space="preserve">
+    <value>宝石</value>
+  </data>
+  <data name="Long-Distance Counter Attack" xml:space="preserve">
+    <value>远程反击</value>
+  </data>
+  <data name="Monster Attacking Me" xml:space="preserve">
+    <value>攻击我的怪物</value>
+  </data>
+  <data name="Monster Within Hunting range" xml:space="preserve">
+    <value>战斗范围内的怪物</value>
+  </data>
+  <data name="More Than 2 Mobs" xml:space="preserve">
+    <value>超过 2 只怪物</value>
+  </data>
+  <data name="More Than 3 Mobs" xml:space="preserve">
+    <value>超过 3 只怪物</value>
+  </data>
+  <data name="More than 4 mobs" xml:space="preserve">
+    <value>超过 4 只怪物</value>
+  </data>
+  <data name="More than 5 mobs" xml:space="preserve">
+    <value>超过 5 只怪物</value>
+  </data>
+  <data name="No Extension Function Being Used" xml:space="preserve">
+    <value>未使用扩展功能</value>
+  </data>
+  <data name="Obtaining" xml:space="preserve">
+    <value>拾取</value>
+  </data>
+  <data name="Official MU Helper" xml:space="preserve">
+    <value>奇迹助手</value>
+  </data>
+  <data name="Official MU Helper Setting" xml:space="preserve">
+    <value>奇迹助手设置</value>
+  </data>
+  <data name="Original Position" xml:space="preserve">
+    <value>返回原位</value>
+  </data>
+  <data name="Other Settings" xml:space="preserve">
+    <value>其他设置</value>
+  </data>
+  <data name="PVP Counterattack" xml:space="preserve">
+    <value>玩家攻击反击</value>
+  </data>
+  <data name="Party" xml:space="preserve">
+    <value>组队</value>
+  </data>
+  <data name="Pick All Near Items" xml:space="preserve">
+    <value>拾取周围所有物品</value>
+  </data>
+  <data name="Pick Selected Items" xml:space="preserve">
+    <value>拾取指定物品</value>
+  </data>
+  <data name="Potion" xml:space="preserve">
+    <value>药水</value>
+  </data>
+  <data name="Pre-con" xml:space="preserve">
+    <value>触发目标</value>
+  </data>
+  <data name="Preference of Party Heal" xml:space="preserve">
+    <value>优先治疗队员</value>
+  </data>
+  <data name="Range" xml:space="preserve">
+    <value>范围</value>
+  </data>
+  <data name="Save Setting" xml:space="preserve">
+    <value>保存设置</value>
+  </data>
+  <data name="Set Item" xml:space="preserve">
+    <value>套装物品</value>
+  </data>
+  <data name="Setting" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="Start Official MU Helper" xml:space="preserve">
+    <value>启动奇迹助手</value>
+  </data>
+  <data name="Stop Official MU Helper" xml:space="preserve">
+    <value>停止奇迹助手</value>
+  </data>
+  <data name="Sub-con" xml:space="preserve">
+    <value>数量条件</value>
+  </data>
+  <data name="Time Space of Casting Buff" xml:space="preserve">
+    <value>增益施放间隔</value>
+  </data>
+  <data name="Use Dark Spirits" xml:space="preserve">
+    <value>使用天鹰</value>
+  </data>
+  <data name="Used Extension function" xml:space="preserve">
+    <value>已使用扩展功能</value>
+  </data>
+  <data name="Zen" xml:space="preserve">
+    <value>金币</value>
+  </data>
 </root>
