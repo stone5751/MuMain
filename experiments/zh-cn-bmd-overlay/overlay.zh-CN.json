@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "status": "OFFLINE-PROTOTYPE-NOT-LOADED-BY-CLIENT",
+  "locale": "zh-CN",
+  "sourceSha256": {
+    "skill_eng.bmd": "8ca29f43317552a639fea84153dafb1cc263453318bbbe6d40ca41caacb69982",
+    "Quest_eng.bmd": "561994c1857edf66c253d868c9babc9b86ab41af104ec162c4131e3bd850f89b",
+    "QuestWords_eng.bmd": "2487b6e90ac044f70506936add51eb069c4c6a4a7451e2aaa831d5ed0da2297e"
+  },
+  "entries": [
+    {"kind": "skills", "id": 2, "english": "Meteorite", "zh-CN": "陨石术", "basis": "AT_SKILL_METEO=2; existing Scroll of Meteorite terminology"},
+    {"kind": "skills", "id": 3, "english": "Lightning", "zh-CN": "掌心雷", "basis": "AT_SKILL_LIGHTNING=3; existing Scroll of Lighting terminology"},
+    {"kind": "skills", "id": 4, "english": "Fire Ball", "zh-CN": "火球术", "basis": "AT_SKILL_FIREBALL=4; existing Scroll of Fire Ball terminology"},
+    {"kind": "quest-titles", "id": 0, "english": "Find the 'Scroll of Emperor'!", "zh-CN": "寻找帝王之书", "basis": "Quest index 0; https://mu.zhaouc.com/Guide/GameSystem/08_quest.html"},
+    {"kind": "quest-titles", "id": 1, "english": "Three Treasures of Mu", "zh-CN": "奇迹大陆的三种宝物", "basis": "Quest index 1; https://mu.zhaouc.com/Guide/GameSystem/08_quest.html"},
+    {"kind": "quest-words", "id": 2, "english": "Continue listening.", "zh-CN": "继续听下去。", "basis": "Explicit QuestWords ID 2"},
+    {"kind": "quest-words", "id": 15, "english": "It's nice to meet you.;May I ask who you are?", "zh-CN": "很高兴认识你。;请问你是谁？", "basis": "Explicit QuestWords ID 15; retain semicolon separator"},
+    {"kind": "quest-words", "id": 16, "english": "Alright! Let's get started with the tutorial.", "zh-CN": "好！让我们开始新手教学吧。", "basis": "Explicit QuestWords ID 16"}
+  ]
+}
