@@ -3177,4 +3177,28 @@
   <data name="Jewel cannot be used on durability 0 item (repair)." xml:space="preserve">
     <value>耐久度为 0 的物品无法使用宝石，请先修理。</value>
   </data>
+  <data name="Reward" xml:space="preserve"><value>奖励</value></data>
+  <data name="None" xml:space="preserve"><value>无</value></data>
+  <data name="Requirements" xml:space="preserve"><value>任务条件</value></data>
+  <data name="Open Character Stats (C) Window" xml:space="preserve"><value>打开角色属性窗口（C）</value></data>
+  <data name="Contribution: %lu" xml:space="preserve"><value>贡献：%lu</value></data>
+  <data name="Chaos Castle Lv.%lu Guardsman x %lu/%lu" xml:space="preserve"><value>赤色要塞%lu层 卫兵 %lu/%lu</value></data>
+  <data name="Chaos Castle Lv.%lu Player x %lu/%lu" xml:space="preserve"><value>赤色要塞%lu层 玩家 %lu/%lu</value></data>
+  <data name="Chaos Castle Lv.%lu Cleared" xml:space="preserve"><value>通关赤色要塞%lu层</value></data>
+  <data name="Blood Castle Lv.%lu Gate Destruction x %lu/%lu" xml:space="preserve"><value>血色城堡%lu层 破坏城门 %lu/%lu</value></data>
+  <data name="Blood Castle Lv.%lu Cleared" xml:space="preserve"><value>通关血色城堡%lu层</value></data>
+  <data name="Devil Square Lv.%lu Point x %lu/%lu" xml:space="preserve"><value>恶魔广场%lu层 积分 %lu/%lu</value></data>
+  <data name="Devil Square Lv.%lu Cleared" xml:space="preserve"><value>通关恶魔广场%lu层</value></data>
+  <data name="Illusion Temple Lv.%lu Cleared" xml:space="preserve"><value>通关幻影寺院%lu层</value></data>
+  <data name="Random Reward (%lu different kinds)" xml:space="preserve"><value>随机奖励（%lu种）</value></data>
+  <data name="Enemy Gens Member x %lu/%lu" xml:space="preserve"><value>敌对家族成员 %lu/%lu</value></data>
+  <data name="QuestRewardBuffBonus" xml:space="preserve"><value>增益：%ls，持续%lu分钟</value></data>
+  <data name="QuestRequirementMonster" xml:space="preserve"><value>怪物：%ls %lu/%lu</value></data>
+  <data name="QuestRequirementItem" xml:space="preserve"><value>物品：%ls %lu/%lu</value></data>
+  <data name="QuestRequirementLevel" xml:space="preserve"><value>等级：%lu以上</value></data>
+  <data name="QuestRequirementZen" xml:space="preserve"><value>金币：%lu</value></data>
+  <data name="QuestRewardExp" xml:space="preserve"><value>经验：%lu</value></data>
+  <data name="QuestRewardZen" xml:space="preserve"><value>金币：%lu</value></data>
+  <data name="QuestRewardItem" xml:space="preserve"><value>物品：%ls × %lu</value></data>
+  <data name="QuestRequirementBuff" xml:space="preserve"><value>增益：%ls</value></data>
 </root>
