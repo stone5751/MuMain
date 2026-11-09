@@ -146,8 +146,12 @@ TEST_CASE("BMD overlay preserves formatting and paragraph tokens [data][i18n]")
 
 TEST_CASE("BMD overlay limits each display buffer in UTF16 units [data][i18n]")
 {
-    for (const auto& [kind, capacity] : std::vector<std::pair<std::string, std::size_t>>{
-             {"skills", 49}, {"quest-titles", 31}, {"quest-words", 50}, {"slides", 255}, {"quest-dialogue", 200}})
+    for (const auto& [kind, capacity] : std::vector<std::pair<std::string, std::size_t>>{{"skills", 49},
+                                                                                         {"quest-titles", 31},
+                                                                                         {"quest-words", 50},
+                                                                                         {"slides", 255},
+                                                                                         {"quest-dialogue", 200},
+                                                                                         {"quest-summary", 200}})
     {
         BmdTextOverlay overlay;
         auto document = Sample();
@@ -251,6 +255,92 @@ TEST_CASE("shipped Chinese NPC bodies fit the existing paginated line buffers [d
         CHECK(withoutSpaces(joined) == withoutSpaces(text));
     }
 }
+
+TEST_CASE("long quest summaries stay isolated and switch without changing quest state [data][i18n]")
+{
+    class SummaryFixture : public CQuestMng
+    {
+    public:
+        SummaryFixture()
+        {
+            m_mapQuestWords[4] = L"Original summary";
+            auto& quest = m_mapQuestProgress[1];
+            quest = {};
+            quest.m_nSummary = quest.m_nSubject = quest.m_nPlayerWords = quest.m_anAnswer[0] = 4;
+        }
+    } quest;
+    auto document = Sample();
+    document["entries"][0] = {
+        {"kind", "quest-summary"}, {"id", 4}, {"english", "Original summary"}, {"zh-CN", std::string(180, 'x')}};
+    auto& overlay = BmdTextOverlay::Instance();
+    const std::string previousLocale = I18N::GetCurrentLocale();
+    CHECK(Load(overlay, document));
+    for (const auto* locale : {"zh-CN", "en", "zh-CN"})
+    {
+        I18N::SetLocale(locale);
+        const auto expected = std::string_view(locale) == "zh-CN" ? std::wstring(180, L'x') : L"Original summary";
+        CHECK(std::wstring(quest.GetSummary(1)) == expected);
+        CHECK(std::wstring(quest.GetSubject(1)) == L"Original summary");
+        CHECK(std::wstring(quest.GetPlayerWords(1)) == L"Original summary");
+        CHECK(std::wstring(quest.GetAnswer(1, 0)) == L"Original summary");
+    }
+    I18N::SetLocale(previousLocale.c_str());
+    for (const auto* kind : {"quest-words", "quest-dialogue", "quest-summary"})
+    {
+        auto duplicate = document;
+        auto row = duplicate["entries"][0];
+        row["kind"] = kind;
+        row["zh-CN"] = "short";
+        duplicate["entries"].push_back(row);
+        CHECK_FALSE(Load(overlay, duplicate));
+        CHECK(overlay.Size() == 0);
+    }
+}
+
+TEST_CASE("every shipped quest record resolves with exact source and English fallback [data][i18n]")
+{
+    std::ifstream file(MU_TEST_DATA_DIR "/Local/BmdText.zh-CN.json");
+    const auto document = nlohmann::json::parse(file);
+    BmdTextOverlay overlay;
+    REQUIRE(Load(overlay, document));
+    std::size_t count = 0;
+    for (const auto& row : document.at("entries"))
+    {
+        const auto name = row.at("kind").get<std::string>();
+        if (name != "quest-words" && name != "quest-dialogue" && name != "quest-summary")
+            continue;
+        const auto kind = name == "quest-words"      ? Kind::QuestWords
+                          : name == "quest-dialogue" ? Kind::QuestDialogue
+                                                     : Kind::QuestSummary;
+        const auto original = StringUtils::NarrowToWide(row.at("english").get<std::string>());
+        const auto chinese = StringUtils::NarrowToWide(row.at("zh-CN").get<std::string>());
+        const auto id = row.at("id").get<int>();
+        INFO("QuestWords ID: " << id);
+        CHECK(std::wstring(overlay.Resolve(kind, id, original.c_str(), "zh-CN")) == chinese);
+        CHECK(overlay.Resolve(kind, id, original.c_str(), "en") == original.c_str());
+        CHECK(std::wstring(overlay.Resolve(kind, id, L"Changed source", "zh-CN")) == L"Changed source");
+        ++count;
+    }
+    CHECK(count == 2288);
+}
+
+#ifdef _WIN32
+TEST_CASE("legacy malformed UTF8 keeps the Windows source guard without changing English [data][i18n]")
+{
+    constexpr char Source[] = "\xc3\xa2\xb0\xed"; // CP949 prefix of the existing warehouse dialogue.
+    wchar_t original[8]{};
+    REQUIRE(MultiByteToWideChar(CP_UTF8, 0, Source, 4, original, 8) > 0);
+    auto document = Sample();
+    document["entries"][0] = {
+        {"kind", "quest-dialogue"}, {"id", 7001}, {"english", StringUtils::WideToNarrow(original)}, {"zh-CN", "仓库"}};
+    BmdTextOverlay overlay;
+    REQUIRE(Load(overlay, document));
+    CHECK(std::wstring(overlay.Resolve(Kind::QuestDialogue, 7001, original, "zh-CN")) == L"仓库");
+    CHECK(overlay.Resolve(Kind::QuestDialogue, 7001, original, "en") == original);
+    document["entries"][0]["zh-CN"] = "\xef\xbf\xbd";
+    CHECK_FALSE(Load(overlay, document));
+}
+#endif
 
 TEST_CASE("BMD skill accessor switches language without mutating attributes [data][i18n]")
 {

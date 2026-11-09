@@ -428,7 +428,8 @@ const wchar_t* CQuestMng::GetSummary(DWORD dwQuestIndex)
     if (iter == m_mapQuestProgress.end())
         return NULL;
 
-    return GetWords(iter->second.m_nSummary);
+    const auto id = iter->second.m_nSummary;
+    return Data::Translation::BmdDisplayText(Data::Translation::BmdTextOverlay::Kind::QuestSummary, id, GetWords(id));
 }
 
 bool CQuestMng::IsRequestRewardQS(DWORD dwQuestIndex)

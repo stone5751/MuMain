@@ -13,6 +13,8 @@
 #include "UI/Dialogs/GenericConfirmDialog.h"
 #include "Engine/Object/ZzzInventory.h"
 #include "Core/Utilities/StringUtils.h"
+#include "Core/Text/TextLineWrap.h"
+#include "Render/Text/CUIRenderText.h"
 #include "UI/Scaling/UITransform.h"
 #include "Render/RmlUi/RmlUiRuntime.h"
 #include "UI/RmlBridge/RmlElementBox.h"
@@ -26,6 +28,8 @@
 #include <RmlUi/Core/DataModelHandle.h>
 #include <RmlUi/Core/ElementDocument.h>
 #include <RmlUi/Core/Event.h>
+#include <algorithm>
+#include <string_view>
 
 using namespace SEASON3B;
 using namespace mu::ui::window;
@@ -50,6 +54,28 @@ mu::ui::window::CMyQuestInfoWindow::BuildTextLines(const wchar_t* text, int nPix
 
 namespace
 {
+std::vector<std::wstring> BuildSummaryLines(const wchar_t* text)
+{
+    if (text == nullptr)
+        return {};
+    constexpr int SummaryWidth = 150;
+    if (std::string_view(I18N::GetCurrentLocale()) == "zh-CN")
+    {
+        // The RmlUi contents already scroll; keep all translated summary lines.
+        std::wstring paragraphs(text);
+        std::replace(paragraphs.begin(), paragraphs.end(), L';', L'\n');
+        constexpr int WrapMargin = 5;
+        return WrapTextToWidth(paragraphs, SummaryWidth - WrapMargin, [](const wchar_t* line, std::size_t length)
+                               { return g_pRenderText->MeasureText(line, static_cast<int>(length)).cx; });
+    }
+    wchar_t lines[8][64]{};
+    const auto count = ::DivideStringByPixel(&lines[0][0], 8, 64, text, SummaryWidth);
+    std::vector<std::wstring> result;
+    for (int i = 0; i < count; ++i)
+        result.emplace_back(lines[i]);
+    return result;
+}
+
 // The job change tab's quest state line, by CSQuest::getCurrQuestState().
 const wchar_t* GetJobChangeStateText(BYTE byState)
 {
@@ -316,11 +342,9 @@ void mu::ui::window::CMyQuestInfoWindow::SetSelQuestSummary()
     m_ContentRows.push_back({StringUtils::WideToNarrow(g_QuestMng.GetSubject(dwSelQuestIndex)),
                              UI::Quests::RewardModel::RowStyle::Subject, 0, nullptr});
 
-    wchar_t aszSummary[8][64];
-    const int nLine = ::DivideStringByPixel(&aszSummary[0][0], 8, 64, g_QuestMng.GetSummary(dwSelQuestIndex), 150);
-    for (int i = 0; i < nLine; ++i)
+    for (const auto& line : BuildSummaryLines(g_QuestMng.GetSummary(dwSelQuestIndex)))
         m_ContentRows.push_back(
-            {StringUtils::WideToNarrow(aszSummary[i]), UI::Quests::RewardModel::RowStyle::Summary, 0, nullptr});
+            {StringUtils::WideToNarrow(line.c_str()), UI::Quests::RewardModel::RowStyle::Summary, 0, nullptr});
 }
 
 void mu::ui::window::CMyQuestInfoWindow::SetSelQuestRequestReward()

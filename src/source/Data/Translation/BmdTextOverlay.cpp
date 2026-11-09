@@ -24,7 +24,7 @@ constexpr int SlideCount = 5 * BmdTextOverlay::SlideSlotsPerLevel;
 // space for the numbered prefix, even when a future entry is used as a subject.
 // Dialogue-only accessors wrap into 35 rows; never use this larger limit for
 // list subjects or answers that share the original QuestWords table.
-constexpr std::array<std::size_t, 5> TextLimits = {49, 31, 50, 255, 200};
+constexpr std::array<std::size_t, 6> TextLimits = {49, 31, 50, 255, 200, 200};
 
 Kind ParseKind(const std::string& name)
 {
@@ -38,12 +38,15 @@ Kind ParseKind(const std::string& name)
         return Kind::Slide;
     if (name == "quest-dialogue")
         return Kind::QuestDialogue;
+    if (name == "quest-summary")
+        return Kind::QuestSummary;
     throw std::runtime_error("Unknown BMD text kind");
 }
 
 int ReadId(const nlohmann::json& value, Kind kind)
 {
-    constexpr std::array<int, 5> limits = {SkillCount, QuestCount, MaximumWordsId, SlideCount, MaximumWordsId};
+    constexpr std::array<int, 6> limits = {SkillCount, QuestCount,     MaximumWordsId,
+                                           SlideCount, MaximumWordsId, MaximumWordsId};
     if (!value.is_number_integer() || value < 0 || value >= limits[static_cast<std::size_t>(kind)])
         throw std::runtime_error("Invalid BMD text ID");
     return value.get<int>();
@@ -83,7 +86,7 @@ void ValidateText(Kind kind, const std::wstring& english, const std::wstring& ch
     if (Utf16Length(chinese) > TextLimits[static_cast<std::size_t>(kind)])
         throw std::runtime_error("BMD overlay text exceeds display capacity");
     for (const auto ch : chinese)
-        if ((ch < L' ' && ch != L'\r' && ch != L'\n' && ch != L'\t') || ch == 0x7f)
+        if ((ch < L' ' && ch != L'\r' && ch != L'\n' && ch != L'\t') || ch == 0x7f || ch == 0xfffd)
             throw std::runtime_error("Unsupported control character");
     if (TextTokens(english) != TextTokens(chinese))
         throw std::runtime_error("Placeholder or paragraph separator mismatch");
@@ -132,11 +135,11 @@ bool BmdTextOverlay::Load(std::istream& input, std::string& error)
         {
             const auto kind = ParseKind(row.at("kind").get<std::string>());
             const auto id = ReadId(row.at("id"), kind);
-            if (kind == Kind::QuestWords || kind == Kind::QuestDialogue)
+            if (kind == Kind::QuestWords || kind == Kind::QuestDialogue || kind == Kind::QuestSummary)
             {
-                const auto other = kind == Kind::QuestWords ? Kind::QuestDialogue : Kind::QuestWords;
-                if (m_entries.contains({other, id}))
-                    throw std::runtime_error("Duplicate QuestWords ID across display roles");
+                for (const auto other : {Kind::QuestWords, Kind::QuestDialogue, Kind::QuestSummary})
+                    if (m_entries.contains({other, id}))
+                        throw std::runtime_error("Duplicate QuestWords ID across display roles");
             }
             Entry entry{ReadText(row.at("english")), ReadText(row.at("zh-CN"))};
             ValidateText(kind, entry.english, entry.chinese);

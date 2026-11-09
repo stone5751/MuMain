@@ -1,0 +1,2289 @@
+﻿id	actual_reference_roles	preserved_from_round5	source_encoding	zh-CN
+1	body	True	utf-8	欢迎来到奇迹世界。;我们一直等待像你这样的勇士，终结昆顿给奇迹大陆带来的混乱。
+2	answer	True	utf-8	继续听下去。
+3	body	True	utf-8	然而，这样的旅程必定充满危险。;如果你愿意，我们可以提供简单的新手教学。你意下如何？
+4	answer	True	utf-8	新手教学？;我很期待！
+5	answer	True	utf-8	新手教学是给孩子的。拒绝帮助。
+6	body	True	utf-8	不会占用你太多时间。我只会简单介绍基本操作和打怪技巧。;你确定不需要我们的帮助吗？
+7	answer	True	utf-8	我已经很有经验了。;每个人都有自己的选择！
+8	answer	True	utf-8	怎能拒绝他的好意呢……;好吧，试试看！
+9	body	True	utf-8	很高兴能够帮到你。我们并不难找。;在各个城镇找到幻影导师，与他交谈即可。
+10	body	True	utf-8	很遗憾没能帮到你。;至少请收下这份礼物。希望下次见面时，你已成为一名出色的勇士。;祝你旅途愉快。
+11	body	True	utf-8	我尊重你踏上旅程的决定。;在奇迹冒险开始前，让我教你一些简单却必不可少的知识。
+12	player	True	utf-8	……这里是弓箭手的王国仙踪林！我的冒险就从这里开始。;真令人兴奋！
+13	player	True	utf-8	……这里是魔法师与剑士的王国勇者大陆！我的冒险就从这里开始。;太好了！冒险开始了！
+14	player	True	utf-8	……这里是召唤术师的王国幻术园！我的冒险就从这里开始。;真令人兴奋！
+15	answer	True	utf-8	很高兴认识你。;请问你是谁？
+16	answer	True	utf-8	好！让我们开始新手教学吧。
+17	body	True	utf-8	啊，还没自我介绍。我叫 Olga。我和幻影守护者的同伴们共同效忠于仙踪林女王 Erin Gustiv。
+18	player	True	utf-8	……幻影守护者？;女王的卫士？
+19	answer	True	utf-8	女王的卫士为什么会在这里？
+20	body	True	utf-8	女王命我们帮助初出茅庐的勇士，让他们至少能够抵御昆顿的势力，保护自己。
+21	player	True	utf-8	……女王竟有这样的命令，真令人感动。
+22	answer	True	utf-8	你们具体会怎样帮助我？
+23	body	True	utf-8	我会通过简单的新手教学，教你基本操作和打怪技巧。;并不难，相信你很快就能学会。
+24	player	True	utf-8	太好了！我一定很快就能完成教学！
+25	answer	True	utf-8	很好！让我们开始新手教学吧。
+26	body	True	utf-8	先从简单的操作开始。;关闭任务窗口，按 C 键或点击屏幕右下方的角色（C）按钮，打开角色属性窗口。
+27	body	False	utf-8	打开角色属性窗口了吗？;这里显示角色名称、等级、当前服务器名称和各项属性。
+28	player	False	utf-8	……这很简单，不过我还想多了解一些……
+29	answer	False	utf-8	能再详细讲讲吗？
+30	answer	False	utf-8	要学的还很多，继续下一步吧。
+31	body	False	utf-8	我再详细说明一下。你还想了解什么？
+32	player	False	utf-8	……我想了解……
+33	answer	False	utf-8	经验值与升级
+34	answer	False	utf-8	角色与服务器选择
+35	answer	False	utf-8	属性点与角色属性
+36	body	False	utf-8	获得经验值即可升级。;查看角色属性窗口或屏幕底部的经验条，就能知道距离下一级还差多少经验。;经验条分为十格，全部填满后即可升级。
+37	player	False	utf-8	……原来如此。接下来我想了解……
+38	answer	False	utf-8	角色与服务器选择
+39	answer	False	utf-8	属性点与角色属性
+40	answer	False	utf-8	已经讲得很清楚了，继续教学吧。
+41	body	False	utf-8	角色属性窗口会显示角色名称、当前服务器名称和职业。同一角色可以进入同一服务器的不同线路。;基础职业有弓箭手、剑士、魔法师和召唤术师。任一基础角色达到220级可解锁魔剑士，达到250级可解锁圣导师。
+42	body	False	utf-8	升级会获得属性点，可用于提升力量、敏捷、体力和智力，影响攻击、防御、生命和魔法等能力。;请谨慎分配。角色的成长方向决定战斗特点，以及能够使用的武器和技能。
+43	body	True	utf-8	现在按 I 键，或点击屏幕右下方的背包（I/V）按钮，打开背包窗口。
+44	body	False	utf-8	背包窗口显示你拥有和已装备的物品。;点击物品可以移动位置；消耗品可右键使用。明白了吗？
+45	player	False	utf-8	当然明白。
+46	answer	False	utf-8	快继续下一步吧！
+47	body	False	utf-8	你真有干劲！好，试着往背包里添点东西。用我刚给你的金币，向商人购买5个苹果。
+48	player	False	utf-8	终于有任务了！是向商人购买5个苹果吗？
+49	answer	False	utf-8	好！我马上回来。
+50	answer	False	utf-8	商人在哪里？
+51	body	False	utf-8	药水商人出售苹果。勇者大陆的少女安娜 在桥对面（128,85）；幻术园的 Silvia 在广场中心1点钟方向（45,227）；仙踪林的精灵安吉拉在城镇中心稍北处（172,124）。
+52	player	False	utf-8	……找商人比想象中难啊。
+53	answer	False	utf-8	怎样查看坐标？
+54	body	False	cp949 (original loader uses UTF-8)	屏幕左上角显示角色当前坐标。沿↖或↘方向移动会改变第一个数字，沿↗或↙方向移动会改变第二个数字。
+55	player	False	utf-8	坐标能帮助确认自己和别人的位置？真方便！
+56	answer	False	utf-8	明白了！给我下一个任务吧！
+57	body	False	utf-8	去找城里的商人，买回5个苹果。;NPC 名称显示为浅蓝色，鼠标移到其身上时，指针会变成齿形标记。
+58	body	False	utf-8	看屏幕右侧，看到刚买的苹果了吗？药水放入背包后会自动登记。;按 Q 键使用苹果、药水等生命恢复物品；按 W 键使用魔法恢复物品。
+59	player	False	utf-8	哇，真方便！
+60	answer	False	utf-8	继续交谈。
+61	body	False	utf-8	现在有药水了，要不要离开安全区，真正去打怪？准备好了吗？
+62	player	False	utf-8	好！终于能大显身手了。
+63	answer	False	utf-8	太好了！要我消灭什么怪物？
+64	answer	False	utf-8	请再讲一遍药水的用法。
+65	body	False	utf-8	走出仙踪林城墙，消灭3只勾尾蝎。;遇到危险就按 Q 键恢复生命。我相信你能完成这次狩猎。
+66	body	False	utf-8	走出勇者大陆城墙，消灭3只幼龙。;遇到危险就按 Q 键恢复生命。我相信你能完成这次狩猎。
+67	body	False	utf-8	走出幻术园城墙，消灭3只 Strange Rabbit。;遇到危险就按 Q 键恢复生命。我相信你能完成这次狩猎。
+68	body	False	utf-8	第一次狩猎顺利完成了！觉得难吗？击杀怪物能获得经验，还会掉落物品和金币。;你可以用鼠标拾取掉落物，也可以按空格键自动拾取。
+69	player	False	utf-8	你说的是空格键？
+70	answer	False	utf-8	这可方便多了。还有其他窍门吗？
+71	answer	False	utf-8	这个我已经知道了。下一个任务是什么？
+72	body	False	utf-8	狩猎时远离城镇或陷入困境，回城卷轴会很有用。你知道怎样使用吗？
+73	player	False	utf-8	……回城卷轴？
+74	answer	False	utf-8	回城卷轴是什么？
+75	answer	False	utf-8	当然知道。下一个任务是什么？
+76	body	False	utf-8	城里的药水商人出售回城卷轴。它是一次性物品，使用后回到最近去过的城镇。;既然说到了，不如去商人那里买一个亲自试试，这样更容易理解。
+77	player	False	utf-8	……嗯，我还不知道有这种东西。
+78	answer	False	utf-8	好，要买几个？
+79	body	False	utf-8	再去找药水商人，买1个回城卷轴就够了。
+80	body	False	utf-8	做得好。在挑战更强的怪物之前，还有一件事。再和我交谈，领取提升攻击力和防御力的增益效果。
+81	player	False	utf-8	提升攻击和防御？听起来不错！
+82	answer	False	utf-8	怎样领取？
+83	body	False	utf-8	关闭任务窗口，再点击我，选择“领取攻击和防御增益”。220级以下的角色都可以领取。;获得后，屏幕左上角会出现图标，角色周围会有蓝光，攻击和防御提升效果持续一小时。
+84	body	False	utf-8	很好！开始下一个任务。既然已经熟悉狩猎，就挑战更强的怪物吧。
+85	player	False	utf-8	尽管吩咐！
+86	answer	False	utf-8	太好了！要我消灭什么怪物？
+87	body	False	utf-8	走出仙踪林城墙，消灭30只瓢虫怪。我相信你能完成这次狩猎。
+88	body	False	utf-8	走出勇者大陆城墙，消灭30只猎犬怪。我相信你能完成这次狩猎。
+89	body	False	utf-8	走出幻术园城墙，消灭30只 Polluted Butterfly。我相信你能完成这次狩猎。
+90	body	False	utf-8	看来你已经掌握狩猎技巧了。打怪时，鼠标左键进行普通攻击，右键使用技能攻击。
+91	player	False	utf-8	……技能攻击？
+92	answer	False	utf-8	在哪里学习技能？
+93	answer	False	utf-8	这些是常识。
+94	body	False	utf-8	注重防御的敏捷弓箭手可以装备武器，使用武器自带技能；注重魔法的智力弓箭手可以购买技能石学习技能。
+95	player	False	utf-8	……具体怎么做？
+96	answer	False	utf-8	我想成为注重防御的弓箭手！
+97	answer	False	utf-8	我想成为注重魔法的弓箭手！
+98	answer	False	utf-8	我还不想决定，先介绍一下吧。
+99	body	False	utf-8	你选择了注重防御的敏捷弓箭手。敏弓擅长华丽的弓术，我给你一把武器，试用后就能了解。
+100	body	False	utf-8	你选择了注重魔法的智力弓箭手。智弓擅长各种召唤和魔法，我送你一颗技能石，让你亲自体会。
+101	body	False	utf-8	剑士擅长强力剑术，既依靠武器，也通过技能石学习技能。我给你一把武器，试用后就能了解。
+102	body	False	utf-8	魔法师可通过魔法书和卷轴掌握多种魔法。我送你一本魔法书，让你亲自体会。
+103	unreferenced	False	utf-8	召唤术师可通过魔法书和卷轴掌握多种魔法。我送你一本魔法书，让你亲自体会。
+104	body	False	utf-8	我给你的武器是一把弩。把背包中的弩放到装备栏就能装备，试试看。
+105	body	False	utf-8	我给你的技能石可以学习召唤哥布林。右键点击物品即可学习，试试看。
+106	body	False	utf-8	我给你的武器是双刃斧。把背包中的双刃斧放到装备栏就能装备，试试看。
+107	body	False	utf-8	我给你的魔法书可以学习火球术。右键点击物品即可学习，试试看。
+108	body	False	utf-8	装备带技能的武器后，可在技能窗口选择该技能使用。;看到屏幕底部中央带数字的栏位了吗？点击第五格右侧、带绿色边框的图标。
+109	body	False	utf-8	通过技能石学习技能后，可在技能窗口选择该技能使用。;看到屏幕底部中央带数字的栏位了吗？点击第五格右侧、带绿色边框的图标。
+110	body	False	utf-8	通过魔法书学习技能后，可在技能窗口选择该技能使用。;看到屏幕底部中央带数字的栏位了吗？点击第五格右侧、带绿色边框的图标。
+111	player	False	utf-8	……就是1、2、3、4、5号栏位旁边的图标……
+112	answer	False	utf-8	明白了！
+113	body	False	utf-8	做得好。现在可用技能中应该有多重箭，点击它的图标。;右侧技能图标变成多重箭了吗？狩猎时右键点击鼠标，就能使用选中的技能。
+114	body	False	utf-8	做得好。现在可用技能中应该有召唤哥布林，点击它的图标。;右侧技能图标变成召唤哥布林了吗？狩猎时右键点击鼠标，就能使用选中的技能。
+115	body	False	utf-8	做得好。现在可用技能中应该有Falling Slash，点击它的图标。;右侧技能图标变成Falling Slash了吗？狩猎时右键点击鼠标，就能使用选中的技能。
+116	body	False	utf-8	做得好。现在可用技能中应该有火球术，点击它的图标。;右侧技能图标变成火球术了吗？狩猎时右键点击鼠标，就能使用选中的技能。
+117	player	False	utf-8	我学会技能了！
+118	answer	False	utf-8	在哪里能学到更多技能？
+119	body	False	utf-8	弓箭手可到仙踪林，向精灵安吉拉（173,124）购买技能石，或向工艺尤达（195,123）购买武器，学习更多技能。
+120	body	False	utf-8	剑士可到勇者大陆，向魔导师帕希（119,112）购买技能石。买到后右键点击即可学习。
+121	body	False	utf-8	魔法师可到勇者大陆，向魔导师帕希（119,112）购买魔法书，或向铁匠汉斯（116,142）购买武器，学习更多技能。
+122	body	False	utf-8	召唤术师可到幻术园，向 Marce（36,218）购买魔法书。买到后右键点击即可学习。
+123	player	False	utf-8	……看来多认识些 NPC 很有用。
+124	answer	False	utf-8	明白了。下一个任务是什么？
+125	body	False	utf-8	教学快结束了。既然学会了技能，就再积累些战斗经验吧。达到指定等级后回来，我会奖励你一匹独角兽。
+126	player	False	utf-8	……独角兽？
+127	answer	False	utf-8	独角兽是什么？
+128	answer	False	utf-8	要达到多少级？
+129	body	False	utf-8	独角兽是野外使用的坐骑。将它装备到背包窗口左上角的栏位，就能更快地在野外移动。
+130	player	False	utf-8	……太棒了！
+131	answer	False	utf-8	要达到多少级？
+132	body	False	utf-8	达到25级后再回来。;到时我会送你一匹独角兽。
+133	body	False	utf-8	你已经成长为出色的勇士，女王也会为你骄傲。其实，她为像你这样的勇士准备了一些礼物。
+134	player	False	utf-8	……女王真体贴！
+135	answer	False	utf-8	继续听下去。
+136	body	False	utf-8	先接受一个测试，看看你是否掌握了在奇迹大陆冒险的基本知识，还有什么需要补充。通过后就能领取女王的礼物，怎么样？
+137	player	False	utf-8	嗯……测试……
+138	answer	False	utf-8	好！开始测试吧！
+139	answer	False	utf-8	不如跳过测试，直接给我礼物吧。
+140	body	False	utf-8	测试很简单，没全答对也没关系；如果全部答对，还能多拿一份小礼物。;你真的不想试试吗？
+141	player	False	utf-8	……全部答对还有额外礼物？
+142	answer	False	utf-8	好！开始测试吧！
+143	answer	False	utf-8	我不参加测试，直接领取女王的礼物。
+144	body	False	utf-8	第一道题。;怎样与面前的角色交易？
+145	player	False	utf-8	……交易……
+146	answer	False	utf-8	按 D 选择交易，或在聊天框输入“/trade”。
+147	answer	False	utf-8	按 D 选择交易，或在聊天框输入“/exchange”。
+148	answer	False	utf-8	按 D 选择交易，或在聊天框输入“/invite”。
+149	body	False	utf-8	答对了！按 D 可打开交易、组队、购买、跟随等指令。好好利用它们吧。
+150	body	False	utf-8	答错了。交易时按 D 选择交易，或面对目标角色，在聊天框输入“/trade”。继续下一题吧。
+151	body	False	utf-8	组队时，面对目标角色，在聊天框输入“/party”。如果不想接收组队邀请，该怎么办？
+152	player	False	utf-8	组队邀请？
+153	answer	False	utf-8	在聊天框输入“/off”。
+154	answer	False	utf-8	在聊天框输入“/Request off”。
+155	answer	False	utf-8	在聊天框输入“/Party off”。
+156	body	False	utf-8	答对了！打怪时不想接收组队邀请，可在聊天框输入“/Request off”；想重新接收时，输入“/Request on”。
+157	body	False	utf-8	答错了。在聊天框输入“/Request off”可拒绝组队邀请，输入“/Request on”可重新接收。继续下一题吧。
+158	body	False	utf-8	密语可与远处的朋友交谈或发送私人消息。在聊天窗口按哪个键发送密语？
+159	player	False	utf-8	……密语……
+160	answer	False	utf-8	在聊天窗口按 Shift 键。
+161	answer	False	utf-8	在聊天窗口按 Ctrl 键。
+162	answer	False	utf-8	在聊天窗口按 Tab 键。
+163	body	False	utf-8	答对了！知道朋友的角色名，或想发送私人消息时，可在聊天窗口按 Tab 键发送密语。
+164	body	False	utf-8	答错了。知道朋友的角色名，或想发送私人消息时，可在聊天窗口按 Tab 键发送密语。继续下一题吧。
+165	body	False	utf-8	打怪会降低装备耐久度，需要定期修理。达到一定等级后，可以直接在背包窗口修理装备。是多少级？
+166	player	False	utf-8	太简单了！不找 NPC、自己修理装备需要达到……
+167	answer	False	utf-8	30级
+168	answer	False	utf-8	50级
+169	answer	False	utf-8	75级
+170	body	False	utf-8	答对了！勇者大陆的铁匠汉斯（117,140）、幻术园的 Rhea（30, 235）和仙踪林的工艺尤达（194, 123）都能修理装备，记得常去。
+171	body	False	utf-8	答错了。;达到50级后，可使用背包里的修理按钮修理装备，但费用比找 NPC 更高。;继续下一题。
+172	body	False	utf-8	等级越高，能去的地方越多。按 M 键还能快速移动到远处。进入地下城最低需要多少等级和金币？
+173	player	False	utf-8	嗯……先按 M，然后……
+174	answer	False	utf-8	10级，2,000金币
+175	answer	False	utf-8	30级，3000金币
+176	answer	False	utf-8	50级，4000金币
+177	body	False	utf-8	答对了！只要达到目的地要求的等级并备足金币，就能按 M 键快速移动。;寻找适合自己等级的区域狩猎，也很有趣。
+178	body	False	utf-8	答错了。按 M 键可查看并快速前往可进入的地区。寻找适合自己等级的区域狩猎，也很有趣。;继续下一题。
+179	body	False	utf-8	在奇迹中，不同物品可以合成新物品，尝试各种组合也是一大乐趣。;合成物品应该找谁？
+180	player	False	utf-8	答案很明显！
+181	answer	False	utf-8	仙踪林的玛雅哥布林。
+182	answer	False	utf-8	幻术园的种子大师。
+183	answer	False	utf-8	勇者大陆的训兽师。
+184	body	False	utf-8	答对了！城里的 NPC 不仅能帮你合成物品，还能使用宝石强化防具等。记得都去拜访一下。
+185	body	False	utf-8	答错了。带齐合成所需的物品、材料和金币，去找仙踪林的玛雅哥布林，即可合成新物品。一定要试试。继续下一题吧。
+186	body	False	utf-8	恭喜完成新手教学！收下英雄之戒和战士之戒，这是女王送你的礼物。
+187	player	False	utf-8	……教学终于结束了！
+188	answer	False	utf-8	英雄之戒？战士之戒？是什么？
+189	answer	False	utf-8	谢谢！
+190	body	False	utf-8	这要从很久以前说起。;精灵前任女王 Runedil 看着奇迹帝国的新战士在连年战争中牺牲，悲痛不已。
+191	player	False	utf-8	……
+192	answer	False	utf-8	继续听下去。
+193	body	False	utf-8	为了纪念 Muren 向战士颁发带有皇帝纹章的戒指这一传统，她将精灵的力量注入戒指，赠予战士。
+194	player	False	utf-8	……
+195	answer	False	utf-8	继续听下去。
+196	body	False	utf-8	和平降临后，这个习俗几乎消失。但昆顿带来的混乱促使现任精灵女王 Erin Gustiv 恢复了它。
+197	player	False	utf-8	啊，原来是这样……
+198	answer	False	utf-8	继续听下去。
+199	body	False	utf-8	当持有戒指的战士精通自己的技艺时，戒指会化为独特的物品，帮助主人变得更强。
+200	player	False	utf-8	哦！一定很有用！
+201	answer	False	utf-8	收下戒指。
+202	body	False	utf-8	英雄之戒可在40级使用，战士之戒可在80级使用。将戒指丢到地上即可解除封印，化为物品。;真心希望下次见面时，你已更加强大。去积累经验、磨炼实力，让世界摆脱昆顿的魔掌吧！;（新手教学已完成。）
+203	subject	False	utf-8	勇士，欢迎你！
+204	summary	False	utf-8	我会为你介绍奇迹的基本玩法。
+205	summary	False	utf-8	在城镇中寻找幻影导师 NPC。
+206	summary	False	utf-8	我会为你介绍奇迹的基本玩法。
+207	summary	False	utf-8	新手教学到此结束，祝你在奇迹中玩得愉快。
+208	summary	False	utf-8	在城镇中寻找幻影导师 NPC。
+209	summary	False	utf-8	我叫 Olga。我和幻影守护者的同伴们效忠于精灵女王 Erin Gustiv。很高兴认识你。
+210	summary	False	utf-8	我叫 Olga。我和幻影守护者的同伴们效忠于精灵女王 Erin Gustiv。很高兴认识你。
+211	summary	False	utf-8	我会通过简单的新手教学，教你打怪技巧和基本操作。
+212	summary	False	utf-8	按 C 键，或点击屏幕右下角的“角色（C）”按钮，打开角色属性窗口。
+213	summary	False	utf-8	角色属性窗口显示角色名称、等级、当前服务器名称和属性信息。
+214	summary	False	utf-8	角色属性窗口显示角色名称、等级、当前服务器名称和属性信息。
+215	summary	False	utf-8	积累经验值即可升级。查看角色属性窗口或屏幕底部的经验条，可了解距离下一级还差多少经验。
+216	summary	False	utf-8	角色属性窗口显示角色名称、当前服务器名称和职业。
+217	summary	False	utf-8	升级获得的属性点可提升力量、敏捷、体力和智力，影响攻击、防御、生命和魔法等能力。
+218	summary	False	utf-8	按 I 键，或点击右下角的“背包（I/V）”按钮，打开背包窗口。
+219	summary	False	utf-8	背包窗口显示你拥有的物品和已装备的装备。
+220	summary	False	utf-8	向商人购买并带回5个苹果。
+221	summary	False	utf-8	药水商人出售苹果。勇者大陆的少女安娜 在桥对面（128,85）；幻术园的 Silvia 在广场中心1点钟方向（45,227）；仙踪林的精灵安吉拉在城镇中心稍北处（172,124）。
+222	summary	False	cp949 (original loader uses UTF-8)	屏幕左上角显示角色当前坐标。沿↖或↘方向移动会改变第一个数字，沿↗或↙方向移动会改变第二个数字。
+223	summary	False	utf-8	寻找城里的商人，买回5个苹果。
+224	summary	False	utf-8	按 Q 使用苹果、药水等生命恢复物品，按 W 使用魔法恢复物品。
+225	summary	False	utf-8	去积累一些实战经验吧。
+226	summary	False	utf-8	走出仙踪林城墙，消灭3只勾尾蝎。
+227	summary	False	utf-8	走出勇者大陆城墙，消灭3只幼龙。
+228	summary	False	utf-8	走出幻术园城墙，消灭3只 Strange Rabbit。
+229	summary	False	utf-8	击杀怪物可获得经验，还会掉落物品和金币。
+230	summary	False	utf-8	狩猎时远离城镇或陷入困境，回城卷轴会很有用。
+231	summary	False	utf-8	使用回城卷轴可返回最近去过的城镇。
+232	summary	False	utf-8	购买并带回1个回城卷轴。
+233	summary	False	utf-8	再和我交谈，领取攻击和防御增益。
+234	summary	False	utf-8	关闭任务窗口，再点击我，选择“领取攻击和防御增益”。
+235	summary	False	utf-8	获得增益后，屏幕左上角出现图标，角色周围有蓝光，攻击和防御提升效果持续一小时。
+236	summary	False	utf-8	走出仙踪林城墙，消灭30只瓢虫怪。
+237	summary	False	utf-8	走出勇者大陆城墙，消灭30只猎犬怪。
+238	summary	False	utf-8	走出幻术园城墙，消灭30只 Polluted Butterfly。
+239	summary	False	utf-8	打怪时，鼠标左键进行普通攻击，右键使用技能攻击。
+240	summary	False	utf-8	打怪时，鼠标左键进行普通攻击，右键使用技能攻击。
+241	summary	False	utf-8	打怪时，鼠标左键进行普通攻击，右键使用技能攻击。
+242	summary	False	utf-8	注重防御的敏弓通过装备武器使用技能，注重魔法的智弓通过购买技能石学习技能。
+243	summary	False	utf-8	我给你一把敏弓使用的武器，让你更好地了解技能。
+244	summary	False	utf-8	我给你一颗智弓使用的技能石，让你更好地了解技能。
+245	summary	False	utf-8	试着装备这把弩。
+246	summary	False	utf-8	试着学习召唤哥布林。
+247	summary	False	utf-8	装备带技能的武器后，可在技能窗口选择该技能使用。
+248	summary	False	utf-8	通过技能石学习技能后，可在技能窗口选择该技能使用。
+249	summary	False	utf-8	现在可用技能中应该有多重箭，试着点击它的图标。
+250	summary	False	utf-8	现在可用技能中应该有召唤哥布林，试着点击它的图标。
+251	summary	False	utf-8	弓箭手可到仙踪林，向精灵安吉拉（173,124）购买技能石，或向工艺尤达（195,123）购买武器，学习更多技能。
+252	summary	False	utf-8	我给你一把剑士武器，让你亲自体会。
+253	summary	False	utf-8	试着装备双刃斧。
+254	summary	False	utf-8	装备带技能的武器后，可在技能窗口选择该技能使用。
+255	summary	False	utf-8	现在可用技能中应该有 Falling Slash，试着点击它的图标。
+256	summary	False	utf-8	剑士可到勇者大陆，向魔导师帕希（119,112）购买卷轴，右键点击卷轴即可学习技能。
+257	summary	False	utf-8	我给你一本魔法师的魔法书，让你亲自体会。
+258	summary	False	utf-8	试着学习火球术。
+259	summary	False	utf-8	通过魔法书学习技能后，可在技能窗口选择该技能使用。
+260	summary	False	utf-8	现在可用技能中应该有火球术，试着点击它的图标。
+261	summary	False	utf-8	可向勇者大陆的魔导师帕希（119,112）或幻术园的 Marce（36,218）购买魔法书。
+262	summary	False	utf-8	可向勇者大陆的魔导师帕希（119,112）或幻术园的 Marce（36,218）购买魔法书。
+263	summary	False	utf-8	达到指定等级后回来，我会奖励你一匹独角兽。
+264	summary	False	utf-8	独角兽是野外使用的坐骑。将它装备到背包窗口左上角的栏位，就能更快地在野外移动。
+265	summary	False	utf-8	达到25级后回来找我，我会奖励你一匹独角兽。
+266	summary	False	utf-8	我会测试你是否掌握了在奇迹帝国冒险的基本知识，通过后即可领取女王的礼物。
+267	summary	False	utf-8	我会测试你是否掌握了在奇迹帝国冒险的基本知识，通过后即可领取女王的礼物。
+268	summary	False	utf-8	我会测试你是否掌握了在奇迹帝国冒险的基本知识，通过后即可领取女王的礼物。
+269	summary	False	utf-8	怎样与面前的角色交易？
+270	summary	False	utf-8	按 D 可打开交易、组队、购买、跟随等指令。好好利用它们吧。
+271	summary	False	utf-8	按 D 可打开交易、组队、购买、跟随等指令。好好利用它们吧。
+272	summary	False	utf-8	我给你一本召唤术师的魔法书，让你亲自体会。
+273	summary	False	utf-8	不想接收组队邀请时，该怎么办？
+274	summary	False	utf-8	不想接收组队邀请，在聊天框输入“Party off”；重新接收时输入“Request on”。
+275	summary	False	utf-8	不想接收组队邀请，在聊天框输入“Party off”；重新接收时输入“Request on”。
+276	summary	False	utf-8	在聊天窗口按哪个键发送密语？
+277	summary	False	utf-8	知道朋友的角色名，或想发送私人消息时，可在聊天窗口按 Tab 键发送密语。
+278	summary	False	utf-8	知道朋友的角色名，或想发送私人消息时，可在聊天窗口按 Tab 键发送密语。
+279	summary	False	utf-8	达到多少级后，可以直接在背包窗口修理装备？
+280	summary	False	utf-8	勇者大陆的铁匠汉斯（117,140）、幻术园的 Rhea（30, 235）和仙踪林的工艺尤达（194, 123）都能修理装备，记得常去。
+281	summary	False	utf-8	勇者大陆的铁匠汉斯（117,140）、幻术园的 Rhea（30, 235）和仙踪林的工艺尤达（194, 123）都能修理装备，记得常去。
+282	summary	False	utf-8	按 M 可快速移动到远处。进入地下城最低需要多少等级和金币？
+283	summary	False	utf-8	只要达到目的地要求的等级并备足金币，就能按 M 快速移动。寻找适合自己等级的区域狩猎，也很有趣。
+284	summary	False	utf-8	只要达到目的地要求的等级并备足金币，就能按 M 快速移动。寻找适合自己等级的区域狩猎，也很有趣。
+285	summary	False	utf-8	合成物品应该找谁？
+286	summary	False	utf-8	城里的 NPC 不仅能合成物品，还能使用宝石强化防具等。记得都去拜访一下。
+287	summary	False	utf-8	城里的 NPC 不仅能合成物品，还能使用宝石强化防具等。记得都去拜访一下。
+288	summary	False	utf-8	新手教学已完成，收下英雄之戒和战士之戒，这是女王的礼物。
+289	summary	False	utf-8	新手教学已完成，收下英雄之戒和战士之戒，这是女王的礼物。
+290	summary	False	utf-8	新手教学已完成，收下英雄之戒和战士之戒，这是女王的礼物。
+291	summary	False	utf-8	新手教学已完成，收下英雄之戒和战士之戒，这是女王的礼物。
+292	summary	False	utf-8	新手教学已完成，收下英雄之戒和战士之戒，这是女王的礼物。
+293	summary	False	utf-8	新手教学已完成，收下英雄之戒和战士之戒，这是女王的礼物。
+294	summary	False	utf-8	在城镇中寻找幻影导师 NPC。
+295	summary	False	utf-8	在城镇中寻找幻影导师 NPC。
+296	unreferenced	False	utf-8	欢迎来到奇迹。;我会帮助你成长为真正的勇士。
+297	answer,subject	False	utf-8	领取攻击和防御增益。
+298	answer	False	utf-8	接受任务。
+1000	body	False	utf-8	你好，我是 Duprian 家族管家 Gregory。你找我们家族有什么事？
+1001	answer	False	utf-8	询问 Duprian 家族。
+1002	answer	False	utf-8	询问家族纷争。
+1003	answer	False	utf-8	加入 Duprian 家族。
+1004	answer	False	utf-8	退出 Duprian 家族。
+1005	answer	False	utf-8	接受家族任务。
+1006	body	False	utf-8	Duprian 家族汇聚了 Arca 最伟大的英雄，核心是奇迹最强大的贵族血脉 Duprian。我们的领袖 Duprian Winston，是帝国中无人能敌的骑士。
+1007	answer	False	utf-8	返回。
+1008	body	False	cp949 (original loader uses UTF-8)	家族纷争？不如说是 Vanert 的叛乱！纷争源于他们的统帅 Vanert Reicht 的贪婪。五年前，一群英雄在拉克里昂寻找封印昆顿的魔石时遭到屠杀。我们起初以为是当地统治者、冰霜巨蛛 所为，后来才发现凶手是 Vanert 家族。反击是我们 Duprian 勇士的职责。
+1009	body	False	utf-8	你想加入 Duprian 家族？请秉持荣誉与尊重，与我们共同粉碎 Vanert 家族的贪欲，寻找能封印昆顿的魔石。
+1010	answer	False	utf-8	是的，我愿意加入。
+1011	answer	False	utf-8	不，我再考虑一下。
+1012	body	False	utf-8	退出家族后，贡献度将清零。;仍要退出吗？
+1013	answer	False	utf-8	是的，我要退出。
+1014	body	False	utf-8	恭喜加入 Duprian 家族。为了共同的事业，我们会有很多事托付给你。需要家族方面的帮助时，随时来找我。
+1015	body	False	utf-8	无法加入家族。
+1016	body	False	utf-8	无法退出家族。
+1017	body	False	utf-8	达到50级才能加入家族。
+1018	body	False	utf-8	你已经加入家族。
+1019	body	False	utf-8	你的战盟属于另一个家族。
+1020	body	False	utf-8	你已退出家族，贡献度已重置为0。
+1021	body	False	utf-8	盟主尚未加入家族。盟主必须先加入，你才能加入该家族。
+1022	body	False	utf-8	战盟联盟成员无法加入家族。
+1023	body	False	utf-8	盟主无法退出家族。
+1024	body	False	utf-8	你尚未加入家族，必须先加入才能退出。
+1025	body	False	utf-8	你已退出家族。
+1026	body	False	utf-8	你属于另一个家族。
+1027	body	False	utf-8	组队状态下无法加入家族。
+1050	body	False	utf-8	你找我们家族有什么事？我是 Vanert 家族管家 Conrad。
+1051	answer	False	utf-8	询问 Vanert 家族。
+1052	answer	False	utf-8	询问家族纷争。
+1053	answer	False	utf-8	加入 Vanert 家族。
+1054	answer	False	utf-8	退出 Vanert 家族。
+1055	answer	False	utf-8	接受家族任务。
+1056	body	False	utf-8	Vanert 家族由帝国最杰出的名流 Vanert Reicht 领导。主人日夜努力，阻止 Duprian Winston 独裁统治帝国的野心。
+1057	body	False	utf-8	贵族联盟 Arca 成立时，Vanert Reicht 虽将领导权让给了 Duprian Winston，却始终致力于消灭昆顿的邪恶爪牙、复兴奇迹帝国。Duprian Winston 妄图独裁统治的野心人尽皆知。像你这样的英雄应协助 Vanert Reicht 封印昆顿，让帝国恢复和平。
+1058	body	False	utf-8	嗯，你是位明智的勇士。以 Vanert 家族之名去建功立业吧，记住，我会一直在这里帮助你。
+1059	body	False	utf-8	恭喜加入 Vanert 家族。为了共同的事业，我们会有很多事托付给你。需要家族方面的帮助时，随时来找我。
+1060	body	False	utf-8	战盟联盟成员无法加入家族。请先退出战盟联盟，再尝试加入。
+1061	body	False	utf-8	恭喜，你为家族作出的贡献超过了所有成员。Duprian Winston 将奖励你的功绩，期待你下个月取得更大成就。
+1062	body	False	utf-8	多亏你的英勇，我们再次击败了那些无用的 Duprian！这是 Vanert Reicht 亲自赐予的战功奖励，期待你下个月继续奋战。
+1063	answer	False	utf-8	家族排名奖励
+1064	body	False	utf-8	家族排名奖励在每月第一周发放。
+1065	body	False	utf-8	很遗憾，你不符合领奖条件，下次继续努力吧。
+1066	body	False	utf-8	背包空间不足，请整理后再试。
+1067	body	False	utf-8	奖励已经发放。
+1068	body	False	utf-8	你尚未加入家族。
+1500	body	False	utf-8	NPC 对话脚本错误！
+1501	unreferenced	False	utf-8	请选择任务。
+1502	unreferenced	False	utf-8	目前没有可接受的任务，请稍后再来。
+2001	body	False	utf-8	想去诸神的竞技场——赤色要塞吗？那里最适合证明实力。不如先听我介绍，再作决定？（基础职业：15-49级；进阶职业：15-29级）
+2002	player	False	utf-8	赤色要塞……
+2003	answer	False	utf-8	好，请继续说。
+2004	answer	False	utf-8	我很了解。听说参加活动需要一件物品……
+2005	body	False	utf-8	你知道得不少。我可以提供进入赤色要塞所需的物品。有空时来找我，完成一个简单任务即可。
+2006	body	False	utf-8	明智的决定。赤色要塞是天界之神 Lugard 与冥界之神 Secrarium 为维持善恶平衡而设的战场。但冒险者们来到要塞，站在 Lugard 一方战斗，打破了平衡，让 Secrarium 处于劣势。
+2007	answer	False	utf-8	……
+2008	body	False	utf-8	为恢复战斗的平衡，Secrarium 向 Lugard 提议一条新规则：所有参战者都必须穿上卫兵铠甲。Lugard 认为这很公平，便接受了。
+2009	answer	False	utf-8	原来如此。
+2010	body	False	utf-8	不幸的是，Secrarium 赌的是冒险者内心的阴暗会引发敌意与争斗。Lugard 也知道这一面，却始终信任他们。最终，冒险者果然如冥神所料，开始自相残杀，赤色要塞变得更加混乱。
+2011	answer	False	utf-8	看来 Lugard 被 Secrarium 骗了。怎样参加？
+2012	body	False	utf-8	进入赤色要塞很简单，在指定时间（12:00am、14:00pm、16:00pm、18:00pm、20:00pm、22:00pm）右键使用卫兵铠甲即可。在网吧等指定地点游戏的玩家，会有更多入场机会。
+2013	answer	False	utf-8	入场确实很简单。活动具体怎么玩？
+2014	body	False	utf-8	入场前需要等待大约一分钟。等待结束后活动开始，冒险者与堕落卫兵展开毫无限制的生死混战。
+2015	answer	False	utf-8	有什么需要小心的吗？
+2016	body	False	utf-8	对付冒险者没有特别之处，但击杀堕落卫兵时要小心：他们会爆炸，可能把你推下竞技场，掉下去就会被淘汰。
+2017	answer	False	utf-8	我都明白了。
+2018	body	False	utf-8	鼠标移到卫兵铠甲上即可查看入场时间，在指定时间右键使用即可入场。有空来找我，完成任务就能获得参加活动所需的物品。
+2019	body	False	utf-8	你回来得比预想的快。我有个任务，完成后可获得参加活动所需的物品。愿意接受吗？（基础职业：15-49级；进阶职业：15-29级）
+2020	player	False	utf-8	你说的“简单任务”就是打怪吗？
+2021	answer	False	utf-8	好，把任务交给我吧。
+2022	answer	False	utf-8	现在没时间，下次再做吧。
+2023	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2024	body	False	utf-8	地下城的毒虫最近让新手冒险者很头疼。消灭40只毒虫后，可从30瓶治疗药水、30瓶魔法药水和4瓶小型 SD 药水中选择两项奖励。领奖时背包至少要留出20格空位，记住了。
+2025	body	False	utf-8	挑战赤色要塞就是挑战自身极限。愿意去检验修炼成果吗？（基础职业：15-49级；进阶职业：15-29级）
+2026	player	False	utf-8	……
+2027	answer	False	utf-8	好，我接受这个挑战。
+2028	answer	False	utf-8	现在没时间，下次再做吧。
+2029	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2030	body	False	utf-8	挑战赤色要塞1层，击败1名卫兵后回来，我会奖励100,000金币。仅限赤色要塞1层。
+2031	body	False	utf-8	从赤色要塞生还，是实力的证明。愿意去检验修炼成果吗？（基础职业：15-49级；进阶职业：15-29级）
+2032	player	False	utf-8	……
+2033	answer	False	utf-8	好，我接受这个挑战。
+2034	answer	False	utf-8	现在没时间，下次再做吧。
+2035	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2036	body	False	utf-8	在赤色要塞1层存活到最后，回来可获得100,000经验和200,000金币。仅限赤色要塞1层。
+2037	body	False	utf-8	去过赤色要塞吗？那里是证明实力的好地方。不如先听我介绍，再作决定？（基础职业：50-119级；进阶职业：30-99级）
+2038	player	False	utf-8	赤色要塞……
+2039	answer	False	utf-8	好，请继续说。
+2040	answer	False	utf-8	我很了解。听说参加活动需要一件物品……
+2041	body	False	utf-8	你知道得不少。我可以提供进入赤色要塞所需的物品。有空时来找我，完成一个简单任务即可。
+2042	body	False	utf-8	明智的决定。赤色要塞是天界之神 Lugard 与冥界之神 Secrarium 为维持善恶平衡而设的战场。但冒险者们来到要塞，站在 Lugard 一方战斗，打破了平衡，让 Secrarium 处于劣势。
+2043	answer	False	utf-8	……
+2044	body	False	utf-8	为恢复战斗的平衡，Secrarium 向 Lugard 提议一条新规则：所有参战者都必须穿上卫兵铠甲。Lugard 认为这很公平，便接受了。
+2045	answer	False	utf-8	原来如此。
+2046	body	False	utf-8	不幸的是，Secrarium 赌的是冒险者内心的阴暗会引发敌意与争斗。Lugard 也知道这一面，却始终信任他们。最终，冒险者果然如冥神所料，开始自相残杀，赤色要塞变得更加混乱。
+2047	answer	False	utf-8	看来 Lugard 被 Secrarium 骗了。怎样参加？
+2048	body	False	utf-8	进入赤色要塞很简单，在指定时间（12:00am、14:00pm、16:00pm、18:00pm、20:00pm、22:00pm）右键使用卫兵铠甲即可。在网吧等指定地点游戏的玩家，会有更多入场机会。
+2049	answer	False	utf-8	入场确实很简单。活动具体怎么玩？
+2050	body	False	utf-8	入场前需要等待大约一分钟。等待结束后，冒险者将与50名堕落卫兵展开毫无限制的生死混战。
+2051	answer	False	utf-8	有什么需要小心的吗？
+2052	body	False	utf-8	对付冒险者没有特别之处，但击杀堕落卫兵时要小心：他们会爆炸，可能把你推下竞技场，掉下去就会被淘汰。
+2053	answer	False	utf-8	我都明白了。
+2054	body	False	utf-8	鼠标移到卫兵铠甲上即可查看入场时间，在指定时间右键使用即可入场。有空来找我，完成任务就能获得参加活动所需的物品。
+2055	body	False	utf-8	你回来得比预想的快。我有个任务，完成后可获得参加活动所需的物品。愿意接受吗？（基础职业：50-119级；进阶职业：30-99级）
+2056	player	False	utf-8	你说的“简单任务”就是打怪吗？
+2057	answer	False	utf-8	好，把任务交给我吧。
+2058	answer	False	utf-8	现在没时间，下次再做吧。
+2059	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2060	body	False	utf-8	地下城的地狱蜘蛛最近让新手冒险者很头疼。消灭60只地狱蜘蛛后，可从15瓶大型治疗药水、15瓶大型魔法药水和8瓶小型 SD 药水中选择两项奖励。领奖时背包至少要留出13格空位，记住了。
+2061	body	False	utf-8	挑战赤色要塞就是挑战自身极限。愿意去检验修炼成果吗？（基础职业：50-119级；进阶职业：30-99级）
+2062	player	False	utf-8	……
+2063	answer	False	utf-8	好，我接受这个挑战。
+2064	answer	False	utf-8	现在没时间，下次再做吧。
+2065	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2066	body	False	utf-8	挑战赤色要塞2层，击败3名卫兵后回来，我会奖励200,000金币。仅限赤色要塞2层。
+2067	body	False	utf-8	从赤色要塞生还，是实力的证明。愿意去检验修炼成果吗？（基础职业：50-119级；进阶职业：30-99级）
+2068	player	False	utf-8	……
+2069	answer	False	utf-8	好，我接受这个挑战。
+2070	answer	False	utf-8	现在没时间，下次再做吧。
+2071	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2072	body	False	utf-8	在赤色要塞2层存活到最后，回来可获得400,000经验和300,000金币。仅限赤色要塞2层。
+2073	body	False	utf-8	相信你已熟悉赤色要塞。今后的挑战会更难，因为对手将是更强的玩家和堕落卫兵。
+2074	answer	False	utf-8	真正的挑战现在才开始，我明白了。
+2075	body	False	utf-8	完成我的任务，可获得参加活动所需的物品。愿意接受吗？（基础职业：120-179级；进阶职业：100-159级）
+2076	player	False	utf-8	你说的“简单任务”就是打怪吗？
+2077	answer	False	utf-8	好，把任务交给我吧。
+2078	answer	False	utf-8	现在没时间，下次再做吧。
+2079	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2080	body	False	utf-8	传闻地下城最深处的暗黑骑士和魔鬼戈登正谋划阴谋。前往地下城3层，消灭80只暗黑骑士，即可从30瓶大型治疗药水、30瓶大型魔法药水和15瓶小型复合药水中选择两项奖励。领奖时背包至少要留出20格空位。
+2081	body	False	utf-8	挑战赤色要塞就是挑战自身极限。愿意去检验修炼成果吗？（基础职业：120-179级；进阶职业：100-159级）
+2082	player	False	utf-8	……
+2083	answer	False	utf-8	好，我接受这个挑战。
+2084	answer	False	utf-8	现在没时间，下次再做吧。
+2085	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2086	body	False	utf-8	挑战赤色要塞3层，击败5名卫兵后回来，可获得800,000经验和500,000金币。仅限赤色要塞3层。
+2087	body	False	utf-8	从赤色要塞生还，是实力的证明。愿意去检验修炼成果吗？（基础职业：120-179级；进阶职业：100-159级）
+2088	player	False	utf-8	……
+2089	answer	False	utf-8	好，我接受这个挑战。
+2090	answer	False	utf-8	现在没时间，下次再做吧。
+2091	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2092	body	False	utf-8	在赤色要塞3层存活到最后，回来可获得1,000,000经验和1颗玛雅之石。仅限赤色要塞3层。
+2093	body	False	utf-8	在赤色要塞修炼对你应该不难。我有个任务，可让你获得要塞中所需的物品。愿意接受吗？（基础职业：180-239级；进阶职业：160-219级）
+2094	player	False	utf-8	……
+2095	answer	False	utf-8	接受任务。
+2096	answer	False	utf-8	现在没时间，下次再做吧。
+2097	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2098	body	False	utf-8	失落之塔4至6层的恶魔很合适。去消灭100只恶魔后回来，可选择15瓶 SD 药水或15瓶复合药水作为奖励。领奖时背包至少要留出15格空位。
+2099	body	False	utf-8	挑战赤色要塞就是挑战自身极限。愿意去检验修炼成果吗？（基础职业：180-239级；进阶职业：160-219级）
+2100	player	False	utf-8	……
+2101	answer	False	utf-8	好，我接受这个挑战。
+2102	answer	False	utf-8	现在没时间，下次再做吧。
+2103	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2104	body	False	utf-8	挑战赤色要塞4层，击败1名身穿卫兵铠甲的冒险者后回来，可获得300,000金币和1颗玛雅之石。仅限赤色要塞4层。
+2105	body	False	utf-8	从赤色要塞生还，是实力的证明。愿意去检验修炼成果吗？（基础职业：180-239级；进阶职业：160-219级）
+2106	player	False	utf-8	……
+2107	answer	False	utf-8	好，我接受这个挑战。
+2108	answer	False	utf-8	现在没时间，下次再做吧。
+2109	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2110	body	False	utf-8	在赤色要塞4层存活到最后，回来可获得1颗灵魂宝石。仅限赤色要塞4层。
+2111	body	False	utf-8	你应该已经熟悉赤色要塞，但获取所需物品仍不容易。我有个任务，可让你获得要塞中需要的物品。愿意接受吗？（基础职业：240-299级；进阶职业：220-279级）
+2112	player	False	utf-8	……
+2113	answer	False	utf-8	接受任务。
+2114	answer	False	utf-8	现在没时间，下次再做吧。
+2115	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2116	body	False	utf-8	天空之城的 风后 很合适。去消灭100只 风后 后回来，可选择10瓶大型 SD 药水或30瓶复合药水作为奖励。领奖时背包至少要留出10格空位。
+2117	body	False	utf-8	挑战赤色要塞就是挑战自身极限。愿意去检验修炼成果吗？（基础职业：240-299级；进阶职业：220-279级）
+2118	player	False	utf-8	……
+2119	answer	False	utf-8	好，我接受这个挑战。
+2120	answer	False	utf-8	现在没时间，下次再做吧。
+2121	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2122	body	False	utf-8	挑战赤色要塞5层，击败3名身穿卫兵铠甲的冒险者后回来，可获得1颗灵魂宝石。仅限赤色要塞5层。
+2123	body	False	utf-8	从赤色要塞生还，是实力的证明。愿意去检验修炼成果吗？（基础职业：240-299级；进阶职业：220-279级）
+2124	player	False	utf-8	……
+2125	answer	False	utf-8	好，我接受这个挑战。
+2126	answer	False	utf-8	现在没时间，下次再做吧。
+2127	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2128	body	False	utf-8	在赤色要塞5层存活到最后，回来可获得1颗祝福宝石。仅限赤色要塞5层。
+2129	body	False	utf-8	不要以为自己已登峰造极，去赤色要塞检验实力也不错。我有个任务，可让你获得要塞中需要的物品。愿意接受吗？（基础职业：300-400级；进阶职业：280-400级）
+2130	player	False	utf-8	……
+2131	answer	False	utf-8	接受任务。
+2132	answer	False	utf-8	现在没时间，下次再做吧。
+2133	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2134	body	False	utf-8	死亡沙漠2区的 魔王扎坎 很合适。去死亡沙漠2区消灭30只 魔王扎坎，回来可选择20瓶大型 SD 药水或30瓶大型复合药水作为奖励。领奖时背包至少要留出20格空位。
+2135	body	False	utf-8	挑战赤色要塞就是挑战自身极限。愿意去检验修炼成果吗？（基础职业：300-400级；进阶职业：280-400级）
+2136	player	False	utf-8	……
+2137	answer	False	utf-8	好，我接受这个挑战。
+2138	answer	False	utf-8	现在没时间，下次再做吧。
+2139	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2140	body	False	utf-8	挑战赤色要塞6层，击败5名身穿卫兵铠甲的冒险者后回来，可获得1颗再生宝石。仅限赤色要塞6层。
+2141	body	False	utf-8	从赤色要塞生还，是实力的证明。愿意去检验修炼成果吗？（基础职业：300-400级；进阶职业：280-400级）
+2142	player	False	utf-8	……
+2143	answer	False	utf-8	好，我接受这个挑战。
+2144	answer	False	utf-8	现在没时间，下次再做吧。
+2145	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2146	body	False	utf-8	在赤色要塞6层存活到最后，回来可获得1颗生命宝石。仅限赤色要塞6层。
+2147	body	False	utf-8	相信你已消灭过许多怪物，但冒险者之间的实力差距很大。不确定自己的实力时，不妨到赤色要塞证明自己。我有个任务，可让你获得要塞中所需的物品。愿意接受吗？（所有职业：大师等级）
+2148	player	False	utf-8	……
+2149	answer	False	utf-8	接受任务。
+2150	answer	False	utf-8	现在没时间，下次再做吧。
+2151	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2152	body	False	utf-8	安宁池的 Shadow Pawn 很合适。去消灭100只 Shadow Pawn 后回来，可选择30瓶大型 SD 药水或45瓶大型复合药水作为奖励。领奖时背包至少要留出30格空位。
+2153	body	False	utf-8	挑战赤色要塞就是挑战自身极限。愿意去检验修炼成果吗？（所有职业：大师等级）
+2154	player	False	utf-8	……
+2155	answer	False	utf-8	好，我接受这个挑战。
+2156	answer	False	utf-8	现在没时间，下次再做吧。
+2157	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2158	body	False	utf-8	挑战赤色要塞7层，击败10名身穿卫兵铠甲的冒险者后回来，可获得2颗灵魂宝石。仅限赤色要塞7层。
+2159	body	False	utf-8	从赤色要塞生还，是实力的证明。愿意去检验修炼成果吗？（所有职业：大师等级）
+2160	player	False	utf-8	……
+2161	answer	False	utf-8	好，我接受这个挑战。
+2162	answer	False	utf-8	现在没时间，下次再做吧。
+2163	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+2164	body	False	utf-8	在赤色要塞7层存活到最后，回来可获得2颗祝福宝石。仅限赤色要塞7层。
+2801	summary	False	utf-8	赤色要塞可检验自身极限，想要挑战就去向幻影导师询问。
+2802	summary	False	utf-8	听取幻影导师的介绍，挑战赤色要塞。成功生还可获得丰厚奖励。
+2803	summary	False	utf-8	向幻影导师领取入场所需的卫兵铠甲，挑战赤色要塞。
+2804	summary	False	utf-8	赤色要塞会将你逼至极限，不可轻视。做好准备，向幻影导师接受任务，获取所需物品。
+2805	summary	False	utf-8	消灭40只地下城1层的毒虫，找幻影导师，从30瓶治疗药水、30瓶魔法药水、4瓶小型 SD 药水中选两项奖励。
+2806	summary	False	utf-8	是时候检验自身极限了。找幻影导师接受考验，再挑战赤色要塞。
+2807	summary	False	utf-8	挑战赤色要塞1层，击败1名卫兵后找幻影导师领奖。仅限赤色要塞1层。
+2808	summary	False	utf-8	这次目标是从赤色要塞生还。找幻影导师接受极限考验，再前往挑战。
+2809	summary	False	utf-8	在赤色要塞1层存活到最后，再找幻影导师领奖。仅限赤色要塞1层。
+2810	summary	False	utf-8	赤色要塞可检验自身极限，想要挑战就去向幻影导师询问。
+2811	summary	False	utf-8	听取幻影导师的介绍，挑战赤色要塞。成功生还可获得丰厚奖励。
+2812	summary	False	utf-8	向幻影导师领取入场所需的卫兵铠甲，挑战赤色要塞。
+2813	summary	False	utf-8	赤色要塞会将你逼至极限，不可轻视。做好准备，向幻影导师接受任务，获取所需物品。
+2814	summary	False	utf-8	消灭60只地下城2层的地狱蜘蛛，找幻影导师，从15瓶大型治疗药水、15瓶大型魔法药水、8瓶小型 SD 药水中选两项奖励。
+2815	summary	False	utf-8	是时候检验自身极限了。找幻影导师接受考验，再挑战赤色要塞。
+2816	summary	False	utf-8	挑战赤色要塞2层，击败3名卫兵后找幻影导师领奖。仅限赤色要塞2层。
+2817	summary	False	utf-8	这次目标是从赤色要塞生还。找幻影导师接受极限考验，再前往挑战。
+2818	summary	False	utf-8	在赤色要塞2层存活到最后，再找幻影导师领奖。仅限赤色要塞2层。
+2819	summary	False	utf-8	赤色要塞会将你逼至极限，不可轻视。做好准备，向幻影导师接受任务，获取所需物品。
+2820	summary	False	utf-8	消灭80只地下城3层的暗黑骑士，找幻影导师，从30瓶大型治疗药水、30瓶大型魔法药水、15瓶小型复合药水中选两项奖励。
+2821	summary	False	utf-8	是时候检验自身极限了。找幻影导师接受考验，再挑战赤色要塞。
+2822	summary	False	utf-8	挑战赤色要塞3层，击败5名卫兵后找幻影导师领奖。仅限赤色要塞3层。
+2823	summary	False	utf-8	这次目标是从赤色要塞生还。找幻影导师接受极限考验，再前往挑战。
+2824	summary	False	utf-8	在赤色要塞3层存活到最后，再找幻影导师领奖。仅限赤色要塞3层。
+2825	summary	False	utf-8	赤色要塞会将你逼至极限，不可轻视。做好准备，向幻影导师接受任务，获取所需物品。
+2826	summary	False	utf-8	前往失落之塔4-6层，消灭100只恶魔，找幻影导师选择15瓶 SD 药水或15瓶复合药水。
+2827	summary	False	utf-8	是时候检验自身极限了。找幻影导师接受考验，再挑战赤色要塞。
+2828	summary	False	utf-8	挑战赤色要塞4层，击败1名身穿卫兵铠甲的冒险者后找幻影导师领奖。仅限赤色要塞4层。
+2829	summary	False	utf-8	这次目标是从赤色要塞生还。找幻影导师接受极限考验，再前往挑战。
+2830	summary	False	utf-8	在赤色要塞4层存活到最后，再找幻影导师领奖。仅限赤色要塞4层。
+2831	summary	False	utf-8	赤色要塞会将你逼至极限，不可轻视。做好准备，向幻影导师接受任务，获取所需物品。
+2832	summary	False	utf-8	消灭100只天空之城的 风后，找幻影导师选择10瓶大型 SD 药水或30瓶复合药水。
+2833	summary	False	utf-8	是时候检验自身极限了。找幻影导师接受考验，再挑战赤色要塞。
+2834	summary	False	utf-8	挑战赤色要塞5层，击败3名身穿卫兵铠甲的冒险者后找幻影导师领奖。仅限赤色要塞5层。
+2835	summary	False	utf-8	这次目标是从赤色要塞生还。找幻影导师接受极限考验，再前往挑战。
+2836	summary	False	utf-8	在赤色要塞5层存活到最后，再找幻影导师领奖。仅限赤色要塞5层。
+2837	summary	False	utf-8	赤色要塞会将你逼至极限，不可轻视。做好准备，向幻影导师接受任务，获取所需物品。
+2838	summary	False	utf-8	前往死亡沙漠2区消灭30只 魔王扎坎，找幻影导师选择20瓶大型 SD 药水或30瓶大型复合药水。
+2839	summary	False	utf-8	是时候检验自身极限了。找幻影导师接受考验，再挑战赤色要塞。
+2840	summary	False	utf-8	挑战赤色要塞6层，击败5名身穿卫兵铠甲的冒险者后找幻影导师领奖。仅限赤色要塞6层。
+2841	summary	False	utf-8	这次目标是从赤色要塞生还。找幻影导师接受极限考验，再前往挑战。
+2842	summary	False	utf-8	在赤色要塞6层存活到最后，再找幻影导师领奖。仅限赤色要塞6层。
+2843	summary	False	utf-8	赤色要塞会将你逼至极限，不可轻视。做好准备，向幻影导师接受任务，获取所需物品。
+2844	summary	False	utf-8	前往安宁池消灭100只 Shadow Pawn，找幻影导师选择30瓶大型 SD 药水或45瓶大型复合药水。
+2845	summary	False	utf-8	是时候检验自身极限了。找幻影导师接受考验，再挑战赤色要塞。
+2846	summary	False	utf-8	挑战赤色要塞7层，击败10名身穿卫兵铠甲的冒险者后找幻影导师领奖。仅限赤色要塞7层。
+2847	summary	False	utf-8	这次目标是从赤色要塞生还。找幻影导师接受极限考验，再前往挑战。
+2848	summary	False	utf-8	在赤色要塞7层存活到最后，再找幻影导师领奖。仅限赤色要塞7层。
+2901	subject	False	utf-8	赤色要塞挑战（1）
+2902	subject	False	utf-8	赤色要塞挑战（2）
+2903	subject	False	utf-8	赤色要塞挑战（3）
+2904	subject	False	utf-8	赤色要塞挑战（4）
+2905	subject	False	utf-8	适应赤色要塞（1）
+2906	subject	False	utf-8	适应赤色要塞（2）
+2907	subject	False	utf-8	适应赤色要塞（3）
+2908	subject	False	utf-8	适应赤色要塞（4）
+2909	subject	False	utf-8	证明自身价值（1）
+2910	subject	False	utf-8	证明自身价值（2）
+2911	subject	False	utf-8	证明自身价值（3）
+2912	subject	False	utf-8	证明自身价值（4）
+2913	subject	False	utf-8	证明自身价值（5）
+3001	body	False	utf-8	听说过血色城堡的结界吗？愿意听听大天使的委托，帮助守护结界，参加城堡之战吗？（基础职业：15-80级；进阶职业：10-60级）
+3002	player	False	utf-8	血色城堡……
+3003	answer	False	utf-8	好，请继续说。
+3004	answer	False	utf-8	我很了解。听说去那里需要一件特殊物品……
+3005	body	False	utf-8	你知道得不少。穿过血色城堡的结界需要透明披风。通过我的简单测试，出发前我会给你一件。有空来找我接受任务吧。
+3006	body	False	utf-8	我来讲给你听。昆顿屈从于 Secrarium 后，召来的魔界禁卫军严重威胁天界。为了保卫据点，十二圣者在血色城堡周围设下结界。
+3007	answer	False	utf-8	……
+3008	body	False	utf-8	昆顿似乎早有预料，他躲在结界范围之外，在结界完成时杀害了十二圣者。幸好大天使逃过一劫，并为结界献出了自己。
+3009	answer	False	utf-8	……
+3010	body	False	utf-8	昆顿的禁卫军仍在攻击并削弱结界。要阻止结界衰弱，就需要大天使的武器，因此我们正在寻求冒险者的帮助。
+3011	answer	False	utf-8	明白了。怎样入场？
+3012	body	False	utf-8	进入血色城堡很简单。活动从12:30am起，每隔两小时开放一次。开始前五分钟，携带适合自身等级的透明披风，到冰风谷找大天使的使者申请参加，他会将你送入城堡。
+3013	answer	False	utf-8	入场确实很简单。活动具体怎么玩？
+3014	body	False	utf-8	入场前需要等待大约一分钟。等待结束后进入血色城堡，击败死灵法师 Red Skull 召唤的40只怪物，可以为行动争取时间。
+3015	answer	False	utf-8	……
+3016	body	False	utf-8	攻破城门，击败藏起绝对武器的两名 Red Skull，可争取更多时间，并使装有武器的棺匣出现。摧毁棺匣、继续击杀怪物，将绝对武器交还大天使，即可完成血色城堡任务。
+3017	answer	False	utf-8	明白了。
+3018	body	False	utf-8	按 F1 可查看入场时间。活动开始前，携带适合自身等级的透明披风，找大天使的使者申请入场。有空来找我，完成任务就能获得进入血色城堡所需的透明披风。
+3019	body	False	utf-8	你回来得比预想的快。我有个任务，可让你获得进入血色城堡所需的物品。愿意接受吗？（基础职业：15-80级；进阶职业：10-60级）
+3020	player	False	utf-8	你说的“简单任务”就是打怪吗？
+3021	answer	False	utf-8	好，把任务交给我吧。
+3022	answer	False	utf-8	现在没时间，下次再做吧。
+3023	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+3024	body	False	utf-8	地下城的地狱猎犬怪最近让新手冒险者很头疼。消灭40只地狱猎犬怪，我会奖励透明披风+1。以你目前的等级，单独狩猎太危险，建议组队前往。
+3025	body	False	utf-8	在血色城堡，你必须争分夺秒。好装备固然有帮助，但最重要的是队伍团结。愿意接受大天使的委托吗？（基础职业：15-80级；进阶职业：10-60级）
+3026	player	False	utf-8	……
+3027	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3028	answer	False	utf-8	我的实力和队友都还没准备好，再给我些时间。
+3029	body	False	utf-8	真遗憾，找到合适的战友后再来吧。（任务已取消）
+3030	body	False	utf-8	明智的决定。挑战血色城堡1层，至少攻破城门，我会奖励100,000金币。仅限血色城堡1层。
+3031	body	False	utf-8	看来你已有强大的战友。一起挑战血色城堡，定能加深彼此的情谊。愿意再次前往，完成大天使的委托吗？（基础职业：15-80级；进阶职业：10-60级）
+3032	player	False	utf-8	……
+3033	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3034	answer	False	utf-8	我和队友之间的情谊还不够深。
+3035	body	False	utf-8	真遗憾，等你们的情谊更加深厚后再来吧。（任务已取消）
+3036	body	False	utf-8	挑战血色城堡1层并完成大天使的委托，回来可获得100,000经验和200,000金币。仅限血色城堡1层。
+3037	body	False	utf-8	听说过血色城堡的结界吗？愿意听听大天使的委托，帮助守护结界，参加城堡之战吗？（基础职业：81-130级；进阶职业：61-110级）
+3038	player	False	utf-8	血色城堡……
+3039	answer	False	utf-8	好，请继续说。
+3040	answer	False	utf-8	我很了解。听说去那里需要一件特殊物品……
+3041	body	False	utf-8	你知道得不少。穿过血色城堡的结界需要透明披风。通过我的简单测试，出发前我会给你一件。有空来找我接受任务吧。
+3042	body	False	utf-8	我来讲给你听。昆顿屈从于 Secrarium 后，召来的魔界禁卫军严重威胁天界。为了保卫据点，十二圣者在血色城堡周围设下结界。
+3043	answer	False	utf-8	……
+3044	body	False	utf-8	昆顿似乎早有预料，他躲在结界范围之外，在结界完成时杀害了十二圣者。幸好大天使逃过一劫，并为结界献出了自己。
+3045	answer	False	utf-8	……
+3046	body	False	utf-8	昆顿的禁卫军仍在攻击并削弱结界。要阻止结界衰弱，就需要大天使的武器，因此我们正在寻求冒险者的帮助。
+3047	answer	False	utf-8	明白了。怎样入场？
+3048	body	False	utf-8	进入血色城堡很简单。活动从12:30am起，每隔两小时开放一次。开始前五分钟，携带适合自身等级的透明披风，到冰风谷找大天使的使者申请参加，他会将你送入城堡。
+3049	answer	False	utf-8	入场确实很简单。活动具体怎么玩？
+3050	body	False	utf-8	入场前需要等待大约一分钟。等待结束后进入血色城堡，击败死灵法师 Red Skull 召唤的40只怪物，可以为行动争取时间。
+3051	answer	False	utf-8	……
+3052	body	False	utf-8	攻破城门，击败藏起绝对武器的两名 Red Skull，可争取更多时间，并使装有武器的棺匣出现。摧毁棺匣、继续击杀怪物，将绝对武器交还大天使，即可完成血色城堡任务。
+3053	answer	False	utf-8	明白了。
+3054	body	False	utf-8	按 F1 可查看入场时间。活动开始前，携带适合自身等级的透明披风，找大天使的使者申请入场。有空来找我，完成任务就能获得进入血色城堡所需的透明披风。
+3055	body	False	utf-8	你回来得比预想的快。我有个任务，可让你获得进入血色城堡所需的物品。愿意接受吗？（基础职业：81-130级；进阶职业：61-110级）
+3056	player	False	utf-8	你说的“简单任务”就是打怪吗？
+3057	answer	False	utf-8	好，把任务交给我吧。
+3058	answer	False	utf-8	现在没时间，下次再做吧。
+3059	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+3060	body	False	utf-8	地下城的魔鬼戈登最近让新手冒险者很头疼。消灭60只魔鬼戈登，我会奖励透明披风+2。以你目前的等级，单独狩猎太危险，建议组队前往。
+3061	body	False	utf-8	在血色城堡，你必须争分夺秒。好装备固然有帮助，但最重要的是队伍团结。愿意接受大天使的委托吗？（基础职业：81-130级；进阶职业：61-110级）
+3062	player	False	utf-8	……
+3063	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3064	answer	False	utf-8	我的实力和队友都还没准备好，再给我些时间。
+3065	body	False	utf-8	真遗憾，找到合适的战友后再来吧。（任务已取消）
+3066	body	False	utf-8	明智的决定。挑战血色城堡2层，至少攻破城门，我会奖励200,000金币。仅限血色城堡2层。
+3067	body	False	utf-8	看来你已有强大的战友。一起挑战血色城堡，定能加深彼此的情谊。愿意再次前往，完成大天使的委托吗？（基础职业：81-130级；进阶职业：61-110级）
+3068	player	False	utf-8	……
+3069	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3070	answer	False	utf-8	我和队友之间的情谊还不够深。
+3071	body	False	utf-8	真遗憾，等你们的情谊更加深厚后再来吧。（任务已取消）
+3072	body	False	utf-8	挑战血色城堡2层并完成大天使的委托，回来可获得400,000经验和300,000金币。仅限血色城堡2层。
+3073	body	False	utf-8	相信你已熟悉血色城堡。现在应该加强与队友的情谊，直到彼此能够毫无保留地信任。
+3074	answer	False	utf-8	战友情谊……当然应该信任并珍惜同伴。
+3075	body	False	utf-8	我有个任务，可让你获得进入血色城堡所需的物品。愿意接受吗？（基础职业：131-180级；进阶职业：111-160级）
+3076	player	False	utf-8	你说的“简单任务”就是打怪吗？
+3077	answer	False	utf-8	好，把任务交给我吧。
+3078	answer	False	utf-8	现在没时间，下次再做吧。
+3079	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+3080	body	False	utf-8	失落之塔5至7层的死神骑士正危害冒险者。前去消灭80只死神骑士，再回来领取透明披风+3。以你目前的等级，单独狩猎太危险，建议组队前往。
+3081	body	False	utf-8	在血色城堡，你必须争分夺秒。好装备固然有帮助，但最重要的是队伍团结。愿意接受大天使的委托吗？（基础职业：131-180级；进阶职业：111-160级）
+3082	player	False	utf-8	……
+3083	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3084	answer	False	utf-8	我的实力和队友都还没准备好，再给我些时间。
+3085	body	False	utf-8	真遗憾，找到合适的战友后再来吧。（任务已取消）
+3086	body	False	utf-8	明智的决定。挑战血色城堡3层，至少攻破城门，可获得800,000经验和500,000金币。仅限血色城堡3层。
+3087	body	False	utf-8	看来你已有强大的战友。一起挑战血色城堡，定能加深彼此的情谊。愿意再次前往，完成大天使的委托吗？（基础职业：131-180级；进阶职业：111-160级）
+3088	player	False	utf-8	……
+3089	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3090	answer	False	utf-8	我和队友之间的情谊还不够深。
+3091	body	False	utf-8	真遗憾，等你们的情谊更加深厚后再来吧。（任务已取消）
+3092	body	False	utf-8	挑战血色城堡3层并完成大天使的委托，回来可获得1,000,000经验和1颗玛雅之石。仅限血色城堡3层。
+3093	body	False	utf-8	血色城堡很适合培养队友情谊。我有个任务，可让你获得进入城堡所需的物品。愿意接受吗？（基础职业：181-230级；进阶职业：161-210级）
+3094	player	False	utf-8	你说的“简单任务”就是打怪吗？
+3095	answer	False	utf-8	好，把任务交给我吧。
+3096	answer	False	utf-8	现在没时间，下次再做吧。
+3097	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+3098	body	False	utf-8	天空之城的恶灵正危害冒险者。前去消灭80只恶灵，再回来领取透明披风+4。以你目前的等级，单独狩猎太危险，建议组队前往。
+3099	body	False	utf-8	在血色城堡，你必须争分夺秒。好装备固然有帮助，但最重要的是队伍团结。愿意接受大天使的委托吗？（基础职业：181-230级；进阶职业：161-210级）
+3100	player	False	utf-8	……
+3101	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3102	answer	False	utf-8	我的实力和队友都还没准备好，再给我些时间。
+3103	body	False	utf-8	真遗憾，找到合适的战友后再来吧。（任务已取消）
+3104	body	False	utf-8	明智的决定。挑战血色城堡4层，攻破城门，可获得1颗玛雅之石和500,000金币。仅限血色城堡4层。
+3105	body	False	utf-8	看来你已有强大的战友。一起挑战血色城堡，定能加深彼此的情谊。愿意再次前往，完成大天使的委托吗？（基础职业：181-230级；进阶职业：161-210级）
+3106	player	False	utf-8	……
+3107	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3108	answer	False	utf-8	我和队友之间的情谊还不够深。
+3109	body	False	utf-8	真遗憾，等你们的情谊更加深厚后再来吧。（任务已取消）
+3110	body	False	utf-8	挑战血色城堡4层并完成大天使的委托，回来可获得1颗灵魂宝石。仅限血色城堡4层。
+3111	body	False	utf-8	你的血色城堡队伍仍然团结吗？若非如此，不妨再去加深情谊。我有个任务，可让你获得入场物品。愿意接受吗？（基础职业：231-280级；进阶职业：211-260级）
+3112	player	False	utf-8	你说的“简单任务”就是打怪吗？
+3113	answer	False	utf-8	好，把任务交给我吧。
+3114	answer	False	utf-8	现在没时间，下次再做吧。
+3115	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+3116	body	False	utf-8	死亡沙漠2区的铁脊怪正危害冒险者。去死亡沙漠2区消灭100只铁脊怪，再回来领取透明披风+5。以你目前的等级，单独狩猎太危险，建议组队前往。
+3117	body	False	utf-8	在血色城堡，你必须争分夺秒。好装备固然有帮助，但最重要的是队伍团结。愿意接受大天使的委托吗？（基础职业：231-280级；进阶职业：211-260级）
+3118	player	False	utf-8	……
+3119	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3120	answer	False	utf-8	我的实力和队友都还没准备好，再给我些时间。
+3121	body	False	utf-8	真遗憾，找到合适的战友后再来吧。（任务已取消）
+3122	body	False	utf-8	明智的决定。挑战血色城堡5层，攻破城门，可获得1颗灵魂宝石。仅限血色城堡5层。
+3123	body	False	utf-8	看来你已有强大的战友。一起挑战血色城堡，定能加深彼此的情谊。愿意再次前往，完成大天使的委托吗？（基础职业：231-280级；进阶职业：211-260级）
+3124	player	False	utf-8	……
+3125	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3126	answer	False	utf-8	我和队友之间的情谊还不够深。
+3127	body	False	utf-8	真遗憾，等你们的情谊更加深厚后再来吧。（任务已取消）
+3128	body	False	utf-8	挑战血色城堡5层并完成大天使的委托，回来可获得1颗祝福宝石。仅限血色城堡5层。
+3129	body	False	utf-8	血色城堡或许已难不倒你，但获取适合当前等级的透明披风仍不容易。我有个任务，可让你获得入场物品。愿意接受吗？（基础职业：281-330级；进阶职业：261-310级）
+3130	player	False	utf-8	你说的“简单任务”就是打怪吗？
+3131	answer	False	utf-8	好，把任务交给我吧。
+3132	answer	False	utf-8	现在没时间，下次再做吧。
+3133	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+3134	body	False	utf-8	天空之城的幻影骑士正危害冒险者。前去消灭100只幻影骑士，再回来领取透明披风+6。以你目前的等级，单独狩猎太危险，建议组队前往。
+3135	body	False	utf-8	在血色城堡，你必须争分夺秒。好装备固然有帮助，但最重要的是队伍团结。愿意接受大天使的委托吗？（基础职业：281-330级；进阶职业：261-310级）
+3136	player	False	utf-8	……
+3137	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3138	answer	False	utf-8	我的实力和队友都还没准备好，再给我些时间。
+3139	body	False	utf-8	真遗憾，找到合适的战友后再来吧。（任务已取消）
+3140	body	False	utf-8	明智的决定。挑战血色城堡6层，至少攻破城门，可获得1颗再生宝石。仅限血色城堡6层。
+3141	body	False	utf-8	看来你已有强大的战友。一起挑战血色城堡，定能加深彼此的情谊。愿意再次前往，完成大天使的委托吗？（基础职业：281-330级；进阶职业：261-310级）
+3142	player	False	utf-8	……
+3143	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3144	answer	False	utf-8	我和队友之间的情谊还不够深。
+3145	body	False	utf-8	真遗憾，等你们的情谊更加深厚后再来吧。（任务已取消）
+3146	body	False	utf-8	挑战血色城堡6层并完成大天使的委托，回来可获得1颗生命宝石。仅限血色城堡6层。
+3147	body	False	utf-8	血色城堡任务中，可靠的战友至关重要。但获取适合当前等级的透明披风仍不容易。我有个任务，可让你获得入场物品。愿意接受吗？（基础职业：331-400级；进阶职业：311-400级）
+3148	player	False	utf-8	你说的“简单任务”就是打怪吗？
+3149	answer	False	utf-8	好，把任务交给我吧。
+3150	answer	False	utf-8	现在没时间，下次再做吧。
+3151	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+3152	body	False	utf-8	坎特鲁遗址的 Twin Tail 正危害冒险者。前去消灭100只 Twin Tail，再回来领取透明披风+7。以你目前的等级，单独狩猎太危险，建议组队前往。
+3153	body	False	utf-8	在血色城堡，你必须争分夺秒。好装备固然有帮助，但最重要的是队伍团结。愿意接受大天使的委托吗？（基础职业：331-400级；进阶职业：311-400级）
+3154	player	False	utf-8	……
+3155	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3156	answer	False	utf-8	我的实力和队友都还没准备好，再给我些时间。
+3157	body	False	utf-8	真遗憾，找到合适的战友后再来吧。（任务已取消）
+3158	body	False	utf-8	明智的决定。挑战血色城堡7层，至少攻破城门，可获得2颗灵魂宝石。仅限血色城堡7层。
+3159	body	False	utf-8	看来你已有强大的战友。一起挑战血色城堡，定能加深彼此的情谊。愿意再次前往，完成大天使的委托吗？（基础职业：331-400级；进阶职业：311-400级）
+3160	player	False	utf-8	……
+3161	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3162	answer	False	utf-8	我和队友之间的情谊还不够深。
+3163	body	False	utf-8	真遗憾，等你们的情谊更加深厚后再来吧。（任务已取消）
+3164	body	False	utf-8	挑战血色城堡7层并完成大天使的委托，回来可获得2颗祝福宝石。仅限血色城堡7层。
+3165	body	False	utf-8	你已达到血色城堡的最终阶段，但有同伴相随，挑战仍充满乐趣。获取适合当前等级的透明披风仍不容易，我有个任务可提供入场物品。愿意接受吗？（所有职业：大师等级）
+3166	player	False	utf-8	你说的“简单任务”就是打怪吗？
+3167	answer	False	utf-8	好，把任务交给我吧。
+3168	answer	False	utf-8	现在没时间，下次再做吧。
+3169	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+3170	body	False	utf-8	坎特鲁遗址的 Dreadfear 正危害冒险者。前去消灭100只 Dreadfear，再回来领取透明披风+8。以你目前的等级，单独狩猎太危险，建议组队前往。
+3171	body	False	utf-8	在血色城堡，你必须争分夺秒。好装备固然有帮助，但最重要的是队伍团结。愿意接受大天使的委托吗？（所有职业：大师等级）
+3172	player	False	utf-8	……
+3173	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3174	answer	False	utf-8	我的实力和队友都还没准备好，再给我些时间。
+3175	body	False	utf-8	真遗憾，找到合适的战友后再来吧。（任务已取消）
+3176	body	False	utf-8	明智的决定。挑战血色城堡8层，至少攻破城门，可获得2颗祝福宝石。仅限血色城堡8层。
+3177	body	False	utf-8	看来你已有强大的战友。一起挑战血色城堡，定能加深彼此的情谊。愿意再次前往，完成大天使的委托吗？（所有职业：大师等级）
+3178	player	False	utf-8	……
+3179	answer	False	utf-8	当然，我很乐意接受大天使的委托。
+3180	answer	False	utf-8	我和队友之间的情谊还不够深。
+3181	body	False	utf-8	真遗憾，等你们的情谊更加深厚后再来吧。（任务已取消）
+3182	body	False	utf-8	挑战血色城堡8层并完成大天使的委托，回来可获得2颗生命宝石。仅限血色城堡8层。
+3801	summary	False	utf-8	血色城堡可培养并考验战友情谊。想了解队伍是否团结，就向幻影导师询问。
+3802	summary	False	utf-8	听取幻影导师的介绍，挑战血色城堡。成功完成任务可获得珍贵奖励。
+3803	summary	False	utf-8	拜访幻影导师，领取一份小奖励。
+3804	summary	False	utf-8	血色城堡考验队友情谊，但进入并不容易。向幻影导师接受任务，获取入场所需的透明披风。
+3805	summary	False	utf-8	前往地下城2层，消灭40只地狱猎犬怪，再找幻影导师领取血色城堡入场物品透明披风+1。
+3806	summary	False	utf-8	初入血色城堡，首先面对的是队友间的信任考验。找幻影导师接受测试，再前往挑战。
+3807	summary	False	utf-8	挑战血色城堡1层，攻破城门后找幻影导师领奖。仅限血色城堡1层。
+3808	summary	False	utf-8	本次目标是在血色城堡完成大天使的委托。先接受幻影导师的测试，再前往挑战。
+3809	summary	False	utf-8	在血色城堡1层完成大天使的委托，再找幻影导师领奖。仅限血色城堡1层。
+3810	summary	False	utf-8	血色城堡可培养并考验战友情谊。想了解队伍是否团结，就向幻影导师询问。
+3811	summary	False	utf-8	听取幻影导师的介绍，挑战血色城堡。成功完成任务可获得珍贵奖励。
+3812	summary	False	utf-8	拜访幻影导师，领取一份小奖励。
+3813	summary	False	utf-8	血色城堡考验队友情谊，但进入并不容易。向幻影导师接受任务，获取入场所需的透明披风。
+3814	summary	False	utf-8	前往地下城3层，消灭60只魔鬼戈登，再找幻影导师领取血色城堡入场物品透明披风+2。
+3815	summary	False	utf-8	城门可能是进入血色城堡的最大障碍。先接受幻影导师的测试，再前往挑战。
+3816	summary	False	utf-8	挑战血色城堡2层，攻破城门后找幻影导师领奖。仅限血色城堡2层。
+3817	summary	False	utf-8	本次目标是在血色城堡完成大天使的委托。先接受幻影导师的测试，再前往挑战。
+3818	summary	False	utf-8	在血色城堡2层完成大天使的委托，再找幻影导师领奖。仅限血色城堡2层。
+3819	summary	False	utf-8	血色城堡考验队友情谊，但进入并不容易。向幻影导师接受任务，获取入场所需的透明披风。
+3820	summary	False	utf-8	前往失落之塔，消灭80只死神骑士，再找幻影导师领取血色城堡入场物品透明披风+3。
+3821	summary	False	utf-8	城门可能是进入血色城堡的最大障碍。先接受幻影导师的测试，再前往挑战。
+3822	summary	False	utf-8	挑战血色城堡3层，攻破城门后找幻影导师领奖。仅限血色城堡3层。
+3823	summary	False	utf-8	本次目标是在血色城堡完成大天使的委托。先接受幻影导师的测试，再前往挑战。
+3824	summary	False	utf-8	在血色城堡3层完成大天使的委托，再找幻影导师领奖。仅限血色城堡3层。
+3825	summary	False	utf-8	血色城堡考验队友情谊，但进入并不容易。向幻影导师接受任务，获取入场所需的透明披风。
+3826	summary	False	utf-8	前往天空之城，消灭80只恶灵，再找幻影导师领取血色城堡入场物品透明披风+4。
+3827	summary	False	utf-8	城门可能是进入血色城堡的最大障碍。先接受幻影导师的测试，再前往挑战。
+3828	summary	False	utf-8	挑战血色城堡4层，攻破城门后找幻影导师领奖。仅限血色城堡4层。
+3829	summary	False	utf-8	本次目标是在血色城堡完成大天使的委托。先接受幻影导师的测试，再前往挑战。
+3830	summary	False	utf-8	在血色城堡4层完成大天使的委托，再找幻影导师领奖。仅限血色城堡4层。
+3831	summary	False	utf-8	血色城堡考验队友情谊，但进入并不容易。向幻影导师接受任务，获取入场所需的透明披风。
+3832	summary	False	utf-8	前往死亡沙漠2区，消灭100只铁脊怪，再找幻影导师领取血色城堡入场物品透明披风+5。
+3833	summary	False	utf-8	城门可能是进入血色城堡的最大障碍。先接受幻影导师的测试，再前往挑战。
+3834	summary	False	utf-8	挑战血色城堡5层，攻破城门后找幻影导师领奖。仅限血色城堡5层。
+3835	summary	False	utf-8	本次目标是在血色城堡完成大天使的委托。先接受幻影导师的测试，再前往挑战。
+3836	summary	False	utf-8	在血色城堡5层完成大天使的委托，再找幻影导师领奖。仅限血色城堡5层。
+3837	summary	False	utf-8	血色城堡考验队友情谊，但进入并不容易。向幻影导师接受任务，获取入场所需的透明披风。
+3838	summary	False	utf-8	前往天空之城，消灭100只幻影骑士，再找幻影导师领取血色城堡入场物品透明披风+6。
+3839	summary	False	utf-8	城门可能是进入血色城堡的最大障碍。先接受幻影导师的测试，再前往挑战。
+3840	summary	False	utf-8	挑战血色城堡6层，攻破城门后找幻影导师领奖。仅限血色城堡6层。
+3841	summary	False	utf-8	本次目标是在血色城堡完成大天使的委托。先接受幻影导师的测试，再前往挑战。
+3842	summary	False	utf-8	在血色城堡6层完成大天使的委托，再找幻影导师领奖。仅限血色城堡6层。
+3843	summary	False	utf-8	血色城堡考验队友情谊，但进入并不容易。向幻影导师接受任务，获取入场所需的透明披风。
+3844	summary	False	utf-8	前往坎特鲁遗址，消灭100只 Twin Tail，再找幻影导师领取血色城堡入场物品透明披风+7。
+3845	summary	False	utf-8	城门可能是进入血色城堡的最大障碍。先接受幻影导师的测试，再前往挑战。
+3846	summary	False	utf-8	挑战血色城堡7层，攻破城门后找幻影导师领奖。仅限血色城堡7层。
+3847	summary	False	utf-8	本次目标是在血色城堡完成大天使的委托。先接受幻影导师的测试，再前往挑战。
+3848	summary	False	utf-8	在血色城堡7层完成大天使的委托，再找幻影导师领奖。仅限血色城堡7层。
+3849	summary	False	utf-8	血色城堡考验队友情谊，但进入并不容易。向幻影导师接受任务，获取入场所需的透明披风。
+3850	summary	False	utf-8	前往坎特鲁遗址，消灭100只 Dreadfear，再找幻影导师领取血色城堡入场物品透明披风+8。
+3851	summary	False	utf-8	城门可能是进入血色城堡的最大障碍。先接受幻影导师的测试，再前往挑战。
+3852	summary	False	utf-8	挑战血色城堡8层，攻破城门后找幻影导师领奖。仅限血色城堡8层。
+3853	summary	False	utf-8	本次目标是在血色城堡完成大天使的委托。先接受幻影导师的测试，再前往挑战。
+3854	summary	False	utf-8	在血色城堡8层完成大天使的委托，再找幻影导师领奖。仅限血色城堡8层。
+3901	subject	False	utf-8	血色城堡挑战（1）
+3902	subject	False	utf-8	血色城堡挑战（2）
+3903	subject	False	utf-8	血色城堡挑战（3）
+3904	subject	False	utf-8	血色城堡挑战（4）
+3905	subject	False	utf-8	适应血色城堡（1）
+3906	subject	False	utf-8	适应血色城堡（2）
+3907	subject	False	utf-8	适应血色城堡（3）
+3908	subject	False	utf-8	适应血色城堡（4）
+3909	subject	False	utf-8	战友情谊的证明（1）
+3910	subject	False	utf-8	战友情谊的证明（2）
+3911	subject	False	utf-8	战友情谊的证明（3）
+3912	subject	False	utf-8	战友情谊的证明（4）
+3913	subject	False	utf-8	战友情谊的证明（5）
+3914	subject	False	utf-8	战友情谊的证明（6）
+4001	body	False	utf-8	知道名为恶魔广场的隐秘修炼场吗？那里很适合磨炼技艺。不如先听我介绍，再作决定？（基础职业：15-130级；进阶职业：10-110级）
+4002	player	False	utf-8	恶魔广场……
+4003	answer	False	utf-8	好，请继续说。
+4004	answer	False	utf-8	这个我已经知道了。
+4005	body	False	utf-8	你知道得不少。我可以提供进入恶魔广场所需的物品，有空时来找我完成一个简单任务即可。
+4006	body	False	utf-8	恶魔广场曾是精灵之树所在之地。所有精灵的母亲、地下精灵 Aria 创造了这棵树，它能定期孕育精灵。后来 Secrarium 欺骗了 Lugard，来到仙踪林的精灵之树旁。
+4007	answer	False	utf-8	……
+4008	body	False	utf-8	Secrarium 看中了树的孕育之力，将它腐化为诞生怪物的邪恶之树。怪物数量急剧增长，奇迹大陆各国联合起来，将邪恶之树封入虚无空间。
+4009	answer	False	utf-8	……
+4010	body	False	utf-8	然而，树原先所在之处仍定期出现怪物。精灵女王深思熟虑后，决定将此地改为冒险者的修炼场。
+4011	answer	False	utf-8	明白了。怎样入场？
+4012	body	False	utf-8	恶魔广场从3:00 a.m.起每四小时开放一次（3:00 a.m.、7:00 a.m.、11:00 a.m.、3:00 p.m.、7:00 p.m.、11:00 p.m.）。入场前五分钟，携带适合等级的恶魔广场通行证，向仙踪林的卡隆申请，他会将你送入广场。
+4013	answer	False	utf-8	入场确实很简单。活动具体怎么玩？
+4014	body	False	utf-8	入场前需要等待大约一分钟。等待结束后怪物开始出现，持续进攻十分钟。击杀怪物可以积分，分数足够高还有机会获得奖励。
+4015	answer	False	utf-8	恶魔广场有什么需要注意的？
+4016	body	False	utf-8	恶魔广场的强敌会不断出现。入场前与其他冒险者组队，能提高生存机会。
+4017	answer	False	utf-8	我都明白了。
+4018	body	False	utf-8	按 F1 查看入场时间。提前五分钟，携带适合等级的恶魔广场通行证，找仙踪林的卡隆进入广场。有空来找我，完成任务就能获得入场物品。
+4019	body	False	utf-8	你回来得比预想的快。我有个简单任务，完成后可获得恶魔广场通行证。愿意接受吗？（基础职业：15-130级；进阶职业：10-110级）
+4020	player	False	utf-8	你说的“简单任务”就是打怪吗？
+4021	answer	False	utf-8	好，把任务交给我吧。
+4022	answer	False	utf-8	现在没时间，下次再做吧。
+4023	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4024	body	False	utf-8	诅咒巫妖正用黑暗法术折磨幻术园居民。消灭40只诅咒巫妖，我会奖励恶魔广场通行证+1。建议与别人合作，效率更高。
+4025	body	False	utf-8	恶魔广场可以磨炼实力、积累经验。愿意去修炼吗？（基础职业：15-130级；进阶职业：10-110级）
+4026	player	False	utf-8	快速成长……
+4027	answer	False	utf-8	好，我接受这个挑战。
+4028	answer	False	utf-8	现在没时间，下次再做吧。
+4029	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4030	body	False	utf-8	挑战恶魔广场1层，获得50分，我会奖励100,000金币。仅限恶魔广场1层。
+4031	body	False	utf-8	恶魔广场源源不断的怪物有助于修炼，与队友配合进攻效果更佳。愿意去修炼吗？（基础职业：15-130级；进阶职业：10-110级）
+4032	player	False	utf-8	……
+4033	answer	False	utf-8	好，我接受这个挑战。
+4034	answer	False	utf-8	现在没时间，下次再做吧。
+4035	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4036	body	False	utf-8	进入恶魔广场1层，击杀出现的怪物并坚持到最后，回来可获得100,000经验和200,000金币。仅限恶魔广场1层。
+4037	body	False	utf-8	知道名为恶魔广场的隐秘修炼场吗？那里很适合磨炼技艺。不如先听我介绍，再作决定？（基础职业：131-180级；进阶职业：111-160级）
+4038	player	False	utf-8	恶魔广场……
+4039	answer	False	utf-8	好，请继续说。
+4040	answer	False	utf-8	这个我已经知道了。
+4041	body	False	utf-8	你知道得不少。我可以提供进入恶魔广场所需的物品，有空时来找我完成一个简单任务即可。
+4042	body	False	utf-8	恶魔广场曾是精灵之树所在之地。所有精灵的母亲、地下精灵 Aria 创造了这棵树，它能定期孕育精灵。后来 Secrarium 欺骗了 Lugard，来到仙踪林的精灵之树旁。
+4043	answer	False	utf-8	……
+4044	body	False	utf-8	Secrarium 看中了树的孕育之力，将它腐化为诞生怪物的邪恶之树。怪物数量急剧增长，奇迹大陆各国联合起来，将邪恶之树封入虚无空间。
+4045	answer	False	utf-8	……
+4046	body	False	utf-8	然而，树原先所在之处仍定期出现怪物。精灵女王深思熟虑后，决定将此地改为冒险者的修炼场。
+4047	answer	False	utf-8	明白了。怎样入场？
+4048	body	False	utf-8	恶魔广场从3:00 a.m.起每四小时开放一次（3:00 a.m.、7:00 a.m.、11:00 a.m.、3:00 p.m.、7:00 p.m.、11:00 p.m.）。入场前五分钟，携带适合等级的恶魔广场通行证，向仙踪林的卡隆申请，他会将你送入广场。
+4049	answer	False	utf-8	入场确实很简单。活动具体怎么玩？
+4050	body	False	utf-8	入场前需要等待大约一分钟。等待结束后怪物开始出现，持续进攻十分钟。击杀怪物可以积分，分数足够高还有机会获得奖励。
+4051	answer	False	utf-8	恶魔广场有什么需要注意的？
+4052	body	False	utf-8	恶魔广场的强敌会不断出现。入场前与其他冒险者组队，能提高生存机会。
+4053	answer	False	utf-8	我都明白了。
+4054	body	False	utf-8	按 F1 查看入场时间。提前五分钟，携带适合等级的恶魔广场通行证，找仙踪林的卡隆进入广场。有空来找我，完成任务就能获得入场物品。
+4055	body	False	utf-8	你回来得比预想的快。我有个简单任务，完成后可获得恶魔广场通行证。愿意接受吗？（基础职业：131-180级；进阶职业：111-160级）
+4056	player	False	utf-8	你说的“简单任务”就是打怪吗？
+4057	answer	False	utf-8	好，把任务交给我吧。
+4058	answer	False	utf-8	现在没时间，下次再做吧。
+4059	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4060	body	False	utf-8	据说失落之塔的牛魔王受邪恶力量驱使，正谋划可疑之事。消灭60只牛魔王，可获得恶魔广场通行证+2。最好与可信赖的同伴共同完成。
+4061	body	False	utf-8	恶魔广场可以磨炼实力、积累经验。我有个小测试，能了解你的能力与经验。愿意参加吗？（基础职业：131-180级；进阶职业：111-160级）
+4062	player	False	utf-8	快速成长……
+4063	answer	False	utf-8	是的，我接受测试。
+4064	answer	False	utf-8	现在没时间，下次再做吧。
+4065	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4066	body	False	utf-8	明智的决定。进入恶魔广场2层并获得100分，就能获得200,000金币奖励。仅限恶魔广场2层。
+4067	body	False	utf-8	恶魔广场源源不断的怪物有助于修炼，与队友配合进攻效果更佳。愿意尝试通关吗？（基础职业：131-180级；进阶职业：111-160级）
+4068	player	False	utf-8	……
+4069	answer	False	utf-8	好，我接受这个挑战。
+4070	answer	False	utf-8	现在没时间，下次再做吧。
+4071	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4072	body	False	utf-8	进入恶魔广场2层，击杀出现的怪物并坚持到最后，回来可获得400,000经验和300,000金币。仅限恶魔广场2层。
+4073	body	False	utf-8	相信你已熟悉恶魔广场。接下来将面对更强的怪物，但不用担心，只要与同伴配合进攻，就能迅速成长。
+4074	answer	False	utf-8	真正的挑战现在才开始，我明白了。
+4075	body	False	utf-8	我有个简单任务，完成后可获得恶魔广场通行证。愿意接受吗？（基础职业：181-230级；进阶职业：161-210级）
+4076	player	False	utf-8	你说的“简单任务”就是打怪吗？
+4077	answer	False	utf-8	好，把任务交给我吧。
+4078	answer	False	utf-8	现在没时间，下次再做吧。
+4079	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4080	body	False	utf-8	天空之城的阿卡摩斯数量激增，让冒险者很头疼。前往消灭80只阿卡摩斯，再回来领取恶魔广场通行证+3。敌人很强，建议与同伴合作。
+4081	body	False	utf-8	恶魔广场可以磨炼实力、积累经验。我有个小测试，能了解你的能力与经验。愿意参加吗？（基础职业：181-230级；进阶职业：161-210级）
+4082	player	False	utf-8	快速成长……
+4083	answer	False	utf-8	是的，我接受测试。
+4084	answer	False	utf-8	现在没时间，下次再做吧。
+4085	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4086	body	False	utf-8	明智的决定。进入恶魔广场3层并获得130分，就能获得800,000经验和500,000金币。仅限恶魔广场3层。
+4087	body	False	utf-8	恶魔广场不断出现的怪物有助于修炼，与队友配合进攻效果更佳。愿意尝试通关吗？（基础职业：181-230级；进阶职业：161-210级）
+4088	player	False	utf-8	……
+4089	answer	False	utf-8	好，我接受这个挑战。
+4090	answer	False	utf-8	现在没时间，下次再做吧。
+4091	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4092	body	False	utf-8	进入恶魔广场3层，击杀出现的怪物并坚持到最后，回来可获得1,000,000经验和1颗玛雅之石。仅限恶魔广场3层。
+4093	body	False	utf-8	相信你已习惯恶魔广场，但通行证仍不好获得。幸好我有个任务能提供通行证。愿意接受吗？（基础职业：231-280级；进阶职业：211-260级）
+4094	player	False	utf-8	你说的“简单任务”就是打怪吗？
+4095	answer	False	utf-8	好，把任务交给我吧。
+4096	answer	False	utf-8	现在没时间，下次再做吧。
+4097	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4098	body	False	utf-8	成群铁轮战士经常袭击死亡沙漠的冒险者。前往消灭100只铁轮战士，再回来领取恶魔广场通行证+4。敌人很强，建议与同伴合作。
+4099	body	False	utf-8	恶魔广场可以磨炼实力、积累经验。我有个小测试，能了解你的能力与经验。愿意参加吗？（基础职业：231-280级；进阶职业：211-260级）
+4100	player	False	utf-8	快速成长……
+4101	answer	False	utf-8	是的，我接受测试。
+4102	answer	False	utf-8	现在没时间，下次再做吧。
+4103	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4104	body	False	utf-8	明智的决定。进入恶魔广场4层并获得160分，就能获得1颗玛雅之石和500,000金币。仅限恶魔广场4层。
+4105	body	False	utf-8	恶魔广场源源不断的怪物有助于修炼，与队友配合进攻效果更佳。愿意尝试通关吗？（基础职业：231-280级；进阶职业：211-260级）
+4106	player	False	utf-8	……
+4107	answer	False	utf-8	好，我接受这个挑战。
+4108	answer	False	utf-8	现在没时间，下次再做吧。
+4109	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4110	body	False	utf-8	进入恶魔广场4层，击杀怪物并坚持到最后，回来可获得1颗灵魂宝石。仅限恶魔广场4层。
+4111	body	False	utf-8	现在应更注重与同伴配合，而非单纯打怪。恶魔广场最适合这种训练。完成简单任务获得通行证，再与同伴一起修炼吧。愿意接受吗？（基础职业：281-330级；进阶职业：261-310级）
+4112	player	False	utf-8	你说的“简单任务”就是打怪吗？
+4113	answer	False	utf-8	好，把任务交给我吧。
+4114	answer	False	utf-8	现在没时间，下次再做吧。
+4115	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4116	body	False	utf-8	黑炎魔似乎在死亡沙漠谋划着什么。前往死亡沙漠2区，消灭100只黑炎魔，再回来领取恶魔广场通行证+5。敌人很强，建议与同伴合作。
+4117	body	False	utf-8	恶魔广场可以磨炼实力、积累经验。我有个小测试，能了解你的能力与经验。愿意参加吗？（基础职业：281-330级；进阶职业：261-310级）
+4118	player	False	utf-8	快速成长……
+4119	answer	False	utf-8	是的，我接受测试。
+4120	answer	False	utf-8	现在没时间，下次再做吧。
+4121	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4122	body	False	utf-8	明智的决定。进入恶魔广场5层并获得190分，就能获得1颗灵魂宝石。仅限恶魔广场5层。
+4123	body	False	utf-8	恶魔广场源源不断的怪物有助于修炼，与队友配合进攻效果更佳。愿意尝试通关吗？（基础职业：281-330级；进阶职业：261-310级）
+4124	player	False	utf-8	……
+4125	answer	False	utf-8	好，我接受这个挑战。
+4126	answer	False	utf-8	现在没时间，下次再做吧。
+4127	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4128	body	False	utf-8	进入恶魔广场5层，击杀怪物并坚持到最后，回来可获得1颗祝福宝石。仅限恶魔广场5层。
+4129	body	False	utf-8	进入恶魔广场快速修炼，最大的障碍恐怕是获取通行证。我有个简单任务能提供通行证。愿意接受吗？（基础职业：330-400级；进阶职业：311-400级）
+4130	player	False	utf-8	你说的“简单任务”就是打怪吗？
+4131	answer	False	utf-8	好，把任务交给我吧。
+4132	answer	False	utf-8	现在没时间，下次再做吧。
+4133	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4134	body	False	utf-8	Ice Walker 正攻击并削弱分隔拉克里昂与冰风谷的结界。前往拉克里昂消灭120只 Ice Walker，再回来领取恶魔广场通行证+6。敌人很强，建议与同伴合作。
+4135	body	False	utf-8	恶魔广场可以磨炼实力、积累经验。我有个小测试，能了解你的能力与经验。愿意参加吗？（基础职业：330-400级；进阶职业：311-400级）
+4136	player	False	utf-8	快速成长……
+4137	answer	False	utf-8	是的，我接受测试。
+4138	answer	False	utf-8	现在没时间，下次再做吧。
+4139	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4140	body	False	utf-8	明智的决定。进入恶魔广场6层并获得210分，就能获得1颗再生宝石。仅限恶魔广场6层。
+4141	body	False	utf-8	恶魔广场源源不断的怪物有助于修炼，与队友配合进攻效果更佳。愿意尝试通关吗？（基础职业：330-400级；进阶职业：311-400级）
+4142	player	False	utf-8	……
+4143	answer	False	utf-8	好，我接受这个挑战。
+4144	answer	False	utf-8	现在没时间，下次再做吧。
+4145	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4146	body	False	utf-8	进入恶魔广场6层，击杀怪物并坚持到最后，回来可获得1颗生命宝石。仅限恶魔广场6层。
+4147	body	False	utf-8	再有经验的勇士也可能因一时疏忽遭难，希望你始终坚持修炼。恶魔广场能让你在短时间内充分训练，我负责发放通行证。想了解更多吗？（所有职业：大师等级）
+4148	player	False	utf-8	当然……
+4149	answer	False	utf-8	说来听听。
+4150	answer	False	utf-8	现在没时间，下次再做吧。
+4151	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4152	body	False	utf-8	Shadow Knight 导致许多冒险者在安宁池失踪。前往消灭140只 Shadow Knight，再回来领取恶魔广场通行证+7。敌人很强，建议与同伴合作。
+4153	body	False	utf-8	恶魔广场可以磨炼实力、积累经验。我有个小测试，能了解你的能力与经验。愿意参加吗？（所有职业：大师等级）
+4154	player	False	utf-8	快速成长……
+4155	answer	False	utf-8	是的，我接受测试。
+4156	answer	False	utf-8	现在没时间，下次再做吧。
+4157	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4158	body	False	utf-8	明智的决定。进入恶魔广场7层并获得240分，就能获得2颗灵魂宝石。仅限恶魔广场7层。
+4159	body	False	utf-8	恶魔广场源源不断的怪物有助于修炼，与队友配合进攻效果更佳。愿意尝试通关吗？（所有职业：大师等级）
+4160	player	False	utf-8	……
+4161	answer	False	utf-8	好，我接受这个挑战。
+4162	answer	False	utf-8	现在没时间，下次再做吧。
+4163	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+4164	body	False	utf-8	进入恶魔广场7层，击杀怪物并坚持到最后，回来可获得2颗祝福宝石。仅限恶魔广场7层。
+4801	summary	False	utf-8	恶魔广场可快速磨炼实力。想尽快变强，就向幻影导师询问。
+4802	summary	False	utf-8	听取幻影导师的介绍，挑战恶魔广场。通过修炼可获得珍贵奖励。
+4803	summary	False	utf-8	拜访幻影导师，领取一份小奖励。
+4804	summary	False	utf-8	恶魔广场可助你快速成长，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取所需通行证。
+4805	summary	False	utf-8	前往幻术园2区，消灭40只诅咒巫妖，再找幻影导师领取恶魔广场通行证+1。
+4806	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4807	summary	False	utf-8	挑战恶魔广场1层，击杀怪物获得50分，再找幻影导师领奖。仅限恶魔广场1层。
+4808	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4809	summary	False	utf-8	前往恶魔广场1层，击杀怪物并坚持到最后，再找幻影导师领奖。仅限恶魔广场1层。
+4810	summary	False	utf-8	恶魔广场可快速磨炼实力。想尽快变强，就向幻影导师询问。
+4811	summary	False	utf-8	听取幻影导师的介绍，挑战恶魔广场。通过修炼可获得珍贵奖励。
+4812	summary	False	utf-8	拜访幻影导师，领取一份小奖励。
+4813	summary	False	utf-8	恶魔广场可助你快速成长，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取所需通行证。
+4814	summary	False	utf-8	前往失落之塔2和3层，消灭60只牛魔王，再找幻影导师领取恶魔广场通行证+2。
+4815	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4816	summary	False	utf-8	挑战恶魔广场2层，击杀怪物获得100分，再找幻影导师领奖。仅限恶魔广场2层。
+4817	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4818	summary	False	utf-8	前往恶魔广场2层，击杀怪物并坚持到最后，再找幻影导师领奖。仅限恶魔广场2层。
+4819	summary	False	utf-8	恶魔广场可助你快速成长，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取所需通行证。
+4820	summary	False	utf-8	前往天空之城，消灭80只阿卡摩斯，再找幻影导师领取恶魔广场通行证+3。
+4821	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4822	summary	False	utf-8	挑战恶魔广场3层，击杀怪物获得130分，再找幻影导师领奖。仅限恶魔广场3层。
+4823	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4824	summary	False	utf-8	前往恶魔广场3层，击杀怪物并坚持到最后，再找幻影导师领奖。仅限恶魔广场3层。
+4825	summary	False	utf-8	恶魔广场可助你快速成长，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取所需通行证。
+4826	summary	False	utf-8	前往死亡沙漠，消灭100只铁轮战士，再找幻影导师领取恶魔广场通行证+4。
+4827	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4828	summary	False	utf-8	挑战恶魔广场4层，击杀怪物获得160分，再找幻影导师领奖。仅限恶魔广场4层。
+4829	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4830	summary	False	utf-8	前往恶魔广场4层，击杀怪物并坚持到最后，再找幻影导师领奖。仅限恶魔广场4层。
+4831	summary	False	utf-8	恶魔广场可助你快速成长，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取所需通行证。
+4832	summary	False	utf-8	前往死亡沙漠2区，消灭100只黑炎魔，再找幻影导师领取恶魔广场通行证+5。
+4833	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4834	summary	False	utf-8	挑战恶魔广场5层，击杀怪物获得190分，再找幻影导师领奖。仅限恶魔广场5层。
+4835	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4836	summary	False	utf-8	前往恶魔广场5层，击杀怪物并坚持到最后，再找幻影导师领奖。仅限恶魔广场5层。
+4837	summary	False	utf-8	恶魔广场可助你快速成长，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取所需通行证。
+4838	summary	False	utf-8	前往拉克里昂，消灭120只 Ice Walker，再找幻影导师领取恶魔广场通行证+6。
+4839	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4840	summary	False	utf-8	挑战恶魔广场6层，击杀怪物获得210分，再找幻影导师领奖。仅限恶魔广场6层。
+4841	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4842	summary	False	utf-8	前往恶魔广场6层，击杀怪物并坚持到最后，再找幻影导师领奖。仅限恶魔广场6层。
+4843	summary	False	utf-8	恶魔广场可助你快速成长，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取所需通行证。
+4844	summary	False	utf-8	前往安宁池，消灭140只 Shadow Knight，再找幻影导师领取恶魔广场通行证+7。
+4845	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4846	summary	False	utf-8	挑战恶魔广场7层，击杀怪物获得240分，再找幻影导师领奖。仅限恶魔广场7层。
+4847	summary	False	utf-8	在恶魔广场快速成长，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+4848	summary	False	utf-8	前往恶魔广场7层，击杀怪物并坚持到最后，再找幻影导师领奖。仅限恶魔广场7层。
+4901	subject	False	utf-8	恶魔广场挑战（1）
+4902	subject	False	utf-8	恶魔广场挑战（2）
+4903	subject	False	utf-8	恶魔广场挑战（3）
+4904	subject	False	utf-8	恶魔广场挑战（4）
+4905	subject	False	utf-8	适应恶魔广场（1）
+4906	subject	False	utf-8	适应恶魔广场（2）
+4907	subject	False	utf-8	适应恶魔广场（3）
+4908	subject	False	utf-8	适应恶魔广场（4）
+4909	subject	False	utf-8	最快的修炼之路（1）
+4910	subject	False	utf-8	最快的修炼之路（2）
+4911	subject	False	utf-8	最快的修炼之路（3）
+4912	subject	False	utf-8	最快的修炼之路（4）
+4913	subject	False	utf-8	最快的修炼之路（5）
+5001	body	False	utf-8	听说过幻影寺院及其中的古代圣物吗？冒险者在那里能获得财富与声望。不如先听我介绍，再作决定？（所有职业：220-270级）
+5002	player	False	utf-8	幻影寺院……
+5003	answer	False	utf-8	好，请继续说。
+5004	answer	False	utf-8	这个我已经知道了。
+5005	body	False	utf-8	你知道得不少。我负责发放进入幻影寺院所需的物品。有空来找我完成简单任务，即可获得入场凭证。
+5006	body	False	utf-8	考古学家弥拉邱发现了幻影魔法的基础——幻影咒文。他认为力量太危险，便将其封印。同伴 Lev 却盗走咒文，用它洗脑他人，建立幻影教团。教团日益壮大，为大陆带来混乱。
+5007	answer	False	utf-8	……
+5008	body	False	utf-8	大魔法师 Etramu 誓要消灭幻影教团，集结军队讨伐。在他的指挥下，联军强势进攻，教徒退守幻影寺院后仍顽抗。战斗中 Lev 突然消失，教徒陷入混乱，最终全被联军消灭在寺院中。
+5009	answer	False	utf-8	……
+5010	body	False	utf-8	受 Lev 的幻影咒文影响，死去教徒的灵魂仍留在人间守护寺院。他们相信 Lev 回来便能使自己复生。如今联军守卫着寺院，防备 Lev 回归；教团则用古代圣物诱惑毫不知情的冒险者。
+5011	answer	False	utf-8	明白了。怎样入场？
+5012	body	False	utf-8	幻影寺院从01:00 a.m.起每四小时开放一次：01:00 a.m.、05:00 a.m.、09:00 a.m.、01:00 p.m.、05:00 p.m.、09:00 p.m.。开始前五分钟，带上适合等级的血色卷轴，到幻术园找弥拉邱申请入场。
+5013	answer	False	utf-8	入场确实很简单。活动具体怎么玩？
+5014	body	False	utf-8	入场后需等待其他玩家，随后分成联军和幻影教团两个阵营。运回己方的圣物更多的一方获胜。
+5015	answer	False	utf-8	幻影寺院有什么需要注意的？
+5016	body	False	utf-8	携带圣物时，无法使用瞬间移动、念力等部分技能。此外，寺院中有专用技能，善加利用可帮助己方获胜。
+5017	answer	False	utf-8	我都明白了。
+5018	body	False	utf-8	按 F1 查看入场时间。提前五分钟，携带适合等级的血色卷轴，找幻术园的弥拉邱进入寺院。有空来找我，完成任务就能获得入场物品。
+5019	body	False	utf-8	你回来得比预想的快。我有个简单任务，可让你获得进入幻影寺院所需的血色卷轴。愿意接受吗？（所有职业：220-270级）
+5020	player	False	utf-8	你说的“简单任务”就是打怪吗？
+5021	answer	False	utf-8	好，把任务交给我吧。
+5022	answer	False	utf-8	现在没时间，下次再做吧。
+5023	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5024	body	False	utf-8	死亡沙漠的巨齿怪数量激增，令人担忧。消灭50只巨齿怪，我会奖励血色卷轴+1。
+5025	body	False	utf-8	幻影寺院能带来财富与声望。接受挑战，或许能得到修炼所需的重要物品。愿意尝试吗？（所有职业：220-270级）
+5026	player	False	utf-8	……
+5027	answer	False	utf-8	好，我接受这个挑战。
+5028	answer	False	utf-8	现在没时间，下次再做吧。
+5029	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5030	body	False	utf-8	挑战幻影寺院1层并获胜，可获得1颗灵魂宝石。仅限幻影寺院1层。
+5031	body	False	utf-8	听说过幻影寺院及其中的古代圣物吗？冒险者在那里能获得财富与声望。不如先听我介绍，再作决定？（所有职业：271-320级）
+5032	player	False	utf-8	幻影寺院……
+5033	answer	False	utf-8	好，请继续说。
+5034	answer	False	utf-8	这个我已经知道了。
+5035	body	False	utf-8	你知道得不少。我负责发放进入幻影寺院所需的物品。有空来找我完成简单任务，即可获得入场凭证。
+5036	body	False	utf-8	考古学家弥拉邱发现了幻影魔法的基础——幻影咒文。他认为力量太危险，便将其封印。同伴 Lev 却盗走咒文，用它洗脑他人，建立幻影教团。教团日益壮大，为大陆带来混乱。
+5037	answer	False	utf-8	……
+5038	body	False	utf-8	大魔法师 Etramu 誓要消灭幻影教团，集结军队讨伐。在他的指挥下，联军强势进攻，教徒退守幻影寺院后仍顽抗。战斗中 Lev 突然消失，教徒陷入混乱，最终全被联军消灭在寺院中。
+5039	answer	False	utf-8	……
+5040	body	False	utf-8	受 Lev 的幻影咒文影响，死去教徒的灵魂仍留在人间守护寺院。他们相信 Lev 回来便能使自己复生。如今联军守卫着寺院，防备 Lev 回归；教团则用古代圣物诱惑毫不知情的冒险者。
+5041	answer	False	utf-8	明白了。怎样入场？
+5042	body	False	utf-8	幻影寺院从01:00 a.m.起每四小时开放一次：01:00 a.m.、05:00 a.m.、09:00 a.m.、01:00 p.m.、05:00 p.m.、09:00 p.m.。开始前五分钟，带上适合等级的血色卷轴，到幻术园找弥拉邱申请入场。
+5043	answer	False	utf-8	入场确实很简单。活动具体怎么玩？
+5044	body	False	utf-8	入场后需等待其他玩家，随后分成联军和幻影教团两个阵营。运回己方的圣物更多的一方获胜。
+5045	answer	False	utf-8	幻影寺院有什么需要注意的？
+5046	body	False	utf-8	携带圣物时，无法使用瞬间移动、念力等部分技能。此外，寺院中有专用技能，善加利用可帮助己方获胜。
+5047	answer	False	utf-8	我都明白了。
+5048	body	False	utf-8	按 F1 查看入场时间。提前五分钟，携带适合等级的血色卷轴，找幻术园的弥拉邱进入寺院。有空来找我，完成任务就能获得入场物品。
+5049	body	False	utf-8	你回来得比预想的快。我有个简单任务，可让你获得进入幻影寺院所需的血色卷轴。愿意接受吗？（所有职业：271-320级）
+5050	player	False	utf-8	你说的“简单任务”就是打怪吗？
+5051	answer	False	utf-8	好，把任务交给我吧。
+5052	answer	False	utf-8	现在没时间，下次再做吧。
+5053	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5054	body	False	utf-8	死亡沙漠的铁轮战士数量激增，令人担忧。消灭70只铁轮战士，我会奖励血色卷轴+2。
+5055	body	False	utf-8	幻影寺院能带来财富与声望。接受挑战，或许能得到修炼所需的重要物品。愿意尝试吗？（所有职业：271-320级）
+5056	player	False	utf-8	……
+5057	answer	False	utf-8	好，我接受这个挑战。
+5058	answer	False	utf-8	现在没时间，下次再做吧。
+5059	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5060	body	False	utf-8	挑战幻影寺院2层并获胜，可获得1颗祝福宝石。仅限幻影寺院2层。
+5061	body	False	utf-8	相信你已熟悉幻影寺院。接下来将面对更强的怪物，但不用担心，只要与同伴学会配合，就能迅速成长。
+5062	answer	False	utf-8	真正的挑战现在才开始，我明白了。
+5063	body	False	utf-8	我有个简单任务，可让你获得进入幻影寺院所需的血色卷轴。愿意接受吗？（所有职业：321-350级）
+5064	player	False	utf-8	你说的“简单任务”就是打怪吗？
+5065	answer	False	utf-8	好，把任务交给我吧。
+5066	answer	False	utf-8	现在没时间，下次再做吧。
+5067	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5068	body	False	utf-8	天空之城的蓝魔龙数量增长已失控。消灭90只蓝魔龙，我会奖励血色卷轴+3。
+5069	body	False	utf-8	幻影寺院能带来财富与声望。接受挑战，或许能得到修炼所需的重要物品。愿意尝试吗？（所有职业：321-350级）
+5070	player	False	utf-8	……
+5071	answer	False	utf-8	好，我接受这个挑战。
+5072	answer	False	utf-8	现在没时间，下次再做吧。
+5073	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5074	body	False	utf-8	挑战幻影寺院3层并获胜，可获得1颗生命宝石。仅限幻影寺院3层。
+5075	body	False	utf-8	已获得足够的修炼物品了吗？进入幻影寺院并不容易，但我有个任务能提供入场凭证。愿意接受吗？（所有职业：351-380级）
+5076	player	False	utf-8	你说的“简单任务”就是打怪吗？
+5077	answer	False	utf-8	好，把任务交给我吧。
+5078	answer	False	utf-8	现在没时间，下次再做吧。
+5079	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5080	body	False	utf-8	死亡沙漠2区的炽炎魔数量增长已失控。消灭30只炽炎魔，我会奖励血色卷轴+4。
+5081	body	False	utf-8	幻影寺院能带来财富与声望。接受挑战，或许能得到修炼所需的重要物品。愿意尝试吗？（所有职业：351-380级）
+5082	player	False	utf-8	……
+5083	answer	False	utf-8	好，我接受这个挑战。
+5084	answer	False	utf-8	现在没时间，下次再做吧。
+5085	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5086	body	False	utf-8	挑战幻影寺院4层并获胜，可获得1颗玛雅之石和1颗灵魂宝石。仅限幻影寺院4层。
+5087	body	False	utf-8	已获得足够的修炼物品了吗？进入幻影寺院并不容易，但我有个任务能提供入场凭证。愿意接受吗？（所有职业：351-380级）
+5088	player	False	utf-8	你说的“简单任务”就是打怪吗？
+5089	answer	False	utf-8	好，把任务交给我吧。
+5090	answer	False	utf-8	现在没时间，下次再做吧。
+5091	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5092	body	False	utf-8	天空之城的 Giant Drakan 数量增长已失控。消灭130只 Giant Drakan，我会奖励血色卷轴+5。
+5093	body	False	utf-8	幻影寺院能带来财富与声望。接受挑战，或许能得到修炼所需的重要物品。愿意尝试吗？（所有职业：351-380级）
+5094	player	False	utf-8	……
+5095	answer	False	utf-8	好，我接受这个挑战。
+5096	answer	False	utf-8	现在没时间，下次再做吧。
+5097	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5098	body	False	utf-8	挑战幻影寺院5层并获胜，可获得1颗灵魂宝石和1颗祝福宝石。仅限幻影寺院5层。
+5099	body	False	utf-8	已获得足够的修炼物品了吗？进入幻影寺院并不容易，但我有个任务能提供入场凭证。愿意接受吗？（所有职业：大师等级）
+5100	player	False	utf-8	你说的“简单任务”就是打怪吗？
+5101	answer	False	utf-8	好，把任务交给我吧。
+5102	answer	False	utf-8	现在没时间，下次再做吧。
+5103	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5104	body	False	utf-8	安宁池的 Shadow Look 数量增长已失控。消灭150只 Shadow Look，我会奖励血色卷轴+6。
+5105	body	False	utf-8	幻影寺院能带来财富与声望。接受挑战，或许能得到修炼所需的重要物品。愿意尝试吗？（所有职业：大师等级）
+5106	player	False	utf-8	……
+5107	answer	False	utf-8	好，我接受这个挑战。
+5108	answer	False	utf-8	现在没时间，下次再做吧。
+5109	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+5110	body	False	utf-8	挑战幻影寺院6层并获胜，可获得1颗祝福宝石和1颗生命宝石。仅限幻影寺院6层。
+5801	summary	False	utf-8	幻影寺院可获得帮助快速成长的物品和装备。想要这些物品，就去向幻影导师询问。
+5802	summary	False	utf-8	听取幻影导师的介绍，挑战幻影寺院。获胜后可领取珍贵奖励。
+5803	summary	False	utf-8	拜访幻影导师，领取一份小奖励。
+5804	summary	False	utf-8	幻影寺院可获得优良装备，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取入场物品。
+5805	summary	False	utf-8	前往死亡沙漠，消灭50只巨齿怪，再找幻影导师领取幻影寺院入场物品血色卷轴+1。
+5806	summary	False	utf-8	在幻影寺院获胜，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+5807	summary	False	utf-8	挑战幻影寺院1层并获胜，再找幻影导师领取1颗灵魂宝石。仅限幻影寺院1层。
+5808	summary	False	utf-8	幻影寺院可获得帮助快速成长的物品和装备。想要这些物品，就去向幻影导师询问。
+5809	summary	False	utf-8	听取幻影导师的介绍，挑战幻影寺院。获胜后可领取珍贵奖励。
+5810	summary	False	utf-8	拜访幻影导师，领取一份小奖励。
+5811	summary	False	utf-8	幻影寺院可获得优良装备，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取入场物品。
+5812	summary	False	utf-8	前往死亡沙漠，消灭70只铁轮战士，再找幻影导师领取幻影寺院入场物品血色卷轴+2。
+5813	summary	False	utf-8	在幻影寺院获胜，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+5814	summary	False	utf-8	挑战幻影寺院2层并获胜，再找幻影导师领取1颗祝福宝石。仅限幻影寺院2层。
+5815	summary	False	utf-8	幻影寺院可获得优良装备，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取入场物品。
+5816	summary	False	utf-8	前往天空之城，消灭90只蓝魔龙，再找幻影导师领取幻影寺院入场物品血色卷轴+3。
+5817	summary	False	utf-8	在幻影寺院获胜，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+5818	summary	False	utf-8	挑战幻影寺院3层并获胜，再找幻影导师领取1颗祝福宝石。仅限幻影寺院3层。
+5819	summary	False	utf-8	幻影寺院可获得优良装备，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取入场物品。
+5820	summary	False	utf-8	前往死亡沙漠2区，消灭30只炽炎魔，再找幻影导师领取幻影寺院入场物品血色卷轴+4。
+5821	summary	False	utf-8	在幻影寺院获胜，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+5822	summary	False	utf-8	挑战幻影寺院4层并获胜，再找幻影导师领取1颗灵魂宝石和1颗玛雅之石。仅限幻影寺院4层。
+5823	summary	False	utf-8	幻影寺院可获得优良装备，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取入场物品。
+5824	summary	False	utf-8	前往天空之城，消灭130只 Giant Drakan，再找幻影导师领取幻影寺院入场物品血色卷轴+5。
+5825	summary	False	utf-8	在幻影寺院获胜，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+5826	summary	False	utf-8	挑战幻影寺院5层并获胜，再找幻影导师领取1颗灵魂宝石和1颗祝福宝石。仅限幻影寺院5层。
+5827	summary	False	utf-8	幻影寺院可获得优良装备，但不可轻视，入场前务必准备充分。向幻影导师接受任务，获取入场物品。
+5828	summary	False	utf-8	前往安宁池，消灭150只 Shadow Look，再找幻影导师领取幻影寺院入场物品血色卷轴+6。
+5829	summary	False	utf-8	在幻影寺院获胜，可得到幻影导师的小奖励。接受他的测试，前往挑战吧。
+5830	summary	False	utf-8	挑战幻影寺院6层并获胜，再找幻影导师领取1颗祝福宝石和1颗生命宝石。仅限幻影寺院6层。
+5901	subject	False	utf-8	幻影寺院挑战（1）
+5902	subject	False	utf-8	幻影寺院挑战（2）
+5903	subject	False	utf-8	幻影寺院挑战（3）
+5904	subject	False	utf-8	适应幻影寺院（1）
+5905	subject	False	utf-8	适应幻影寺院（2）
+5906	subject	False	utf-8	适应幻影寺院（3）
+5907	subject	False	utf-8	奇异的对决（1）
+5908	subject	False	utf-8	奇异的对决（2）
+5909	subject	False	utf-8	奇异的对决（3）
+5910	subject	False	utf-8	奇异的对决（4）
+6001	body	False	utf-8	在奇迹大陆，证明自己的方式很多：成为赤色要塞最后的幸存者，或与战友并肩闯过血色城堡、恶魔广场和幻影寺院。冒险者们将这些视为最值得骄傲的成就。
+6002	answer	False	utf-8	原来不只看装备和等级。
+6003	body	False	utf-8	没错，与其他冒险者较量，确实需要好装备和高等级，但仅凭这些不足以成为奇迹英雄。我会给你一系列任务，助你赢得英雄的认可。这些任务可以反复挑战。
+6004	answer	False	utf-8	得到英雄的认可……
+6005	body	False	utf-8	先给你一个简单任务，看看你是否具备英雄的资质。愿意接受吗？（基础职业：240-270级；进阶职业：220-260级）
+6006	player	False	cp949 (original loader uses UTF-8)	……
+6007	answer	False	utf-8	当然！是什么简单任务？（接受）
+6008	answer	False	utf-8	我不需要这种评判！（拒绝）
+6009	body	False	utf-8	真遗憾。变强的方法很多，但都需要时间，请记住这一点。
+6010	body	False	utf-8	你已接受第一项试炼。请在赤色要塞击败5名卫兵，在血色城堡交还大天使武器，并在恶魔广场坚持到最后，以证明战斗能力。完成后可获得祝福宝石、灵魂宝石或玛雅之石中的一种奖励。
+6011	body	False	utf-8	恭喜完成第一个任务，我马上给你第二个。愿意接受吗？（基础职业：240-270级；进阶职业：220-260级）
+6012	player	False	cp949 (original loader uses UTF-8)	……
+6013	answer	False	utf-8	我接受任务。（接受）
+6014	answer	False	utf-8	不，我需要先休息。（拒绝）
+6015	body	False	utf-8	真遗憾。放弃第二个任务后，不能直接重做第一个。必须先完成第二个任务，才能再次挑战第一个。改变主意后再来吧。
+6016	body	False	utf-8	明智的决定。这次请在幻影寺院获胜，以提升自己的价值。完成后可获得800,000经验。
+6017	body	False	utf-8	你已完成成为英雄的第一项试炼。下一项将考验英雄应有的勇气。愿意接受吗？（基础职业：300-320级；进阶职业：271-320级）
+6018	player	False	cp949 (original loader uses UTF-8)	……
+6019	answer	False	utf-8	我接受任务。（接受）
+6020	answer	False	utf-8	我觉得自己已经很勇敢了。（拒绝）
+6021	body	False	utf-8	勇气是英雄最重要的品质。缺乏勇气，就永远无法成为真正的英雄。
+6022	body	False	utf-8	明智的决定。第二项试炼的首个任务：在赤色要塞击败10名卫兵，在血色城堡交还大天使武器，并在恶魔广场坚持到最后。完成后可获得祝福宝石、灵魂宝石、玛雅之石或再生宝石中的一种奖励。
+6023	body	False	utf-8	恭喜完成第一个任务，我马上给你第二个。愿意接受吗？（基础职业：300-320级；进阶职业：271-320级）
+6024	player	False	cp949 (original loader uses UTF-8)	……
+6025	answer	False	utf-8	我接受任务。（接受）
+6026	answer	False	utf-8	不，我需要先休息。（拒绝）
+6027	body	False	utf-8	真遗憾。放弃第二个任务后，不能直接重做第一个。必须先完成第二个任务，才能再次挑战第一个。改变主意后再来吧。
+6028	body	False	utf-8	现在给你第二个任务。面对众多敌人也不要畏惧，在幻影寺院取得胜利。完成后可获得3,000,000经验。
+6029	body	False	utf-8	你已完成成为英雄的第二项试炼。下一项将考验英雄应有的斗志。愿意接受吗？（331-350级）
+6030	player	False	cp949 (original loader uses UTF-8)	……
+6031	answer	False	utf-8	这次考验斗志？我接受。（接受）
+6032	answer	False	utf-8	斗志对英雄没什么用。（拒绝）
+6033	body	False	utf-8	希望你明白，没有斗志的英雄不过是个懦夫。
+6034	body	False	utf-8	明智的选择。第三项试炼的首个任务：在赤色要塞击败20名卫兵，在血色城堡交还大天使武器，并在恶魔广场坚持到最后。完成后可获得祝福宝石、生命宝石、再生宝石或两颗灵魂宝石中的一种奖励。
+6035	body	False	utf-8	恭喜完成第一个任务，我马上给你第二个。愿意接受吗？（331-350级）
+6036	player	False	cp949 (original loader uses UTF-8)	……
+6037	answer	False	utf-8	这个有点难吧？我接受。（接受）
+6038	answer	False	utf-8	我还没准备好。（拒绝）
+6039	body	False	utf-8	真遗憾。放弃第二个任务后，不能直接重做第一个。必须先完成第二个任务，才能再次挑战第一个。改变主意后再来吧。
+6040	body	False	utf-8	现在给你第二个任务。在幻影寺院取得胜利，令对手震惊。完成后可获得5,000,000经验。
+6041	body	False	utf-8	你已完成成为英雄的第三项试炼。下一项将考验英雄应有的心志。愿意接受吗？（351-380级）
+6042	player	False	cp949 (original loader uses UTF-8)	……
+6043	answer	False	utf-8	我会专注到最后！（接受）
+6044	answer	False	utf-8	现在没时间。（拒绝）
+6045	body	False	utf-8	意志薄弱的英雄与行尸走肉无异。请坚持挑战，直到最后。
+6046	body	False	utf-8	明智的决定。第四项试炼的首个任务：在赤色要塞击败30名卫兵，在血色城堡交还大天使武器，并在恶魔广场坚持到最后。完成后可获得祝福宝石、生命宝石、再生宝石或两颗灵魂宝石中的一种奖励。
+6047	body	False	utf-8	恭喜完成第一个任务，我马上给你第二个。愿意接受吗？（351-380级）
+6048	player	False	cp949 (original loader uses UTF-8)	……
+6049	answer	False	utf-8	越来越难了，不过我接受。（接受）
+6050	answer	False	utf-8	我放弃，已经无法继续了。（拒绝）
+6051	body	False	utf-8	真遗憾。放弃第二个任务后，不能直接重做第一个。必须先完成第二个任务，才能再次挑战第一个。改变主意后再来吧。
+6052	body	False	utf-8	现在给你第二个任务。保护圣物，不获胜决不放弃，赢下幻影寺院之战。完成后可获得8,000,000经验。
+6053	body	False	utf-8	你已完成成为英雄的第四项试炼。下一项将考验英雄应有的韧性。愿意接受吗？（381-400级）
+6054	player	False	cp949 (original loader uses UTF-8)	……
+6055	answer	False	utf-8	英雄绝不气馁，我接受。（接受）
+6056	answer	False	utf-8	现在没时间。（拒绝）
+6057	body	False	utf-8	韧性也是英雄不可或缺的品质。不够坚韧，就无法变强，请记住这一点。
+6058	body	False	utf-8	明智的决定。第五项试炼的首个任务：在赤色要塞生还，在血色城堡交还大天使武器，并在恶魔广场坚持到最后。完成后可获得祝福宝石、生命宝石、再生宝石或两颗灵魂宝石中的一种奖励。
+6059	body	False	utf-8	恭喜完成第一个任务，我马上给你第二个。愿意接受吗？（381-400级）
+6060	player	False	cp949 (original loader uses UTF-8)	……
+6061	answer	False	utf-8	越来越难了，不过我接受。（接受）
+6062	answer	False	utf-8	不行，我已经无法继续了。（拒绝）
+6063	body	False	utf-8	真遗憾。放弃第二个任务后，不能直接重做第一个。必须先完成第二个任务，才能再次挑战第一个。改变主意后再来吧。
+6064	body	False	utf-8	现在给你第二个任务。我知道在幻影寺院获胜很难，但坚持不懈，胜利终会属于你。完成后可获得8,000,000经验。
+6065	body	False	utf-8	你已完成成为英雄的第五项试炼。接下来是最后的考验，看看你是否真正配得上英雄之名。（大师等级）
+6066	player	False	cp949 (original loader uses UTF-8)	……
+6067	answer	False	utf-8	最后一关了吗？我接受。（接受）
+6068	answer	False	utf-8	我还没准备好。（拒绝）
+6069	body	False	utf-8	机会并不会永远为你敞开。
+6070	body	False	utf-8	明智的决定。最终试炼的首个任务：在赤色要塞生还，在血色城堡交还大天使武器，并在恶魔广场坚持到最后。成功后你将成为英雄，名震奇迹大陆，并可获得祝福宝石、两颗生命宝石或两颗灵魂宝石中的一种奖励。
+6071	body	False	utf-8	恭喜完成第一个任务，我马上给你第二个。愿意接受吗？（大师等级）
+6072	player	False	cp949 (original loader uses UTF-8)	……
+6073	answer	False	utf-8	终点就在眼前！我接受。（接受）
+6074	answer	False	utf-8	我实在无法继续了。（拒绝）
+6075	body	False	utf-8	真遗憾。放弃第二个任务后，不能直接重做第一个。必须先完成第二个任务，才能再次挑战第一个。改变主意后再来吧。
+6076	body	False	utf-8	那我马上交给你第二项任务：在幻影寺院获胜。完成后可获得5,000,000经验。请带领奇迹大陆走向繁荣。
+6801	summary	False	utf-8	想迅速成长为强大的勇士，就要挑战各种活动地图。若想接受活动地图任务，请找幻影导师。
+6802	summary	False	utf-8	在赤色要塞消灭5只怪物，在血色城堡将武器交给大天使，并在恶魔广场存活到最后。完成这三项挑战后，回到幻影导师处领取奖励。
+6803	summary	False	utf-8	接下来需要通关幻影寺院。请找幻影导师接受幻影寺院任务。
+6804	summary	False	utf-8	通关幻影寺院后，回到幻影导师处领取800,000经验。
+6805	summary	False	utf-8	想迅速成长为强大的勇士，就要挑战各种活动地图。若想接受活动地图任务，请找幻影导师。
+6806	summary	False	utf-8	在赤色要塞消灭10只怪物，在血色城堡将武器交给大天使，并在恶魔广场存活到最后。完成这三项挑战后，回到幻影导师处领取奖励。
+6807	summary	False	utf-8	接下来需要通关幻影寺院。请找幻影导师开始幻影寺院任务。
+6808	summary	False	utf-8	通关幻影寺院后，回到幻影导师处领取3,000,000经验。
+6809	summary	False	utf-8	想迅速成长为强大的勇士，就要挑战各种活动地图。若想接受活动地图任务，请找幻影导师。
+6810	summary	False	utf-8	在赤色要塞消灭20只怪物，在血色城堡将武器交给大天使，并在恶魔广场存活到最后。完成这三项挑战后，回到幻影导师处领取奖励。
+6811	summary	False	utf-8	接下来需要通关幻影寺院。请找幻影导师开始幻影寺院任务。
+6812	summary	False	utf-8	通关幻影寺院后，回到幻影导师处领取3,000,000经验。
+6813	summary	False	utf-8	想迅速成长为强大的勇士，就要挑战各种活动地图。若想接受活动地图任务，请找幻影导师。
+6814	summary	False	utf-8	在赤色要塞消灭30只怪物，在血色城堡将武器交给大天使，并在恶魔广场存活到最后。完成这三项挑战后，回到幻影导师处领取奖励。
+6815	summary	False	utf-8	接下来需要通关幻影寺院。请找幻影导师开始幻影寺院任务。
+6816	summary	False	utf-8	通关幻影寺院后，回到幻影导师处领取8,000,000经验。
+6817	summary	False	utf-8	想迅速成长为强大的勇士，就要挑战各种活动地图。若想接受活动地图任务，请找幻影导师。
+6818	summary	False	utf-8	在赤色要塞成为最后的幸存者，在血色城堡将武器交给大天使，并在恶魔广场存活到最后。完成这三项挑战后，回到幻影导师处领取奖励。
+6819	summary	False	utf-8	接下来需要通关幻影寺院。请找幻影导师开始幻影寺院任务。
+6820	summary	False	utf-8	通关幻影寺院后，回到幻影导师处领取8,000,000经验。
+6821	summary	False	utf-8	想迅速成长为强大的勇士，就要挑战各种活动地图。若想接受活动地图任务，请找幻影导师。
+6822	summary	False	utf-8	在赤色要塞成为最后的幸存者，在血色城堡将武器交给大天使，并在恶魔广场存活到最后。完成这三项挑战后，回到幻影导师处领取奖励。
+6823	summary	False	utf-8	接下来需要通关幻影寺院。请找幻影导师开始幻影寺院任务。
+6824	summary	False	utf-8	通关幻影寺院后，回到幻影导师处领取5,000,000经验。
+6901	subject	False	utf-8	英雄的资质
+6902	subject	False	utf-8	英雄的勇气
+6903	subject	False	utf-8	英雄的斗志
+6904	subject	False	utf-8	英雄的意志
+6905	subject	False	utf-8	英雄的毅力
+6906	subject	False	utf-8	成为英雄的最终考验
+7001	body	False	cp949 (original loader uses UTF-8)	管理仓库可不容易。守卫的薪酬、各城镇之间的空间传送，还有数不清的废弃仓库……我们需要新仓库！为此，我想到了一个好办法。
+7002	answer	False	cp949 (original loader uses UTF-8)	什么办法？
+7003	body	False	cp949 (original loader uses UTF-8)	把古董卖给富人，筹一笔资金。冒险者眼中不起眼的石头，在他们眼里却有艺术价值。富人真是……不过也多亏他们，我才能赚钱。你若愿意帮忙，我就让你使用新仓库。
+7004	answer	False	cp949 (original loader uses UTF-8)	我该怎样帮你？
+7005	body	False	cp949 (original loader uses UTF-8)	帮我带来古代雕像，我就在新仓库里多分给你一个空间，如何？（角色等级50以上）
+7006	player	False	cp949 (original loader uses UTF-8)	……
+7007	answer	False	cp949 (original loader uses UTF-8)	我明白了。（接受）
+7008	answer	False	cp949 (original loader uses UTF-8)	我现在很忙，无法帮你。（拒绝）
+7009	body	False	cp949 (original loader uses UTF-8)	真可惜。如果想扩充仓库，随时回来找我。（任务已取消。）
+7010	body	False	cp949 (original loader uses UTF-8)	失落之塔7层的死神骑士身上有古代雕像。把它带来，我就给你一个新仓库。重新登录后才能使用。
+7011	body	False	cp949 (original loader uses UTF-8)	你知道平时的背包是用什么做的吗？是魔法布料，所以冒险者才能带着许多沉重的装备。虽然人手一个，布料其实非常珍贵。我想和你做笔交易……
+7012	answer	False	cp949 (original loader uses UTF-8)	什么交易？
+7013	body	False	cp949 (original loader uses UTF-8)	有了魔法布料，背包就能装下更多东西。把魔法布料交给我，我会用剩下的布料帮你扩充背包，让你携带更多物品。
+7014	answer	False	cp949 (original loader uses UTF-8)	……
+7015	body	False	cp949 (original loader uses UTF-8)	你愿意帮我带来魔法布料吗？（角色等级150以上）
+7016	player	False	cp949 (original loader uses UTF-8)	……
+7017	answer	False	cp949 (original loader uses UTF-8)	我明白了。（接受）
+7018	answer	False	cp949 (original loader uses UTF-8)	我现在很忙，无法帮你。（拒绝）
+7019	body	False	cp949 (original loader uses UTF-8)	真遗憾。改变主意的话，随时回来找我。（任务已取消。）
+7020	body	False	cp949 (original loader uses UTF-8)	亚特兰蒂斯3层的银弓海怪身上有魔法布料。虽然不容易得到，但为了更大的背包，这番辛苦值得。请把魔法布料带来，重新登录后即可查看扩充后的背包。
+7021	body	False	cp949 (original loader uses UTF-8)	你有什么事？
+7022	answer	False	cp949 (original loader uses UTF-8)	还能继续扩充魔法背包吗？
+7023	body	False	cp949 (original loader uses UTF-8)	你想要更大的魔法背包？虽然不容易，但也有办法。有位魔法师说，可以用空间布料利用那些闲置空间。
+7024	answer	False	cp949 (original loader uses UTF-8)	……
+7025	body	False	cp949 (original loader uses UTF-8)	你能帮我找来空间布料吗？（角色等级300以上）
+7026	player	False	cp949 (original loader uses UTF-8)	……
+7027	answer	False	cp949 (original loader uses UTF-8)	我明白了。（接受）
+7028	answer	False	cp949 (original loader uses UTF-8)	我现在很忙，无法帮你。（拒绝）
+7029	body	False	cp949 (original loader uses UTF-8)	真可惜。如果想扩充仓库，随时回来找我。（任务已取消。）
+7030	body	False	cp949 (original loader uses UTF-8)	天空之城1层的阿卡摩斯身上有空间布料。把它带来，我就帮你继续扩充魔法背包。重新登录后即可查看。
+7801	summary	False	cp949 (original loader uses UTF-8)	想扩充仓库，请找流浪商人Zyro。
+7802	summary	False	cp949 (original loader uses UTF-8)	消灭失落之塔7层的死神骑士，取得古代雕像并交给流浪商人Zyro，即可扩充仓库。
+7803	summary	False	cp949 (original loader uses UTF-8)	想进行第1次背包扩充，请找流浪商人Zyro。
+7804	summary	False	cp949 (original loader uses UTF-8)	消灭亚特兰蒂斯的银弓海怪，取得魔法布料并交给流浪商人Zyro，即可进行第1次背包扩充。重新登录后即可查看。
+7805	summary	False	cp949 (original loader uses UTF-8)	想进行第2次背包扩充，请找流浪商人Zyro。
+7806	summary	False	cp949 (original loader uses UTF-8)	消灭天空之城的阿卡摩斯，取得空间布料并交给流浪商人Zyro，即可进行第2次背包扩充。重新登录后即可查看。
+7901	subject	False	cp949 (original loader uses UTF-8)	与商人公会的扩充交易
+7902	subject	False	cp949 (original loader uses UTF-8)	魔法布料
+7903	subject	False	cp949 (original loader uses UTF-8)	空间布料
+15000	body	False	utf-8	明智的决定。消灭50只诅咒巫妖（幻术园区域2），以及50只雪人（冰风谷区域2），然后找幻影导师领取60,000经验、1,500,000金币和1颗玛雅之石。
+15001	body	False	utf-8	今后，寻找合适的练级地点会越来越难。不妨通过幻影导师的任务探索练级地点。达到新等级后就来找我，完成任务可获得珍贵装备。
+15002	player	False	utf-8	完成简单任务就能获得珍贵装备？
+15003	answer	False	utf-8	这个机会不能错过。（接受）
+15004	answer	False	utf-8	抱歉，我现在没时间。（拒绝）
+15005	body	False	utf-8	先完成一个小任务，考验一下你的实力。你愿意吗？完成后当然会有相应的奖励。
+15006	player	False	utf-8	嗯……听起来不错。
+15007	answer	False	utf-8	让我试试。（接受）
+15008	answer	False	utf-8	我现在恐怕没时间。（拒绝）
+15009	body	False	utf-8	真可惜。改变主意的话，请在达到91级前回来找我。（任务已取消。）
+15010	body	False	utf-8	明智的决定。消灭50只图腾石巨人（幻术园区域3），以及50只雪人王（冰风谷区域3），然后找幻影导师领取60,000经验、1,500,000金币和1颗玛雅之石。
+15011	body	False	utf-8	地下城一直令勇者大陆头疼，那里应该适合你。请逐一清除地下城的怪物。你愿意接受任务吗？（等级91-100）
+15012	player	False	utf-8	地下城应该不难对付。我也正好需要新装备，要试试吗？
+15013	answer	False	utf-8	好吧，让我试试。（接受）
+15014	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15015	body	False	utf-8	真可惜。改变主意的话，请在达到101级前回来找我。（任务已取消。）
+15016	body	False	utf-8	前往地下城2层，消灭50只骷髅弓箭手和30只地狱猎犬怪，即可获得龙王护手+8。
+15017	body	False	utf-8	前往地下城2层，消灭50只独眼巨人和30只幽灵，即可获得传说护手+8。
+15018	body	False	utf-8	前往地下城2层，消灭50只骷髅弓箭手和30只地狱猎犬怪，即可获得女神护手+8。
+15019	body	False	utf-8	前往地下城2层，消灭50只独眼巨人和30只幽灵，即可获得红翼护手+8。
+15021	body	False	utf-8	地下城潜伏着各种怪物，其中2层的怪物尤为猖獗。我想请你消灭它们。你愿意接受任务吗？（等级101-110）
+15022	player	False	utf-8	我也正好需要新装备，要试试吗？
+15023	answer	False	utf-8	好吧，让我试试。（接受）
+15024	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15025	body	False	utf-8	真可惜。改变主意的话，请在达到111级前回来找我。（任务已取消。）
+15026	body	False	utf-8	前往地下城2层，消灭50只地狱猎犬怪和30只地狱蜘蛛，即可获得龙王靴+8。
+15027	body	False	utf-8	前往地下城2层，消灭50只骷髅弓箭手和30只地狱猎犬怪，即可获得传说靴+8。
+15028	body	False	utf-8	前往地下城2层，消灭50只地狱猎犬怪和30只地狱蜘蛛，即可获得女神靴+8。
+15029	body	False	utf-8	前往地下城2层，消灭50只骷髅弓箭手和30只地狱猎犬怪，即可获得红翼靴+8。
+15031	body	False	utf-8	这次任务需要深入地下城。据报，怪物正试图在魔鬼戈登的率领下冲上地面。请消灭它们。（等级111-120）
+15032	player	False	utf-8	我也正好需要新装备，要试试吗？
+15033	answer	False	utf-8	好吧，让我试试。（接受）
+15034	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15035	body	False	utf-8	真可惜。改变主意的话，请在达到121级前回来找我。（任务已取消。）
+15036	body	False	utf-8	前往地下城2层，消灭50只骷髅战士和30只死灵巫师，即可获得龙王头盔+8。
+15037	body	False	utf-8	前往地下城2层，消灭50只地狱猎犬怪和30只地狱蜘蛛，即可获得传说头盔+8。
+15038	body	False	utf-8	前往地下城2层，消灭50只骷髅战士和30只死灵巫师，即可获得女神头盔+8。
+15039	body	False	utf-8	前往地下城2层，消灭50只地狱猎犬怪和30只地狱蜘蛛，即可获得红翼头盔+8。
+15041	body	False	utf-8	这次仍要深入地下城，任务比上次更难，奖励也更丰厚。你愿意接受吗？（等级121-130）
+15042	player	False	utf-8	我也正好需要新装备，要试试吗？
+15043	answer	False	utf-8	好吧，让我试试。（接受）
+15044	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15045	body	False	utf-8	真可惜。改变主意的话，请在达到131级前回来找我。（任务已取消。）
+15046	body	False	utf-8	前往地下城2层和3层，消灭50只毒牛怪和30只暗黑骑士，即可获得龙王护腿+8。
+15047	body	False	utf-8	前往地下城2层，消灭50只地狱蜘蛛和30只骷髅战士，即可获得传说护腿+8。
+15048	body	False	utf-8	前往地下城2层和3层，消灭50只毒牛怪和30只暗黑骑士，即可获得女神护腿+8。
+15049	body	False	utf-8	前往地下城2层，消灭50只地狱蜘蛛和30只骷髅战士，即可获得红翼护腿+8。
+15051	body	False	utf-8	魔鬼戈登的黑暗力量已大幅减弱，怪物也安分了许多。现在正是继续压制魔鬼戈登的好时机。你愿意接受任务吗？（等级131-140）
+15052	player	False	utf-8	我也正好需要新装备，要试试吗？
+15053	answer	False	utf-8	好吧，让我试试。（接受）
+15054	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15055	body	False	utf-8	真可惜。改变主意的话，请在达到141级前回来找我。（任务已取消。）
+15056	body	False	utf-8	前往地下城3层，消灭50只暗黑骑士和10只魔鬼戈登，即可获得龙王铠甲+8。
+15057	body	False	utf-8	前往地下城2层，消灭50只骷髅战士和30只死灵巫师，即可获得传说铠甲+8。
+15058	body	False	utf-8	前往地下城3层，消灭50只暗黑骑士和10只魔鬼戈登，即可获得女神铠甲+8。
+15059	body	False	utf-8	前往地下城2层，消灭50只骷髅战士和30只死灵巫师，即可获得红翼铠甲+8。
+15061	body	False	utf-8	侦察队报告，魔鬼戈登集结的黑暗军团已元气大伤。你之前的努力都是为了这一刻。现在该给予黑暗军团最后一击了。你愿意接受任务吗？（等级141-160）
+15062	player	False	utf-8	好，这次我会全力以赴。
+15063	answer	False	utf-8	好吧，让我试试。（接受）
+15064	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15065	body	False	utf-8	真可惜。改变主意的话，请在达到161级前回来找我。（任务已取消。）
+15066	body	False	utf-8	前往地下城3层，消灭50只毒牛怪、50只暗黑骑士和30只魔鬼戈登，即可获得两把Double Blade+8（带技能）。
+15067	body	False	utf-8	前往地下城3层，消灭50只毒牛怪、5只暗黑骑士和1只魔鬼戈登，即可获得传说之杖+7。
+15068	body	False	utf-8	前往地下城3层，消灭50只毒牛怪、50只暗黑骑士和30只魔鬼戈登，即可获得Bluewing Crossbow+8（带技能）。
+15069	body	False	utf-8	前往地下城3层，消灭50只毒牛怪、5只暗黑骑士和1只魔鬼戈登，即可获得红翼之杖+7。
+15071	body	False	utf-8	旅行者，你已足够强大，可以影响与昆顿的战局。幻影守卫侦察队有个简单的清除怪物任务，奖励是一把强大的武器。你愿意接受吗？（等级161-165）
+15072	player	False	utf-8	幻影守卫已经帮了我这么多……
+15073	answer	False	utf-8	好吧，让我试试。（接受）
+15074	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15075	body	False	utf-8	真可惜。改变主意的话，请在达到166级前回来找我。（任务已取消。）
+15076	body	False	utf-8	前往失落之塔1层，消灭50只鬼魂和50只剧毒鬼魂，即可获得Ashcrow Gloves+7。
+15077	body	False	utf-8	前往冰风谷4，消灭5只冰后。回来后即可获得Eclipse Gloves+7。
+15078	body	False	utf-8	前往失落之塔1层，消灭50只鬼魂和50只剧毒鬼魂，即可获得Iris Gloves+7。
+15079	body	False	utf-8	前往冰风谷4，消灭5只冰后。回来后即可获得远古护手+7。
+15081	body	False	utf-8	多亏你协助侦察，各地局势逐渐稳定。幻影守卫队长注意到了你的功绩，想请你帮助各地的队员。你愿意接受任务吗？（等级166-170）
+15082	player	False	utf-8	幻影守卫已经帮了我这么多……
+15083	answer	False	utf-8	好吧，让我试试。（接受）
+15084	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15085	body	False	utf-8	真可惜。改变主意的话，请在达到171级前回来找我。（任务已取消。）
+15086	body	False	utf-8	前往失落之塔2层，消灭50只剧毒鬼魂和30只诅咒巫师，即可获得Ashcrow Boots+7。
+15087	body	False	utf-8	前往幻术园3，消灭100只Grizzly，即可获得Eclipse Boots+7。
+15088	body	False	utf-8	前往失落之塔2层，消灭50只剧毒鬼魂和30只诅咒巫师，即可获得Iris Boots+7。
+15089	body	False	utf-8	前往幻术园3，消灭100只Grizzly，即可获得远古靴+7。
+15091	body	False	utf-8	队长让我感谢你在上次任务中的贡献。你已经证明了自己的实力，可以承担更重要的任务。你愿意接受吗？（等级171-179）
+15092	player	False	utf-8	幻影守卫已经帮了我这么多……
+15093	answer	False	utf-8	好吧，让我试试。（接受）
+15094	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15095	body	False	utf-8	真可惜。改变主意的话，请在达到180级前回来找我。（任务已取消。）
+15096	body	False	utf-8	前往失落之塔3层，消灭50只诅咒巫师和50只牛魔王，即可获得Ashcrow Helm+7和Ashcrow Pants+7。
+15097	body	False	utf-8	前往幻术园3，消灭100只Captain Grizzly，即可获得Eclipse Helm+7和Eclipse Pants+7。
+15098	body	False	utf-8	前往失落之塔3层，消灭50只诅咒巫师和50只牛魔王，即可获得Iris Helm+7和Iris Pants+7。
+15099	body	False	utf-8	前往幻术园3，消灭100只Captain Grizzly，即可获得远古头盔+7和远古护腿+7。
+15101	body	False	utf-8	多亏你，侦察队的处境已稳定许多。但他们报告出现了一个可怕的敌人，不知如何应对。请你协助侦察队。愿意接受任务吗？（等级180-185）
+15102	player	False	utf-8	幻影守卫已经帮了我这么多……
+15103	answer	False	utf-8	好吧，让我试试。（接受）
+15104	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15105	body	False	utf-8	真可惜。改变主意的话，请在达到186级前回来找我。（任务已取消。）
+15106	body	False	utf-8	前往失落之塔3层和4层，消灭100只牛魔王，即可获得Ashcrow Armor+7和玛雅龙斧+4（带追加属性）。
+15107	body	False	utf-8	前往失落之塔1层，消灭100只鬼魂，即可获得Eclipse Armor+7和玛雅龙斧+4（带追加属性）。
+15108	body	False	utf-8	前往失落之塔3层和4层，消灭100只牛魔王，即可获得Iris Armor+7和玛雅龙斧+4（带追加属性）。
+15109	body	False	utf-8	前往失落之塔1层，消灭100只鬼魂，即可获得远古铠甲+7和玛雅龙斧+4（带追加属性）。
+15111	body	False	utf-8	失落之塔的邪气侵蚀了冰风谷居民的灵魂，将他们变成怪物。请净化他们的灵魂，让他们安息。你愿意接受任务吗？（等级186-189）
+15112	player	False	utf-8	幻影守卫已经帮了我这么多……
+15113	answer	False	utf-8	好吧，让我试试。（接受）
+15114	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15115	body	False	utf-8	真可惜。改变主意的话，请在达到190级前回来找我。（任务已取消。）
+15116	body	False	utf-8	前往失落之塔4层，消灭50只牛魔王和30只恶魔，即可获得Ashcrow Gloves+8。
+15117	body	False	utf-8	前往失落之塔1层，消灭50只鬼魂和30只剧毒鬼魂，即可获得Eclipse Gloves+8。
+15118	body	False	utf-8	前往失落之塔4层，消灭50只牛魔王和30只恶魔，即可获得Iris Gloves+8。
+15119	body	False	utf-8	前往失落之塔1层，消灭50只鬼魂和30只剧毒鬼魂，即可获得远古护手+8。
+15121	body	False	utf-8	失落之塔的邪气虽已减弱，但怪物突然增多，守卫们难以应付。我有个帮助他们的任务，你愿意接受吗？（等级190-193）
+15122	player	False	utf-8	幻影守卫已经帮了我这么多……
+15123	answer	False	utf-8	好吧，让我试试。（接受）
+15124	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15125	body	False	utf-8	真可惜。改变主意的话，请在达到194级前回来找我。（任务已取消。）
+15126	body	False	utf-8	前往失落之塔4层和5层，消灭100只恶魔，即可获得Ashcrow Boots+8。
+15127	body	False	utf-8	前往失落之塔2层，消灭50只剧毒鬼魂和30只诅咒巫师，即可获得Eclipse Boots+8。
+15128	body	False	utf-8	前往失落之塔4层和5层，消灭100只恶魔，即可获得Iris Boots+8。
+15129	body	False	utf-8	前往失落之塔2层，消灭50只剧毒鬼魂和30只诅咒巫师，即可获得远古靴+8。
+15131	body	False	utf-8	失落之塔真让人头疼。侦察队员失踪的地区出现了怪物集结的迹象，它们似乎正在谋划什么。请阻止它们集结。你愿意接受任务吗？（等级194-197）
+15132	player	False	utf-8	幻影守卫已经帮了我这么多……
+15133	answer	False	utf-8	好吧，让我试试。（接受）
+15134	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15135	body	False	utf-8	真可惜。改变主意的话，请在达到198级前回来找我。（任务已取消。）
+15136	body	False	utf-8	前往失落之塔5至7层，消灭100只死神骑士，即可获得Ashcrow Helm+8。
+15137	body	False	utf-8	前往失落之塔3层，消灭50只诅咒巫师和50只牛魔王，即可获得Eclipse Helm+8。
+15138	body	False	utf-8	前往失落之塔5至7层，消灭100只死神骑士，即可获得Iris Helm+8。
+15139	body	False	utf-8	前往失落之塔3层，消灭50只诅咒巫师和50只牛魔王，即可获得远古头盔+8。
+15141	body	False	utf-8	怪物频繁集结地区的结界正遭受攻击。我们必须击败它们的头目，给它们一个教训。你愿意接受任务吗？（等级198-201）
+15142	player	False	utf-8	幻影守卫已经帮了我这么多……
+15143	answer	False	utf-8	好吧，让我试试。（接受）
+15144	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15145	body	False	utf-8	真可惜。改变主意的话，请在达到202级前回来找我。（任务已取消。）
+15146	body	False	utf-8	前往失落之塔7层，消灭50只死神骑士和30只死神戈登，即可获得Ashcrow Pants+8。
+15147	body	False	utf-8	前往失落之塔3层和4层，消灭100只牛魔王，即可获得Eclipse Pants+8。
+15148	body	False	utf-8	前往失落之塔7层，消灭50只死神骑士和30只死神戈登，即可获得Iris Pants+8。
+15149	body	False	utf-8	前往失落之塔3层和4层，消灭100只牛魔王，即可获得远古护腿+8。
+15151	body	False	utf-8	感谢你协助加固结界。怪物攻击结界失败后，转而频繁袭击失落之塔的守卫。必须尽快削减怪物数量。你愿意接受任务吗？（等级202-205）
+15152	player	False	utf-8	幻影守卫已经帮了我这么多……
+15153	answer	False	utf-8	好吧，让我试试。（接受）
+15154	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15155	body	False	utf-8	真可惜。改变主意的话，请在达到206级前回来找我。（任务已取消。）
+15156	body	False	utf-8	前往失落之塔7层，消灭50只死神戈登和10只魔王巴洛克，即可获得Ashcrow Armor+8。
+15157	body	False	utf-8	前往失落之塔4至6层，消灭100只恶魔，即可获得Eclipse Armor+8。
+15158	body	False	utf-8	前往失落之塔7层，消灭50只死神戈登和10只魔王巴洛克，即可获得Iris Armor+8。
+15159	body	False	utf-8	前往失落之塔4至6层，消灭100只恶魔，即可获得远古铠甲+8。
+15161	body	False	utf-8	失落之塔深处的高阶怪物突袭了侦察队。队长命令反击，我们正在组建讨伐队。你愿意接受任务吗？（等级206-209）
+15162	player	False	utf-8	幻影守卫已经帮了我这么多……
+15163	answer	False	utf-8	好吧，让我试试。（接受）
+15164	answer	False	utf-8	抱歉，我没时间。（拒绝）
+15165	body	False	utf-8	真可惜。改变主意的话，请在达到210级前回来找我。（任务已取消。）
+15166	body	False	utf-8	前往失落之塔7层，消灭50只死神骑士、30只死神戈登和20只魔王巴洛克，即可获得Crystal Sword+7（带技能）。
+15167	body	False	utf-8	前往失落之塔5至7层，消灭100只死神骑士，即可获得传说之杖+8。
+15168	body	False	utf-8	前往失落之塔7层，消灭50只死神骑士、30只死神戈登和20只魔王巴洛克，即可获得Aquagold Crossbow+7（带技能）。
+15169	body	False	utf-8	前往失落之塔5至7层，消灭100只死神骑士，即可获得红翼之杖+8。
+15801	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到91级前找幻影导师。
+15802	summary	False	utf-8	消灭50只图腾石巨人（幻术园区域3），以及50只雪人王（冰风谷区域3），然后找幻影导师领取60,000经验、1,500,000金币和1颗玛雅之石。
+15803	summary	False	utf-8	消灭50只诅咒巫妖（幻术园区域2），以及50只雪人（冰风谷区域2），然后找幻影导师领取60,000经验、1,500,000金币和1颗玛雅之石。
+15804	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到101级前找幻影导师。
+15805	summary	False	utf-8	前往地下城1层和2层，消灭50只骷髅弓箭手和30只地狱猎犬怪，然后找幻影导师领取奖励。
+15806	summary	False	utf-8	前往地下城1层和2层，消灭50只独眼巨人和30只幽灵，然后找幻影导师领取奖励。
+15807	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到111级前找幻影导师。
+15808	summary	False	utf-8	前往地下城2层，消灭50只地狱猎犬怪和30只地狱蜘蛛，然后找幻影导师领取奖励。
+15809	summary	False	utf-8	前往地下城2层，消灭50只骷髅弓箭手和30只地狱猎犬怪，然后找幻影导师领取奖励。
+15810	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到121级前找幻影导师。
+15811	summary	False	utf-8	前往地下城2层，消灭50只骷髅战士和30只死灵巫师，然后找幻影导师领取奖励。
+15812	summary	False	utf-8	前往地下城2层，消灭50只地狱猎犬怪和30只地狱蜘蛛，然后找幻影导师领取奖励。
+15813	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备装备，请接受任务。请在达到131级前找幻影导师。
+15814	summary	False	utf-8	前往地下城2层，消灭50只毒牛怪和30只暗黑骑士，然后找幻影导师领取奖励。
+15815	summary	False	utf-8	前往地下城2层，消灭50只地狱蜘蛛和30只骷髅战士，然后找幻影导师领取奖励。
+15816	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到141级前找幻影导师。
+15817	summary	False	utf-8	前往地下城3层，消灭50只暗黑骑士和10只魔鬼戈登，然后找幻影导师领取奖励。
+15818	summary	False	utf-8	前往地下城2层，消灭50只骷髅战士和30只死灵巫师，然后找幻影导师领取奖励。
+15819	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到161级前找幻影导师。
+15820	summary	False	utf-8	前往地下城2层和3层，消灭50只毒牛怪、50只暗黑骑士和30只魔鬼戈登，然后找幻影导师领取奖励。
+15821	summary	False	utf-8	前往地下城2层和3层，消灭50只毒牛怪、5只暗黑骑士和1只魔鬼戈登，然后找幻影导师领取奖励。
+15822	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到166级前找幻影导师。
+15823	summary	False	utf-8	前往失落之塔1层，消灭50只鬼魂和50只剧毒鬼魂，然后找幻影导师领取奖励。
+15824	summary	False	utf-8	前往冰风谷4，消灭5只冰后，然后找幻影导师领取奖励。
+15825	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到171级前找幻影导师。
+15826	summary	False	utf-8	前往失落之塔2层，消灭50只剧毒鬼魂和30只诅咒巫师，然后找幻影导师领取奖励。
+15827	summary	False	utf-8	前往幻术园3，消灭100只Grizzly，然后找幻影导师领取奖励。
+15828	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到180级前找幻影导师。
+15829	summary	False	utf-8	前往失落之塔3层，消灭50只诅咒巫师和50只牛魔王，然后找幻影导师领取奖励。
+15830	summary	False	utf-8	前往幻术园3，消灭100只Captain Grizzly，然后找幻影导师领取奖励。
+15831	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到186级前找幻影导师。
+15832	summary	False	utf-8	前往失落之塔3层和4层，消灭100只牛魔王，然后找幻影导师领取奖励。
+15833	summary	False	utf-8	前往失落之塔1层，消灭100只鬼魂，然后找幻影导师领取奖励。
+15834	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到190级前找幻影导师。
+15835	summary	False	utf-8	前往失落之塔4层，消灭50只牛魔王和30只恶魔，然后找幻影导师领取奖励。
+15836	summary	False	utf-8	前往失落之塔1层，消灭50只鬼魂和50只剧毒鬼魂，然后找幻影导师领取奖励。
+15837	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到194级前找幻影导师。
+15838	summary	False	utf-8	前往失落之塔4至6层，消灭100只恶魔，然后找幻影导师领取奖励。
+15839	summary	False	utf-8	前往失落之塔2层，消灭50只剧毒鬼魂和30只诅咒巫师，然后找幻影导师领取奖励。
+15840	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到198级前找幻影导师。
+15841	summary	False	utf-8	前往失落之塔5至7层，消灭100只死神骑士，然后找幻影导师领取奖励。
+15842	summary	False	utf-8	前往失落之塔3层，消灭50只诅咒巫师和50只牛魔王，然后找幻影导师领取奖励。
+15843	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到202级前找幻影导师。
+15844	summary	False	utf-8	前往失落之塔7层，消灭50只死神骑士和50只死神戈登，然后找幻影导师领取奖励。
+15845	summary	False	utf-8	前往失落之塔3层和4层，消灭100只牛魔王，然后找幻影导师领取奖励。
+15846	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到206级前找幻影导师。
+15847	summary	False	utf-8	前往失落之塔7层，消灭50只死神戈登和10只魔王巴洛克，然后找幻影导师领取奖励。
+15848	summary	False	utf-8	前往失落之塔4至6层，消灭100只恶魔，然后找幻影导师领取奖励。
+15849	summary	False	utf-8	旅行者，幻影守卫有任务交给你。如果想为今后的旅程准备新装备，请接受任务。请在达到210级前找幻影导师。
+15850	summary	False	utf-8	前往失落之塔7层，消灭50只死神骑士、30只死神戈登和20只魔王巴洛克，然后找幻影导师领取奖励。
+15851	summary	False	utf-8	前往失落之塔5至7层，消灭100只死神骑士，然后找幻影导师领取奖励。
+15901	subject	False	utf-8	委托的开始
+15902	subject	False	utf-8	征服地下城！（1）
+15903	subject	False	utf-8	征服地下城！（2）
+15904	subject	False	utf-8	征服地下城！（3）
+15905	subject	False	utf-8	征服地下城！（4）
+15906	subject	False	utf-8	征服地下城！（5）
+15907	subject	False	utf-8	征服地下城！（6）
+15908	subject	False	utf-8	侦察队的任务（1）
+15909	subject	False	utf-8	侦察队的任务（2）
+15910	subject	False	utf-8	侦察队的任务（3）
+15911	subject	False	utf-8	侦察队的任务（4）
+15912	subject	False	utf-8	让失落之塔安息！（1）
+15913	subject	False	utf-8	让失落之塔安息！（2）
+15914	subject	False	utf-8	让失落之塔安息！（3）
+15915	subject	False	utf-8	让失落之塔安息！（4）
+15916	subject	False	utf-8	让失落之塔安息！（5）
+15917	subject	False	utf-8	让失落之塔安息！（6）
+16001	body	False	utf-8	亚特兰蒂斯远征队报告，邪恶军团统帅正派死亡美人鱼袭击寻找封印石的家族成员。请驱逐死亡美人鱼，保护家族成员。
+16002	player	False	utf-8	………
+16003	answer	False	utf-8	明白了，我会尽力。
+16004	answer	False	utf-8	我现在太忙，帮不上忙。
+16005	body	False	utf-8	阻止死亡美人鱼干扰远征。消灭50只后，我会给你奖励。
+16006	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+16011	body	False	utf-8	幽暗森林的搜索队报告，丛林树精灵数量正在激增。请前往幽暗森林，消灭50只丛林树精灵。
+16012	player	False	utf-8	………
+16013	answer	False	utf-8	明白了，我会尽力。
+16014	answer	False	utf-8	我现在太忙，帮不上忙。
+16015	body	False	utf-8	派往幽暗森林的搜索队报告，丛林树精灵数量正在激增。请前往幽暗森林，消灭50只丛林树精灵。
+16016	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+16021	body	False	utf-8	追寻封印石的敌人正用机械战士攻击坎特鲁遗址的我方部队。请消灭其中最棘手的裂角狼。
+16022	player	False	utf-8	………
+16023	answer	False	utf-8	明白了，我会尽力。
+16024	answer	False	utf-8	我现在太忙，帮不上忙。
+16025	body	False	utf-8	坎特鲁遗址的我方部队正遭受攻击。消灭50只裂角狼后，回来领取奖励。
+16026	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+16031	body	False	utf-8	最新情报显示，Blood Assassin受命刺杀家族要员。请消灭50只Blood Assassin，保护家族要员。
+16032	player	False	utf-8	………
+16033	answer	False	utf-8	明白了，我会尽力。
+16034	answer	False	utf-8	我现在太忙，帮不上忙。
+16035	body	False	utf-8	前往Vulcanus，消灭50只Blood Assassin，我会给你奖励。
+16036	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+16041	body	False	utf-8	家族间争夺封印石的冲突愈演愈烈。敌对家族陷入困境后，开始利用Sapi-Duo攻击我方。请消灭它们。
+16042	player	False	utf-8	………
+16043	answer	False	utf-8	明白了，我会尽力。
+16044	answer	False	utf-8	我现在太忙，帮不上忙。
+16045	body	False	utf-8	消灭50只Sapi-Duo，阻止它们攻击我方家族成员，我会给你奖励。
+16046	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+16801	summary	False	utf-8	想为家族效力，请寻找相应家族的管家。
+16802	summary	False	utf-8	阻止死亡美人鱼干扰远征。消灭50只后，我会给你奖励。
+16803	summary	False	utf-8	想为家族效力，请寻找相应家族的管家。
+16804	summary	False	utf-8	消灭50只丛林树精灵后，回来领取奖励。
+16805	summary	False	utf-8	想为家族效力，请寻找相应家族的管家。
+16806	summary	False	utf-8	消灭50只裂角狼后，回来领取奖励。
+16807	summary	False	utf-8	想为家族效力，请寻找相应家族的管家。
+16808	summary	False	utf-8	消灭50只Blood Assassin，我会给你奖励。
+16809	summary	False	utf-8	想为家族效力，请寻找相应家族的管家。
+16810	summary	False	utf-8	消灭50只Sapi-Duo，阻止它们攻击我方家族成员，我会给你奖励。
+16901	subject	False	utf-8	死亡美人鱼的怒火
+16902	subject	False	utf-8	遏制丛林树精灵的蔓延
+16903	subject	False	utf-8	消灭裂角狼
+16904	subject	False	utf-8	消灭Blood Assassin
+16905	subject	False	utf-8	消灭Sapi-Duo
+17001	body	False	utf-8	银弓海怪经常劫掠亚特兰蒂斯搜索队的补给。你能帮我们消灭它们吗？
+17002	player	False	utf-8	………
+17003	answer	False	utf-8	明白了，我会尽力。
+17004	answer	False	utf-8	我现在太忙，帮不上忙。
+17005	body	False	utf-8	消灭50只银弓海怪，阻止劫掠，然后回来领取奖励。
+17006	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+17011	body	False	utf-8	奇怪的事情发生了。原本替Arca守护幽暗森林的丛林猎杀者，开始无差别地攻击在那里探索的家族成员。一定是蕾米莉亚在幕后操纵。请消灭丛林猎杀者，保护家族成员。
+17012	player	False	utf-8	………
+17013	answer	False	utf-8	明白了，我会尽力。
+17014	answer	False	utf-8	我现在太忙，帮不上忙。
+17015	body	False	utf-8	消灭50只丛林猎杀者后，回来领取奖励。
+17016	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+17021	body	False	utf-8	金甲兽不断游击袭扰驻扎在坎特鲁遗址的我方部队。请消灭它们，减轻家族成员的压力。
+17022	player	False	utf-8	………
+17023	answer	False	utf-8	明白了，我会尽力。
+17024	answer	False	utf-8	我现在太忙，帮不上忙。
+17025	body	False	utf-8	消灭50只金甲兽，阻止它们的游击袭击，我会给你奖励。
+17026	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+17031	body	False	utf-8	Burning Lava Giant占据了Vulcanus的熔岩地带，迫使家族成员四散。请尽快前往Vulcanus消灭它们。
+17032	player	False	utf-8	………
+17033	answer	False	utf-8	明白了，我会尽力。
+17034	answer	False	utf-8	我现在太忙，帮不上忙。
+17035	body	False	utf-8	消灭50只Burning Lava Giant，阻止它们攻击家族成员，我会给你奖励。
+17036	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+17041	body	False	utf-8	传闻有一群怪物正追寻封印石。据说可能是Ghost Napin，但无人亲眼见过。即使只是传闻，你能消灭它们，保护封印石吗？
+17042	player	False	utf-8	………
+17043	answer	False	utf-8	明白了，我会尽力。
+17044	answer	False	utf-8	我现在太忙，帮不上忙。
+17045	body	False	utf-8	消灭50只Ghost Napin后，回来领取奖励。
+17046	body	False	utf-8	真遗憾，改变主意后再来找我吧。（任务已取消）
+17801	summary	False	utf-8	想为家族效力，请寻找相应家族的管家。
+17802	summary	False	utf-8	消灭50只银弓海怪后，回来领取奖励。
+17803	summary	False	utf-8	想为家族效力，请寻找相应家族的管家。
+17804	summary	False	utf-8	消灭50只丛林猎杀者后，回来领取奖励。
+17805	summary	False	utf-8	想为家族效力，请寻找相应家族的管家。
+17806	summary	False	utf-8	消灭50只金甲兽，阻止它们的游击袭击，我会给你奖励。
+17807	summary	False	utf-8	想为家族效力，请寻找相应家族的管家。
+17808	summary	False	utf-8	消灭50只Burning Lava Giant后，回来领取奖励。
+17809	summary	False	utf-8	想为家族效力，请寻找相应家族的管家。
+17810	summary	False	utf-8	消灭50只Ghost Napin后，回来领取奖励。
+17901	subject	False	utf-8	消灭劫掠的银弓海怪
+17902	subject	False	utf-8	森林的叛逆者
+17903	subject	False	utf-8	消灭神出鬼没的金甲兽
+17904	subject	False	utf-8	Burning Lava Giant的袭击
+17905	subject	False	utf-8	黑暗中的潜伏者
+18001	body	True	utf-8	长老说，蜘蛛在城镇外墙上结网，请我们处理。虽然委托交给了幻影守护者，但我觉得这份工作很适合刚踏上旅程的冒险者。你愿意接受这个任务吗？（等级1-14）
+18002	player	True	utf-8	听起来很容易……
+18003	answer	True	utf-8	我接受你的委托。（接受）
+18004	answer	True	utf-8	区区蜘蛛，不值得我出手。（拒绝）
+18005	body	True	utf-8	真遗憾。如果想快速成长，就不该错过这次机会……若改变主意，记得在达到15级之前回来找我。（任务已取消）
+18006	body	True	utf-8	消灭城镇周围的10只蜘蛛，回来后我会给你奖励。
+18011	body	True	utf-8	你一定听说过昆顿吧。昆顿军中最弱小、最散乱的怪物经常在城外袭击和抢掠平民。我想请你消灭这些劫掠者……你愿意接受这个任务吗？（等级15-25）
+18012	player	True	utf-8	劫掠者……
+18013	answer	True	utf-8	我接受你的委托。（接受）
+18014	answer	True	utf-8	这些劫掠者不是我能对付的。（拒绝）
+18015	body	True	utf-8	真遗憾。如果想快速成长，就不该错过这次机会……若改变主意，记得在达到26级之前回来找我。（任务已取消）
+18016	body	True	utf-8	消灭15只巨人。它们位于城镇东侧通往冰风谷的入口（22, 45）附近，完成后回来领取奖励。
+18017	body	True	utf-8	消灭15只黑巫师。它们位于城镇西南侧地下城入口（159, 205）附近，完成后回来领取奖励。
+18018	body	True	utf-8	消灭15只亚昆。它们位于城镇南侧（173, 222）附近，完成后回来领取奖励。
+18019	body	True	utf-8	消灭15只 Polluted Butterfly。它们位于城镇北侧墓碑（121, 156）附近，完成后回来领取奖励。
+18021	body	True	utf-8	侦察队报告，遭劫掠的物资正被运往昆顿军队。我们查明运输路线期间，请你消灭指挥这些劫掠者的怪物。你愿意接受这个任务吗？（等级26-35）
+18022	player	True	utf-8	事情越来越严重了……
+18023	answer	True	utf-8	我接受你的委托。（接受）
+18024	answer	True	utf-8	对不起，我没有时间。（拒绝）
+18025	body	True	utf-8	真遗憾。如果想快速成长，就不该错过这次机会……若改变主意，记得在达到36级之前回来找我。（任务已取消）
+18026	body	True	utf-8	消灭20只骷髅战士。它们位于城镇西南侧地下城入口（123, 227）附近，完成后回来领取奖励。
+18027	body	True	utf-8	消灭20只巨人。它们位于城镇东侧通往冰风谷的入口（22, 45）附近，完成后回来领取奖励。
+18028	body	True	utf-8	消灭20只石巨人。它们位于城镇西南侧（30, 214）附近，完成后回来领取奖励。
+18029	body	False	utf-8	消灭20只Hideous Rabbit，它们在城镇北侧人面雕像附近（151, 146）。完成后回来领取奖励。
+18031	body	False	utf-8	侦察队报告，被抢走的补给正经由冰风谷运往失落之塔。在冰风谷切断昆顿的补给线，将重创敌军。你愿意接受任务吗？（等级36-45）
+18032	player	False	utf-8	怪物的补给线……
+18033	answer	False	utf-8	我接受你的委托。（接受）
+18034	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18035	body	False	utf-8	真遗憾。如果想快速成长，就不该错过这次机会……若改变主意，记得在达到46级之前回来找我。（任务已取消）
+18036	body	False	utf-8	冰风谷2有半透明的寒冰魔。消灭25只寒冰魔后，回来领取奖励。
+18037	body	False	utf-8	冰风谷城外有白色的雪虫。消灭25只雪虫后，回来领取奖励。
+18041	body	False	utf-8	补给线的防御已经削弱，现在要进一步扰乱敌人的指挥体系。请消灭指挥补给守军的高阶怪物。你愿意接受任务吗？（等级46-55）
+18042	player	False	utf-8	现在已经不能退缩了……
+18043	answer	False	utf-8	我接受你的委托。（接受）
+18044	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18045	body	False	utf-8	真可惜。想快速成长，就不该错过。若想接受任务，请在达到56级前回来找我。（任务已取消。）
+18046	body	False	utf-8	冰风谷2有手持利刃的暗杀者。消灭30只暗杀者后，回来领取奖励。
+18047	body	False	utf-8	冰风谷2有半透明的寒冰魔。消灭30只寒冰魔后，回来领取奖励。
+18051	body	False	utf-8	袭击补给仓库前，我们打算先清除守卫怪物。清除完毕后，侦察队会负责进攻仓库。你愿意接受任务吗？（等级56-65）
+18052	player	False	utf-8	听起来并不难……
+18053	answer	False	utf-8	我接受你的委托。（接受）
+18054	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18055	body	False	utf-8	真可惜。想快速成长，就不该错过。若想接受任务，请在达到66级前回来找我。（任务已取消。）
+18056	body	False	utf-8	冰风谷2有浑身白毛的雪人。消灭30只雪人后，回来领取奖励。
+18057	body	False	utf-8	冰风谷2有四处游荡、发出刺耳怪笑的蓝魔怪。消灭30只蓝魔怪后，回来领取奖励。
+18061	body	False	utf-8	地下城侦察队的联络时断时续。调查发现，他们忙于应付不断增多的怪物，无暇报告。你愿意前往地下城协助清除怪物吗？（等级66-79）
+18062	player	False	utf-8	地下城应该不难对付。
+18063	answer	False	utf-8	我接受你的委托。（接受）
+18064	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18065	body	False	utf-8	真可惜。想快速成长，就不该错过。若想接受任务，请在达到80级前回来找我。（任务已取消。）
+18066	body	False	utf-8	地下城1层有持斧的独眼巨人。消灭40只独眼巨人后，回来领取奖励。
+18067	body	False	utf-8	地下城1层入口附近有袭扰旅人的毒虫。消灭40只毒虫后，回来领取奖励。
+18071	body	False	utf-8	之前清除幻术园图腾石巨人和诅咒巫妖的任务，其实是当地长老的委托。如今更多怪物出现了，他请我们再次处理。你愿意接受任务吗？（等级80-90）
+18072	player	False	utf-8	幻术园应该不难对付。
+18073	answer	False	utf-8	我接受你的委托。（接受）
+18074	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18075	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18076	body	False	utf-8	幻术园3有从图腾中诞生的图腾石巨人。消灭50只图腾石巨人后，回来领取奖励。
+18077	body	False	utf-8	幻术园2有手持燃烧法杖的诅咒巫妖。消灭50只诅咒巫妖后，回来领取奖励。
+18081	body	False	utf-8	怪物再次占据勇者大陆的地下城。侦察队忙于战斗，无法及时报告。我想请你协助处理。你愿意接受任务吗？（等级91-100）
+18082	player	False	utf-8	又该回地下城了吗？
+18083	answer	False	utf-8	我接受你的委托。（接受）
+18084	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18085	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18086	body	False	utf-8	地下城2层有流着毒涎的地狱猎犬怪。消灭50只地狱猎犬怪后，回来领取奖励。
+18087	body	False	utf-8	地下城1层有持斧的独眼巨人。消灭50只独眼巨人后，回来领取奖励。
+18091	body	False	utf-8	这次猎杀怪物的任务，要比上次更深入地下城。你愿意接受吗？（等级101-110）
+18092	player	False	utf-8	这个任务应该不成问题。
+18093	answer	False	utf-8	我接受你的委托。（接受）
+18094	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18095	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18096	body	False	utf-8	地下城2层有施放凌厉魔法的地狱猎犬怪。消灭50只地狱蜘蛛后，回来领取奖励。
+18097	body	False	utf-8	地下城2层有躲在暗处射箭的骷髅弓箭手。消灭50只骷髅弓箭手后，回来领取奖励。
+18101	body	False	utf-8	侦察队在地下城2层遭到怪物的激烈抵抗。请消灭这些怪物。你愿意接受任务吗？（等级111-120）
+18102	player	False	utf-8	这个任务应该不成问题。
+18103	answer	False	utf-8	我接受你的委托。（接受）
+18104	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18105	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18106	body	False	utf-8	地下城2层有施放雷电魔法的死灵巫师。消灭50只死灵巫师后，回来领取奖励。
+18107	body	False	utf-8	地下城2层有流着毒涎的地狱猎犬怪。消灭50只地狱猎犬怪后，回来领取奖励。
+18111	body	False	utf-8	地下城2层通往3层的道路有大量怪物把守，侦察队无法进入第三层。请消灭它们。你愿意接受任务吗？（等级121-130）
+18112	player	False	utf-8	这个任务应该不成问题。
+18113	answer	False	utf-8	我接受你的委托。（接受）
+18114	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18115	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18116	body	False	utf-8	地下城2层有流着毒涎的毒牛怪。消灭50只毒牛怪后，回来领取奖励。
+18117	body	False	utf-8	地下城2层有施放凌厉魔法的地狱猎犬怪。消灭50只地狱蜘蛛后，回来领取奖励。
+18121	body	False	utf-8	地下城2层和3层出现了一群怪物，正在攻击侦察队。旅行者，请帮助我们猎杀它们。你愿意接受任务吗？（等级131-140）
+18122	player	False	utf-8	这个任务应该不成问题。
+18123	answer	False	utf-8	我接受你的委托。（接受）
+18124	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18125	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18126	body	False	utf-8	地下城2层和3层有以黑暗笼罩道路的暗黑骑士。消灭50只暗黑骑士后，回来领取奖励。
+18127	body	False	utf-8	地下城2层有施放雷电魔法的死灵巫师。消灭50只死灵巫师后，回来领取奖励。
+18131	body	False	utf-8	持续进攻使地下城入口已较为安全，但仍有怪物妨碍侦察队。你愿意接受任务吗？（等级141-160）
+18132	player	False	utf-8	这个任务应该不成问题。
+18133	answer	False	utf-8	我接受你的委托。（接受）
+18134	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18135	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18136	body	False	utf-8	地下城3层有怪物首领魔鬼戈登。消灭15只魔鬼戈登后，回来领取奖励。
+18137	body	False	utf-8	地下城2层有流着毒涎的毒牛怪。消灭50只毒牛怪后，回来领取奖励。
+18141	body	False	utf-8	侦察队报告，一些低阶怪物令他们十分头疼。我想请你协助清除它们。你愿意接受任务吗？（等级161-165）
+18142	player	False	utf-8	协助侦察队……
+18143	answer	False	utf-8	我接受你的委托。（接受）
+18144	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18145	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18146	body	False	utf-8	失落之塔1层有恶念化成的鬼魂。消灭50只鬼魂后，回来领取奖励。
+18147	body	False	utf-8	冰风谷4有发出尖啸的寒冰生物。消灭3只冰后后，回来领取奖励。
+18151	body	False	utf-8	侦察队请求清除指挥低阶怪物的高阶怪物，这会让侦察轻松许多。你愿意接受任务吗？（等级166-170）
+18152	player	False	utf-8	协助侦察队……
+18153	answer	False	utf-8	我接受你的委托。（接受）
+18154	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18155	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18156	body	False	utf-8	失落之塔1层和2层有恶念化成、喷吐毒气的剧毒鬼魂。消灭50只剧毒鬼魂后，回来领取奖励。
+18157	body	False	utf-8	幻术园3（179, 81）有邪恶的毛兽。消灭50只Grizzly后，回来领取奖励。
+18161	body	False	utf-8	侦察队报告，局势已有很大改善。我代表队长感谢你。但仍有更高阶的怪物妨碍侦察，它们比之前更难对付。请你协助消灭它们。你愿意接受任务吗？（等级171-179）
+18162	player	False	utf-8	协助侦察队……
+18163	answer	False	utf-8	我接受你的委托。（接受）
+18164	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18165	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18166	body	False	utf-8	失落之塔2层和3层有堕落的诅咒巫师。消灭50只诅咒巫师后，回来领取奖励。
+18167	body	False	utf-8	幻术园3（203, 37）有邪恶毛兽Grizzly的首领。消灭50只Captain Grizzly后，回来领取奖励。
+18171	body	False	utf-8	侦察队正疲于应付怪物的突袭。我想请你协助清除这些怪物。你愿意接受任务吗？（等级180-189）
+18172	player	False	utf-8	协助侦察队……
+18173	answer	False	utf-8	我接受你的委托。（接受）
+18174	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18175	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18176	body	False	utf-8	失落之塔3层和4层有邪气环绕的牛魔王。消灭50只牛魔王后，回来领取奖励。
+18177	body	False	utf-8	失落之塔1层有恶念化成的鬼魂。消灭50只鬼魂后，回来领取奖励。
+18181	body	False	utf-8	一支怪物部队正不断攻击封锁失落之塔邪气的结界，其中恶魔和诅咒巫师造成的破坏最大。你能帮我们消灭它们吗？（等级191-199）
+18182	player	False	utf-8	猎杀怪物可是我的专长……
+18183	answer	False	utf-8	我接受你的委托。（接受）
+18184	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18185	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18186	body	False	utf-8	前往失落之塔4至6层，那里有施放黑暗魔法的恶魔。消灭50只恶魔后，回来领取奖励。
+18187	body	False	utf-8	失落之塔2层和3层有堕落的诅咒巫师。消灭50只诅咒巫师后，回来领取奖励。
+18191	body	False	utf-8	许多攻击结界的怪物已被消灭，但它们的上级开始亲自进攻。你能帮我们消灭它们吗？（等级200-209）
+18192	player	False	utf-8	猎杀怪物可是我的专长……
+18193	answer	False	utf-8	我接受你的委托。（接受）
+18194	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18195	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18196	body	False	utf-8	失落之塔5层和6层有从邪恶中诞生的死神骑士。消灭50只死神骑士后，回来领取奖励。
+18197	body	False	utf-8	失落之塔3层和4层有邪气环绕的牛魔王。消灭50只牛魔王后，回来领取奖励。
+18201	body	False	utf-8	失落之塔的结界已基本稳定，但仍有高阶怪物伺机而动。你能帮我们消灭它们吗？（等级210-219）
+18202	player	False	utf-8	猎杀怪物可是我的专长……
+18203	answer	False	utf-8	我接受你的委托。（接受）
+18204	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18205	body	False	utf-8	真可惜。想快速成长，就不该错过。（任务已取消。）
+18206	body	False	utf-8	失落之塔7层有借死亡获得更强力量的死神戈登。消灭60只死神戈登后，回来领取奖励。
+18207	body	False	utf-8	前往失落之塔4至6层，那里有施放黑暗魔法的恶魔。消灭60只恶魔后，回来领取奖励。
+18211	body	False	utf-8	失落之塔顶层通往天空之城，能飞行的人才可到达。但一群怪物正堵住入口。你能帮我们消灭它们吗？（等级220-229）
+18212	player	False	utf-8	猎杀怪物可是我的专长……
+18213	answer	False	utf-8	我接受你的委托。（接受）
+18214	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18215	body	False	utf-8	真可惜。想快速成长，就不该错过。改变主意的话，请在达到230级前回来。（任务已取消。）
+18216	body	False	utf-8	失落之塔7层有挥舞巨镰、守住入口的魔王巴洛克。消灭15只魔王巴洛克后，回来领取奖励。
+18217	body	False	utf-8	失落之塔5层和6层有从邪恶中诞生的死神骑士。消灭60只死神骑士后，回来领取奖励。
+18221	body	False	utf-8	怪物仍在集结，企图封锁通往天空之城的道路。你能继续协助消灭它们吗？（等级220-229）
+18222	player	False	utf-8	猎杀怪物可是我的专长……
+18223	answer	False	utf-8	我接受你的委托。（接受）
+18224	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18225	body	False	utf-8	真可惜。想快速成长，就不该错过。改变主意的话，请在达到230级前回来。（任务已取消。）
+18226	body	False	utf-8	失落之塔7层有挥舞巨镰、守住入口的魔王巴洛克。消灭15只魔王巴洛克后，回来领取奖励。
+18227	body	False	utf-8	失落之塔5层和6层有从邪恶中诞生的死神骑士。消灭60只死神骑士后，回来领取奖励。
+18231	body	False	utf-8	侦察队始终无法进入死亡沙漠，除了环境恶劣，主要障碍就是破坏骑士。请消灭它们，为侦察队开路。你愿意接受任务吗？（等级230-234）
+18232	player	False	utf-8	侦察队的推进……
+18233	answer	False	utf-8	我接受你的委托。（接受）
+18234	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18235	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到235级前回来找我。（任务已取消。）
+18236	body	False	utf-8	死亡沙漠1有挥舞巨斧的破坏骑士。消灭60只破坏骑士后，回来领取奖励。
+18241	body	False	utf-8	侦察队正在推进，但破坏骑士越聚越多。你能继续协助消灭它们吗？（等级230-234）
+18242	player	False	utf-8	侦察队的推进……
+18243	answer	False	utf-8	我接受你的委托。（接受）
+18244	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18245	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到235级前回来找我。（任务已取消。）
+18246	body	False	utf-8	死亡沙漠1有挥舞巨斧的破坏骑士。消灭60只破坏骑士后，回来领取奖励。
+18251	body	False	utf-8	侦察队已进入死亡沙漠，却遭遇了更高阶的巨齿怪。请协助消灭这些巨齿怪。你愿意接受吗？（等级235-239）
+18252	player	False	utf-8	猎杀怪物……
+18253	answer	False	utf-8	我接受你的委托。（接受）
+18254	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18255	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到240级前回来找我。（任务已取消。）
+18256	body	False	utf-8	死亡沙漠1有散发死亡气息的巨齿怪。消灭60只巨齿怪后，回来领取奖励。
+18261	body	False	utf-8	侦察队员不断丧命于巨齿怪的利爪之下。你能继续协助消灭它们吗？（等级235-239）
+18262	player	False	utf-8	猎杀怪物……
+18263	answer	False	utf-8	我接受你的委托。（接受）
+18264	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18265	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到240级前回来找我。（任务已取消。）
+18266	body	False	utf-8	死亡沙漠1有散发死亡气息的巨齿怪。消灭60只巨齿怪后，回来领取奖励。
+18271	body	False	utf-8	怪物的举动很反常，比巨齿怪更高阶的铁轮战士似乎在谋划什么。请协助消灭它们。你愿意接受吗？（等级240-244）
+18272	player	False	utf-8	猎杀怪物……
+18273	answer	False	utf-8	我接受你的委托。（接受）
+18274	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18275	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到245级前回来找我。（任务已取消。）
+18276	body	False	utf-8	死亡沙漠1与死亡沙漠2之间有杀手般的铁轮战士。消灭60只铁轮战士后，回来领取奖励。
+18281	body	False	utf-8	侦察队员不断丧命于铁轮战士之手。你能继续协助消灭它们吗？（等级240-244）
+18282	player	False	utf-8	猎杀怪物……
+18283	answer	False	utf-8	我接受你的委托。（接受）
+18284	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18285	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到245级前回来找我。（任务已取消。）
+18286	body	False	utf-8	死亡沙漠1与死亡沙漠2之间有杀手般的铁轮战士。消灭60只铁轮战士后，回来领取奖励。
+18291	body	False	utf-8	通往浮空城的天空之城中，最棘手的是阿卡摩斯。它们使用的星尘给侦察队造成了惨重损失。请消灭它们，为侦察队开路。你愿意接受吗？（等级245-249）
+18292	player	False	utf-8	向浮空城进发……
+18293	answer	False	utf-8	我接受你的委托。（接受）
+18294	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18295	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到250级前回来找我。（任务已取消。）
+18296	body	False	utf-8	天空之城有携带星尘的阿卡摩斯。消灭80只阿卡摩斯后，回来领取奖励。
+18301	body	False	utf-8	阿卡摩斯的数量并未减少，侦察队仍在遭受损失。你能继续协助消灭它们吗？（等级245-249）
+18302	player	False	utf-8	向浮空城进发……
+18303	answer	False	utf-8	我接受你的委托。（接受）
+18304	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18305	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到250级前回来找我。（任务已取消。）
+18306	body	False	utf-8	天空之城有携带星尘的阿卡摩斯。消灭80只阿卡摩斯后，回来领取奖励。
+18311	body	False	utf-8	天空之城中，比阿卡摩斯更高阶的恶灵正在谋划什么。不论是什么，都可能危及侦察队。你能协助消灭它们吗？（等级250-254）
+18312	player	False	utf-8	猎杀怪物，我随时奉陪……
+18313	answer	False	utf-8	我接受你的委托。（接受）
+18314	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18315	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到255级前回来找我。（任务已取消。）
+18316	body	False	utf-8	天空之城有比阿卡摩斯更可怕的恶灵。消灭80只恶灵后，回来领取奖励。
+18321	body	False	utf-8	恶灵的数量并未减少，侦察队仍在遭受损失。你能继续协助消灭它们吗？（等级250-254）
+18322	player	False	utf-8	猎杀怪物，我随时奉陪……
+18323	answer	False	utf-8	我接受你的委托。（接受）
+18324	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18325	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到255级前回来找我。（任务已取消。）
+18326	body	False	utf-8	天空之城有比阿卡摩斯更可怕的恶灵。消灭80只恶灵后，回来领取奖励。
+18331	body	False	utf-8	阻碍我们进入浮空城的主要是风后。她们似乎在幕后操纵恶灵和阿卡摩斯。请协助消灭这些风后。你愿意接受吗？（等级255-259）
+18332	player	False	utf-8	猎杀怪物，我当然愿意……
+18333	answer	False	utf-8	我接受你的委托。（接受）
+18334	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18335	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到260级前回来找我。（任务已取消。）
+18336	body	False	utf-8	天空之城有以美貌掩盖死亡气息的风后。消灭80只风后后，回来领取奖励。
+18341	body	False	utf-8	风后的阴谋让我们的损失不断增加。你能继续协助消灭她们吗？（等级255-259）
+18342	player	False	utf-8	猎杀怪物，我当然愿意……
+18343	answer	False	utf-8	我接受你的委托。（接受）
+18344	answer	False	utf-8	对不起，我没有时间。（拒绝）
+18345	body	False	utf-8	真可惜。想快速成长，就不该错过。若决定接受任务，请在达到260级前回来找我。（任务已取消。）
+18346	body	False	utf-8	天空之城有以美貌掩盖死亡气息的风后。消灭80只风后后，回来领取奖励。
+18801	summary	True	utf-8	城里的幻影导师正在寻找可靠的人，帮助处理大小委托。请再去见见他。
+18802	summary	True	utf-8	消灭10只蜘蛛后，返回幻影导师处。
+18803	summary	True	utf-8	城里的幻影导师正在寻找可靠的人，帮助处理大小委托。请再去见见他。
+18804	summary	True	utf-8	消灭15只巨人后，返回幻影导师处。
+18805	summary	True	utf-8	消灭15只黑巫师后，返回幻影导师处。
+18806	summary	True	utf-8	消灭15只亚昆后，返回幻影导师处。
+18807	summary	True	utf-8	消灭15只 Polluted Butterfly 后，返回幻影导师处。
+18808	summary	True	utf-8	城里的幻影导师正在寻找可靠的人，帮助处理大小委托。请再去见见他。
+18809	summary	True	utf-8	消灭20只骷髅战士后，返回幻影导师处。
+18810	summary	True	utf-8	消灭20只巨人后，返回幻影导师处。
+18811	summary	True	utf-8	消灭20只石巨人后，返回幻影导师处。
+18812	summary	False	utf-8	消灭20只 Polluted Butterfly 后，返回幻影导师处。
+18813	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18814	summary	False	utf-8	消灭25只寒冰魔后，返回幻影导师处。
+18815	summary	False	utf-8	消灭25只雪虫后，返回幻影导师处。
+18816	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18817	summary	False	utf-8	消灭30只暗杀者后，返回幻影导师处。
+18818	summary	False	utf-8	消灭30只寒冰魔后，返回幻影导师处。
+18819	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18820	summary	False	utf-8	消灭30只雪人后，返回幻影导师处。
+18821	summary	False	utf-8	消灭30只蓝魔怪后，返回幻影导师处。
+18822	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18823	summary	False	utf-8	消灭40只独眼巨人后，返回幻影导师处。
+18824	summary	False	utf-8	消灭40只毒虫后，返回幻影导师处。
+18825	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18826	summary	False	utf-8	消灭50只图腾石巨人后，返回幻影导师处。
+18827	summary	False	utf-8	消灭50只诅咒巫妖后，返回幻影导师处。
+18828	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18829	summary	False	utf-8	消灭50只地狱猎犬怪后，返回幻影导师处。
+18830	summary	False	utf-8	消灭50只独眼巨人后，返回幻影导师处。
+18831	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18832	summary	False	utf-8	消灭50只地狱蜘蛛后，返回幻影导师处。
+18833	summary	False	utf-8	消灭50只骷髅弓箭手后，返回幻影导师处。
+18834	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18835	summary	False	utf-8	消灭50只死灵巫师后，返回幻影导师处。
+18836	summary	False	utf-8	消灭50只地狱猎犬怪后，返回幻影导师处。
+18837	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18838	summary	False	utf-8	消灭50只毒牛怪后，返回幻影导师处。
+18839	summary	False	utf-8	消灭50只地狱蜘蛛后，返回幻影导师处。
+18840	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18841	summary	False	utf-8	消灭50只暗黑骑士后，返回幻影导师处。
+18842	summary	False	utf-8	消灭50只死灵巫师后，返回幻影导师处。
+18843	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18844	summary	False	utf-8	消灭15只魔鬼戈登后，返回幻影导师处。
+18845	summary	False	utf-8	消灭50只毒牛怪后，返回幻影导师处。
+18846	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18847	summary	False	utf-8	消灭50只鬼魂后，返回幻影导师处。
+18848	summary	False	utf-8	消灭3只冰后后，返回幻影导师处。
+18849	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18850	summary	False	utf-8	消灭50只剧毒鬼魂后，返回幻影导师处。
+18851	summary	False	utf-8	消灭50只Grizzly后，返回幻影导师处。
+18852	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18853	summary	False	utf-8	消灭50只诅咒巫师后，返回幻影导师处。
+18854	summary	False	utf-8	消灭50只Captain Grizzly后，返回幻影导师处。
+18855	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18856	summary	False	utf-8	消灭50只牛魔王后，返回幻影导师处。
+18857	summary	False	utf-8	消灭50只鬼魂后，返回幻影导师处。
+18858	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18859	summary	False	utf-8	消灭50只恶魔后，返回幻影导师处。
+18860	summary	False	utf-8	消灭50只诅咒巫师后，返回幻影导师处。
+18861	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18862	summary	False	utf-8	消灭50只死神骑士后，返回幻影导师处。
+18863	summary	False	utf-8	消灭50只牛魔王后，返回幻影导师处。
+18864	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18865	summary	False	utf-8	消灭60只死神戈登后，返回幻影导师处。
+18866	summary	False	utf-8	消灭60只恶魔后，返回幻影导师处。
+18867	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18868	summary	False	utf-8	消灭15只魔王巴洛克后，返回幻影导师处。
+18869	summary	False	utf-8	消灭60只死神骑士后，返回幻影导师处。
+18870	summary	False	utf-8	怪物仍在阻碍进入天空之城。请拜访幻影导师。
+18871	summary	False	utf-8	消灭15只魔王巴洛克后，返回幻影导师处。
+18872	summary	False	utf-8	消灭60只死神骑士后，返回幻影导师处。
+18873	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18874	summary	False	utf-8	消灭60只破坏骑士后，返回幻影导师处。
+18875	summary	False	utf-8	怪物又开始攻击士兵。请拜访幻影导师。
+18876	summary	False	utf-8	消灭60只破坏骑士后，返回幻影导师处。
+18877	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18878	summary	False	utf-8	消灭60只巨齿怪后，返回幻影导师处。
+18879	summary	False	utf-8	怪物又开始攻击士兵。请拜访幻影导师。
+18880	summary	False	utf-8	消灭60只巨齿怪后，返回幻影导师处。
+18881	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18882	summary	False	utf-8	消灭60只铁轮战士后，返回幻影导师处。
+18883	summary	False	utf-8	怪物又开始攻击士兵。请拜访幻影导师。
+18884	summary	False	utf-8	消灭60只铁轮战士后，返回幻影导师处。
+18885	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18886	summary	False	utf-8	消灭80只阿卡摩斯后，返回幻影导师处。
+18887	summary	False	utf-8	怪物又开始攻击士兵。请拜访幻影导师。
+18888	summary	False	utf-8	消灭80只阿卡摩斯后，返回幻影导师处。
+18889	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18890	summary	False	utf-8	消灭80只恶灵后，返回幻影导师处。
+18891	summary	False	utf-8	怪物再次威胁安全区。请拜访幻影导师。
+18892	summary	False	utf-8	消灭80只恶灵后，返回幻影导师处。
+18893	summary	False	utf-8	幻影导师正在寻找可靠的人选执行幻影守卫的任务。请再次拜访幻影导师。
+18894	summary	False	utf-8	消灭80只风后后，返回幻影导师处。
+18895	summary	False	utf-8	怪物又开始攻击士兵。请拜访幻影导师。
+18896	summary	False	utf-8	消灭80只风后后，返回幻影导师处。
+18901	subject	True	utf-8	猎杀蜘蛛！
+18902	subject	True	utf-8	消灭城外的劫掠者！
+18903	subject	True	utf-8	消灭劫掠者首领！
+18904	subject	False	utf-8	冰风谷的怪物补给线！
+18905	subject	False	utf-8	袭击补给部队！
+18906	subject	False	utf-8	内陆补给线！
+18907	subject	False	utf-8	扫荡地下城！
+18908	subject	False	utf-8	幻术园长老的委托！
+18909	subject	False	utf-8	地下城的局势（1）
+18910	subject	False	utf-8	地下城的局势（2）
+18911	subject	False	utf-8	地下城的局势（3）
+18912	subject	False	utf-8	地下城的局势（4）
+18913	subject	False	utf-8	地下城的局势（5）
+18914	subject	False	utf-8	地下城的局势（6）
+18915	subject	False	utf-8	接连不断的求援（1）
+18916	subject	False	utf-8	接连不断的求援（2）
+18917	subject	False	utf-8	接连不断的求援（3）
+18918	subject	False	utf-8	接连不断的求援（4）
+18919	subject	False	utf-8	结界持续遭袭（1）
+18920	subject	False	utf-8	结界持续遭袭（2）
+18921	subject	False	utf-8	结界持续遭袭（3）
+18922	subject	False	utf-8	打通天空之城的道路
+18923	subject	False	utf-8	侦察队的推进（1）
+18924	subject	False	utf-8	侦察队的推进（2）
+18925	subject	False	utf-8	侦察队的推进（3）
+18926	subject	False	utf-8	通往浮空城之路（1）
+18927	subject	False	utf-8	通往浮空城之路（2）
+18928	subject	False	utf-8	通往浮空城之路（3）
+19001	body	False	utf-8	幻影部队报告，昆顿监视者缺少一些重要物资。我准备给带来补给的人一项奖励丰厚的任务。你有兴趣吗？（等级260-289）
+19002	player	False	utf-8	什么物资……？
+19003	answer	False	utf-8	好，我试试。（接受）
+19004	answer	False	utf-8	这是军需部队的工作。（拒绝）
+19005	body	False	utf-8	真可惜，这个任务奖励很丰厚。改变主意的话，请在达到290级前回来。（任务已取消。）
+19006	body	False	utf-8	明智的决定。昆顿监视者需要“失落的地图”才能进入昆顿的结界，但地图越来越难获得。请带来3页“失落的地图等级3”，我会交给你一项奖励丰厚的任务。
+19007	body	False	utf-8	稍等，我来找一个适合你的任务。请等一下。（等级260-289）
+19008	player	False	utf-8	哦，已经没了……
+19009	answer	False	utf-8	好的。（接受）
+19010	answer	False	utf-8	我现在很忙，稍后再来。（拒绝）
+19011	body	False	utf-8	真可惜，本来不会花太多时间。改变主意的话，请在达到290级前回来。（任务已取消。）
+19012	body	False	utf-8	死亡沙漠的幻影部队最近频遭铁轮战士袭击。前往死亡沙漠，消灭30只铁轮战士，回来报告后领取奖励。
+19013	body	False	utf-8	死亡沙漠的幻影部队报告，破坏骑士和铁脊怪正在那里肆虐。前往死亡沙漠，消灭20只破坏骑士和20只铁脊怪，回来报告后领取奖励。
+19014	body	False	utf-8	死亡沙漠的幻影部队最近频遭破坏骑士和黑炎魔袭击。前往死亡沙漠，消灭20只破坏骑士和10只黑炎魔，回来报告后领取奖励。
+19015	body	False	utf-8	死亡沙漠的幻影部队请求击退破坏骑士，并收集新兵训练用品。前往死亡沙漠，消灭20只破坏骑士，找到1把复活之杖（魔法攻击力+12）。带回法杖后领取奖励。
+19016	body	False	utf-8	死亡沙漠的幻影部队请求击退破坏骑士，并收集新兵训练用品。前往死亡沙漠，消灭20只破坏骑士，找到10只独角兽。带回独角兽后领取奖励。
+19017	body	False	utf-8	幻影部队报告，昆顿监视者缺少一些重要物资。我准备给带来补给的人一项奖励丰厚的任务。你有兴趣吗？（等级290-319）
+19018	player	False	utf-8	什么物资……？
+19019	answer	False	utf-8	好，我试试。（接受）
+19020	answer	False	utf-8	这是军需部队的工作。（拒绝）
+19021	body	False	utf-8	真可惜，这个任务奖励很丰厚。改变主意的话，请在达到320级前回来。（任务已取消。）
+19022	body	False	utf-8	明智的决定。昆顿监视者需要“失落的地图”才能进入昆顿的结界，但地图越来越难获得。请带来2页“失落的地图等级4”，我会交给你一项奖励丰厚的任务。
+19023	body	False	utf-8	稍等，我来找一个适合你的任务。请等一下。（等级290-319）
+19024	player	False	utf-8	哦，已经没了……
+19025	answer	False	utf-8	好的。（接受）
+19026	answer	False	utf-8	我现在很忙，稍后再来。（拒绝）
+19027	body	False	utf-8	真可惜，本来不会花太多时间。改变主意的话，请在达到320级前回来。（任务已取消。）
+19028	body	False	utf-8	通往天上城堡的天空之城中，幻影部队正被风后困扰。前往天空之城，消灭30只风后，回来报告后领取奖励。
+19029	body	False	utf-8	天空之城通往天上城堡，那里不断增多的阿卡摩斯和蓝魔龙令幻影部队难以应付。前往天空之城，消灭20只阿卡摩斯和20只蓝魔龙，回来报告后领取奖励。
+19030	body	False	utf-8	通往天上城堡的天空之城中，阿卡摩斯和恶灵王封锁了幻影部队的补给线。前往天空之城，消灭20只阿卡摩斯和10只恶灵王，回来报告后领取奖励。
+19031	body	False	utf-8	天空之城的幻影部队请求击退阿卡摩斯，并收集新兵训练用品。前往天空之城，消灭20只阿卡摩斯，找到1把破坏之剑（攻击力+12）。带回剑后领取奖励。
+19032	body	False	utf-8	天空之城的幻影部队请求击退阿卡摩斯，并收集新兵训练用品。前往天空之城，消灭20只阿卡摩斯，找到1把Crystal Sword（攻击力+12）。带回剑后领取奖励。
+19033	body	False	utf-8	幻影部队报告，昆顿监视者缺少一些重要物资。我准备给带来补给的人一项奖励丰厚的任务。你有兴趣吗？（等级320-349）
+19034	player	False	utf-8	什么物资……？
+19035	answer	False	utf-8	好，我试试。（接受）
+19036	answer	False	utf-8	这是军需部队的工作。（拒绝）
+19037	body	False	utf-8	真可惜，这个任务奖励很丰厚。改变主意的话，请在达到350级前回来。（任务已取消。）
+19038	body	False	utf-8	明智的决定。昆顿监视者需要“失落的地图”才能进入昆顿的结界，但地图越来越难获得。请带来2页“失落的地图等级4”，我会交给你一项奖励丰厚的任务。
+19039	body	False	utf-8	稍等，我来找一个适合你的任务。请等一下。（等级320-349）
+19040	player	False	utf-8	哦，已经没了……
+19041	answer	False	utf-8	好的。（接受）
+19042	answer	False	utf-8	我现在很忙，稍后再来。（拒绝）
+19043	body	False	utf-8	真可惜，本来不会花太多时间。改变主意的话，请在达到350级前回来。（任务已取消。）
+19044	body	False	utf-8	坎特鲁遗址的幻影部队最近遭到裂角狼和半兽人的袭击。前往坎特鲁遗址，消灭20只裂角狼和20只半兽人，回来报告后领取奖励。
+19045	body	False	utf-8	坎特鲁遗址的幻影部队报告，裂角狼和刀刃猎手频繁突袭他们。前往坎特鲁遗址，消灭20只裂角狼和10只刀刃猎手，回来报告后领取奖励。
+19046	body	False	utf-8	坎特鲁遗址的幻影部队最近频遭裂角狼和寒冰刺客袭击。前往坎特鲁遗址，消灭20只裂角狼和5只寒冰刺客，回来报告后领取奖励。
+19047	body	False	utf-8	坎特鲁遗址的幻影部队正遭受金甲兽攻击。前往坎特鲁遗址，消灭30只破坏骑士，回来报告后领取奖励。
+19048	body	False	utf-8	坎特鲁遗址的幻影部队请求击退裂角狼，并收集新兵训练用品。消灭20只裂角狼，找到1把远古之杖（魔法攻击力+12）。带回短杖后领取奖励。
+19801	summary	False	utf-8	幻影导师正在寻找愿意为幻影部队效力的冒险者。请去找他。
+19802	summary	False	utf-8	找到3页“失落的地图等级3”，返回幻影导师处。
+19803	summary	False	utf-8	幻影导师正在寻找愿意执行幻影部队任务的冒险者。请去找他。
+19804	summary	False	utf-8	前往死亡沙漠，消灭30只铁轮战士，然后找幻影导师领取奖励。
+19805	summary	False	utf-8	前往死亡沙漠，消灭20只破坏骑士和20只铁脊怪，然后找幻影导师领取奖励。
+19806	summary	False	utf-8	前往死亡沙漠，消灭20只破坏骑士和10只黑炎魔，然后找幻影导师领取奖励。
+19807	summary	False	utf-8	前往死亡沙漠，消灭20只破坏骑士，再带1把复活之杖（魔法攻击力+12）找幻影导师领取奖励。
+19808	summary	False	utf-8	前往死亡沙漠，消灭20只破坏骑士，再带10只独角兽找幻影导师领取奖励。
+19809	summary	False	utf-8	幻影导师正在寻找愿意为幻影部队效力的冒险者。请去找他。
+19810	summary	False	utf-8	找到2页“失落的地图等级4”，返回幻影导师处。
+19811	summary	False	utf-8	幻影导师正在寻找愿意执行幻影部队任务的冒险者。请去找他。
+19812	summary	False	utf-8	前往天空之城，消灭30只风后，然后找幻影导师领取奖励。
+19813	summary	False	utf-8	前往天空之城，消灭20只阿卡摩斯和20只蓝魔龙，然后找幻影导师领取奖励。
+19814	summary	False	utf-8	前往天空之城，消灭20只阿卡摩斯和10只恶灵王，然后找幻影导师领取奖励。
+19815	summary	False	utf-8	前往天空之城，消灭20只阿卡摩斯，再带1把破坏之剑（攻击力+12）找幻影导师领取奖励。
+19816	summary	False	utf-8	前往天空之城，消灭20只阿卡摩斯，再带1把Crystal Sword（攻击力+12）找幻影导师领取奖励。
+19817	summary	False	utf-8	幻影导师正在寻找愿意为幻影部队效力的冒险者。请去找他。
+19818	summary	False	utf-8	找到2页“失落的地图等级5”，返回幻影导师处。
+19819	summary	False	utf-8	幻影导师正在寻找愿意执行幻影部队任务的冒险者。请去找他。
+19820	summary	False	utf-8	前往坎特鲁遗址，消灭20只裂角狼和20只半兽人，然后找幻影导师领取奖励。
+19821	summary	False	utf-8	前往坎特鲁遗址，消灭20只裂角狼和10只刀刃猎手，然后找幻影导师领取奖励。
+19822	summary	False	utf-8	前往坎特鲁遗址，消灭20只裂角狼和5只寒冰刺客，然后找幻影导师领取奖励。
+19823	summary	False	utf-8	前往坎特鲁遗址，消灭30只金甲兽，然后找幻影导师领取奖励。
+19824	summary	False	utf-8	前往坎特鲁遗址，消灭20只裂角狼，再带1把远古之杖（魔法攻击力+12）找幻影导师领取奖励。
+19901	subject	False	utf-8	昆顿监视者（1）
+19902	subject	False	utf-8	幻影部队的委托（1）
+19903	subject	False	utf-8	昆顿监视者（2）
+19904	subject	False	utf-8	幻影部队的委托（2）
+19905	subject	False	utf-8	昆顿监视者（3）
+19906	subject	False	utf-8	幻影部队的委托（3）
+20001	body	False	utf-8	欢迎来到新成立的佣兵公会冰风谷分部。我们曾与5大家族一同阻挡昆顿军团，如今大部分老兵已经退役。因此，设立这个分部时，我们决定采用自由佣兵制度。
+20002	answer	False	utf-8	什么是自由佣兵？
+20003	body	False	utf-8	自由佣兵并不正式隶属公会;只需缴纳注册费，任何人都能接取委托并获得奖励。每项委托另收押金，完成后全额退还。放心，我们会分配你能胜任的任务。
+20004	answer	False	utf-8	注册费和押金各是多少？
+20005	body	False	utf-8	自由佣兵注册费为1百万金币，押金为500,000金币。现在要注册吗？（等级350至大师等级）
+20006	player	False	cp949 (original loader uses UTF-8)	嗯，自由佣兵……
+20007	answer	False	utf-8	我要注册。（接受）
+20008	answer	False	utf-8	不，我不想注册。（拒绝）
+20009	body	False	utf-8	真可惜，奖励很丰厚。改变主意的话请再来。（自由佣兵注册已取消。）
+20010	body	False	utf-8	明智的决定。交给我1百万金币，我马上为你注册。
+20011	body	False	utf-8	缴纳500,000金币押金后，可领取公会委托书。各委托等级和难度不同，右键点击委托书可查看详情。关闭窗口后，按（T）并点击底部“开始任务”可再次查看。要领取委托书吗？（等级350-400）
+20012	player	False	cp949 (original loader uses UTF-8)	嗯，委托书……
+20013	answer	False	utf-8	好，我试试。（接受）
+20014	answer	False	utf-8	我现在没时间，稍后再来。（拒绝）
+20015	body	False	utf-8	真可惜，有空再来吧。（未领取委托书。）
+20016	body	False	utf-8	这是你的委托书，右键点击可查看详情。放弃任务将无法取回500,000金币押金。完成后须携带“委托完成证明”办理退款。关闭详情窗口后，按（T）并点击底部“开始任务”可再次查看。再见。
+20017	body	False	utf-8	佣兵委托每天不同，出发前请确认地点和任务。（等级350-400）
+20018	player	False	utf-8	原来一周中每天的委托都不同。
+20019	answer	False	utf-8	查看委托详情。（接受）
+20020	body	False	utf-8	卡利玛的委托;地点：卡利玛6;任务：与水下神殿的女祭司Beina交谈;奖励：随机奖励、红色箱子;提示：将失落的地图+6丢在地上可进入卡利玛。
+20021	body	False	utf-8	你好，我是水下神殿的守护者、女祭司Beina。Etramu的身体就在封印石中，因此这里是昆顿的首要目标。我们一直缺少战士，只能向佣兵公会求援。要查看委托吗？（等级350-400）
+20022	player	False	utf-8	目标应该就是守护这里吧。
+20023	answer	False	utf-8	好的，请说。（接受）
+20024	answer	False	utf-8	我还没准备好，请等一下。（拒绝）
+20025	body	False	cp949 (original loader uses UTF-8)	准备好后，我再详细说明。愿神庇佑你……（任务已取消）
+20026	body	False	utf-8	先清除攻击神殿入口的敌兵，再对付向封印石施法的敌人。第2项目标会在完成第1项并返回后交代。第1项目标;前往卡利玛6，消灭30只Aegis和20只Rogue Centurion。（可组队）
+20027	body	False	utf-8	做得好，神殿入口现在容易守住了。第2项目标是惩治攻击封印石的敌人。Etramu化身封印石拯救帝国，灵魂却逐渐被疯狂吞噬。要继续吗？（等级350-400）
+20028	player	False	utf-8	比想象中容易。
+20029	answer	False	utf-8	好，我马上去。（接受）
+20030	answer	False	utf-8	我还没准备好，请等一下。（拒绝）
+20031	body	False	cp949 (original loader uses UTF-8)	准备好后，我再详细说明。愿神庇佑你……（任务已取消。）
+20032	body	False	utf-8	最后要对付的是向封印石施法的Bloody Soldier和Death Angel。消灭30只Bloody Soldier和20只Death Angel后，回来领取奖励。（可组队）
+20033	body	False	utf-8	商人Zyro的委托;地点：各城镇;任务：与杂货商人Zyro交谈;奖励：随机奖励、绿色箱子;提示：Zyro往返于仙踪林、幻术园、勇者大陆和冰风谷售货。
+20034	body	False	cp949 (original loader uses UTF-8)	有什么事？啊，你是佣兵公会派来的！坦白说，若有别的办法，我绝不会求助公会……算了。共有2项委托：先收集星尘粉末，再寻找稀有宝石。愿意接受吗？（等级350-400）
+20035	player	False	cp949 (original loader uses UTF-8)	……他似乎是个吝啬鬼……
+20036	answer	False	utf-8	好，我接受。（接受）
+20037	answer	False	utf-8	我不想做。（拒绝）
+20038	body	False	utf-8	抓住机会，总比事后后悔好。改变主意再来吧。（任务已取消。）
+20039	body	False	utf-8	先收集星尘，它是热门化妆品Della的原料。排队等货的女士们威胁我，我才不得不求助公会。天空之城的风后身上能提取少量星尘。请带来20份星尘。（可组队）
+20040	body	False	utf-8	谢谢，你救了我一命。接下来请找幽暗森林Witch Queen携带的稀有宝石。它光彩夺目，连Witch Queen都为之着迷，市场价格自然极高。（等级350-400）
+20041	player	False	utf-8	你想让我夺取Witch Queen的宝石？
+20042	answer	False	utf-8	好，我马上前往幽暗森林。（接受）
+20043	answer	False	utf-8	给我些时间准备。（拒绝）
+20044	body	False	utf-8	抓住机会，总比事后后悔好。改变主意再来吧。（任务已取消。）
+20045	body	False	utf-8	幽暗森林2有Witch Queen，它们随身携带“Kalt Stone”。消灭它们，取得宝石，请带回10颗Kalt Stone。（可组队）
+20046	body	False	utf-8	家族管家的委托;地点：Duprian家族在勇者大陆，Banert家族在仙踪林;任务：与家族管家交谈;奖励：随机奖励、紫色箱子;提示：尚未加入家族者须先选择并加入一个家族。
+20047	body	False	utf-8	近来可好？我代表族长感谢你响应家族的召唤。我不愿把此事交给流浪佣兵，所以要求派一位家族成员前来。希望你不要介意。（等级350-400）
+20048	player	False	cp949 (original loader uses UTF-8)	……似乎有麻烦事……
+20049	answer	False	utf-8	不介意，为家族效力是应该的。（接受）
+20050	answer	False	utf-8	你心里清楚，我不想谈。（拒绝）
+20051	body	False	utf-8	我并非想烦扰你。家族越强大，你也会越强大。改变主意后请再来。（任务已取消。）
+20052	body	False	utf-8	谢谢。最近家族事务处处受阻，尤其是Vulcanus。调查人员遭刺客杀害。请前往Vulcanus，消灭20只Bloody Slayer和10只Vicious Bloody Slayer。
+20053	body	False	cp949 (original loader uses UTF-8)	愿荣耀与你同在。干得好！调查发现了敌对家族参与的证据，我们必须立即反击。你愿意接下任务吗？（等级350-400）
+20054	player	False	cp949 (original loader uses UTF-8)	……嗯，为了家族……
+20055	answer	False	utf-8	好，我接受。（接受）
+20056	answer	False	utf-8	给我些时间准备。（拒绝）
+20057	body	False	utf-8	我并非想烦扰你。家族越强大，你也会越强大。改变主意后请再来。（任务已取消。）
+20058	body	False	utf-8	削弱敌对家族就是最好的报复。消灭5名潜入Vulcanus的敌对家族成员，给他们一个教训。完成后回来领取奖励。（仅可在Vulcanus进行）
+20059	body	False	utf-8	卡利玛的委托;地点：卡利玛6;任务：与水下神殿的女祭司Beina交谈;奖励：随机奖励、红色箱子;提示：将失落的地图+6丢在地上可进入卡利玛。
+20060	body	False	utf-8	你好，我是水下神殿的守护者、女祭司Beina。多亏你，封印石更坚固了，但昆顿军团也在变强。调查发现，他们趁Etramu灵魂休眠时吸取封印石的能量。请帮我们将疯狂之力封在石内。（等级350-400）
+20061	player	False	cp949 (original loader uses UTF-8)	英雄终究也是人，疯狂之力啊……
+20062	answer	False	utf-8	我来帮忙，告诉我该做什么。（接受）
+20063	answer	False	utf-8	我还没准备好，请等一下。（拒绝）
+20064	body	False	cp949 (original loader uses UTF-8)	准备好后，我再详细说明。愿神庇佑你……（任务已取消）
+20065	body	False	utf-8	调查发现，Necron和Death Centurion趁封印石休眠时吸取疯狂之力。请消灭30只Necron和20只Death Centurion，阻止它扩散。完成后我会准备奖励。（可组队）
+20066	body	False	utf-8	干得好。Necron和Death Centurion被消灭后，疯狂之力已得到控制。但他们吸取的部分已传给昆顿，我们必须直接进攻他。你愿意帮忙吗？（等级350-400）
+20067	player	False	cp949 (original loader uses UTF-8)	昆顿……他可不好对付……
+20068	answer	False	utf-8	好，我马上去对付他。（接受）
+20069	answer	False	utf-8	我还没准备好，请等一下。（拒绝）
+20070	body	False	cp949 (original loader uses UTF-8)	准备好后，我再详细说明。愿神庇佑你……（任务已取消）
+20071	body	False	utf-8	消灭昆顿和10只守卫Schriker，它们位于卡利玛6最深处。完成后回来领取奖励。（可组队）
+20072	body	False	utf-8	商人Zyro的委托;区域：各城镇;任务：与杂货商人Zyro交谈;奖励：随机奖励、绿色箱子;提示：Zyro往返于仙踪林、幻术园、勇者大陆和冰风谷售货。
+20073	body	False	utf-8	啊，你终于来了。这次要收集军需装备。没有比供应军需更赚钱的生意，虽不如从前，收入仍很稳定。尤其是铁脊怪的铠甲和Burnt Murderer的棍棒，价格很高。（等级350-400）
+20074	player	False	cp949 (original loader uses UTF-8)	……这两样都不难……
+20075	answer	False	utf-8	也就是要找这两种物品。（接受）
+20076	answer	False	utf-8	我不想做。（拒绝）
+20077	body	False	utf-8	抓住机会，总比事后后悔好。改变主意再来吧。（任务已取消。）
+20078	body	False	utf-8	先找铁脊怪的铠甲好吗？带回20件铠甲，来自死亡沙漠2的铁脊怪，我会给你合理报酬。
+20079	body	False	utf-8	做得好。现在请带来Vulcanus的Burnt Murderer所用的棍棒。（等级350-400）
+20080	player	False	utf-8	小事一桩。
+20081	answer	False	utf-8	我马上前往Vulcanus。（接受）
+20082	answer	False	utf-8	给我些时间准备。（拒绝）
+20083	body	False	utf-8	抓住机会，总比事后后悔好。改变主意再来吧。（任务已取消。）
+20084	body	False	utf-8	需要10根Vulcanus的Burnt Murderer棍棒。注意，其中的“英雄”不会掉落该物品。带回10根Burnt Murderer棍棒后领取奖励。
+20085	body	False	utf-8	家族管家的委托;地点：Duprian家族在勇者大陆，Banert家族在仙踪林;任务：与家族管家交谈;奖励：随机奖励、紫色箱子;提示：尚未加入家族者须先选择并加入一个家族。
+20086	body	False	utf-8	近来可好？我代表族长感谢你响应家族的召唤。我不愿把此事交给流浪佣兵，所以要求派一位家族成员前来。希望你不要介意。（等级350-400）
+20087	player	False	cp949 (original loader uses UTF-8)	……似乎有麻烦事……
+20088	answer	False	utf-8	不介意，为家族效力是应该的。（接受）
+20089	answer	False	utf-8	你心里清楚，我不想谈。（拒绝）
+20090	body	False	utf-8	我并非想烦扰你。家族越强大，你也会越强大。改变主意后请再来。（任务已取消。）
+20091	body	False	utf-8	谢谢。最近家族事务处处受阻，尤其是Vulcanus。调查人员遭刺客杀害。请前往Vulcanus，消灭20只Bloody Slayer和10只Vicious Bloody Slayer。
+20092	body	False	cp949 (original loader uses UTF-8)	愿荣耀与你同在。干得好！一定是敌对家族在操纵这些英雄怪物。我们必须立即反击。你愿意接下任务吗？（等级350-400）
+20093	player	False	cp949 (original loader uses UTF-8)	……嗯，为了家族……
+20094	answer	False	utf-8	好，我接受。（接受）
+20095	answer	False	utf-8	给我些时间准备。（拒绝）
+20096	body	False	utf-8	家族越强大，你也会越强大。改变主意后请再来。（任务已取消。）
+20097	body	False	utf-8	削弱敌对家族就是最好的报复。消灭5名潜入Vulcanus的敌对家族成员，给他们一个教训。完成后回来领取奖励。（仅可在Vulcanus进行）
+20098	body	False	utf-8	佣兵公会的委托;地点：冰风谷佣兵公会;任务：与公会管理员Tercia交谈;奖励：随机奖励、红色箱子、紫色箱子;提示：公会长老真是些老古董……
+20099	body	False	cp949 (original loader uses UTF-8)	有什么事？啊，你是来接委托的。你知道Gaion吗？他是首任会长的结义兄弟，但长老们认为他象征叛乱，想除掉他。他永远无法离开Varka，我不懂他们为何担心。（等级350-400）
+20100	player	False	cp949 (original loader uses UTF-8)	……背后有什么故事？
+20101	answer	False	utf-8	我想听听详情。（接受）
+20102	answer	False	utf-8	我不知道听这些有什么用。（拒绝）
+20103	body	False	utf-8	你也许不想了解他，但任务终究是任务。再来时我会详细说明。（任务已取消。）
+20104	body	False	utf-8	首任会长Dural是率领我们战胜昆顿军团的传奇统帅。Gaion叛乱及剿灭5大家族的命令，使他被迫隐退。新公会已与Gaion断绝关系，但5大家族仍要求公会除掉他。
+20105	answer	False	cp949 (original loader uses UTF-8)	……原来如此。
+20106	body	False	utf-8	进攻藏在Varka的Gaion并不容易。最好先除掉Raymond和Erkanne，削弱他的实力。少了这两人，Gaion便不再无懈可击。前往Varka消灭Raymond和Erkanne，然后回来领取公会奖励。
+20107	body	False	utf-8	欢迎回来。现在只需消灭Varka的Gaion。准备好了吗？（等级350-400）
+20108	player	False	cp949 (original loader uses UTF-8)	……
+20109	answer	False	utf-8	好，我准备好了。（接受）
+20110	answer	False	utf-8	给我些时间准备。（拒绝）
+20111	body	False	utf-8	准备好后再来，我会详细说明。（任务已取消。）
+20112	body	False	utf-8	前往Varka，消灭Advisor Jerind和Gaion Kharein。完成后回来领取公会奖励。此外，完成此任务后，即使没有等级1委托完成证明，也能退还押金。
+20113	body	False	utf-8	完成今天的委托了吗？请出示等级1委托完成证明。
+20114	player	False	cp949 (original loader uses UTF-8)	……
+20115	answer	False	utf-8	在这里。
+20116	body	False	utf-8	今天的委托结束了。明天同一时间再来，我会给你新委托。谢谢。
+20117	unreferenced	False	utf-8	新委托尚未送达。完成委托24小时后，才能开始新委托，请届时再来。
+20118	unreferenced	False	utf-8	委托信息无效;地点：无;任务：无;奖励：无;提示：请返回冰风谷，寻找佣兵公会管理员Tercia。
+20119	unreferenced	False	utf-8	我没看出你已如此强大，给错委托了。请把等级1委托书还给我，好吗？
+20120	unreferenced	False	cp949 (original loader uses UTF-8)	……
+20121	unreferenced	False	utf-8	给你。
+20122	unreferenced	False	utf-8	有适合你等级的委托时，我会通知你。谢谢。
+20801	summary	False	utf-8	佣兵公会在冰风谷新设了办事处。请寻找管理员Tercia。
+20802	summary	False	utf-8	缴纳1百万金币即可注册为自由佣兵。Tercia每天向注册佣兵提供1项任务。
+20803	summary	False	utf-8	找到公会管理员Tercia，缴纳500,000金币押金，领取包含当天任务的等级1委托书。
+20804	summary	False	utf-8	前往卡利玛6，找到水下神殿的女祭司Beina，查看委托信息。
+20805	summary	False	utf-8	与水下神殿的女祭司Beina交谈，了解她向佣兵公会提出的委托详情。
+20806	summary	False	utf-8	消灭30只Aegis和20只Rogue Centurion，然后返回Beina处领取奖励。
+20807	summary	False	utf-8	与水下神殿的女祭司Beina交谈，了解她向佣兵公会提出的委托详情。
+20808	summary	False	utf-8	消灭30只Bloody Soldier和20只Death Angel，它们位于卡利玛6。完成后返回Beina处领取奖励。
+20809	summary	False	utf-8	寻找往返仙踪林、幻术园、勇者大陆和冰风谷售货的商人Zyro。
+20810	summary	False	utf-8	找到杂货商人Zyro，了解他向佣兵公会提出的委托详情。
+20811	summary	False	utf-8	收集20份来自天空之城风后的星尘，交给Zyro领取奖励。
+20812	summary	False	utf-8	与杂货商人Zyro交谈，了解他向佣兵公会提出的委托详情。
+20813	summary	False	utf-8	取得10颗来自幽暗森林Witch Queen的Kalt Stone，交给Zyro领取奖励。
+20814	summary	False	utf-8	寻找所属家族的管家。
+20815	summary	False	utf-8	与所属家族的管家交谈，了解他向佣兵公会提出的委托详情。
+20816	summary	False	utf-8	消灭20只Bloody Slayer和10只Vicious Bloody Slayer，然后返回家族管家处领取奖励。
+20817	summary	False	utf-8	与所属家族的管家交谈，了解他向佣兵公会提出的委托详情。
+20818	summary	False	utf-8	消灭5名敌对家族玩家，然后返回家族管家处领取奖励。
+20819	summary	False	utf-8	前往卡利玛6，找到水下神殿的女祭司Beina，查看委托信息。
+20820	summary	False	utf-8	与水下神殿的女祭司Beina交谈，了解她向佣兵公会提出的委托详情。
+20821	summary	False	utf-8	消灭30只Necron和20只Death Centurion，然后返回Beina处领取奖励。
+20822	summary	False	utf-8	与水下神殿的女祭司Beina交谈，了解她向佣兵公会提出的委托详情。
+20823	summary	False	utf-8	消灭昆顿和10只守卫Schriker，然后返回Beina处领取奖励。
+20824	summary	False	utf-8	寻找往返仙踪林、幻术园、勇者大陆和冰风谷售货的杂货商人Zyro。
+20825	summary	False	utf-8	找到杂货商人Zyro，了解他向佣兵公会提出的委托详情。
+20826	summary	False	utf-8	取得20件来自死亡沙漠2铁脊怪的铠甲，然后返回Zyro处领取奖励。
+20827	summary	False	utf-8	与杂货商人Zyro交谈，了解他向佣兵公会提出的委托详情。
+20828	summary	False	utf-8	取得10根来自Vulcanus的Burnt Murderer棍棒，交给Zyro领取奖励。
+20829	summary	False	utf-8	寻找所属家族的管家。
+20830	summary	False	utf-8	与所属家族的管家交谈，了解他向佣兵公会提出的委托详情。
+20831	summary	False	utf-8	消灭1只Hero Zombie Fighter和1只Hero Reborn Gladiator，然后返回家族管家处领取奖励。
+20832	summary	False	utf-8	与所属家族的管家交谈，了解他向佣兵公会提出的委托详情。
+20833	summary	False	utf-8	消灭5名敌对家族玩家，然后返回家族管家处领取奖励。
+20834	summary	False	utf-8	佣兵公会有委托，请寻找Tercia。
+20835	summary	False	utf-8	与佣兵公会管理员Tercia交谈，了解公会长老的委托详情。
+20836	summary	False	utf-8	消灭Varka的Raymond和Erkanne，然后返回佣兵公会管理员Tercia处领取奖励。
+20837	summary	False	utf-8	与佣兵公会管理员Tercia交谈，了解公会长老的委托详情。
+20838	summary	False	utf-8	消灭Advisor Jerind和Gaion Kharein，然后返回佣兵公会管理员Tercia处领取奖励。
+20839	summary	False	utf-8	向佣兵公会管理员Tercia出示等级1委托完成证明。
+20840	summary	False	utf-8	查看委托书，确认委托地点和委托人。
+20841	unreferenced	False	utf-8	你收到了错误的委托书。请与佣兵公会管理员Tercia交谈。
+20901	subject	False	utf-8	佣兵公会办事处？
+20902	subject	False	utf-8	领取等级1委托书
+20903	subject	False	utf-8	水下神殿的委托
+20904	subject	False	utf-8	水下神殿的变化
+20905	subject	False	utf-8	守护英雄的安宁
+20906	subject	False	utf-8	寻找杂货商人Zyro
+20907	subject	False	utf-8	女士们的收藏热情
+20908	subject	False	utf-8	寻找稀有宝石
+20909	subject	False	utf-8	家族的召唤
+20910	subject	False	utf-8	拓展业务
+20911	subject	False	utf-8	荣耀归于家族
+20912	subject	False	utf-8	女祭司的委托
+20913	subject	False	utf-8	疯狂的侵蚀
+20914	subject	False	utf-8	邪恶的阴影
+20915	subject	False	utf-8	商人Zyro的委托
+20916	subject	False	utf-8	筹集军需（1）
+20917	subject	False	utf-8	筹集军需（2）
+20918	subject	False	utf-8	家族的召唤
+20919	subject	False	utf-8	业务的进展
+20920	subject	False	utf-8	荣耀归于家族
+20921	subject	False	utf-8	佣兵公会的委托
+20922	subject	False	utf-8	叛乱背后的历史
+20923	subject	False	utf-8	告别过去
+20924	subject	False	utf-8	完成委托
+20925	subject	False	utf-8	查看委托书
+20926	unreferenced	False	utf-8	不合适的任务
+20995	answer	False	utf-8	请给我一份委托书。
+20996	answer	False	utf-8	我是来接受委托的。
+20997	body	False	utf-8	欢迎，这里是佣兵公会。我们向注册的自由佣兵提供各种委托，成功完成后可获得奖励，不妨试试。
+20998	body	False	cp949 (original loader uses UTF-8)	愿Lugard庇佑你……这里是水下神殿入口。封印石将昆顿军团困在神殿中。
+20999	body	False	utf-8	有什么需要吗？我的货品比普通商人丰富得多，这就是我的成功秘诀，哈哈。
