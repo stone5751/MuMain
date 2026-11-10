@@ -14221,6 +14221,186 @@
       "id": 6,
       "english": "Into the 'Darkness' zone",
       "zh-CN": "进入黑暗地带"
+    },
+    {
+      "kind": "skills",
+      "id": 18,
+      "english": "Defense",
+      "zh-CN": "圣盾防御"
+    },
+    {
+      "kind": "skills",
+      "id": 19,
+      "english": "Falling Slash",
+      "zh-CN": "地裂斩"
+    },
+    {
+      "kind": "skills",
+      "id": 20,
+      "english": "Lunge",
+      "zh-CN": "牙突刺"
+    },
+    {
+      "kind": "skills",
+      "id": 21,
+      "english": "Uppercut",
+      "zh-CN": "升龙击"
+    },
+    {
+      "kind": "skills",
+      "id": 22,
+      "english": "Cyclone",
+      "zh-CN": "旋风斩"
+    },
+    {
+      "kind": "skills",
+      "id": 23,
+      "english": "Slash",
+      "zh-CN": "天地十字剑"
+    },
+    {
+      "kind": "skills",
+      "id": 30,
+      "english": "Summon Goblin",
+      "zh-CN": "召唤哥布林"
+    },
+    {
+      "kind": "skills",
+      "id": 31,
+      "english": "Summon Stone Golem",
+      "zh-CN": "召唤石巨人"
+    },
+    {
+      "kind": "skills",
+      "id": 32,
+      "english": "Summon Assassin",
+      "zh-CN": "召唤暗杀者"
+    },
+    {
+      "kind": "skills",
+      "id": 33,
+      "english": "Summon Elite Yeti",
+      "zh-CN": "召唤雪人王"
+    },
+    {
+      "kind": "skills",
+      "id": 34,
+      "english": "Summon Dark Knight",
+      "zh-CN": "召唤暗黑骑士"
+    },
+    {
+      "kind": "skills",
+      "id": 47,
+      "english": "Impale",
+      "zh-CN": "钻云枪"
+    },
+    {
+      "kind": "skills",
+      "id": 51,
+      "english": "Ice Arrow",
+      "zh-CN": "冰封箭"
+    },
+    {
+      "kind": "skills",
+      "id": 52,
+      "english": "Penetration",
+      "zh-CN": "穿透箭"
+    },
+    {
+      "kind": "skills",
+      "id": 55,
+      "english": "Fire Slash",
+      "zh-CN": "玄月斩"
+    },
+    {
+      "kind": "skills",
+      "id": 56,
+      "english": "Power Slash",
+      "zh-CN": "天雷闪"
+    },
+    {
+      "kind": "skills",
+      "id": 60,
+      "english": "Force",
+      "zh-CN": "冲击波"
+    },
+    {
+      "kind": "skills",
+      "id": 61,
+      "english": "Fire Burst",
+      "zh-CN": "星云火链"
+    },
+    {
+      "kind": "skills",
+      "id": 62,
+      "english": "Earthshake",
+      "zh-CN": "地裂"
+    },
+    {
+      "kind": "skills",
+      "id": 63,
+      "english": "Summon",
+      "zh-CN": "星云召唤"
+    },
+    {
+      "kind": "skills",
+      "id": 64,
+      "english": "Increase Critical Damage",
+      "zh-CN": "致命圣印"
+    },
+    {
+      "kind": "skills",
+      "id": 77,
+      "english": "Infinity Arrow",
+      "zh-CN": "无影箭"
+    },
+    {
+      "kind": "skills",
+      "id": 78,
+      "english": "Fire Scream",
+      "zh-CN": "火舞旋风"
+    },
+    {
+      "kind": "skills",
+      "id": 214,
+      "english": "Drain Life",
+      "zh-CN": "吸血咒"
+    },
+    {
+      "kind": "skills",
+      "id": 215,
+      "english": "Chain Lightning",
+      "zh-CN": "链雷咒"
+    },
+    {
+      "kind": "skills",
+      "id": 217,
+      "english": "Damage Reflection",
+      "zh-CN": "反射咒"
+    },
+    {
+      "kind": "skills",
+      "id": 218,
+      "english": "Berserker",
+      "zh-CN": "狂暴术"
+    },
+    {
+      "kind": "skills",
+      "id": 219,
+      "english": "Sleep",
+      "zh-CN": "昏睡术"
+    },
+    {
+      "kind": "skills",
+      "id": 221,
+      "english": "Weakness",
+      "zh-CN": "虚弱术"
+    },
+    {
+      "kind": "skills",
+      "id": 230,
+      "english": "Lightning Shock",
+      "zh-CN": "雷光闪"
     }
   ]
 }

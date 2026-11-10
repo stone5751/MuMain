@@ -1,0 +1,31 @@
+kind	ids	english	zh-CN	source
+skill	18	Defense	圣盾防御	https://mu.dvg.cn/skill_info.php?id=18
+skill	19	Falling Slash	地裂斩	https://mu.dvg.cn/skill_info.php?id=19
+skill	20	Lunge	牙突刺	https://mu.dvg.cn/skill_info.php?id=20
+skill	21	Uppercut	升龙击	https://mu.dvg.cn/skill_info.php?id=21
+skill	22	Cyclone	旋风斩	https://mu.dvg.cn/skill_info.php?id=22
+skill	23	Slash	天地十字剑	https://mu.dvg.cn/skill_info.php?id=23
+skill	30	Summon Goblin	召唤哥布林	existing zh-CN item/monster glossary; exact skill original and ID
+skill	31	Summon Stone Golem	召唤石巨人	existing zh-CN item/monster glossary; exact skill original and ID
+skill	32	Summon Assassin	召唤暗杀者	existing zh-CN item/monster glossary; exact skill original and ID
+skill	33	Summon Elite Yeti	召唤雪人王	existing zh-CN item/monster glossary; exact skill original and ID
+skill	34	Summon Dark Knight	召唤暗黑骑士	existing zh-CN item/monster glossary; exact skill original and ID
+skill	47	Impale	钻云枪	existing zh-CN item/monster glossary; exact skill original and ID
+skill	51	Ice Arrow	冰封箭	existing zh-CN item/monster glossary; exact skill original and ID
+skill	52	Penetration	穿透箭	existing zh-CN item/monster glossary; exact skill original and ID
+skill	55	Fire Slash	玄月斩	existing zh-CN item/monster glossary; exact skill original and ID
+skill	56	Power Slash	天雷闪	https://mu.dvg.cn/skill_info.php?id=56
+skill	60	Force	冲击波	https://mu.zhaouc.com/player/event/099y/day5.htm; https://mu.zhaouc.com/player/event/099y/day9.htm
+skill	61	Fire Burst	星云火链	https://mu.zhaouc.com/player/event/099y/day5.htm; https://mu.zhaouc.com/player/event/099y/day9.htm
+skill	62	Earthshake	地裂	https://mu.zhaouc.com/player/event/099y/day5.htm; https://mu.zhaouc.com/player/event/099y/day9.htm
+skill	63	Summon	星云召唤	https://mu.zhaouc.com/player/event/099y/day5.htm; https://mu.zhaouc.com/player/event/099y/day9.htm
+skill	64	Increase Critical Damage	致命圣印	https://mu.zhaouc.com/player/event/099y/day5.htm; https://mu.zhaouc.com/player/event/099y/day9.htm
+skill	77	Infinity Arrow	无影箭	https://mu.dvg.cn/skill_info.php?id=77
+skill	78	Fire Scream	火舞旋风	https://mu.dvg.cn/skill_info.php?id=78
+skill	214	Drain Life	吸血咒	existing zh-CN item/monster glossary; exact skill original and ID
+skill	215	Chain Lightning	链雷咒	existing zh-CN item/monster glossary; exact skill original and ID
+skill	217	Damage Reflection	反射咒	existing zh-CN item/monster glossary; exact skill original and ID
+skill	218	Berserker	狂暴术	existing zh-CN item/monster glossary; exact skill original and ID
+skill	219	Sleep	昏睡术	existing zh-CN item/monster glossary; exact skill original and ID
+skill	221	Weakness	虚弱术	existing zh-CN item/monster glossary; exact skill original and ID
+skill	230	Lightning Shock	雷光闪	existing zh-CN item/monster glossary; exact skill original and ID
