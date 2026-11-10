@@ -1,0 +1,33 @@
+kind	ids	english	zh-CN	source
+item	0,7	Falchion	偃月刀	https://mu.dvg.cn/item_info.php?id=2333
+item	0,8	Serpent Sword	巨蛇魔剑	https://mu.dvg.cn/item_info.php?id=2334
+item	0,9	Sword of Salamander	背叛者	https://mu.dvg.cn/item_info.php?id=2335
+item	0,10	Light Saber	天行者	https://mu.dvg.cn/item_info.php?id=2336
+item	0,13	Double Blade	真红之剑	https://mu.dvg.cn/item_info.php?id=2339
+item	0,15	Giant Sword	帝王之剑	https://mu.dvg.cn/item_info.php?id=2341
+item	1,2	Double Axe	双刃斧	https://mu.dvg.cn/item_list.php?type=4; explicit group-number
+item	1,3	Tomahawk	飞翔斧	https://mu.dvg.cn/item_list.php?type=4; explicit group-number
+item	1,4	Elven Axe	精灵之斧	https://mu.dvg.cn/item_list.php?type=4; explicit group-number
+item	1,5	Battle Axe	战士之斧	https://mu.dvg.cn/item_list.php?type=4; explicit group-number
+item	1,6	Nikea Axe	斗士之斧	https://mu.dvg.cn/item_list.php?type=4; explicit group-number
+item	1,7	Larkan Axe	斗神之斧	https://mu.dvg.cn/item_list.php?type=4; explicit group-number
+item	1,8	Crescent Axe	末日之斧	https://mu.dvg.cn/item_list.php?type=4; explicit group-number
+item	2,0	Mace	石槌	https://mu.dvg.cn/item_list.php?type=5; explicit group-number
+item	2,1	Morning Star	流星槌	https://mu.dvg.cn/item_list.php?type=5; explicit group-number
+item	2,2	Flail	破坏之槌	https://mu.dvg.cn/item_list.php?type=5; explicit group-number
+item	2,3	Great Hammer	白金之槌	https://mu.dvg.cn/item_list.php?type=5; explicit group-number
+item	2,4	Crystal Morning Star	水晶流星	https://mu.dvg.cn/item_list.php?type=5; explicit group-number
+item	2,7	Elemental Mace	精灵之槌	https://mu.dvg.cn/item_list.php?type=5; explicit group-number
+item	2,16	Frost Mace	巨毒之刺	https://mu.dvg.cn/item_list.php?type=5; explicit group-number
+item	7,34	Ashcrow Helm	暴风之盔	https://mu.dvg.cn/v2_item_info.php?id=5733&region=CN; same named armor family, explicit ID
+item	8,34	Ashcrow Armor	暴风之铠	https://mu.dvg.cn/v2_item_info.php?id=5733&region=CN; same named armor family, explicit ID
+item	9,34	Ashcrow Pants	暴风护腿	https://mu.dvg.cn/v2_item_info.php?id=5733&region=CN; same named armor family, explicit ID
+item	10,34	Ashcrow Gloves	暴风护手	https://mu.dvg.cn/v2_item_info.php?id=5733&region=CN; same named armor family, explicit ID
+item	11,34	Ashcrow Boots	暴风之靴	https://mu.dvg.cn/v2_item_info.php?id=5733&region=CN; same named armor family, explicit ID
+item	7,35	Eclipse Helm	幻月之盔	https://mu.dvg.cn/v2_item_info.php?id=5734&region=CN; same named armor family, explicit ID
+item	8,35	Eclipse Armor	幻月之铠	https://mu.dvg.cn/v2_item_info.php?id=5734&region=CN; same named armor family, explicit ID
+item	9,35	Eclipse Pants	幻月护腿	https://mu.dvg.cn/v2_item_info.php?id=5734&region=CN; same named armor family, explicit ID
+item	10,35	Eclipse Gloves	幻月护手	https://mu.dvg.cn/v2_item_info.php?id=5734&region=CN; same named armor family, explicit ID
+item	11,35	Eclipse Boots	幻月之靴	https://mu.dvg.cn/v2_item_info.php?id=5734&region=CN; same named armor family, explicit ID
+item	12,21	Scroll of FireBurst	星云火链卷轴	https://mu.dvg.cn/v2_skill_info.php?id=53&server=CN; skill ID 61
+item	12,35	Scroll of Fire Scream	火舞旋风卷轴	https://mu.zhaouc.com/01_news/updatecn/season2/qita.htm

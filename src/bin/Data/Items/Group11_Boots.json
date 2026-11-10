@@ -943,7 +943,8 @@
         "de": "Aschkrähenstiefel",
         "es": "Botas Cuervo Ceniza",
         "pl": "Buty Ashcrow",
-        "pt": "Botas de Ashcrow"
+        "pt": "Botas de Ashcrow",
+        "zh-CN": "暴风之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -968,7 +969,8 @@
         "de": "Finsternisstiefel",
         "es": "Botas Eclipse",
         "pl": "Buty Zaćmienia",
-        "pt": "Botas do eclipse"
+        "pt": "Botas do eclipse",
+        "zh-CN": "幻月之靴"
       },
       "options": ["luck"],
       "width": 2,

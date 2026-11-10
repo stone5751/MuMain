@@ -956,7 +956,8 @@
         "de": "Aschkrähenhandschuhe",
         "es": "Guantes Cuervo Ceniza",
         "pl": "Rękawice Ashcrow",
-        "pt": "Luvas de Ashcrow"
+        "pt": "Luvas de Ashcrow",
+        "zh-CN": "暴风护手"
       },
       "options": ["luck"],
       "width": 2,
@@ -982,7 +983,8 @@
         "de": "Finsternishandschuhe",
         "es": "Guantes Eclipse",
         "pl": "Rękawice Zaćmienia",
-        "pt": "Luvas do eclipse"
+        "pt": "Luvas do eclipse",
+        "zh-CN": "幻月护手"
       },
       "options": ["luck"],
       "width": 2,

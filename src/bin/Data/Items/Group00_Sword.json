@@ -248,7 +248,8 @@
         "de": "Falchion",
         "es": "Cimitarra",
         "pl": "Falchion",
-        "pt": "Cimitarra"
+        "pt": "Cimitarra",
+        "zh-CN": "偃月刀"
       },
       "options": ["luck"],
       "width": 1,
@@ -279,7 +280,8 @@
         "de": "Schlangenschwert",
         "es": "Espada Serpiente",
         "pl": "Wężowy miecz",
-        "pt": "Espada da serpente"
+        "pt": "Espada da serpente",
+        "zh-CN": "巨蛇魔剑"
       },
       "options": ["luck"],
       "width": 1,
@@ -310,7 +312,8 @@
         "de": "Salamanderschwert",
         "es": "Espada de Salamandra",
         "pl": "Miecz Salamandry",
-        "pt": "Espada da salamandra"
+        "pt": "Espada da salamandra",
+        "zh-CN": "背叛者"
       },
       "options": ["luck"],
       "width": 2,
@@ -341,7 +344,8 @@
         "de": "Lichtschwert",
         "es": "Sable de Luz",
         "pl": "Miecz świetlny",
-        "pt": "Sabre de luz"
+        "pt": "Sabre de luz",
+        "zh-CN": "天行者"
       },
       "options": ["luck"],
       "width": 2,
@@ -438,7 +442,8 @@
         "de": "Doppelklinge",
         "es": "Doble Hoja",
         "pl": "Podwójne ostrze",
-        "pt": "Lâmina dupla"
+        "pt": "Lâmina dupla",
+        "zh-CN": "真红之剑"
       },
       "options": ["luck"],
       "width": 1,
@@ -503,7 +508,8 @@
         "de": "Riesenschwert",
         "es": "Espada Gigante",
         "pl": "Miecz olbrzyma",
-        "pt": "Espada gigante"
+        "pt": "Espada gigante",
+        "zh-CN": "帝王之剑"
       },
       "options": ["luck"],
       "width": 2,

@@ -814,7 +814,8 @@
         "de": "Aschkrähenhelm",
         "es": "Yelmo Cuervo Ceniza",
         "pl": "Hełm Ashcrow",
-        "pt": "Elmo de Ashcrow"
+        "pt": "Elmo de Ashcrow",
+        "zh-CN": "暴风之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -839,7 +840,8 @@
         "de": "Finsternishelm",
         "es": "Yelmo Eclipse",
         "pl": "Hełm Zaćmienia",
-        "pt": "Elmo do eclipse"
+        "pt": "Elmo do eclipse",
+        "zh-CN": "幻月之盔"
       },
       "options": ["luck"],
       "width": 2,

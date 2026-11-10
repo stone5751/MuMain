@@ -929,7 +929,8 @@
         "de": "Aschkrähenrüstung",
         "es": "Armadura Cuervo Ceniza",
         "pl": "Zbroja Ashcrow",
-        "pt": "Armadura de Ashcrow"
+        "pt": "Armadura de Ashcrow",
+        "zh-CN": "暴风之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -954,7 +955,8 @@
         "de": "Finsternisrüstung",
         "es": "Armadura Eclipse",
         "pl": "Zbroja Zaćmienia",
-        "pt": "Armadura do eclipse"
+        "pt": "Armadura do eclipse",
+        "zh-CN": "幻月之铠"
       },
       "options": ["luck"],
       "width": 2,

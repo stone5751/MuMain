@@ -873,7 +873,8 @@
         "de": "Schriftrolle: Fire Burst",
         "es": "Rollo de Explosión de Fuego",
         "pl": "Zwój: Fire Burst",
-        "pt": "Pergaminho Explosão de Fogo"
+        "pt": "Pergaminho Explosão de Fogo",
+        "zh-CN": "星云火链卷轴"
       },
       "width": 1,
       "height": 2,
@@ -1198,7 +1199,8 @@
         "de": "Schriftrolle: Fire Scream",
         "es": "Rollo de Alarido de Fuego",
         "pl": "Zwój: Fire Scream",
-        "pt": "Pergaminho de grito de fogo"
+        "pt": "Pergaminho de grito de fogo",
+        "zh-CN": "火舞旋风卷轴"
       },
       "nameLines": [
         {

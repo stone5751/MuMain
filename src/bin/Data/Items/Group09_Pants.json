@@ -930,7 +930,8 @@
         "de": "Aschkrähenhose",
         "es": "Pantalones Cuervo Ceniza",
         "pl": "Spodnie Ashcrow",
-        "pt": "Calças de Ashcrow"
+        "pt": "Calças de Ashcrow",
+        "zh-CN": "暴风护腿"
       },
       "options": ["luck"],
       "width": 2,
@@ -955,7 +956,8 @@
         "de": "Finsternishose",
         "es": "Pantalones Eclipse",
         "pl": "Spodnie Zaćmienia",
-        "pt": "Calças do eclipse"
+        "pt": "Calças do eclipse",
+        "zh-CN": "幻月护腿"
       },
       "options": ["luck"],
       "width": 2,

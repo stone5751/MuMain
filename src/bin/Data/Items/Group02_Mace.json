@@ -9,7 +9,8 @@
         "de": "Streitkolben",
         "es": "Maza",
         "pl": "Buława",
-        "pt": "Maça"
+        "pt": "Maça",
+        "zh-CN": "石槌"
       },
       "options": ["luck"],
       "width": 1,
@@ -40,7 +41,8 @@
         "de": "Morgenstern",
         "es": "Estrella del Alba",
         "pl": "Morgenstern",
-        "pt": "Estrela da manhã"
+        "pt": "Estrela da manhã",
+        "zh-CN": "流星槌"
       },
       "options": ["luck"],
       "width": 1,
@@ -72,7 +74,8 @@
         "de": "Flegel",
         "es": "Mayal",
         "pl": "Cep bojowy",
-        "pt": "Mangual"
+        "pt": "Mangual",
+        "zh-CN": "破坏之槌"
       },
       "options": ["luck"],
       "width": 1,
@@ -104,7 +107,8 @@
         "de": "Großartiger Hammer",
         "es": "Gran Martillo",
         "pl": "Wielki młot",
-        "pt": "Martelo grande"
+        "pt": "Martelo grande",
+        "zh-CN": "白金之槌"
       },
       "options": ["luck"],
       "width": 2,
@@ -136,7 +140,8 @@
         "de": "Kristallmorgenstern",
         "es": "Estrella del Alba de Cristal",
         "pl": "Kryształowy morgenstern",
-        "pt": "Estrela da manhã de cristal"
+        "pt": "Estrela da manhã de cristal",
+        "zh-CN": "水晶流星"
       },
       "options": ["luck"],
       "width": 2,
@@ -237,7 +242,8 @@
         "de": "Elementarstreitkolben",
         "es": "Maza Elemental",
         "pl": "Buława żywiołów",
-        "pt": "Maça elemental"
+        "pt": "Maça elemental",
+        "zh-CN": "精灵之槌"
       },
       "options": ["luck"],
       "width": 1,
@@ -538,7 +544,8 @@
         "de": "Froststreitkolben",
         "es": "Mazo Congelado",
         "pl": "Mroźna buława",
-        "pt": "Maça de gelo"
+        "pt": "Maça de gelo",
+        "zh-CN": "巨毒之刺"
       },
       "options": ["luck"],
       "width": 1,
