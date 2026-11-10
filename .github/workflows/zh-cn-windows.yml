@@ -185,22 +185,22 @@ jobs:
               Copy-Item -LiteralPath "src/bin/$rmlDir$document.rml" -Destination (Join-Path $package "$rmlDir$document.rml")
             }
           }
-          Copy-Item -LiteralPath 'docs/localization-audit/ROUND6-README.zh-CN.md' -Destination "$package/README.zh-CN.md"
+          Copy-Item -LiteralPath 'docs/localization-audit/ROUND7-README.zh-CN.md' -Destination "$package/README.zh-CN.md"
           $source = (git rev-parse HEAD).Trim()
           if ($LASTEXITCODE -ne 0 -or $source -ne $env:GITHUB_SHA) { throw 'Checkout does not match the dispatched commit.' }
           @("source=$source", "run=$env:GITHUB_SERVER_URL/$env:GITHUB_REPOSITORY/actions/runs/$env:GITHUB_RUN_ID", 'base=v1.37.0', 'architecture=x64', 'configuration=Release', 'native-build-and-ctest=passed', 'in-game-and-openmu-connection=NOT-TESTED') | Set-Content "$package/localization-build.txt" -Encoding utf8
           Copy-Item -LiteralPath 'out/build/zh-cn-windows/ctest-results.xml' -Destination "$package/ctest-results.xml"
           python scripts/validate_zh_cn_package.py $package
           if ($LASTEXITCODE -ne 0) { throw 'Update package validation failed.' }
-          Compress-Archive -Path "$package/*" -DestinationPath 'out/MuMain-v1.37.0-zh-CN-round6-quest-test.zip'
-          $zipHash = (Get-FileHash -LiteralPath 'out/MuMain-v1.37.0-zh-CN-round6-quest-test.zip' -Algorithm SHA256).Hash.ToLowerInvariant()
-          "$zipHash  MuMain-v1.37.0-zh-CN-round6-quest-test.zip" | Set-Content out/SHA256SUMS.txt -Encoding utf8
+          Compress-Archive -Path "$package/*" -DestinationPath 'out/MuMain-v1.37.0-zh-CN-round7-names-test.zip'
+          $zipHash = (Get-FileHash -LiteralPath 'out/MuMain-v1.37.0-zh-CN-round7-names-test.zip' -Algorithm SHA256).Hash.ToLowerInvariant()
+          "$zipHash  MuMain-v1.37.0-zh-CN-round7-names-test.zip" | Set-Content out/SHA256SUMS.txt -Encoding utf8
 
       - uses: actions/upload-artifact@v7
         with:
-          name: MuMain-v1.37.0-zh-CN-round6-quest-test
+          name: MuMain-v1.37.0-zh-CN-round7-names-test
           path: |
-            out/MuMain-v1.37.0-zh-CN-round6-quest-test.zip
+            out/MuMain-v1.37.0-zh-CN-round7-names-test.zip
             out/SHA256SUMS.txt
           if-no-files-found: error
 
