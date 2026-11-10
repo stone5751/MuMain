@@ -1,0 +1,12 @@
+kind	ids	english	zh-CN	source
+monster	144,174,182,190,260,268,334	Death Angel	死亡天使	https://mu.dvg.cn/v2_monster_info.php?id=144; grouped IDs from source JSON
+monster	146,176,184,192,262,270,333	Blood Soldier	龙虾守卫	https://mu.dvg.cn/v2_monster_info.php?id=146; grouped IDs from source JSON
+monster	147,177,185,193,263,271,331	Aegis	阿卡斯	https://mu.dvg.cn/v2_monster_info.php?id=147; grouped IDs from source JSON
+monster	148,178,186,194,264,272,332	Rogue Centurion	武士	https://mu.dvg.cn/v2_monster_info.php?id=148; grouped IDs from source JSON
+monster	149,179,187,195,265,273,335	Necron	暗黑巫师	https://mu.dvg.cn/v2_monster_info.php?id=149; grouped IDs from source JSON
+monster	418	Strange Rabbit	怪异的兔子	https://mu.zhaouc.com/Guide/task/01_task.html
+monster	419	Hideous Rabbit	疯狂的兔子	https://mu.dvg.cn/v2_monster_info.php?id=419; grouped IDs from source JSON
+monster	421	Polluted Butterfly	污染之蝶	https://mu.dvg.cn/v2_monster_info.php?id=421; grouped IDs from source JSON
+monster	424	Grizzly	灰熊	https://mu.dvg.cn/v2_monster_info.php?id=424; grouped IDs from source JSON
+monster	425	Captain Grizzly	残暴的灰熊	https://mu.dvg.cn/v2_monster_info.php?id=425; grouped IDs from source JSON
+monster	454,531	Ice Walker	冰之魔犬	https://mu.dvg.cn/v2_monster_info.php?id=454; grouped IDs from source JSON

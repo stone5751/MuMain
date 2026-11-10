@@ -971,7 +971,7 @@
       ]
     },
     {
-      "name": {"en": "Death Angel", "es": "Ángel de la Muerte", "pt": "Anjo da Morte"},
+      "name": {"en": "Death Angel", "es": "Ángel de la Muerte", "pt": "Anjo da Morte", "zh-CN": "死亡天使"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEATH_ANGEL",
       "soundSet": "Death Angel",
@@ -1006,7 +1006,7 @@
       ]
     },
     {
-      "name": {"en": "Blood Soldier", "es": "Soldado Sangriento", "pt": "Soldado sanguinário"},
+      "name": {"en": "Blood Soldier", "es": "Soldado Sangriento", "pt": "Soldado sanguinário", "zh-CN": "龙虾守卫"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BLOOD_SOLDIER",
       "soundSet": "Blood Soldier",
@@ -1021,7 +1021,7 @@
       ]
     },
     {
-      "name": {"en": "Aegis", "es": "Aegis", "pt": "Aegis"},
+      "name": {"en": "Aegis", "es": "Aegis", "pt": "Aegis", "zh-CN": "阿卡斯"},
       "kind": "monster",
       "model": "MONSTER_MODEL_AEGIS",
       "soundSet": "Aegis",
@@ -1041,7 +1041,7 @@
       ]
     },
     {
-      "name": {"en": "Rogue Centurion", "es": "Centurión Canalla", "pt": "Centurião vigarista"},
+      "name": {"en": "Rogue Centurion", "es": "Centurión Canalla", "pt": "Centurião vigarista", "zh-CN": "武士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEATH_CENTURION",
       "soundSet": "Rogue Centurion",
@@ -1061,7 +1061,7 @@
       ]
     },
     {
-      "name": {"en": "Necron", "es": "Necron", "pt": "Necron"},
+      "name": {"en": "Necron", "es": "Necron", "pt": "Necron", "zh-CN": "暗黑巫师"},
       "kind": "monster",
       "model": "MONSTER_MODEL_NECRON",
       "soundSet": "Necron",
@@ -1685,7 +1685,7 @@
       ]
     },
     {
-      "name": {"en": "Lahap", "es": "Lahap", "pt": "Lahap"},
+      "name": {"en": "Lahap", "es": "Lahap", "pt": "Lahap", "zh-CN": "塞尔维斯"},
       "kind": "npc",
       "model": "MODEL_NPC_SERBIS",
       "numbers": [
@@ -2374,7 +2374,7 @@
       ]
     },
     {
-      "name": {"en": "Pamela the Supplier", "es": "Pamela la Proveedora", "pt": "Pamela, a fornecedora"},
+      "name": {"en": "Pamela the Supplier", "es": "Pamela la Proveedora", "pt": "Pamela, a fornecedora", "zh-CN": "物资管理员帕糜拉"},
       "kind": "npc",
       "model": "MODEL_BC_NPC1",
       "numbers": [
@@ -2382,7 +2382,7 @@
       ]
     },
     {
-      "name": {"en": "Angela the Supplier", "es": "Angela la Proveedora", "pt": "Angela, a fornecedora"},
+      "name": {"en": "Angela the Supplier", "es": "Angela la Proveedora", "pt": "Angela, a fornecedora", "zh-CN": "物资管理员安吉拉"},
       "kind": "npc",
       "model": "MODEL_BC_NPC2",
       "numbers": [
@@ -2398,7 +2398,7 @@
       ]
     },
     {
-      "name": {"en": "Natasha the Firecracker Merchant", "es": "Natasha, Mercader de Petardos", "pt": "Natasha, Merc. Fog. Artifício"},
+      "name": {"en": "Natasha the Firecracker Merchant", "es": "Natasha, Mercader de Petardos", "pt": "Natasha, Merc. Fog. Artifício", "zh-CN": "爆竹商人罗嗒莎"},
       "kind": "npc",
       "model": "MODEL_WEDDING_NPC",
       "numbers": [
@@ -2605,7 +2605,7 @@
       ]
     },
     {
-      "name": {"en": "Silvia", "es": "Silvia", "pt": "Silvia"},
+      "name": {"en": "Silvia", "es": "Silvia", "pt": "Silvia", "zh-CN": "塞尔维亚"},
       "kind": "npc",
       "model": "MODEL_ELBELAND_SILVIA",
       "numbers": [
@@ -2613,7 +2613,7 @@
       ]
     },
     {
-      "name": {"en": "Rhea", "es": "Rhea", "pt": "Rhea"},
+      "name": {"en": "Rhea", "es": "Rhea", "pt": "Rhea", "zh-CN": "雷亚"},
       "kind": "npc",
       "model": "MODEL_ELBELAND_RHEA",
       "numbers": [
@@ -2621,7 +2621,7 @@
       ]
     },
     {
-      "name": {"en": "Marce", "es": "Marce", "pt": "Marce"},
+      "name": {"en": "Marce", "es": "Marce", "pt": "Marce", "zh-CN": "摩尔塞"},
       "kind": "npc",
       "model": "MODEL_ELBELAND_MARCE",
       "numbers": [
@@ -2629,7 +2629,7 @@
       ]
     },
     {
-      "name": {"en": "Strange Rabbit", "es": "Conejo Raro", "pt": "Coelho estranho"},
+      "name": {"en": "Strange Rabbit", "es": "Conejo Raro", "pt": "Coelho estranho", "zh-CN": "怪异的兔子"},
       "kind": "monster",
       "model": "MONSTER_MODEL_RABBIT",
       "soundSet": "Strange Rabbit",
@@ -2638,7 +2638,7 @@
       ]
     },
     {
-      "name": {"en": "Hideous Rabbit", "es": "Conejo Espantoso", "pt": "Coelho horrendo"},
+      "name": {"en": "Hideous Rabbit", "es": "Conejo Espantoso", "pt": "Coelho horrendo", "zh-CN": "疯狂的兔子"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BUTTERFLY",
       "soundSet": "Hideous Rabbit",
@@ -2656,7 +2656,7 @@
       ]
     },
     {
-      "name": {"en": "Polluted Butterfly", "es": "Mariposa Contaminada", "pt": "Borboleta poluída"},
+      "name": {"en": "Polluted Butterfly", "es": "Mariposa Contaminada", "pt": "Borboleta poluída", "zh-CN": "污染之蝶"},
       "kind": "monster",
       "model": "MONSTER_MODEL_WEREWOLF2",
       "soundSet": "Polluted Butterfly",
@@ -2683,7 +2683,7 @@
       ]
     },
     {
-      "name": {"en": "Grizzly", "es": "Grizzly", "pt": "Grizzly"},
+      "name": {"en": "Grizzly", "es": "Grizzly", "pt": "Grizzly", "zh-CN": "灰熊"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GRIZZLY",
       "soundSet": "Grizzly",
@@ -2692,7 +2692,7 @@
       ]
     },
     {
-      "name": {"en": "Captain Grizzly", "es": "Capitán Grizzly", "pt": "Capitão Grizzly"},
+      "name": {"en": "Captain Grizzly", "es": "Capitán Grizzly", "pt": "Capitão Grizzly", "zh-CN": "残暴的灰熊"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CAPTAIN_GRIZZLY",
       "soundSet": "Captain Grizzly",
@@ -2835,7 +2835,7 @@
       ]
     },
     {
-      "name": {"en": "Ice Walker", "es": "Caminante del Hielo", "pt": "Caminhante do gelo"},
+      "name": {"en": "Ice Walker", "es": "Caminante del Hielo", "pt": "Caminhante do gelo", "zh-CN": "冰之魔犬"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ICE_WALKER",
       "soundSet": "Ice Walker",
@@ -3075,7 +3075,7 @@
       ]
     },
     {
-      "name": {"en": "Doorkeeper Titus", "es": "Portero Titus", "pt": "Porteiro Titus"},
+      "name": {"en": "Doorkeeper Titus", "es": "Portero Titus", "pt": "Porteiro Titus", "zh-CN": "门卫泰徒斯"},
       "kind": "npc",
       "model": "MODEL_DUEL_NPC_TITUS",
       "soundSet": "Doorkeeper Titus",
@@ -3152,7 +3152,7 @@
       ]
     },
     {
-      "name": {"en": "Moss", "es": "Moss", "pt": "Moss"},
+      "name": {"en": "Moss", "es": "Moss", "pt": "Moss", "zh-CN": "摩斯"},
       "kind": "npc",
       "model": "MODEL_GAMBLE_NPC_MOSS",
       "numbers": [
@@ -3502,7 +3502,7 @@
       ]
     },
     {
-      "name": {"en": "Jerint the Assistant", "es": "Jerint el Asistente", "pt": "Jerint, o Assistente"},
+      "name": {"en": "Jerint the Assistant", "es": "Jerint el Asistente", "pt": "Jerint, o Assistente", "zh-CN": "辅佐官杰林特"},
       "kind": "npc",
       "model": "MONSTER_MODEL_JERRY",
       "soundSet": "Jerint",
@@ -3635,7 +3635,7 @@
       ]
     },
     {
-      "name": {"en": "Lugard", "es": "Lugard", "pt": "Lugard"},
+      "name": {"en": "Lugard", "es": "Lugard", "pt": "Lugard", "zh-CN": "陆迦德"},
       "kind": "npc",
       "model": "MODEL_DOPPELGANGER_NPC_LUGARD",
       "soundSet": "Lugard",
@@ -3662,7 +3662,7 @@
       ]
     },
     {
-      "name": {"en": "Gens Duprian Steward", "es": "Mayordomo Gens Duprian", "pt": "Gens Duprian Steward"},
+      "name": {"en": "Gens Duprian Steward", "es": "Mayordomo Gens Duprian", "pt": "Gens Duprian Steward", "zh-CN": "多普瑞恩家族管家"},
       "kind": "npc",
       "model": "MODAL_GENS_NPC_DUPRIAN",
       "numbers": [
@@ -3670,7 +3670,7 @@
       ]
     },
     {
-      "name": {"en": "Gens Vanert Steward", "es": "Mayordomo Gens Vanert", "pt": "Gens Vanert Steward"},
+      "name": {"en": "Gens Vanert Steward", "es": "Mayordomo Gens Vanert", "pt": "Gens Vanert Steward", "zh-CN": "巴内尔特家族管家"},
       "kind": "npc",
       "model": "MODAL_GENS_NPC_BARNERT",
       "numbers": [
@@ -3678,7 +3678,7 @@
       ]
     },
     {
-      "name": {"en": "Christine the General Goods Merchant", "es": "Christine Mercader Art. Varios", "pt": "Christine, Merc. Prod. Gerais"},
+      "name": {"en": "Christine the General Goods Merchant", "es": "Christine Mercader Art. Varios", "pt": "Christine, Merc. Prod. Gerais", "zh-CN": "杂货商人克里斯丁"},
       "kind": "npc",
       "model": "MODEL_UNITEDMARKETPLACE_CHRISTIN",
       "numbers": [
@@ -3686,7 +3686,7 @@
       ]
     },
     {
-      "name": {"en": "Jeweler Raul", "es": "Joyero Raul", "pt": "Joalheiro Raul"},
+      "name": {"en": "Jeweler Raul", "es": "Joyero Raul", "pt": "Joalheiro Raul", "zh-CN": "宝石商人罗尔"},
       "kind": "npc",
       "model": "MODEL_UNITEDMARKETPLACE_RAUL",
       "numbers": [
@@ -3694,7 +3694,7 @@
       ]
     },
     {
-      "name": {"en": "Market Union Member Julia", "es": "Julia Miembro Unión de Mercado", "pt": "Julia, Membro da Un. Mercantil"},
+      "name": {"en": "Market Union Member Julia", "es": "Julia Miembro Unión de Mercado", "pt": "Julia, Membro da Un. Mercantil", "zh-CN": "市场传送师朱丽亚"},
       "kind": "npc",
       "model": "MODEL_UNITEDMARKETPLACE_JULIA",
       "numbers": [
