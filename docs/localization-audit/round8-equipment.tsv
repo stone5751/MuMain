@@ -1,0 +1,20 @@
+kind	id	english	previous	chinese	source
+item	3,0	Light Spear		黑武士	https://mu.dvg.cn/item_info.php?id=2446
+item	3,1	Spear		鹤嘴矛	https://mu.dvg.cn/item_info.php?id=2447
+item	3,2	Dragon Lance		战矛	https://mu.dvg.cn/item_info.php?id=2448
+item	3,3	Giant Trident		双鹤矛	https://mu.dvg.cn/item_info.php?id=2449
+item	3,4	Serpent Spear		巨蛇镰刀	https://mu.dvg.cn/item_info.php?id=2450
+item	3,5	Double Poleaxe		双刃矛	https://mu.dvg.cn/item_info.php?id=2451
+item	3,6	Halberd		斧刃矛	https://mu.dvg.cn/item_info.php?id=2452
+item	3,7	Berdysh		巴迪之矛	https://mu.dvg.cn/item_info.php?id=2453
+item	3,8	Great Scythe		帝王镰刀	https://mu.dvg.cn/item_info.php?id=2454
+item	3,9	Bill of Balrog		死神镰刀	https://mu.dvg.cn/item_info.php?id=2455
+item	3,10	Dragon Spear		青龙刀	https://mu.dvg.cn/item_info.php?id=2456
+item	6,0	Small Shield		圆盾	https://mu.dvg.cn/item_info.php?id=2567
+item	6,1	Horn Shield		战士之盾	https://mu.dvg.cn/item_info.php?id=2568
+item	6,2	Kite Shield		风之盾	https://mu.dvg.cn/item_info.php?id=2569
+item	6,3	Elven Shield		魔法之盾	https://mu.dvg.cn/item_info.php?id=2570
+item	6,4	Buckler		钢铁之盾	https://mu.dvg.cn/item_info.php?id=2571
+item	6,5	Dragon Slayer Shield		龙之盾	https://mu.dvg.cn/item_info.php?id=2572
+item	12,24	Scroll of Electric Spark	星云火链卷轴	圣极光卷轴	https://mu.dvg.cn/item_info.php?id=3564
+npc	371	Leo the Helper		助手 Leo	source ID 371; role translated, unconfirmed proper name retained

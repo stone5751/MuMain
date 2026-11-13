@@ -9,7 +9,8 @@
         "de": "Kleiner Schild",
         "es": "Escudo Pequeño",
         "pl": "Mała tarcza",
-        "pt": "Escudo pequeno"
+        "pt": "Escudo pequeno",
+        "zh-CN": "圆盾"
       },
       "options": ["luck"],
       "width": 2,
@@ -40,7 +41,8 @@
         "de": "Hornschild",
         "es": "Escudo Cuerno",
         "pl": "Rogowa tarcza",
-        "pt": "Escudo de chifre"
+        "pt": "Escudo de chifre",
+        "zh-CN": "战士之盾"
       },
       "options": ["luck"],
       "width": 2,
@@ -69,7 +71,8 @@
         "de": "Normannenschild",
         "es": "Escudo Cometa",
         "pl": "Tarcza migdałowa",
-        "pt": "Escudo ogival"
+        "pt": "Escudo ogival",
+        "zh-CN": "风之盾"
       },
       "options": ["luck"],
       "width": 2,
@@ -98,7 +101,8 @@
         "de": "Elfenschild",
         "es": "Escudo de los Elfos",
         "pl": "Elfia tarcza",
-        "pt": "Escudo élfico"
+        "pt": "Escudo élfico",
+        "zh-CN": "魔法之盾"
       },
       "options": ["luck"],
       "width": 2,
@@ -126,7 +130,8 @@
         "de": "Faustschild",
         "es": "Broquel",
         "pl": "Puklerz",
-        "pt": "Broquel"
+        "pt": "Broquel",
+        "zh-CN": "钢铁之盾"
       },
       "options": ["luck"],
       "width": 2,
@@ -158,7 +163,8 @@
         "de": "Drachentöterschild",
         "es": "Escudo Mata Dragones",
         "pl": "Tarcza Pogromcy Smoków",
-        "pt": "Escudo do matador de dragões"
+        "pt": "Escudo do matador de dragões",
+        "zh-CN": "龙之盾"
       },
       "options": ["luck"],
       "width": 2,

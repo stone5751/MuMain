@@ -2334,7 +2334,7 @@
       ]
     },
     {
-      "name": {"en": "Leo the Helper", "es": "Leo el Ayudante", "pt": "Leo, o ajudante"},
+      "name": {"en": "Leo the Helper", "es": "Leo el Ayudante", "pt": "Leo, o ajudante", "zh-CN": "助手 Leo"},
       "kind": "npc",
       "model": "player",
       "numbers": [

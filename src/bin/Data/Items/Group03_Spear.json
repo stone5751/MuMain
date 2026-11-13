@@ -9,7 +9,8 @@
         "de": "Leichter Speer",
         "es": "Jabalina de Luz",
         "pl": "Lekka włócznia",
-        "pt": "Lança de luz"
+        "pt": "Lança de luz",
+        "zh-CN": "黑武士"
       },
       "options": ["luck"],
       "width": 2,
@@ -42,7 +43,8 @@
         "de": "Speer",
         "es": "Jabalina",
         "pl": "Włócznia",
-        "pt": "Lança"
+        "pt": "Lança",
+        "zh-CN": "鹤嘴矛"
       },
       "options": ["luck"],
       "width": 2,
@@ -74,7 +76,8 @@
         "de": "Drachenlanze",
         "es": "Lanza Dragón",
         "pl": "Smocza lanca",
-        "pt": "Lança do dragão"
+        "pt": "Lança do dragão",
+        "zh-CN": "战矛"
       },
       "options": ["luck"],
       "width": 2,
@@ -106,7 +109,8 @@
         "de": "Riesendreizack",
         "es": "Tridente Gigante",
         "pl": "Trójząb olbrzyma",
-        "pt": "Tridente gigante"
+        "pt": "Tridente gigante",
+        "zh-CN": "双鹤矛"
       },
       "options": ["luck"],
       "width": 2,
@@ -138,7 +142,8 @@
         "de": "Schlangenspeer",
         "es": "Jabalina Serpiente",
         "pl": "Wężowa włócznia",
-        "pt": "Lança da serpente"
+        "pt": "Lança da serpente",
+        "zh-CN": "巨蛇镰刀"
       },
       "options": ["luck"],
       "width": 2,
@@ -171,7 +176,8 @@
         "de": "Doppelstangenaxt",
         "es": "Hacha Doble de Mástil",
         "pl": "Podwójny czekan",
-        "pt": "Gadanha dupla"
+        "pt": "Gadanha dupla",
+        "zh-CN": "双刃矛"
       },
       "options": ["luck"],
       "width": 2,
@@ -203,7 +209,8 @@
         "de": "Hellebarde",
         "es": "Alabarda",
         "pl": "Halabarda",
-        "pt": "Alabarda"
+        "pt": "Alabarda",
+        "zh-CN": "斧刃矛"
       },
       "options": ["luck"],
       "width": 2,
@@ -235,7 +242,8 @@
         "de": "Berdysch",
         "es": "Berdiche",
         "pl": "Berdysz",
-        "pt": "Berdysh"
+        "pt": "Berdysh",
+        "zh-CN": "巴迪之矛"
       },
       "options": ["luck"],
       "width": 2,
@@ -268,7 +276,8 @@
         "de": "Großartige Sense",
         "es": "Gran Guadaña",
         "pl": "Wielka kosa",
-        "pt": "Grande foice"
+        "pt": "Grande foice",
+        "zh-CN": "帝王镰刀"
       },
       "options": ["luck"],
       "width": 2,
@@ -301,7 +310,8 @@
         "de": "Hippe des Balrog",
         "es": "Pico de Balrog",
         "pl": "Gizarma Balroga",
-        "pt": "Gancho de Balrog"
+        "pt": "Gancho de Balrog",
+        "zh-CN": "死神镰刀"
       },
       "options": ["luck"],
       "width": 2,
@@ -334,7 +344,8 @@
         "de": "Drachenspeer",
         "es": "Jabalina Dragón",
         "pl": "Smocza włócznia",
-        "pt": "Lança do dragão"
+        "pt": "Lança do dragão",
+        "zh-CN": "青龙刀"
       },
       "options": ["luck"],
       "width": 2,
