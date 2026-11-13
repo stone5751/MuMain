@@ -852,7 +852,7 @@
       "kind": "quest-dialogue",
       "id": 51,
       "english": "Apples can be purchased from potion merchants. In Lorencia, look for Potion Girl Amy, who is located across the bridge (128,85). In Elveland, look for Silvia, who is in the 1 o'clock direction from the center of the square (45,227). In Noria, look for Elf Lala, who is slightly to the north from the town's center (172,124).",
-      "zh-CN": "药水商人出售苹果。勇者大陆的少女安娜 在桥对面（128,85）；幻术园的 Silvia 在广场中心1点钟方向（45,227）；仙踪林的精灵安吉拉在城镇中心稍北处（172,124）。"
+      "zh-CN": "药水商人出售苹果。勇者大陆的少女安娜在桥对面（128,85）；幻术园的塞尔维亚在广场中心1点钟方向（45,227）；仙踪林的精灵安吉拉在城镇中心稍北处（172,124）。"
     },
     {
       "kind": "quest-words",
@@ -950,7 +950,7 @@
       "kind": "quest-dialogue",
       "id": 67,
       "english": "Go beyond the walls of Elveland and hunt down 3 Strange Rabbits.;If you find yourself in trouble, press the Q button to recover your HP. I'm sure this hunt is well within your abilities.",
-      "zh-CN": "走出幻术园城墙，消灭3只 Strange Rabbit。;遇到危险就按 Q 键恢复生命。我相信你能完成这次狩猎。"
+      "zh-CN": "走出幻术园城墙，消灭3只怪异的兔子。;遇到危险就按 Q 键恢复生命。我相信你能完成这次狩猎。"
     },
     {
       "kind": "quest-dialogue",
@@ -1280,7 +1280,7 @@
       "kind": "quest-dialogue",
       "id": 122,
       "english": "Summoners can learn additional skills by going to Elveland and purchasing scrolls from Marce (36,218). After purchasing a scroll, right-click on it to learn the skill.",
-      "zh-CN": "召唤术师可到幻术园，向 Marce（36,218）购买魔法书。买到后右键点击即可学习。"
+      "zh-CN": "召唤术师可到幻术园，向摩尔塞（36,218）购买魔法书。买到后右键点击即可学习。"
     },
     {
       "kind": "quest-words",
@@ -1568,7 +1568,7 @@
       "kind": "quest-dialogue",
       "id": 170,
       "english": "That is correct! You can have your equipment repaired by Hanzo the Blacksmith (117,140) in Lorencia, Rhea (30, 235) in Elveland, or Eo the Craftsman (194, 123) in Noria. Solicit their services often.",
-      "zh-CN": "答对了！勇者大陆的铁匠汉斯（117,140）、幻术园的 Rhea（30, 235）和仙踪林的工艺尤达（194, 123）都能修理装备，记得常去。"
+      "zh-CN": "答对了！勇者大陆的铁匠汉斯（117,140）、幻术园的雷亚（30, 235）和仙踪林的工艺尤达（194, 123）都能修理装备，记得常去。"
     },
     {
       "kind": "quest-dialogue",
@@ -1874,7 +1874,7 @@
       "kind": "quest-summary",
       "id": 221,
       "english": "Apples can be purchased from potion merchants. In Lorencia, look for Potion Girl Amy, who is located across the bridge (128,85). In Elveland, look for Silvia, who is in the 1 o'clock direction from the center of the square (45,227). In Noria, look for Elf Lala, who is slightly to the north from the town's center (172,124).",
-      "zh-CN": "药水商人出售苹果。勇者大陆的少女安娜 在桥对面（128,85）；幻术园的 Silvia 在广场中心1点钟方向（45,227）；仙踪林的精灵安吉拉在城镇中心稍北处（172,124）。"
+      "zh-CN": "药水商人出售苹果。勇者大陆的少女安娜在桥对面（128,85）；幻术园的塞尔维亚在广场中心1点钟方向（45,227）；仙踪林的精灵安吉拉在城镇中心稍北处（172,124）。"
     },
     {
       "kind": "quest-summary",
@@ -1918,7 +1918,7 @@
       "kind": "quest-summary",
       "id": 228,
       "english": "Go beyond the walls of Elveland and hunt down 3 Strange Rabbits.",
-      "zh-CN": "走出幻术园城墙，消灭3只 Strange Rabbit。"
+      "zh-CN": "走出幻术园城墙，消灭3只怪异的兔子。"
     },
     {
       "kind": "quest-summary",
@@ -2116,13 +2116,13 @@
       "kind": "quest-summary",
       "id": 261,
       "english": "Scrolls can be purchased from Pasi the Mage (119,112) in Lorencia and Marce (36,218) in Elveland.",
-      "zh-CN": "可向勇者大陆的魔导师帕希（119,112）或幻术园的 Marce（36,218）购买魔法书。"
+      "zh-CN": "可向勇者大陆的魔导师帕希（119,112）或幻术园的摩尔塞（36,218）购买魔法书。"
     },
     {
       "kind": "quest-summary",
       "id": 262,
       "english": "Scrolls can be purchased from Pasi the Mage (119,112) in Lorencia and Marce (36,218) in Elveland.",
-      "zh-CN": "可向勇者大陆的魔导师帕希（119,112）或幻术园的 Marce（36,218）购买魔法书。"
+      "zh-CN": "可向勇者大陆的魔导师帕希（119,112）或幻术园的摩尔塞（36,218）购买魔法书。"
     },
     {
       "kind": "quest-summary",
@@ -2230,13 +2230,13 @@
       "kind": "quest-summary",
       "id": 280,
       "english": "You can have your equipment repaired by Hanzo the Blacksmith (117,140) in Lorencia, Rhea (30, 235) in Elveland, or Eo the Craftsman (194, 123) in Noria. Solicit their services often.",
-      "zh-CN": "勇者大陆的铁匠汉斯（117,140）、幻术园的 Rhea（30, 235）和仙踪林的工艺尤达（194, 123）都能修理装备，记得常去。"
+      "zh-CN": "勇者大陆的铁匠汉斯（117,140）、幻术园的雷亚（30, 235）和仙踪林的工艺尤达（194, 123）都能修理装备，记得常去。"
     },
     {
       "kind": "quest-summary",
       "id": 281,
       "english": "You can have your equipment repaired by Hanzo the Blacksmith (117,140) in Lorencia, Rhea (30, 235) in Elveland, or Eo the Craftsman (194, 123) in Noria. Solicit their services often.",
-      "zh-CN": "勇者大陆的铁匠汉斯（117,140）、幻术园的 Rhea（30, 235）和仙踪林的工艺尤达（194, 123）都能修理装备，记得常去。"
+      "zh-CN": "勇者大陆的铁匠汉斯（117,140）、幻术园的雷亚（30, 235）和仙踪林的工艺尤达（194, 123）都能修理装备，记得常去。"
     },
     {
       "kind": "quest-summary",
@@ -2676,7 +2676,7 @@
       "kind": "quest-dialogue",
       "id": 2006,
       "english": "A wise decision. Chaos Castle is a battle field created by Lugard, the god of the heaven world, and Secrarium, the god of the underworld, for the balance of good and evil in this world. However, travelers started going to Chaos Castle and fighting on the side of Lugard, tipping the balance in disfavor of Secrarium.",
-      "zh-CN": "明智的决定。赤色要塞是天界之神 Lugard 与冥界之神 Secrarium 为维持善恶平衡而设的战场。但冒险者们来到要塞，站在 Lugard 一方战斗，打破了平衡，让 Secrarium 处于劣势。"
+      "zh-CN": "明智的决定。赤色要塞是天界之神陆迦德与冥界之神 Secrarium 为维持善恶平衡而设的战场。但冒险者们来到要塞，站在陆迦德一方战斗，打破了平衡，让 Secrarium 处于劣势。"
     },
     {
       "kind": "quest-words",
@@ -2688,7 +2688,7 @@
       "kind": "quest-dialogue",
       "id": 2008,
       "english": "To restore balance to the battle event, Secrarium made Lugard an offer and suggested implementation of a new rule. This rule was for everyone participating in the event to wear guardsman's armor. Lugard, believing the offer to be fair, accepted.",
-      "zh-CN": "为恢复战斗的平衡，Secrarium 向 Lugard 提议一条新规则：所有参战者都必须穿上卫兵铠甲。Lugard 认为这很公平，便接受了。"
+      "zh-CN": "为恢复战斗的平衡，Secrarium 向陆迦德提议一条新规则：所有参战者都必须穿上卫兵铠甲。陆迦德认为这很公平，便接受了。"
     },
     {
       "kind": "quest-words",
@@ -2700,13 +2700,13 @@
       "kind": "quest-dialogue",
       "id": 2010,
       "english": "Unfortunately, Secrarium was betting that darkness in the hearts of the travelers would ultimately lead to hostility and discord among them. Lugard was also aware of the travelers' dark side, but his trust in them didn't waver. Ultimately, the travelers did begin to feud with one another like the dark god had anticipated, and Chaos Castle became ever more... chaotic.",
-      "zh-CN": "不幸的是，Secrarium 赌的是冒险者内心的阴暗会引发敌意与争斗。Lugard 也知道这一面，却始终信任他们。最终，冒险者果然如冥神所料，开始自相残杀，赤色要塞变得更加混乱。"
+      "zh-CN": "不幸的是，Secrarium 赌的是冒险者内心的阴暗会引发敌意与争斗。陆迦德也知道这一面，却始终信任他们。最终，冒险者果然如冥神所料，开始自相残杀，赤色要塞变得更加混乱。"
     },
     {
       "kind": "quest-words",
       "id": 2011,
       "english": "I guess Lugard was tricked by Secrarium. How do I participate?",
-      "zh-CN": "看来 Lugard 被 Secrarium 骗了。怎样参加？"
+      "zh-CN": "看来陆迦德被 Secrarium 骗了。怎样参加？"
     },
     {
       "kind": "quest-dialogue",
@@ -2892,7 +2892,7 @@
       "kind": "quest-dialogue",
       "id": 2042,
       "english": "A wise decision. Chaos Castle is a battle field created by Lugard, the god of the heaven world, and Secrarium, the god of the underworld, for the balance of good and evil in this world. However, travelers started going to Chaos Castle and fighting on the side of Lugard, tipping the balance in disfavor of Secrarium.",
-      "zh-CN": "明智的决定。赤色要塞是天界之神 Lugard 与冥界之神 Secrarium 为维持善恶平衡而设的战场。但冒险者们来到要塞，站在 Lugard 一方战斗，打破了平衡，让 Secrarium 处于劣势。"
+      "zh-CN": "明智的决定。赤色要塞是天界之神陆迦德与冥界之神 Secrarium 为维持善恶平衡而设的战场。但冒险者们来到要塞，站在陆迦德一方战斗，打破了平衡，让 Secrarium 处于劣势。"
     },
     {
       "kind": "quest-words",
@@ -2904,7 +2904,7 @@
       "kind": "quest-dialogue",
       "id": 2044,
       "english": "To restore balance to the battle event, Secrarium made Lugard an offer and suggested implementation of a new rule. This rule was for everyone participating in the event to wear guardsman's armor. Lugard, believing the offer to be fair, accepted.",
-      "zh-CN": "为恢复战斗的平衡，Secrarium 向 Lugard 提议一条新规则：所有参战者都必须穿上卫兵铠甲。Lugard 认为这很公平，便接受了。"
+      "zh-CN": "为恢复战斗的平衡，Secrarium 向陆迦德提议一条新规则：所有参战者都必须穿上卫兵铠甲。陆迦德认为这很公平，便接受了。"
     },
     {
       "kind": "quest-words",
@@ -2916,13 +2916,13 @@
       "kind": "quest-dialogue",
       "id": 2046,
       "english": "Unfortunately, Secrarium was betting that darkness in the hearts of the travelers would ultimately lead to hostility and discord among them. Lugard was also aware of the travelers' dark side, but his trust in them didn't waver. Ultimately, the travelers did begin to feud with one another like the dark god had anticipated, and Chaos Castle became ever more... chaotic.",
-      "zh-CN": "不幸的是，Secrarium 赌的是冒险者内心的阴暗会引发敌意与争斗。Lugard 也知道这一面，却始终信任他们。最终，冒险者果然如冥神所料，开始自相残杀，赤色要塞变得更加混乱。"
+      "zh-CN": "不幸的是，Secrarium 赌的是冒险者内心的阴暗会引发敌意与争斗。陆迦德也知道这一面，却始终信任他们。最终，冒险者果然如冥神所料，开始自相残杀，赤色要塞变得更加混乱。"
     },
     {
       "kind": "quest-words",
       "id": 2047,
       "english": "I guess Lugard was tricked by Secrarium. How do I participate?",
-      "zh-CN": "看来 Lugard 被 Secrarium 骗了。怎样参加？"
+      "zh-CN": "看来陆迦德被 Secrarium 骗了。怎样参加？"
     },
     {
       "kind": "quest-dialogue",
@@ -5526,7 +5526,7 @@
       "kind": "quest-dialogue",
       "id": 4006,
       "english": "Devil Square is the place where the Elf Tree once stood. The Elf Tree was created by the mother of all Elves, an underground Elf known as Aria. This tree had the ability to produce Elves regularly. Then Secrarium tricked Lugard and appeared in Noria, at the location of the Elf Tree.",
-      "zh-CN": "恶魔广场曾是精灵之树所在之地。所有精灵的母亲、地下精灵 Aria 创造了这棵树，它能定期孕育精灵。后来 Secrarium 欺骗了 Lugard，来到仙踪林的精灵之树旁。"
+      "zh-CN": "恶魔广场曾是精灵之树所在之地。所有精灵的母亲、地下精灵 Aria 创造了这棵树，它能定期孕育精灵。后来 Secrarium 欺骗了陆迦德，来到仙踪林的精灵之树旁。"
     },
     {
       "kind": "quest-words",
@@ -5742,7 +5742,7 @@
       "kind": "quest-dialogue",
       "id": 4042,
       "english": "Devil Square is the place where the Elf Tree once stood. The Elf Tree was created by the mother of all Elves, an underground Elf known as Aria. This tree had the ability to produce Elves regularly. Then Secrarium tricked Lugard and appeared in Noria, at the location of the Elf Tree.",
-      "zh-CN": "恶魔广场曾是精灵之树所在之地。所有精灵的母亲、地下精灵 Aria 创造了这棵树，它能定期孕育精灵。后来 Secrarium 欺骗了 Lugard，来到仙踪林的精灵之树旁。"
+      "zh-CN": "恶魔广场曾是精灵之树所在之地。所有精灵的母亲、地下精灵 Aria 创造了这棵树，它能定期孕育精灵。后来 Secrarium 欺骗了陆迦德，来到仙踪林的精灵之树旁。"
     },
     {
       "kind": "quest-words",
@@ -9084,7 +9084,7 @@
       "kind": "quest-dialogue",
       "id": 15066,
       "english": "Go to Dungeon Level 3. Defeat 50 Poison Bull Fighters, 50 Dark Knights, and 30 Gorgons, and I'll give you two Double Blades + 8 + Skill as a reward.",
-      "zh-CN": "前往地下城3层，消灭50只毒牛怪、50只暗黑骑士和30只魔鬼戈登，即可获得两把Double Blade+8（带技能）。"
+      "zh-CN": "前往地下城3层，消灭50只毒牛怪、50只暗黑骑士和30只魔鬼戈登，即可获得两把真红之剑+8（带技能）。"
     },
     {
       "kind": "quest-dialogue",
@@ -9138,13 +9138,13 @@
       "kind": "quest-dialogue",
       "id": 15076,
       "english": "Go to the Lost Tower Level 1. Defeat 50 Shadows and 50 Poison Shadows, and I'll give you Ashcrow Gloves + 7 as a reward.",
-      "zh-CN": "前往失落之塔1层，消灭50只鬼魂和50只剧毒鬼魂，即可获得Ashcrow Gloves+7。"
+      "zh-CN": "前往失落之塔1层，消灭50只鬼魂和50只剧毒鬼魂，即可获得暴风护手+7。"
     },
     {
       "kind": "quest-dialogue",
       "id": 15077,
       "english": "Go to Devias 4 and defeat 5 Ice Queens. When you return, I'll give you Eclipse Gloves + 7 as a reward.",
-      "zh-CN": "前往冰风谷4，消灭5只冰后。回来后即可获得Eclipse Gloves+7。"
+      "zh-CN": "前往冰风谷4，消灭5只冰后。回来后即可获得幻月护手+7。"
     },
     {
       "kind": "quest-dialogue",
@@ -9192,13 +9192,13 @@
       "kind": "quest-dialogue",
       "id": 15086,
       "english": "Go to the Lost Tower Level 2. Defeat 50 Poison Shadows and 30 Cursed Wizards, and I'll give you Ashcrow Boots + 7 as a reward.",
-      "zh-CN": "前往失落之塔2层，消灭50只剧毒鬼魂和30只诅咒巫师，即可获得Ashcrow Boots+7。"
+      "zh-CN": "前往失落之塔2层，消灭50只剧毒鬼魂和30只诅咒巫师，即可获得暴风之靴+7。"
     },
     {
       "kind": "quest-dialogue",
       "id": 15087,
       "english": " Go to Elveland 3 and defeat 100 Grizzlies. I'll give you Eclipse Boots + 7 as a reward.",
-      "zh-CN": "前往幻术园3，消灭100只Grizzly，即可获得Eclipse Boots+7。"
+      "zh-CN": "前往幻术园3，消灭100只灰熊，即可获得幻月之靴+7。"
     },
     {
       "kind": "quest-dialogue",
@@ -9210,7 +9210,7 @@
       "kind": "quest-dialogue",
       "id": 15089,
       "english": " Go to Elveland 3 and defeat 100 Grizzlies. I'll give you Ancient Boots + 7 as a reward.",
-      "zh-CN": "前往幻术园3，消灭100只Grizzly，即可获得远古靴+7。"
+      "zh-CN": "前往幻术园3，消灭100只灰熊，即可获得远古靴+7。"
     },
     {
       "kind": "quest-dialogue",
@@ -9246,13 +9246,13 @@
       "kind": "quest-dialogue",
       "id": 15096,
       "english": "Go to the Lost Tower Level 3. Defeat 50 Cursed Wizards and 50 Death Cows, and I'll give you an Ashcrow Helm + 7 and Ashcrow Pants + 7 as a reward.",
-      "zh-CN": "前往失落之塔3层，消灭50只诅咒巫师和50只牛魔王，即可获得Ashcrow Helm+7和Ashcrow Pants+7。"
+      "zh-CN": "前往失落之塔3层，消灭50只诅咒巫师和50只牛魔王，即可获得暴风之盔+7和暴风护腿+7。"
     },
     {
       "kind": "quest-dialogue",
       "id": 15097,
       "english": "Go to Elveland 3 and defeat 100 Captain Grizzlies. I'll give you an Eclipse Helm + 7 and Eclipse Pants + 7 as a reward.",
-      "zh-CN": "前往幻术园3，消灭100只Captain Grizzly，即可获得Eclipse Helm+7和Eclipse Pants+7。"
+      "zh-CN": "前往幻术园3，消灭100只残暴的灰熊，即可获得幻月之盔+7和幻月护腿+7。"
     },
     {
       "kind": "quest-dialogue",
@@ -9264,7 +9264,7 @@
       "kind": "quest-dialogue",
       "id": 15099,
       "english": "Go to Elveland 3 and defeat 100 Captain Grizzlies. I'll give you an Ancient Helm + 7 and Ancient Pants + 7 as a reward.",
-      "zh-CN": "前往幻术园3，消灭100只Captain Grizzly，即可获得远古头盔+7和远古护腿+7。"
+      "zh-CN": "前往幻术园3，消灭100只残暴的灰熊，即可获得远古头盔+7和远古护腿+7。"
     },
     {
       "kind": "quest-dialogue",
@@ -9300,13 +9300,13 @@
       "kind": "quest-dialogue",
       "id": 15106,
       "english": " Go to the Lost Tower Levels 3 and 4 and defeat 100 Death Cows. I'll give you an Ashcrow Armor + 7 and a Chaos Dragon Axe + 4 + Option as a reward.",
-      "zh-CN": "前往失落之塔3层和4层，消灭100只牛魔王，即可获得Ashcrow Armor+7和玛雅龙斧+4（带追加属性）。"
+      "zh-CN": "前往失落之塔3层和4层，消灭100只牛魔王，即可获得暴风之铠+7和玛雅龙斧+4（带追加属性）。"
     },
     {
       "kind": "quest-dialogue",
       "id": 15107,
       "english": " Go to the Lost Tower Level 1 and defeat 100 Shadows. I'll give you an Eclipse Armor + 7 and a Chaos Dragon Axe + 4 + Option as a reward.",
-      "zh-CN": "前往失落之塔1层，消灭100只鬼魂，即可获得Eclipse Armor+7和玛雅龙斧+4（带追加属性）。"
+      "zh-CN": "前往失落之塔1层，消灭100只鬼魂，即可获得幻月之铠+7和玛雅龙斧+4（带追加属性）。"
     },
     {
       "kind": "quest-dialogue",
@@ -9354,13 +9354,13 @@
       "kind": "quest-dialogue",
       "id": 15116,
       "english": "Go to the Lost Tower Level 4. Defeat 50 Death Cows and 30 Devils, and I'll give you Ashcrow Gloves + 8 as a reward.",
-      "zh-CN": "前往失落之塔4层，消灭50只牛魔王和30只恶魔，即可获得Ashcrow Gloves+8。"
+      "zh-CN": "前往失落之塔4层，消灭50只牛魔王和30只恶魔，即可获得暴风护手+8。"
     },
     {
       "kind": "quest-dialogue",
       "id": 15117,
       "english": "Go to the Lost Tower Level 1. Defeat 50 Shadows and 30 Poison Shadows, and I'll give you Eclipse Gloves + 8 as a reward.",
-      "zh-CN": "前往失落之塔1层，消灭50只鬼魂和30只剧毒鬼魂，即可获得Eclipse Gloves+8。"
+      "zh-CN": "前往失落之塔1层，消灭50只鬼魂和30只剧毒鬼魂，即可获得幻月护手+8。"
     },
     {
       "kind": "quest-dialogue",
@@ -9408,13 +9408,13 @@
       "kind": "quest-dialogue",
       "id": 15126,
       "english": "Go to the Lost Tower Levels 4 and 5 and defeat 100 Devils. I'll give you Ashcrow Boots + 8 as a reward.",
-      "zh-CN": "前往失落之塔4层和5层，消灭100只恶魔，即可获得Ashcrow Boots+8。"
+      "zh-CN": "前往失落之塔4层和5层，消灭100只恶魔，即可获得暴风之靴+8。"
     },
     {
       "kind": "quest-dialogue",
       "id": 15127,
       "english": "Go to the Lost Tower Level 2. Defeat 50 Poison Shadows and 30 Cursed Wizards, and I'll give you Eclipse Boots + 8 as a reward.",
-      "zh-CN": "前往失落之塔2层，消灭50只剧毒鬼魂和30只诅咒巫师，即可获得Eclipse Boots+8。"
+      "zh-CN": "前往失落之塔2层，消灭50只剧毒鬼魂和30只诅咒巫师，即可获得幻月之靴+8。"
     },
     {
       "kind": "quest-dialogue",
@@ -9462,13 +9462,13 @@
       "kind": "quest-dialogue",
       "id": 15136,
       "english": "Go to the Lost Tower Levels 5 through 7 and defeat 100 Death Knights. I'll give you an Ashcrow Helm + 8 as a reward.",
-      "zh-CN": "前往失落之塔5至7层，消灭100只死神骑士，即可获得Ashcrow Helm+8。"
+      "zh-CN": "前往失落之塔5至7层，消灭100只死神骑士，即可获得暴风之盔+8。"
     },
     {
       "kind": "quest-dialogue",
       "id": 15137,
       "english": "Go to the Lost Tower Level 3. Defeat 50 Cursed Wizards and 50 Death Cows, and I'll give you an Eclipse Helm + 8 as a reward.",
-      "zh-CN": "前往失落之塔3层，消灭50只诅咒巫师和50只牛魔王，即可获得Eclipse Helm+8。"
+      "zh-CN": "前往失落之塔3层，消灭50只诅咒巫师和50只牛魔王，即可获得幻月之盔+8。"
     },
     {
       "kind": "quest-dialogue",
@@ -9516,13 +9516,13 @@
       "kind": "quest-dialogue",
       "id": 15146,
       "english": "Go to the Lost Tower Level 7. Defeat 50 Death Knights and 30 Death Gorgons, and I'll give you Ashcrow Pants + 8 as a reward.",
-      "zh-CN": "前往失落之塔7层，消灭50只死神骑士和30只死神戈登，即可获得Ashcrow Pants+8。"
+      "zh-CN": "前往失落之塔7层，消灭50只死神骑士和30只死神戈登，即可获得暴风护腿+8。"
     },
     {
       "kind": "quest-dialogue",
       "id": 15147,
       "english": "Go to the Lost Tower Levels 3 and 4 and defeat 100 Death Cows. I'll give you Eclipse Pants + 8 as a reward.",
-      "zh-CN": "前往失落之塔3层和4层，消灭100只牛魔王，即可获得Eclipse Pants+8。"
+      "zh-CN": "前往失落之塔3层和4层，消灭100只牛魔王，即可获得幻月护腿+8。"
     },
     {
       "kind": "quest-dialogue",
@@ -9570,13 +9570,13 @@
       "kind": "quest-dialogue",
       "id": 15156,
       "english": "Go to the Lost Tower Level 7. Defeat 50 Death Gorgons and 10 Balrogs, and I'll give you an Ashcrow Armor + 8 as a reward.",
-      "zh-CN": "前往失落之塔7层，消灭50只死神戈登和10只魔王巴洛克，即可获得Ashcrow Armor+8。"
+      "zh-CN": "前往失落之塔7层，消灭50只死神戈登和10只魔王巴洛克，即可获得暴风之铠+8。"
     },
     {
       "kind": "quest-dialogue",
       "id": 15157,
       "english": "Go to the Lost Tower Levels 4 through 6 and defeat 100 Devils. I'll give you an Eclipse Armor + 8 as a reward.",
-      "zh-CN": "前往失落之塔4至6层，消灭100只恶魔，即可获得Eclipse Armor+8。"
+      "zh-CN": "前往失落之塔4至6层，消灭100只恶魔，即可获得幻月之铠+8。"
     },
     {
       "kind": "quest-dialogue",
@@ -9804,7 +9804,7 @@
       "kind": "quest-summary",
       "id": 15827,
       "english": "Go to Elveland 3 and defeat 100 Grizzlies. Once that's done, you'll be able to receive a reward from the Shadow Phantom Soldier.",
-      "zh-CN": "前往幻术园3，消灭100只Grizzly，然后找幻影导师领取奖励。"
+      "zh-CN": "前往幻术园3，消灭100只灰熊，然后找幻影导师领取奖励。"
     },
     {
       "kind": "quest-summary",
@@ -9822,7 +9822,7 @@
       "kind": "quest-summary",
       "id": 15830,
       "english": "Go to Elveland 3 and defeat 100 Captain Grizzlies. Once that's done, you'll be able to receive a reward from the Shadow Phantom Soldier.",
-      "zh-CN": "前往幻术园3，消灭100只Captain Grizzly，然后找幻影导师领取奖励。"
+      "zh-CN": "前往幻术园3，消灭100只残暴的灰熊，然后找幻影导师领取奖励。"
     },
     {
       "kind": "quest-summary",
@@ -10596,7 +10596,7 @@
       "kind": "quest-dialogue",
       "id": 18029,
       "english": "Defeat 20 Hideous Rabbits from near the face sculpture on the north side (151, 146) of town and return to me for a reward.",
-      "zh-CN": "消灭20只Hideous Rabbit，它们在城镇北侧人面雕像附近（151, 146）。完成后回来领取奖励。"
+      "zh-CN": "消灭20只疯狂的兔子，它们在城镇北侧人面雕像附近（151, 146）。完成后回来领取奖励。"
     },
     {
       "kind": "quest-dialogue",
@@ -11142,7 +11142,7 @@
       "kind": "quest-dialogue",
       "id": 18157,
       "english": "At Elveland 3 (179, 81), you'll encounter foul, furry creatures. Defeat 50 Grizzlies and return to me for a reward.",
-      "zh-CN": "幻术园3（179, 81）有邪恶的毛兽。消灭50只Grizzly后，回来领取奖励。"
+      "zh-CN": "幻术园3（179, 81）有邪恶的毛兽。消灭50只灰熊后，回来领取奖励。"
     },
     {
       "kind": "quest-dialogue",
@@ -11184,7 +11184,7 @@
       "kind": "quest-dialogue",
       "id": 18167,
       "english": "At Elveland 3 (203, 37), you'll encounter the captains of foul, furry creatures known as Grizzlies. Defeat 50 Captain Grizzlies and return to me for a reward.",
-      "zh-CN": "幻术园3（203, 37）有邪恶毛兽Grizzly的首领。消灭50只Captain Grizzly后，回来领取奖励。"
+      "zh-CN": "幻术园3（203, 37）有邪恶毛兽灰熊的首领。消灭50只残暴的灰熊后，回来领取奖励。"
     },
     {
       "kind": "quest-dialogue",
@@ -12108,7 +12108,7 @@
       "kind": "quest-summary",
       "id": 18851,
       "english": "Return to the Shadow Phantom Soldier after defeating 50 Grizzlies.",
-      "zh-CN": "消灭50只Grizzly后，返回幻影导师处。"
+      "zh-CN": "消灭50只灰熊后，返回幻影导师处。"
     },
     {
       "kind": "quest-summary",
@@ -12126,7 +12126,7 @@
       "kind": "quest-summary",
       "id": 18854,
       "english": "Return to the Shadow Phantom Soldier after defeating 50 Captain Grizzlies.",
-      "zh-CN": "消灭50只Captain Grizzly后，返回幻影导师处。"
+      "zh-CN": "消灭50只残暴的灰熊后，返回幻影导师处。"
     },
     {
       "kind": "quest-summary",
@@ -14200,7 +14200,7 @@
       "kind": "quest-dialogue",
       "id": 20998,
       "english": "May the grace of Lugard be with you�� This is the entrance to the Underwater Temple. Kundun's army is captivated in this temple by the sealed stone.",
-      "zh-CN": "愿Lugard庇佑你……这里是水下神殿入口。封印石将昆顿军团困在神殿中。",
+      "zh-CN": "愿陆迦德庇佑你……这里是水下神殿入口。封印石将昆顿军团困在神殿中。",
       "sourceEncoding": "cp949-decoded-as-utf8-by-original-windows-loader",
       "sourceBytesSha256": "c729b58e918b060682fbf5ecfe544958aae77c07c419c8110612eae641b53c8f"
     },
