@@ -9,7 +9,7 @@ Tooltip.json	thirdWingIngredient	Ingredients for the 3rd wing assembly.		合成�
 Tooltip.json	increasesAttackSpeed10	Increases Attack Speed by 10		攻击速度增加10	existing tooltip key; placeholders and numbers preserved
 Tooltip.json	collectsSurroundingZen	Surrounding Zens are automatically collected.		自动拾取周围的金币。	existing tooltip key; placeholders and numbers preserved
 Tooltip.json	autoCollectsZen	Auto-collects zen around you.		自动拾取周围的金币。	existing tooltip key; placeholders and numbers preserved
-Tooltip.json	increaseDefensiveSkill50	Increase Defensive Skill +50		防御成功率增加+50	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	increaseDefensiveSkill50	Increase Defensive Skill +50		防御力增加+50	existing tooltip key; placeholders and numbers preserved
 Tooltip.json	automaticHpRecovery3	Automatic HP recovery 3%		生命值自动恢复3%	existing tooltip key; placeholders and numbers preserved
 Tooltip.json	specialItemsWithCombinations	You can achieve special items with combinations.		可通过合成获得特殊物品。	existing tooltip key; placeholders and numbers preserved
 Tooltip.json	mayTurnIntoRareItem	You can drop it with a fixed probability of it turning into a rare item.		丢到地上有一定概率变为稀有物品。	existing tooltip key; placeholders and numbers preserved
