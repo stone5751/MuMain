@@ -14401,6 +14401,54 @@
       "id": 230,
       "english": "Lightning Shock",
       "zh-CN": "雷光闪"
+    },
+    {
+      "kind": "skills",
+      "id": 65,
+      "english": "Electric Spike",
+      "zh-CN": "圣极光"
+    },
+    {
+      "kind": "skills",
+      "id": 232,
+      "english": "Strike of Destruction",
+      "zh-CN": "破坏一击"
+    },
+    {
+      "kind": "skills",
+      "id": 233,
+      "english": "Expansion of Wizardry",
+      "zh-CN": "法神附体"
+    },
+    {
+      "kind": "skills",
+      "id": 234,
+      "english": "Recovery",
+      "zh-CN": "防护值恢复"
+    },
+    {
+      "kind": "skills",
+      "id": 235,
+      "english": "Multi-Shot",
+      "zh-CN": "五重箭"
+    },
+    {
+      "kind": "skills",
+      "id": 236,
+      "english": "Flame Strike",
+      "zh-CN": "火剑袭"
+    },
+    {
+      "kind": "skills",
+      "id": 237,
+      "english": "Gigantic Storm",
+      "zh-CN": "闪电轰顶"
+    },
+    {
+      "kind": "skills",
+      "id": 238,
+      "english": "Chaotic Diseier",
+      "zh-CN": "黑暗之力"
     }
   ]
 }
