@@ -169,11 +169,11 @@ jobs:
           if ($crt.Count -ne 1) { throw 'Expected one MSVC redistributable CRT directory.' }
           Get-ChildItem -LiteralPath $crt[0].FullName -Filter '*.dll' | Copy-Item -Destination $package
           ./scripts/validate_zh_cn_runtime.ps1 -RuntimeDirectory $package
-          New-Item -ItemType Directory -Path "$package/Data/Items", "$package/Data/Monsters" -Force | Out-Null
+          New-Item -ItemType Directory -Path "$package/Data/Items", "$package/Data/Items/Tooltips", "$package/Data/Monsters" -Force | Out-Null
           $names = @(git diff --name-only v1.37.0 HEAD -- src/bin/Data/Items src/bin/Data/Monsters)
           if ($LASTEXITCODE -ne 0 -or $names.Count -eq 0) { throw 'Unable to identify the translated name files.' }
           foreach ($name in $names) {
-            if ($name -notmatch '^src/bin/Data/(Items/Group[0-9]+_[A-Za-z]+\.json|Monsters/Monsters\.json)$') { throw "Unexpected data file: $name" }
+            if ($name -notmatch '^src/bin/Data/(Items/Group[0-9]+_[A-Za-z]+\.json|Items/Tooltips/(Tooltip|OptionTexts)\.json|Monsters/Monsters\.json)$') { throw "Unexpected data file: $name" }
             Copy-Item -LiteralPath $name -Destination (Join-Path $package $name.Substring('src/bin/'.Length))
           }
           New-Item -ItemType Directory -Path "$package/Data/Local" -Force | Out-Null
@@ -185,22 +185,22 @@ jobs:
               Copy-Item -LiteralPath "src/bin/$rmlDir$document.rml" -Destination (Join-Path $package "$rmlDir$document.rml")
             }
           }
-          Copy-Item -LiteralPath 'docs/localization-audit/ROUND7-README.zh-CN.md' -Destination "$package/README.zh-CN.md"
+          Copy-Item -LiteralPath 'docs/localization-audit/ROUND8-README.zh-CN.md' -Destination "$package/README.zh-CN.md"
           $source = (git rev-parse HEAD).Trim()
           if ($LASTEXITCODE -ne 0 -or $source -ne $env:GITHUB_SHA) { throw 'Checkout does not match the dispatched commit.' }
           @("source=$source", "run=$env:GITHUB_SERVER_URL/$env:GITHUB_REPOSITORY/actions/runs/$env:GITHUB_RUN_ID", 'base=v1.37.0', 'architecture=x64', 'configuration=Release', 'native-build-and-ctest=passed', 'in-game-and-openmu-connection=NOT-TESTED') | Set-Content "$package/localization-build.txt" -Encoding utf8
           Copy-Item -LiteralPath 'out/build/zh-cn-windows/ctest-results.xml' -Destination "$package/ctest-results.xml"
           python scripts/validate_zh_cn_package.py $package
           if ($LASTEXITCODE -ne 0) { throw 'Update package validation failed.' }
-          Compress-Archive -Path "$package/*" -DestinationPath 'out/MuMain-v1.37.0-zh-CN-round7-names-test.zip'
-          $zipHash = (Get-FileHash -LiteralPath 'out/MuMain-v1.37.0-zh-CN-round7-names-test.zip' -Algorithm SHA256).Hash.ToLowerInvariant()
-          "$zipHash  MuMain-v1.37.0-zh-CN-round7-names-test.zip" | Set-Content out/SHA256SUMS.txt -Encoding utf8
+          Compress-Archive -Path "$package/*" -DestinationPath 'out/MuMain-v1.37.0-zh-CN-round8-equipment-test.zip'
+          $zipHash = (Get-FileHash -LiteralPath 'out/MuMain-v1.37.0-zh-CN-round8-equipment-test.zip' -Algorithm SHA256).Hash.ToLowerInvariant()
+          "$zipHash  MuMain-v1.37.0-zh-CN-round8-equipment-test.zip" | Set-Content out/SHA256SUMS.txt -Encoding utf8
 
       - uses: actions/upload-artifact@v7
         with:
-          name: MuMain-v1.37.0-zh-CN-round7-names-test
+          name: MuMain-v1.37.0-zh-CN-round8-equipment-test
           path: |
-            out/MuMain-v1.37.0-zh-CN-round7-names-test.zip
+            out/MuMain-v1.37.0-zh-CN-round8-equipment-test.zip
             out/SHA256SUMS.txt
           if-no-files-found: error
 

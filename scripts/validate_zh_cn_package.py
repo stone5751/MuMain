@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 def validate(directory):
-    allowed = re.compile(r'(?:Main\.exe|[^/]+\.dll|README\.zh-CN\.md|localization-build\.txt|ctest-results\.xml|shaders/[^/]+\.(?:spv|msl|dxil)|Data/Items/Group\d+_[A-Za-z]+\.json|Data/Monsters/Monsters\.json|Data/Local/BmdText\.zh-CN\.json|Data/Interface/RmlUi/(?:themes/modern/)?(?:quest_progress|my_quest_info|quest_progress_etc)\.rml)')
+    allowed = re.compile(r'(?:Main\.exe|[^/]+\.dll|README\.zh-CN\.md|localization-build\.txt|ctest-results\.xml|shaders/[^/]+\.(?:spv|msl|dxil)|Data/Items/Group\d+_[A-Za-z]+\.json|Data/Items/Tooltips/(?:Tooltip|OptionTexts)\.json|Data/Monsters/Monsters\.json|Data/Local/BmdText\.zh-CN\.json|Data/Interface/RmlUi/(?:themes/modern/)?(?:quest_progress|my_quest_info|quest_progress_etc)\.rml)')
     files = sorted(p for p in directory.rglob('*') if p.is_file())
     names = {p.relative_to(directory).as_posix() for p in files}
     unexpected = sorted(name for name in names if not allowed.fullmatch(name))
