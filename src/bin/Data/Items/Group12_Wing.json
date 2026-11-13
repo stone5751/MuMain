@@ -1788,7 +1788,8 @@
         "de": "Kristall: Destruction",
         "es": "Cristal de Destrucción",
         "pl": "Kryształ: Destruction",
-        "pt": "Cristal da destruição"
+        "pt": "Cristal da destruição",
+        "zh-CN": "破坏一击之石"
       },
       "width": 1,
       "height": 1,
@@ -1809,7 +1810,7 @@
         "es": "Cristal de Disparo Múltiple",
         "pl": "Kryształ: Multi-Shot",
         "pt": "Cristal de multidisparo",
-        "zh-CN": "多重箭之石"
+        "zh-CN": "五重箭之石"
       },
       "width": 1,
       "height": 1,
@@ -1829,7 +1830,8 @@
         "de": "Kristall: Recovery",
         "es": "Cristal de Recuperación",
         "pl": "Kryształ: Recovery",
-        "pt": "Cristal da recuperação"
+        "pt": "Cristal da recuperação",
+        "zh-CN": "防护值恢复之石"
       },
       "width": 1,
       "height": 1,
@@ -1851,7 +1853,8 @@
         "de": "Kristall: Flame Strike",
         "es": "Cristal de Ataque con Llamas",
         "pl": "Kryształ: Flame Strike",
-        "pt": "Cristal do golpe de chamas"
+        "pt": "Cristal do golpe de chamas",
+        "zh-CN": "火剑袭之石"
       },
       "width": 1,
       "height": 1,
@@ -1871,7 +1874,8 @@
         "de": "Schriftrolle: Chaotic Diseier",
         "es": "Rollo de Diseier Caótico",
         "pl": "Zwój: Chaotic Diseier",
-        "pt": "Pergaminho Diseier Caótico"
+        "pt": "Pergaminho Diseier Caótico",
+        "zh-CN": "黑暗之力卷轴"
       },
       "groundLabels": [{"style": "white"}],
       "width": 1,
