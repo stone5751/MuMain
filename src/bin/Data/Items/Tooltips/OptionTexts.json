@@ -12,7 +12,8 @@
       "ru": "Удача (коэффициент критического урона +{value}%)",
       "tl": "Swerte (critical damage rate +{value}%)",
       "uk": "Удача (рівень критичної шкоди +{value}%)",
-      "zh-TW": "幸運（暴擊傷害率+{value}%）"
+      "zh-TW": "幸運（暴擊傷害率+{value}%）",
+      "zh-CN": "幸运（会心一击率+{value}%）"
     },
     "luckJewelOfSoul": {
       "en": "Luck (success rate of Jewel of Soul +25%)",
@@ -25,7 +26,8 @@
       "ru": "Удача (шанс успеха «Драгоценности души» +25%)",
       "tl": "Suwerte (rate ng tagumpay ng Jewel of Soul +25%)",
       "uk": "Удача (швидкість успіху Jewel of Soul +25%)",
-      "zh-TW": "幸運（靈魂寶石成功率+25%）"
+      "zh-TW": "幸運（靈魂寶石成功率+25%）",
+      "zh-CN": "幸运（灵魂宝石成功率+25%）"
     }
   }
 }

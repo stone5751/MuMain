@@ -1,0 +1,39 @@
+kind	id	english	previous	chinese	source
+Tooltip.json	invisibilityCloakIngredient	Used when creating a Cloak of Invisibility		合成透明披风的材料	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	increasesExperience	Increases experience gained.		获得的经验值增加。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	warpCommandWindow	Warp Command Window available.		可使用地图移动窗口。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	notApplicableTo	Not applicable to		不适用于	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	masterLevelCharacters	Master Level Characters.		大师等级角色。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	increasesExperienceAndDrops	Increases experience gained and item drop rate.		获得的经验值及物品掉落率增加。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	thirdWingIngredient	Ingredients for the 3rd wing assembly.		合成第3代翅膀的材料。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	increasesAttackSpeed10	Increases Attack Speed by 10		攻击速度增加10	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	collectsSurroundingZen	Surrounding Zens are automatically collected.		自动拾取周围的金币。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	autoCollectsZen	Auto-collects zen around you.		自动拾取周围的金币。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	increaseDefensiveSkill50	Increase Defensive Skill +50		防御成功率增加+50	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	automaticHpRecovery3	Automatic HP recovery 3%		生命值自动恢复3%	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	specialItemsWithCombinations	You can achieve special items with combinations.		可通过合成获得特殊物品。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	mayTurnIntoRareItem	You can drop it with a fixed probability of it turning into a rare item.		丢到地上有一定概率变为稀有物品。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	boxOfVariousItems	It's a box containing various items.		装有各种物品的箱子。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	throwForZenOrItems	Throw it and you may receive some Zen or items		丢到地上可获得金币或物品。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	masterLevelEXPCannotBeAchievedDuringTheItemUsage	Master Level EXP cannot be achieved during the item usage.		使用期间无法获得大师经验值。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	youWillBeAssignedToAStageAccordingToYourLevel	You will be assigned to a stage according to your level.		根据角色等级分配进入的区域。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	itemSkillLuckOptionWillBeRandomlyAdded	item/skill/luck/option will be randomly added.		物品、技能、幸运和追加属性随机生成。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	increasesYourLuckToCreateWingOfYourWish	Increases your luck to create wing of your wish.		提高合成指定翅膀的概率。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	attackRateAndDefenseRateIncrease	Attack rate and defense rate increase.		攻击成功率和防御成功率提高。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	questItem	Quest Item		任务物品	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	available	Available		可使用	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	unableToEquipWithADifferentTransformationRing	Unable to Equip with a Different Transformation Ring		不能与其他变身戒指同时装备。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	increaseDamageLevel20	Increase Damage +level/20		攻击力增加+等级/20	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	increasesAcquisitionRateOfManaAfterHuntingMonstersMana8	Increases acquisition rate of Mana after hunting monsters +Mana/8		杀死怪物时恢复魔法值+魔法值/8	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	fireworksWillAppearOnceThrownInTheField	Fireworks will appear once thrown in the field.		丢到地上即可燃放烟花。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	dropItToReceiveTheGift	Drop it to receive the gift.		丢到地上即可获得礼物。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	archer	Archer		弓箭手	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	spearman	Spearman		长矛兵	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	cannotBeSold	Cannot be sold.		无法出售。	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	canBeUsedAfterDismantling	Can be used after dismantling		拆分后可使用	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	additionalDamagePlusOne	Additional Dmg +1		追加攻击力+1	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	canBeEquippedBy	Can be equipped by {className}		可装备职业：{className}	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	expiredItem	Expired Item		已过期的物品	existing tooltip key; placeholders and numbers preserved
+Tooltip.json	expirationDay	Expiration Day		到期日期	existing tooltip key; placeholders and numbers preserved
+OptionTexts.json	luckCriticalDamage	Luck (critical damage rate +{value}%)		幸运（会心一击率+{value}%）	existing tooltip key; placeholders and numbers preserved
+OptionTexts.json	luckJewelOfSoul	Luck (success rate of Jewel of Soul +25%)		幸运（灵魂宝石成功率+25%）	existing tooltip key; placeholders and numbers preserved

@@ -460,7 +460,8 @@
       "ru": "Используется при создании плаща-невидимки.",
       "tl": "Ginagamit kapag gumagawa ng Cloak of Invisibility",
       "uk": "Використовується при створенні Плаща-Невидимки",
-      "zh-TW": "建立隱形斗篷時使用"
+      "zh-TW": "建立隱形斗篷時使用",
+      "zh-CN": "合成透明披风的材料"
     },
     "remainingTimeShown": {
       "en": "The remaining time is shown",
@@ -519,7 +520,8 @@
       "ru": "Увеличивает получаемый опыт.",
       "tl": "Nagpapataas ng karanasang natamo.",
       "uk": "Збільшує отриманий досвід.",
-      "zh-TW": "增加獲得的經驗。"
+      "zh-TW": "增加獲得的經驗。",
+      "zh-CN": "获得的经验值增加。"
     },
     "warpCommandWindow": {
       "en": "Warp Command Window available.",
@@ -532,7 +534,8 @@
       "ru": "Доступно окно управления варпом.",
       "tl": "Available ang Warp Command Window.",
       "uk": "Доступне вікно команд Warp.",
-      "zh-TW": "扭曲命令視窗可用。"
+      "zh-TW": "扭曲命令視窗可用。",
+      "zh-CN": "可使用地图移动窗口。"
     },
     "notApplicableTo": {
       "en": "Not applicable to",
@@ -545,7 +548,8 @@
       "ru": "Не применимо к",
       "tl": "Hindi naaangkop sa",
       "uk": "Не застосовується до",
-      "zh-TW": "不適用於"
+      "zh-TW": "不適用於",
+      "zh-CN": "不适用于"
     },
     "masterLevelCharacters": {
       "en": "Master Level Characters.",
@@ -558,7 +562,8 @@
       "ru": "Персонажи уровня Мастер.",
       "tl": "Mga Master Level na Character.",
       "uk": "Персонажі майстерного рівня.",
-      "zh-TW": "大師級人物。"
+      "zh-TW": "大師級人物。",
+      "zh-CN": "大师等级角色。"
     },
     "increasesExperienceAndDrops": {
       "en": "Increases experience gained and item drop rate.",
@@ -571,7 +576,8 @@
       "ru": "Увеличивает получаемый опыт и шанс выпадения предметов.",
       "tl": "Pinapataas ang karanasang natamo at rate ng pagbaba ng item.",
       "uk": "Збільшує отриманий досвід і швидкість випадання предметів.",
-      "zh-TW": "增加獲得的經驗值和物品掉落率。"
+      "zh-TW": "增加獲得的經驗值和物品掉落率。",
+      "zh-CN": "获得的经验值及物品掉落率增加。"
     },
     "thirdWingIngredient": {
       "en": "Ingredients for the 3rd wing assembly.",
@@ -584,7 +590,8 @@
       "ru": "Ингредиенты для сборки третьего крыла.",
       "tl": "Mga sangkap para sa 3rd wing assembly.",
       "uk": "Інгредієнти для складання 3-го крила.",
-      "zh-TW": "第三機翼組件的材料。"
+      "zh-TW": "第三機翼組件的材料。",
+      "zh-CN": "合成第3代翅膀的材料。"
     },
     "increasesAttackSpeed10": {
       "en": "Increases Attack Speed by 10",
@@ -597,7 +604,8 @@
       "ru": "Увеличивает скорость атаки на 10.",
       "tl": "Pinapataas ng 10 ang Bilis ng Pag-atake",
       "uk": "Збільшує швидкість атаки на 10",
-      "zh-TW": "攻擊速度提高 10"
+      "zh-TW": "攻擊速度提高 10",
+      "zh-CN": "攻击速度增加10"
     },
     "collectsSurroundingZen": {
       "en": "Surrounding Zens are automatically collected.",
@@ -610,7 +618,8 @@
       "ru": "Окружающие дзены собираются автоматически.",
       "tl": "Ang mga nakapalibot na Zen ay awtomatikong kinokolekta.",
       "uk": "Навколишні дзени збираються автоматично.",
-      "zh-TW": "周圍的禪宗會自動收集。"
+      "zh-TW": "周圍的禪宗會自動收集。",
+      "zh-CN": "自动拾取周围的金币。"
     },
     "autoCollectsZen": {
       "en": "Auto-collects zen around you.",
@@ -623,7 +632,8 @@
       "ru": "Автоматически собирает дзен вокруг себя.",
       "tl": "Auto-collect ng zen sa paligid mo.",
       "uk": "Автоматично збирає дзен навколо вас.",
-      "zh-TW": "自動收集你周圍的禪宗。"
+      "zh-TW": "自動收集你周圍的禪宗。",
+      "zh-CN": "自动拾取周围的金币。"
     },
     "increaseDefensiveSkill50": {
       "en": "Increase Defensive Skill +50",
@@ -636,7 +646,8 @@
       "ru": "Увеличение навыка защиты +50",
       "tl": "Dagdagan ang Defensive Skill +50",
       "uk": "Підвищення навичок захисту +50",
-      "zh-TW": "防禦技能增加+50"
+      "zh-TW": "防禦技能增加+50",
+      "zh-CN": "防御成功率增加+50"
     },
     "automaticHpRecovery3": {
       "en": "Automatic HP recovery 3%",
@@ -649,7 +660,8 @@
       "ru": "Автоматическое восстановление HP 3%",
       "tl": "Awtomatikong pagbawi ng HP 3%",
       "uk": "Автоматичне відновлення HP 3%",
-      "zh-TW": "HP自動恢復 3%"
+      "zh-TW": "HP自動恢復 3%",
+      "zh-CN": "生命值自动恢复3%"
     },
     "specialItemsWithCombinations": {
       "en": "You can achieve special items with combinations.",
@@ -662,7 +674,8 @@
       "ru": "Вы можете получить особые предметы с помощью комбинаций.",
       "tl": "Makakamit mo ang mga espesyal na item na may mga kumbinasyon.",
       "uk": "Ви можете отримати спеціальні предмети за допомогою комбінацій.",
-      "zh-TW": "您可以透過組合獲得特殊物品。"
+      "zh-TW": "您可以透過組合獲得特殊物品。",
+      "zh-CN": "可通过合成获得特殊物品。"
     },
     "devilSquareInvitationIngredient": {
       "en": "It is used to combine items for a Devil Square Invitation",
@@ -730,7 +743,8 @@
       "ru": "Вы можете выбросить его с фиксированной вероятностью, что он превратится в редкий предмет.",
       "tl": "Maaari mong i-drop ito nang may nakapirming posibilidad na maging isang bihirang item.",
       "uk": "Ви можете скинути його з фіксованою ймовірністю того, що він перетвориться на рідкісний предмет.",
-      "zh-TW": "你可以以固定的機率掉落它，使其變成稀有物品。"
+      "zh-TW": "你可以以固定的機率掉落它，使其變成稀有物品。",
+      "zh-CN": "丢到地上有一定概率变为稀有物品。"
     },
     "boxOfVariousItems": {
       "en": "It's a box containing various items.",
@@ -743,7 +757,8 @@
       "ru": "Это коробка, содержащая различные предметы.",
       "tl": "Ito ay isang kahon na naglalaman ng iba't ibang mga item.",
       "uk": "Це коробка з різними предметами.",
-      "zh-TW": "這是一個裝有各種物品的盒子。"
+      "zh-TW": "這是一個裝有各種物品的盒子。",
+      "zh-CN": "装有各种物品的箱子。"
     },
     "throwForZenOrItems": {
       "en": "Throw it and you may receive some Zen or items",
@@ -756,7 +771,8 @@
       "ru": "Бросайте его, и вы можете получить немного Дзена или предметы.",
       "tl": "Itapon ito at maaari kang makatanggap ng ilang Zen o mga item",
       "uk": "Киньте його, і ви можете отримати дзен або предмети",
-      "zh-TW": "丟掉它，你可能會收到一些禪宗或物品"
+      "zh-TW": "丟掉它，你可能會收到一些禪宗或物品",
+      "zh-CN": "丢到地上可获得金币或物品。"
     },
     "cannotStoreInVault": {
       "en": "Cannot store in vault.",
@@ -797,7 +813,8 @@
       "ru": "Опыт мастер-уровня не может быть достигнут во время использования предмета.",
       "tl": "Ang Master Level EXP ay hindi makakamit sa panahon ng paggamit ng item.",
       "uk": "Майстер-рівень EXP не може бути досягнутий під час використання предмета.",
-      "zh-TW": "使用物品期間無法獲得大師級經驗值。"
+      "zh-TW": "使用物品期間無法獲得大師級經驗值。",
+      "zh-CN": "使用期间无法获得大师经验值。"
     },
     "youWillBeAssignedToAStageAccordingToYourLevel": {
       "en": "You will be assigned to a stage according to your level.",
@@ -810,7 +827,8 @@
       "ru": "Вам будет назначен этап в соответствии с вашим уровнем.",
       "tl": "Itatalaga ka sa isang yugto ayon sa iyong antas.",
       "uk": "Ви будете розподілені на етап відповідно до вашого рівня.",
-      "zh-TW": "您將根據您的等級被分配到一個階段。"
+      "zh-TW": "您將根據您的等級被分配到一個階段。",
+      "zh-CN": "根据角色等级分配进入的区域。"
     },
     "itemSkillLuckOptionWillBeRandomlyAdded": {
       "en": "item/skill/luck/option will be randomly added.",
@@ -823,7 +841,8 @@
       "ru": "предмет/навык/удача/опция будут добавлены случайным образом.",
       "tl": "item/kasanayan/swerte/opsyon ay random na idadagdag.",
       "uk": "предмет/уміння/удача/опція буде додано випадковим чином.",
-      "zh-TW": "物品/技能/運氣/選項將隨機添加。"
+      "zh-TW": "物品/技能/運氣/選項將隨機添加。",
+      "zh-CN": "物品、技能、幸运和追加属性随机生成。"
     },
     "increasesYourLuckToCreateWingOfYourWish": {
       "en": "Increases your luck to create wing of your wish.",
@@ -836,7 +855,8 @@
       "ru": "Увеличивает вашу удачу в создании крыла вашего желания.",
       "tl": "Pinapataas ang iyong kapalaran upang lumikha ng pakpak ng iyong nais.",
       "uk": "Збільшує вашу удачу, щоб створити крило за вашим бажанням.",
-      "zh-TW": "增加你的運氣來創造你想要的翅膀。"
+      "zh-TW": "增加你的運氣來創造你想要的翅膀。",
+      "zh-CN": "提高合成指定翅膀的概率。"
     },
     "talismanOfWingsOfSatan": {
       "en": "Talisman of Wings of Satan",
@@ -979,7 +999,8 @@
       "ru": "Увеличивается скорость атаки и защита.",
       "tl": "Attack rate at defense rate increase.",
       "uk": "Збільшення швидкості атаки та захисту.",
-      "zh-TW": "攻擊率和防禦率增加。"
+      "zh-TW": "攻擊率和防禦率增加。",
+      "zh-CN": "攻击成功率和防御成功率提高。"
     },
     "questItem": {
       "en": "Quest Item",
@@ -992,7 +1013,8 @@
       "ru": "Квестовый предмет",
       "tl": "Quest Item",
       "uk": "Предмет квесту",
-      "zh-TW": "任務物品"
+      "zh-TW": "任務物品",
+      "zh-CN": "任务物品"
     },
     "youMayContinueToUseTheStrengthenerPower": {
       "en": "You may continue to use the strengthener power.",
@@ -1044,7 +1066,8 @@
       "ru": "Доступный",
       "tl": "Available",
       "uk": "в наявності",
-      "zh-TW": "可用的"
+      "zh-TW": "可用的",
+      "zh-CN": "可使用"
     },
     "collectCherryBlossomsAndTakeItToTheSpiritForItemCompensation": {
       "en": "Collect Cherry Blossoms and take it to the spirit for item compensation.",
@@ -1083,7 +1106,8 @@
       "ru": "Невозможно использовать другое кольцо трансформации.",
       "tl": "Hindi Ma-equip ng Iba't Ibang Transformation Ring",
       "uk": "Неможливо спорядити інше кільце трансформації",
-      "zh-TW": "無法裝備不同的變身戒指"
+      "zh-TW": "無法裝備不同的變身戒指",
+      "zh-CN": "不能与其他变身戒指同时装备。"
     },
     "increaseDamageLevel20": {
       "en": "Increase Damage +level/20",
@@ -1096,7 +1120,8 @@
       "ru": "Увеличение урона +уровень/20",
       "tl": "Taasan ang Damage +level/20",
       "uk": "Збільшення шкоди + рівень/20",
-      "zh-TW": "傷害增加+level/20"
+      "zh-TW": "傷害增加+level/20",
+      "zh-CN": "攻击力增加+等级/20"
     },
     "increasesAcquisitionRateOfManaAfterHuntingMonstersMana8": {
       "en": "Increases acquisition rate of Mana after hunting monsters +Mana/8",
@@ -1109,7 +1134,8 @@
       "ru": "Увеличивает скорость получения маны после охоты на монстров +Мана/8.",
       "tl": "Pinapataas ang rate ng pagkuha ng Mana pagkatapos manghuli ng mga halimaw +Mana/8",
       "uk": "Збільшує швидкість отримання мани після полювання на монстрів +Мана/8",
-      "zh-TW": "狩獵怪物後魔力獲取率增加+魔力/8"
+      "zh-TW": "狩獵怪物後魔力獲取率增加+魔力/8",
+      "zh-CN": "杀死怪物时恢复魔法值+魔法值/8"
     },
     "brokenHornCanBeMadeUsingTheClawOfBeastAndFragmentOfHorn": {
       "en": "Broken horn can be made using the claw of beast and fragment of horn.",
@@ -1135,7 +1161,8 @@
       "ru": "Фейерверк появится после того, как его бросят в поле.",
       "tl": "Lilitaw ang mga paputok sa sandaling ihagis sa field.",
       "uk": "Феєрверк з'явиться, коли його кинуть у поле.",
-      "zh-TW": "一旦丟到田野裡就會出現煙火。"
+      "zh-TW": "一旦丟到田野裡就會出現煙火。",
+      "zh-CN": "丢到地上即可燃放烟花。"
     },
     "dropItToReceiveTheGift": {
       "en": "Drop it to receive the gift.",
@@ -1148,7 +1175,8 @@
       "ru": "Брось его, чтобы получить подарок.",
       "tl": "I-drop ito upang matanggap ang regalo.",
       "uk": "Киньте його, щоб отримати подарунок.",
-      "zh-TW": "放下它即可收到禮物。"
+      "zh-TW": "放下它即可收到禮物。",
+      "zh-CN": "丢到地上即可获得礼物。"
     },
     "archer": {
       "en": "Archer",
@@ -1161,7 +1189,8 @@
       "ru": "Лучник",
       "tl": "mamamana",
       "uk": "лучник",
-      "zh-TW": "射手"
+      "zh-TW": "射手",
+      "zh-CN": "弓箭手"
     },
     "spearman": {
       "en": "Spearman",
@@ -1174,7 +1203,8 @@
       "ru": "Копейщик",
       "tl": "Spearman",
       "uk": "Списоносець",
-      "zh-TW": "斯皮爾曼"
+      "zh-TW": "斯皮爾曼",
+      "zh-CN": "长矛兵"
     },
     "scrollOfGuardian": {
       "en": "Scroll of Guardian",
@@ -1226,7 +1256,8 @@
       "ru": "Не подлежит продаже.",
       "tl": "Hindi maaaring ibenta.",
       "uk": "Не можна продати.",
-      "zh-TW": "不能出售。"
+      "zh-TW": "不能出售。",
+      "zh-CN": "无法出售。"
     },
     "canBeUsedAfterDismantling": {
       "en": "Can be used after dismantling",
@@ -1239,7 +1270,8 @@
       "ru": "Можно использовать после демонтажа.",
       "tl": "Maaaring gamitin pagkatapos i-dismantling",
       "uk": "Можна використовувати після демонтажу",
-      "zh-TW": "拆卸後即可使用"
+      "zh-TW": "拆卸後即可使用",
+      "zh-CN": "拆分后可使用"
     },
     "additionalDamagePlusOne": {
       "en": "Additional Dmg +1",
@@ -1252,7 +1284,8 @@
       "ru": "Дополнительный урон +1",
       "tl": "Karagdagang Dmg +1",
       "uk": "Додатковий Dmg +1",
-      "zh-TW": "附加傷害+1"
+      "zh-TW": "附加傷害+1",
+      "zh-CN": "追加攻击力+1"
     },
     "canBeEquippedBy": {
       "en": "Can be equipped by {className}",
@@ -1265,7 +1298,8 @@
       "ru": "Может быть оснащен {className}.",
       "tl": "Maaaring gamitan ng {className}",
       "uk": "Може бути оснащений {className}",
-      "zh-TW": "可由{className}配備"
+      "zh-TW": "可由{className}配備",
+      "zh-CN": "可装备职业：{className}"
     },
     "increasesMovingSpeed": {
       "en": "Increases moving speed",
@@ -1306,7 +1340,8 @@
       "ru": "Товар с истекшим сроком годности",
       "tl": "Nag-expire na Item",
       "uk": "Термін дії минув",
-      "zh-TW": "過期商品"
+      "zh-TW": "過期商品",
+      "zh-CN": "已过期的物品"
     },
     "expirationDay": {
       "en": "Expiration Day",
@@ -1319,7 +1354,8 @@
       "ru": "Срок годности",
       "tl": "Araw ng Pag-expire",
       "uk": "День придатності",
-      "zh-TW": "到期日"
+      "zh-TW": "到期日",
+      "zh-CN": "到期日期"
     }
   },
   "layouts": [

@@ -82,9 +82,34 @@ def check_names(errors):
     return additions
 
 
+def check_tooltip_texts(errors):
+    additions = 0
+    for filename in ('Tooltip.json', 'OptionTexts.json'):
+        path = ROOT / 'src/bin/Data/Items/Tooltips' / filename
+        before = json.loads(original(path))
+        after = json.loads(path.read_text(encoding='utf-8'))
+        if strip_chinese(before) != strip_chinese(after):
+            errors.append(f'{filename}: non-zh-CN data changed')
+        for key, value in after['texts'].items():
+            zh = value.get('zh-CN')
+            old = before['texts'].get(key, {}).get('zh-CN')
+            if old is not None and zh != old:
+                errors.append(f'{filename}/{key}: existing translation changed')
+            if zh is None or old is not None:
+                continue
+            additions += 1
+            if not zh or '\ufffd' in zh or len(zh.encode('utf-16-le')) // 2 > 511:
+                errors.append(f'{filename}/{key}: invalid text')
+            for pattern in (r'\{[^{}]*\}|[{}]', r'\d+(?:\.\d+)?', r'[%+\n\r\t]'):
+                if re.findall(pattern, value['en']) != re.findall(pattern, zh):
+                    errors.append(f'{filename}/{key}: placeholders/numbers/control characters changed')
+    return additions
+
+
 def main():
     errors = []
-    result = dict(resource_additions=check_resources(errors), name_additions=check_names(errors))
+    result = dict(resource_additions=check_resources(errors), name_additions=check_names(errors),
+                  tooltip_additions=check_tooltip_texts(errors))
     # Font cmap validation supplements, but does not replace, visual UI testing.
     try:
         from fontTools.ttLib import TTFont
@@ -92,6 +117,9 @@ def main():
         for path in (ROOT / 'src/bin/Data/Items').glob('Group*.json'):
             text += ''.join(i.get('name', {}).get('zh-CN', '') for i in json.loads(path.read_text(encoding='utf-8'))['items'])
         text += ''.join(i.get('name', {}).get('zh-CN', '') for i in json.loads((ROOT / 'src/bin/Data/Monsters/Monsters.json').read_text(encoding='utf-8'))['monsters'])
+        for filename in ('Tooltip.json', 'OptionTexts.json'):
+            document = json.loads((ROOT / 'src/bin/Data/Items/Tooltips' / filename).read_text(encoding='utf-8'))
+            text += ''.join(value.get('zh-CN', '') for value in document['texts'].values())
         fonts = ROOT / 'src/bin/fonts'
         overlay = json.loads((ROOT / 'src/bin/Data/Local/BmdText.zh-CN.json').read_text(encoding='utf-8'))
         text += ''.join(entry['zh-CN'] for entry in overlay['entries'])
