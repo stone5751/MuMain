@@ -90,6 +90,13 @@ def check_tooltip_texts(errors):
         after = json.loads(path.read_text(encoding='utf-8'))
         if strip_chinese(before) != strip_chinese(after):
             errors.append(f'{filename}: non-zh-CN data changed')
+        # WriteOptionTextsJson writes English first, then the remaining locales
+        # alphabetically. Its native round-trip test compares the source bytes.
+        if filename == 'OptionTexts.json':
+            for key, value in after['texts'].items():
+                expected = ['en'] + sorted(locale for locale in value if locale != 'en')
+                if list(value) != expected:
+                    errors.append(f'{filename}/{key}: noncanonical locale order')
         for key, value in after['texts'].items():
             zh = value.get('zh-CN')
             old = before['texts'].get(key, {}).get('zh-CN')
