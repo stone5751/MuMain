@@ -1,0 +1,1003 @@
+[
+  {
+    "key": "Gulim",
+    "english": "Gulim",
+    "chinese": "古林",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Reserve : Job",
+    "english": "Reserve : Job",
+    "chinese": "储备：工作",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/Battle",
+    "english": "/Battle",
+    "chinese": "/战斗",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/Battle Soccer",
+    "english": "/Battle Soccer",
+    "chinese": "/对战足球",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Guild254",
+    "english": "/guild",
+    "chinese": "/公会",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Party256",
+    "english": "/party",
+    "chinese": "/派对",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/exchange",
+    "english": "/exchange",
+    "chinese": "/交换",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Trade259",
+    "english": "/trade",
+    "chinese": "/贸易",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/warp",
+    "english": "/warp",
+    "chinese": "/经",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/whisper off",
+    "english": "/whisper off",
+    "chinese": "/低声说",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/whisper on",
+    "english": "/whisper on",
+    "chinese": "/窃窃私语",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Hello",
+    "english": "Hello",
+    "chinese": "你好",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Hi",
+    "english": "Hi",
+    "chinese": "你好",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Welcome",
+    "english": "Welcome",
+    "chinese": "欢迎",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Thanks",
+    "english": "Thanks",
+    "chinese": "谢谢",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "enjoy the game",
+    "english": "enjoy the game",
+    "chinese": "享受游戏",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Bye",
+    "english": "Bye",
+    "chinese": "再见",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Bye280",
+    "english": "bye",
+    "chinese": "再见",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Good",
+    "english": "Good",
+    "chinese": "好的",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Wow",
+    "english": "Wow",
+    "chinese": "哇",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Nice",
+    "english": "Nice",
+    "chinese": "好的",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Here",
+    "english": "Here",
+    "chinese": "这里",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Come",
+    "english": "Come",
+    "chinese": "来",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "come on",
+    "english": "come on",
+    "chinese": "快点",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "There",
+    "english": "There",
+    "chinese": "那里",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "That",
+    "english": "That",
+    "chinese": "那",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Not",
+    "english": "Not",
+    "chinese": "不是",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Never",
+    "english": "Never",
+    "chinese": "绝不",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Do not",
+    "english": "Do not",
+    "chinese": "不要",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "DoNot302",
+    "english": "do not",
+    "chinese": "不要",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Sorry",
+    "english": "Sorry",
+    "chinese": "对不起",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Sad",
+    "english": "Sad",
+    "chinese": "伤心",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Cry",
+    "english": "Cry",
+    "chinese": "哭",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Huh",
+    "english": "Huh",
+    "chinese": "呵呵",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Pooh",
+    "english": "Pooh",
+    "chinese": "呸",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Haha",
+    "english": "Haha",
+    "chinese": "哈哈",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Hehe",
+    "english": "Hehe",
+    "chinese": "呵呵",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Hoho",
+    "english": "Hoho",
+    "chinese": "霍霍",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Hihi",
+    "english": "Hihi",
+    "chinese": "嗨嗨",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Great",
+    "english": "Great",
+    "chinese": "伟大的",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Oh Yeah",
+    "english": "Oh Yeah",
+    "chinese": "哦是的",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "OhYeah320",
+    "english": "Oh yeah",
+    "chinese": "哦，是的",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "beat it",
+    "english": "beat it",
+    "chinese": "打败它",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Win",
+    "english": "Win",
+    "chinese": "赢",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Victory",
+    "english": "Victory",
+    "chinese": "胜利",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Sleep",
+    "english": "Sleep",
+    "chinese": "睡觉",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Tired",
+    "english": "Tired",
+    "chinese": "疲劳的",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Cold",
+    "english": "Cold",
+    "chinese": "寒冷的",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "hurt",
+    "english": "hurt",
+    "chinese": "伤害",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Again",
+    "english": "Again",
+    "chinese": "再次",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Respect",
+    "english": "Respect",
+    "chinese": "尊重",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Defeated",
+    "english": "Defeated",
+    "chinese": "战败",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Sir",
+    "english": "Sir",
+    "chinese": "先生",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Rush",
+    "english": "Rush",
+    "chinese": "匆忙",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Go go",
+    "english": "Go go",
+    "chinese": "走走走走",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Look around",
+    "english": "Look around",
+    "chinese": "环顾四周",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/mu",
+    "english": "/mu",
+    "chinese": "/亩",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "%s",
+    "english": "%s",
+    "chinese": "%s",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "WEBZEN",
+    "english": "WEBZEN",
+    "chinese": "网路禅",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Valhalla",
+    "english": "Valhalla",
+    "chinese": "瓦尔哈拉",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Helheim",
+    "english": "Helheim",
+    "chinese": "赫尔海姆",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Midgard",
+    "english": "Midgard",
+    "chinese": "米德加德",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Kara",
+    "english": "Kara",
+    "chinese": "卡拉",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Lamu",
+    "english": "Lamu",
+    "chinese": "拉穆",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Nacal",
+    "english": "Nacal",
+    "chinese": "纳卡尔",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Rasa",
+    "english": "Rasa",
+    "chinese": "拉沙",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Rance",
+    "english": "Rance",
+    "chinese": "兰斯",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Tarh",
+    "english": "Tarh",
+    "chinese": "塔尔",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Uz",
+    "english": "Uz",
+    "chinese": "乌兹",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Moz",
+    "english": "Moz",
+    "chinese": "莫兹",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Lunen(Maya2)",
+    "english": "Lunen(Maya2)",
+    "chinese": "鲁能(Maya2)",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Siren",
+    "english": "Siren",
+    "chinese": "警笛",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Ion(Wigle2)",
+    "english": "Ion(Wigle2)",
+    "chinese": "离子(Wigle2)",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Milon(Bahr2)",
+    "english": "Milon(Bahr2)",
+    "chinese": "米隆(Bahr2)",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Muren(Kara2)",
+    "english": "Muren(Kara2)",
+    "chinese": "牧人(卡拉2)",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Luga(Lamu2)",
+    "english": "Luga(Lamu2)",
+    "chinese": "卢加(Lamu2)",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Titan",
+    "english": "Titan",
+    "chinese": "泰坦",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Elca",
+    "english": "Elca",
+    "chinese": "艾尔卡",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "test",
+    "english": "test",
+    "chinese": "测试",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Reserve: Chaos expansion combination",
+    "english": "Reserve: Chaos expansion combination",
+    "chinese": "储备：混沌扩张组合",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Firecracker688",
+    "english": "/Firecracker",
+    "chinese": "/鞭炮",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/filter",
+    "english": "/filter",
+    "chinese": "/筛选",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/Scissor",
+    "english": "/Scissor",
+    "chinese": "/剪刀",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/Rock",
+    "english": "/Rock",
+    "chinese": "/岩石",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/Paper",
+    "english": "/Paper",
+    "chinese": "/纸",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/DuelChallenge",
+    "english": "/DuelChallenge",
+    "chinese": "/决斗挑战",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/DuelCancel",
+    "english": "/DuelCancel",
+    "chinese": "/决斗取消",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "PersonalStore1117",
+    "english": "/Personal store",
+    "chinese": "/个人店铺",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/Buy",
+    "english": "/Buy",
+    "chinese": "/买",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/View store on",
+    "english": "/View store on",
+    "chinese": "/查看商店",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/View store off",
+    "english": "/View store off",
+    "chinese": "/查看商店关闭",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "%d / %d",
+    "english": "%d / %d",
+    "chinese": "%d / %d",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Alliance1354",
+    "english": "/Alliance",
+    "chinese": "/联盟",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/Hostilities",
+    "english": "/Hostilities",
+    "chinese": "/敌对行动",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "SuspendHostilities1357",
+    "english": "/Suspend hostilities",
+    "chinese": "/暂停敌对行动",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "DD1907",
+    "english": "[+]:%d%%|[-]:%d%%",
+    "chinese": "[+]:%d%%|[-]:%d%%",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "http://muonline.webzen.com/",
+    "english": "http://muonline.webzen.com/",
+    "chinese": "http://muonline.webzen.com/",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Text2374",
+    "english": "/",
+    "chinese": "/",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 1 15-49 15-29 1 15-130 10-110",
+    "english": " 1 15-49 15-29 1 15-130 10-110",
+    "chinese": "1 15-49 15-29 1 15-130 10-110",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 2 50-119 30-99 2 131-180 111-160",
+    "english": " 2 50-119 30-99 2 131-180 111-160",
+    "chinese": "2 50-119 30-99 2 131-180 111-160",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 3 120-179 100-159 3 181-230 161-210",
+    "english": " 3 120-179 100-159 3 181-230 161-210",
+    "chinese": "3 120-179 100-159 3 181-230 161-210",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 4 180-239 160-219 4 231-280 211-260",
+    "english": " 4 180-239 160-219 4 231-280 211-260",
+    "chinese": "4 180-239 160-219 4 231-280 211-260",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 5 240-299 220-279 5 281-330 261-310",
+    "english": " 5 240-299 220-279 5 281-330 261-310",
+    "chinese": "5 240-299 220-279 5 281-330 261-310",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 6 300-400 280-400 6 331-400 311-400",
+    "english": " 6 300-400 280-400 6 331-400 311-400",
+    "chinese": "6 300-400 280-400 6 331-400 311-400",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 1 15-80 10-60 1 220-270",
+    "english": " 1 15-80 10-60 1 220-270",
+    "chinese": "1 15-80 10-60 1 220-270",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 2 81-130 61-110 2 271-320",
+    "english": " 2 81-130 61-110 2 271-320",
+    "chinese": "2 81-130 61-110 2 271-320",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 3 131-180 111-160 3 321-350",
+    "english": " 3 131-180 111-160 3 321-350",
+    "chinese": "3 131-180 111-160 3 321-350",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 4 181-230 161-210 4 351-380",
+    "english": " 4 181-230 161-210 4 351-380",
+    "chinese": "4 181-230 161-210 4 351-380",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 5 231-280 211-260 5 381-400",
+    "english": " 5 231-280 211-260 5 381-400",
+    "chinese": "5 231-280 211-260 5 381-400",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": " 7 331-400 311-400",
+    "english": " 7 331-400 311-400",
+    "chinese": "7 331-400 311-400",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/Party battle request",
+    "english": "/Party battle request",
+    "chinese": "/组队战斗请求",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "/Party battle cancellation",
+    "english": "/Party battle cancellation",
+    "chinese": "/队伍战斗取消",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "error1",
+    "english": "error1",
+    "chinese": "错误1",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "error2",
+    "english": "error2",
+    "chinese": "错误2",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Julia",
+    "english": "Julia",
+    "chinese": "茱莉亚",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Christine",
+    "english": "Christine",
+    "chinese": "克里斯汀",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Raul",
+    "english": "Raul",
+    "chinese": "劳尔",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Runedil",
+    "english": "Runedil",
+    "chinese": "鲁尼迪尔",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "Lemuria (New)",
+    "english": "Lemuria (New)",
+    "chinese": "利莫里亚（新）",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "S3256",
+    "english": "%s %%",
+    "chinese": "%s %%",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "%s +%d?",
+    "english": "%s +%d?",
+    "chinese": "%s +%d？",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "15#80#81#130#131#180#181#230#231#280#281#330#331#400",
+    "english": "15#80#81#130#131#180#181#230#231#280#281#330#331#400",
+    "chinese": "15#80#81#130#131#180#181#230#231#280#281#330#331#400",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "10#60#61#110#111#160#161#210#211#260#261#310#311#400",
+    "english": "10#60#61#110#111#160#161#210#211#260#261#310#311#400",
+    "chinese": "10#60#61#110#111#160#161#210#211#260#261#310#311#400",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "1#100#101#200",
+    "english": "1#100#101#200",
+    "chinese": "1#100#101#200",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "X",
+    "english": "X",
+    "chinese": "X",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "C",
+    "english": "C",
+    "chinese": "C",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "I",
+    "english": "I",
+    "chinese": "我",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "T",
+    "english": "T",
+    "chinese": "时间",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "F1",
+    "english": "F1",
+    "chinese": "F1",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "M",
+    "english": "M",
+    "chinese": "中号",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "O",
+    "english": "O",
+    "chinese": "氧",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "U",
+    "english": "U",
+    "chinese": "U",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "F",
+    "english": "F",
+    "chinese": "F",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "P",
+    "english": "P",
+    "chinese": "磷",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "G",
+    "english": "G",
+    "chinese": "G",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "B",
+    "english": "B",
+    "chinese": "乙",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "SD3610",
+    "english": "%s : %d%%",
+    "chinese": "%s : %d%%",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "SD3681",
+    "english": "%s %d",
+    "chinese": "%s %d",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "¼ºÁÖÀÇ Ç¥½ÄÀº ÇÑ¹ø¿¡ ÃÖ´ë 225°³±îÁö µî·ÏÇÒ ¼ö ÀÖ½À´Ï´Ù.",
+    "english": "¼ºÁÖÀÇ Ç¥½ÄÀº ÇÑ¹ø¿¡ ÃÖ´ë 225°³±îÁö µî·ÏÇÒ ¼ö ÀÖ½À´Ï´Ù.",
+    "chinese": "¡ ¡ ¡ ÀÇ Ç¥¡ ¡ Àº ¡ Ñ1ø¿ ¡ 225°³±îÁö µî·ÏÇÒ ¡ ÀÖ¡ À´Ï´Ù。",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "ESC",
+    "english": "ESC",
+    "chinese": "ESC键",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "20¾ïÁ¨ ÀÌ»ó Ãâ±Ý ºÒ°¡",
+    "english": "20¾ïÁ¨ ÀÌ»ó Ãâ±Ý ºÒ°¡",
+    "chinese": "20、20、20、20、20、20、20",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "MixLevel",
+    "english": "+%d",
+    "chinese": "+%d",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  },
+  {
+    "key": "MixLevelRange",
+    "english": "+%d~%d",
+    "chinese": "+%d~%d",
+    "source": "existing Game.zh-TW + reviewed mainland terminology",
+    "reason": "input token / technical identifier / untranslated proper name / numeric-only / malformed source"
+  }
+]
