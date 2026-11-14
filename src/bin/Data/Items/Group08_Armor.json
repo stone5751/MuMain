@@ -532,7 +532,8 @@
         "de": "Göttliche Rüstung",
         "es": "Armadura Divina",
         "pl": "Boska zbroja",
-        "pt": "Armadura divina"
+        "pt": "Armadura divina",
+        "zh-CN": "圣灵之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -558,7 +559,8 @@
         "de": "Donnerfalkenrüstung",
         "es": "Armadura Halcón de Trueno",
         "pl": "Zbroja Gromowego Jastrzębia",
-        "pt": "Armadura de Thunder Hawk"
+        "pt": "Armadura de Thunder Hawk",
+        "zh-CN": "奔雷之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -638,7 +640,8 @@
         "de": "Orkanrüstung",
         "es": "Armadura Huracán",
         "pl": "Zbroja Huraganu",
-        "pt": "Armadura do furacão"
+        "pt": "Armadura do furacão",
+        "zh-CN": "魔神之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -664,7 +667,8 @@
         "de": "Rotgeisterrüstung",
         "es": "Armadura Espíritu Rojo",
         "pl": "Zbroja Czerwonego Ducha",
-        "pt": "Armadura do espírito vermelho"
+        "pt": "Armadura do espírito vermelho",
+        "zh-CN": "红羽之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -690,7 +694,8 @@
         "de": "Leichtplattenrüstung",
         "es": "Armadura Plata de Luz",
         "pl": "Lekka zbroja płytowa",
-        "pt": "Armadura de placa leve"
+        "pt": "Armadura de placa leve",
+        "zh-CN": "圣元之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -716,7 +721,8 @@
         "de": "Adamantrüstung",
         "es": "Armadura Adamantina",
         "pl": "Adamantytowa zbroja",
-        "pt": "Armadura de adamantina"
+        "pt": "Armadura de adamantina",
+        "zh-CN": "圣魂之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -742,7 +748,8 @@
         "de": "Dunkelstahlrüstung",
         "es": "Armadura Acero Oscuro",
         "pl": "Zbroja z mrocznej stali",
-        "pt": "Armadura de aço negro"
+        "pt": "Armadura de aço negro",
+        "zh-CN": "神圣之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -768,7 +775,8 @@
         "de": "Dunkelmeisterrüstung",
         "es": "Armadura Amo Oscuro",
         "pl": "Zbroja Mrocznego Mistrza",
-        "pt": "Armadura do Mestre negro"
+        "pt": "Armadura do Mestre negro",
+        "zh-CN": "至尊之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -821,7 +829,8 @@
         "de": "Giftnebelrüstung",
         "es": "Armadura Bruma de Veneno",
         "pl": "Zbroja Jadowitej Mgły",
-        "pt": "Armadura da névoa de veneno"
+        "pt": "Armadura da névoa de veneno",
+        "zh-CN": "法魂玄灵之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -848,7 +857,8 @@
         "de": "Sylphenstrahlrüstung",
         "es": "Armadura Rayo de Sílfide",
         "pl": "Zbroja Sylphid Ray",
-        "pt": "Armadura do raio silfídico"
+        "pt": "Armadura do raio silfídico",
+        "zh-CN": "紫灵之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -875,7 +885,8 @@
         "de": "Vulkanrüstung",
         "es": "Armadura Volcán",
         "pl": "Zbroja Wulkanu",
-        "pt": "Armadura do vulcão"
+        "pt": "Armadura do vulcão",
+        "zh-CN": "天魔斗神之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -981,7 +992,8 @@
         "de": "Iris-Rüstung",
         "es": "Armadura Iris",
         "pl": "Zbroja Iris",
-        "pt": "Armadura de Iris"
+        "pt": "Armadura de Iris",
+        "zh-CN": "碧影之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1006,7 +1018,8 @@
         "de": "Kühne Rüstung",
         "es": "Armadura Valiente",
         "pl": "Waleczna zbroja",
-        "pt": "Armadura do valor"
+        "pt": "Armadura do valor",
+        "zh-CN": "烈火之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1031,7 +1044,8 @@
         "de": "Glorreiche Rüstung",
         "es": "Armadura Gloriosa",
         "pl": "Chwalebna zbroja",
-        "pt": "Armadura gloriosa"
+        "pt": "Armadura gloriosa",
+        "zh-CN": "圣光之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1056,7 +1070,8 @@
         "de": "Sturmwindrüstung",
         "es": "Armadura Viento Violento",
         "pl": "Zbroja Gwałtownego Wiatru",
-        "pt": "Armadura do vento violento"
+        "pt": "Armadura do vento violento",
+        "zh-CN": "飓风之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1135,7 +1150,8 @@
         "de": "Dämonische Rüstung",
         "es": "Armadura Demoníaca",
         "pl": "Demoniczna zbroja",
-        "pt": "Armadura demoníaca"
+        "pt": "Armadura demoníaca",
+        "zh-CN": "魔灵之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1160,7 +1176,8 @@
         "de": "Sturmblitzrüstung",
         "es": "Armadura Ráfaga Tormentosa",
         "pl": "Zbroja Burzowego Błysku",
-        "pt": "Arm. Relâmpago de Tempestade"
+        "pt": "Arm. Relâmpago de Tempestade",
+        "zh-CN": "风影之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1187,7 +1204,8 @@
         "de": "Ewigschwingenrüstung",
         "es": "Armadura Ala Eterna",
         "pl": "Zbroja Wiecznego Skrzydła",
-        "pt": "Armadura da asa eterna"
+        "pt": "Armadura da asa eterna",
+        "zh-CN": "恒翼之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1214,7 +1232,8 @@
         "de": "Titanenrüstung",
         "es": "Armadura Titán",
         "pl": "Zbroja Tytana",
-        "pt": "Armadura do titã"
+        "pt": "Armadura do titã",
+        "zh-CN": "泰坦之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1319,7 +1338,8 @@
         "de": "Seraphim-Rüstung",
         "es": "Armadura Serafín",
         "pl": "Zbroja Serafina",
-        "pt": "Armadura do serafim"
+        "pt": "Armadura do serafim",
+        "zh-CN": "恐惧之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1345,7 +1365,8 @@
         "de": "Glaubensrüstung",
         "es": "Armadura de Fe",
         "pl": "Zbroja Wiary",
-        "pt": "Armadura da fé"
+        "pt": "Armadura da fé",
+        "zh-CN": "灵光之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1372,7 +1393,8 @@
         "de": "Königliche Rüstung",
         "es": "Armadura Real",
         "pl": "Królewska zbroja",
-        "pt": "Armadura real"
+        "pt": "Armadura real",
+        "zh-CN": "霸王之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1398,7 +1420,8 @@
         "de": "Hades-Rüstung",
         "es": "Armadura Hades",
         "pl": "Zbroja Hadesa",
-        "pt": "Armadura de Hades"
+        "pt": "Armadura de Hades",
+        "zh-CN": "冥王之铠"
       },
       "options": ["luck"],
       "width": 2,
@@ -1608,7 +1631,8 @@
         "de": "Sturmwindrüstung",
         "es": "Armadura Viento Violento",
         "pl": "Zbroja Gwałtownego Wiatru",
-        "pt": "Armadura do vento violento"
+        "pt": "Armadura do vento violento",
+        "zh-CN": "飓风之铠"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1640,7 +1664,8 @@
         "de": "Adamantrüstung",
         "es": "Armadura Adamantina",
         "pl": "Adamantytowa zbroja",
-        "pt": "Armadura de adamantina"
+        "pt": "Armadura de adamantina",
+        "zh-CN": "圣魂之铠"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1806,7 +1831,8 @@
         "de": "Atlans-Rüstung",
         "es": "Armadura Cuervo de Tormenta",
         "pl": "Zbroja Atlans",
-        "pt": "Armadura do corvo da tempestade"
+        "pt": "Armadura do corvo da tempestade",
+        "zh-CN": "亚特兰蒂斯之铠"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],

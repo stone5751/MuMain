@@ -493,7 +493,8 @@
     },
     "piecesOfTwenty": {
       "en": "{durability} / 20",
-      "ja": "{durability}個/ 20個"
+      "ja": "{durability}個/ 20個",
+      "zh-CN": "{durability} / 20"
     },
     "cannotRepair": {
       "en": "Cannot Repair",
@@ -730,7 +731,8 @@
       "ru": "Поздравляю. Пожалуйста, свяжитесь с командой CS и измените его на элемент.",
       "tl": "Binabati kita. Mangyaring makipag-ugnayan sa CS team at palitan ito ng item.",
       "uk": "Вітаю. Будь ласка, зв’яжіться з командою CS і змініть його на елемент.",
-      "zh-TW": "恭喜。請聯絡CS團隊並將其變更為專案。"
+      "zh-TW": "恭喜。請聯絡CS團隊並將其變更為專案。",
+      "zh-CN": "恭喜！请联系客服，将其兑换为物品。"
     },
     "mayTurnIntoRareItem": {
       "en": "You can drop it with a fixed probability of it turning into a rare item.",
@@ -869,7 +871,8 @@
       "ru": "Талисман Крыльев Сатаны",
       "tl": "Talisman of Wings of Satanas",
       "uk": "Талісман крил сатани",
-      "zh-TW": "撒旦之翼護身符"
+      "zh-TW": "撒旦之翼護身符",
+      "zh-CN": "恶魔之翼护符"
     },
     "talismanOfWingsOfHeaven": {
       "en": "Talisman of Wings of Heaven",
@@ -882,7 +885,8 @@
       "ru": "Талисман Крыльев Небес",
       "tl": "Talisman of Wings of Heaven",
       "uk": "Талісман Крила Неба",
-      "zh-TW": "天之翼護符"
+      "zh-TW": "天之翼護符",
+      "zh-CN": "天使之翼护符"
     },
     "talismanOfWingsOfElf": {
       "en": "Talisman of Wings of Elf",
@@ -895,7 +899,8 @@
       "ru": "Талисман Крыльев эльфа",
       "tl": "Talisman ng Wings of Elf",
       "uk": "Талісман Крила Ельфа",
-      "zh-TW": "精靈之翼護身符"
+      "zh-TW": "精靈之翼護身符",
+      "zh-CN": "精灵之翼护符"
     },
     "talismanOfWingOfCurse": {
       "en": "Talisman of Wing of Curse",
@@ -908,7 +913,8 @@
       "ru": "Талисман Крыла Проклятия",
       "tl": "Talisman ng Wing of Curse",
       "uk": "Талісман Крила Прокляття",
-      "zh-TW": "詛咒之翼護符"
+      "zh-TW": "詛咒之翼護符",
+      "zh-CN": "诅咒之翼护符"
     },
     "talismanOfCapeOfEmperor": {
       "en": "Talisman of Cape of Emperor",
@@ -921,7 +927,8 @@
       "ru": "Талисман Мыса Императора",
       "tl": "Talisman ng Cape of Emperor",
       "uk": "Талісман накидки імператора",
-      "zh-TW": "帝披風護身符"
+      "zh-TW": "帝披風護身符",
+      "zh-CN": "帝王披风护符"
     },
     "talismanOfWingsOfDragon": {
       "en": "Talisman of Wings of Dragon",
@@ -934,7 +941,8 @@
       "ru": "Талисман Крыльев Дракона",
       "tl": "Talisman ng Wings of Dragon",
       "uk": "Талісман Крила Дракона",
-      "zh-TW": "龍翼護符"
+      "zh-TW": "龍翼護符",
+      "zh-CN": "飞龙之翼护符"
     },
     "talismanOfWingsOfSoul": {
       "en": "Talisman of Wings of Soul",
@@ -947,7 +955,8 @@
       "ru": "Талисман Крыльев Души",
       "tl": "Talisman ng Wings of Soul",
       "uk": "Талісман Крила Душі",
-      "zh-TW": "靈魂之翼護符"
+      "zh-TW": "靈魂之翼護符",
+      "zh-CN": "魔魂之翼护符"
     },
     "talismanOfWingsOfSpirits": {
       "en": "Talisman of Wings of Spirits",
@@ -960,7 +969,8 @@
       "ru": "Талисман Крыльев Духов",
       "tl": "Talisman of Wings of Spirits",
       "uk": "Талісман Крила Духів",
-      "zh-TW": "靈魂之翼護符"
+      "zh-TW": "靈魂之翼護符",
+      "zh-CN": "圣灵之翼护符"
     },
     "talismanOfWingOfDespair": {
       "en": "Talisman of Wing of Despair",
@@ -973,7 +983,8 @@
       "ru": "Талисман Крыла Отчаяния",
       "tl": "Talisman of Wing of Despair",
       "uk": "Талісман Крила Відчаю",
-      "zh-TW": "絕望之翼護符"
+      "zh-TW": "絕望之翼護符",
+      "zh-CN": "绝望之翼护符"
     },
     "talismanOfWingsOfDarkness": {
       "en": "Talisman of Wings of Darkness",
@@ -986,7 +997,8 @@
       "ru": "Талисман Крыльев Тьмы",
       "tl": "Talisman of Wings of Darkness",
       "uk": "Талісман крил темряви",
-      "zh-TW": "黑暗之翼護身符"
+      "zh-TW": "黑暗之翼護身符",
+      "zh-CN": "暗黑之翼护符"
     },
     "attackRateAndDefenseRateIncrease": {
       "en": "Attack rate and defense rate increase.",
@@ -1027,7 +1039,8 @@
       "ru": "Вы можете продолжать использовать силу усилителя.",
       "tl": "Maaari mong patuloy na gamitin ang lakas ng pampalakas.",
       "uk": "Ви можете продовжувати використовувати силу підсилювача.",
-      "zh-TW": "您可以繼續使用強化力量。"
+      "zh-TW": "您可以繼續使用強化力量。",
+      "zh-CN": "可以继续使用强化效果。"
     },
     "statusForTheSetPeriod": {
       "en": "Status for the set period",
@@ -1040,7 +1053,8 @@
       "ru": "Статус за установленный период",
       "tl": "Katayuan para sa itinakdang panahon",
       "uk": "Статус за встановлений період",
-      "zh-TW": "設定期間的狀態"
+      "zh-TW": "設定期間的狀態",
+      "zh-CN": "在设定时间内生效"
     },
     "thereSAnIncreaseEffectToIt": {
       "en": "There's an increase effect to it.",
@@ -1053,7 +1067,8 @@
       "ru": "Есть эффект увеличения.",
       "tl": "Mayroong pagtaas ng epekto dito.",
       "uk": "Є ефект збільшення.",
-      "zh-TW": "對它有一個增加的效果。"
+      "zh-TW": "對它有一個增加的效果。",
+      "zh-CN": "具有提升效果。"
     },
     "available": {
       "en": "Available",
@@ -1080,7 +1095,8 @@
       "ru": "Соберите цветы вишни и отнесите их духу для получения награды.",
       "tl": "Kolektahin ang Cherry Blossoms at dalhin ito sa espiritu para sa kabayaran sa item.",
       "uk": "Зберіть вишневий цвіт і віднесіть його духові за предмет компенсації.",
-      "zh-TW": "收集櫻花並將其帶到精神處以獲得物品補償。"
+      "zh-TW": "收集櫻花並將其帶到精神處以獲得物品補償。",
+      "zh-CN": "收集樱花后交给樱花精灵，可兑换奖励物品。"
     },
     "itSPartOfACompleteSecromicon": {
       "en": "It's part of a Complete Secromicon.",
@@ -1093,7 +1109,8 @@
       "ru": "Это часть полного Секромикона.",
       "tl": "Ito ay bahagi ng isang Kumpletong Secromicon.",
       "uk": "Це частина повного Secromicon.",
-      "zh-TW": "它是 Complete Secromicon 的一部分。"
+      "zh-TW": "它是 Complete Secromicon 的一部分。",
+      "zh-CN": "完整Secromicon的一部分。"
     },
     "unableToEquipWithADifferentTransformationRing": {
       "en": "Unable to Equip with a Different Transformation Ring",
@@ -1148,7 +1165,8 @@
       "ru": "Сломанный рог можно сделать из когтя зверя и фрагмента рога.",
       "tl": "Ang sirang sungay ay maaaring gawin gamit ang kuko ng hayop at fragment ng sungay.",
       "uk": "Зламаний ріг можна зробити за допомогою пазурі звіра і фрагмента рогу.",
-      "zh-TW": "破碎的角可以用野獸的爪子和角的碎片來製作。"
+      "zh-TW": "破碎的角可以用野獸的爪子和角的碎片來製作。",
+      "zh-CN": "兽爪和兽角碎片可合成为折断的兽角。"
     },
     "fireworksWillAppearOnceThrownInTheField": {
       "en": "Fireworks will appear once thrown in the field.",
@@ -1217,7 +1235,8 @@
       "ru": "Свиток Стража",
       "tl": "Scroll ng Tagapangalaga",
       "uk": "Сувій Охоронця",
-      "zh-TW": "守護者捲軸"
+      "zh-TW": "守護者捲軸",
+      "zh-CN": "守护卷轴"
     },
     "placeLifeStone": {
       "en": "Place Life Stone",
@@ -1230,7 +1249,8 @@
       "ru": "Поместите Камень Жизни",
       "tl": "Place Life Stone",
       "uk": "Помістіть камінь життя",
-      "zh-TW": "放置生命石"
+      "zh-TW": "放置生命石",
+      "zh-CN": "放置复活石"
     },
     "oliveOfLove": {
       "en": "Olive of love",
@@ -1243,7 +1263,8 @@
       "ru": "Оливка любви",
       "tl": "Olibo ng pag-ibig",
       "uk": "Оливка кохання",
-      "zh-TW": "愛的橄欖"
+      "zh-TW": "愛的橄欖",
+      "zh-CN": "爱情橄榄"
     },
     "cannotBeSold": {
       "en": "Cannot be sold.",

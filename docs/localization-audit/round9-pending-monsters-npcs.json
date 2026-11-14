@@ -1,0 +1,284 @@
+[
+  {
+    "kind": "monster",
+    "id": "68",
+    "english": "Molt",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "160,180,188,196,266,274,337",
+    "english": "Schriker",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "npc",
+    "id": "252",
+    "english": "",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "296",
+    "english": "Monster7",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "301",
+    "english": "Omega Wing",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "302",
+    "english": "Axl Hero",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "316,344",
+    "english": "Balram",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "317,341",
+    "english": "Soram",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "358,438",
+    "english": "Persona",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "360,439",
+    "english": "Dreadfear",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "409,436",
+    "english": "Balram (Trainee Soldier)",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "411,437",
+    "english": "Soram (Trainee Soldier)",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "441",
+    "english": "Sapi-Unus",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "442",
+    "english": "Sapi-Duo",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "443",
+    "english": "Sapi-Tres",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "446",
+    "english": "Shadow Look",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "447",
+    "english": "Thunder Napin",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "448",
+    "english": "Ghost Napin",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "449",
+    "english": "Blaze Napin",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "457",
+    "english": "Coolutin",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "npc",
+    "id": "468",
+    "english": "Dasher",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "npc",
+    "id": "469",
+    "english": "Kermit",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "npc",
+    "id": "471",
+    "english": "Cupid",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "npc",
+    "id": "472",
+    "english": "Prancer",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "npc",
+    "id": "473",
+    "english": "Donner",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "npc",
+    "id": "474",
+    "english": "Vixen",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "npc",
+    "id": "475",
+    "english": "Blitzen",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "npc",
+    "id": "478",
+    "english": "Delgado",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "496",
+    "english": "Golden Crust",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "500",
+    "english": "Golden Napin",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "504",
+    "english": "Gaion Kharein",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "506",
+    "english": "Raymond",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "507",
+    "english": "Erkanne",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "508",
+    "english": "Destler",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "509",
+    "english": "Vermont",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "510",
+    "english": "Kato",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "511",
+    "english": "Galia",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "557,560",
+    "english": "Sapi Queen",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "558",
+    "english": "Ice Napin",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "564",
+    "english": "Dark Coolutin",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "571",
+    "english": "Orcus",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "572",
+    "english": "Gollock",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "573",
+    "english": "Crypta",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "574",
+    "english": "Crypos",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "575",
+    "english": "Condra",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "monster",
+    "id": "576",
+    "english": "Narcondra",
+    "reason": "unconfirmed proper name or reserved entity"
+  },
+  {
+    "kind": "npc",
+    "id": "579",
+    "english": "David",
+    "reason": "unconfirmed proper name or reserved entity"
+  }
+]

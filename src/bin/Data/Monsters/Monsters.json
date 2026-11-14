@@ -572,7 +572,7 @@
       ]
     },
     {
-      "name": {"en": "Ogre archer", "es": "Arquero Ogro", "pt": "Arqueiro ogro"},
+      "name": {"en": "Ogre archer", "es": "Arquero Ogro", "pt": "Arqueiro ogro", "zh-CN": "食人魔弓箭手"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ORC_ARCHER",
       "soundSet": "Ogre archer",
@@ -581,7 +581,7 @@
       ]
     },
     {
-      "name": {"en": "Elite Ogre", "es": "Ogre de Élite", "pt": "Ogro de elite"},
+      "name": {"en": "Elite Ogre", "es": "Ogre de Élite", "pt": "Ogro de elite", "zh-CN": "精英食人魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ORC",
       "soundSet": "Elite Ogre",
@@ -590,7 +590,7 @@
       ]
     },
     {
-      "name": {"en": "Cursed king", "es": "Rey Maldito", "pt": "Rei amaldiçoado"},
+      "name": {"en": "Cursed king", "es": "Rey Maldito", "pt": "Rei amaldiçoado", "zh-CN": "诅咒之王"},
       "kind": "monster",
       "model": "MONSTER_MODEL_CURSED_KING",
       "soundSet": "Cursed king",
@@ -599,7 +599,7 @@
       ]
     },
     {
-      "name": {"en": "Metal Balrog", "es": "Balrog de Metal", "pt": "Balrog de metal"},
+      "name": {"en": "Metal Balrog", "es": "Balrog de Metal", "pt": "Balrog de metal", "zh-CN": "金属魔王"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BALROG",
       "soundSet": "Balrog",
@@ -953,7 +953,7 @@
       ]
     },
     {
-      "name": {"en": "Destructive ogre soldier", "es": "Soldado ogro destructivo", "pt": "Soldado ogro destrutivo"},
+      "name": {"en": "Destructive ogre soldier", "es": "Soldado ogro destructivo", "pt": "Soldado ogro destrutivo", "zh-CN": "毁灭食人魔士兵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ORC",
       "soundSet": "Elite Ogre",
@@ -962,7 +962,7 @@
       ]
     },
     {
-      "name": {"en": "Destructive ogre archer", "es": "Arquero ogro destructivo", "pt": "Arqueiro ogro destrutivo"},
+      "name": {"en": "Destructive ogre archer", "es": "Arquero ogro destructivo", "pt": "Arqueiro ogro destrutivo", "zh-CN": "毁灭食人魔弓箭手"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ORC_ARCHER",
       "soundSet": "Ogre archer",
@@ -986,7 +986,7 @@
       ]
     },
     {
-      "name": {"en": "Death Centurion", "es": "Centurión de la Muerte", "pt": "Centurião da morte"},
+      "name": {"en": "Death Centurion", "es": "Centurión de la Muerte", "pt": "Centurião da morte", "zh-CN": "死亡百夫长"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEATH_CENTURION",
       "soundSet": "Death Centurion",
@@ -1081,7 +1081,7 @@
       ]
     },
     {
-      "name": {"en": "Bali", "es": "Bali", "pt": "Bali"},
+      "name": {"en": "Bali", "es": "Bali", "pt": "Bali", "zh-CN": "守护兽巴里"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BALI",
       "soundSet": "Bali",
@@ -1094,7 +1094,7 @@
       ]
     },
     {
-      "name": {"en": "Soldier", "es": "Soldado", "pt": "Soldado"},
+      "name": {"en": "Soldier", "es": "Soldado", "pt": "Soldado", "zh-CN": "黄金斗士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SOLDIER",
       "soundSet": "Lizard King",
@@ -1330,7 +1330,7 @@
       ]
     },
     {
-      "name": {"en": "Wolf Status", "es": "Estatus de Lobo", "pt": "Status de lobo"},
+      "name": {"en": "Wolf Status", "es": "Estatus de Lobo", "pt": "Status de lobo", "zh-CN": "狼神像"},
       "kind": "npc",
       "model": "MODEL_CRYWOLF_STATUE",
       "numbers": [
@@ -1701,7 +1701,7 @@
       ]
     },
     {
-      "name": {"en": "Luke the Helper", "es": "Luke el Ayudante", "pt": "Luke, o ajudante"},
+      "name": {"en": "Luke the Helper", "es": "Luke el Ayudante", "pt": "Luke, o ajudante", "zh-CN": "助手 Luke"},
       "kind": "npc",
       "model": "player",
       "numbers": [
@@ -1709,7 +1709,7 @@
       ]
     },
     {
-      "name": {"en": "Oracle Layla", "es": "Oráculo Layla", "pt": "Oráculo Layla"},
+      "name": {"en": "Oracle Layla", "es": "Oráculo Layla", "pt": "Oráculo Layla", "zh-CN": "神谕者 Layla"},
       "kind": "npc",
       "model": "MODEL_KALIMA_SHOP",
       "numbers": [
@@ -1868,7 +1868,7 @@
       ]
     },
     {
-      "name": {"en": "PK Dark Knight", "es": "Caballero Oscuro PK", "pt": "Cavaleiro Negro PK"},
+      "name": {"en": "PK Dark Knight", "es": "Caballero Oscuro PK", "pt": "Cavaleiro Negro PK", "zh-CN": "红名暗黑骑士"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -1876,7 +1876,7 @@
       ]
     },
     {
-      "name": {"en": "Hero Mutant", "es": "Héroe Mutante", "pt": "Herói mutante"},
+      "name": {"en": "Hero Mutant", "es": "Héroe Mutante", "pt": "Herói mutante", "zh-CN": "变异英雄"},
       "kind": "monster",
       "model": "MONSTER_MODEL_MUTANT",
       "soundSet": "Mutant",
@@ -1902,7 +1902,7 @@
       ]
     },
     {
-      "name": {"en": "Gigas Golem", "es": "Gólem Gigas", "pt": "Golem Gigas"},
+      "name": {"en": "Gigas Golem", "es": "Gólem Gigas", "pt": "Golem Gigas", "zh-CN": "巨型石魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_POISON_GOLEM",
       "numbers": [
@@ -1910,7 +1910,7 @@
       ]
     },
     {
-      "name": {"en": "Witch Queen", "es": "Reina Bruja", "pt": "Rainha Bruxa"},
+      "name": {"en": "Witch Queen", "es": "Reina Bruja", "pt": "Rainha Bruxa", "zh-CN": "丛林女巫师"},
       "kind": "monster",
       "model": "MONSTER_MODEL_WITCH_QUEEN",
       "soundSet": "Witch Queen",
@@ -1923,7 +1923,7 @@
       ]
     },
     {
-      "name": {"en": "Blue Golem", "es": "Gólem Azul", "pt": "Golem azul"},
+      "name": {"en": "Blue Golem", "es": "Gólem Azul", "pt": "Golem azul", "zh-CN": "蓝色石魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GOLDEN_STONE_GOLEM",
       "soundSet": "Blue Golem",
@@ -1977,7 +1977,7 @@
       ]
     },
     {
-      "name": {"en": "Hammer Scout", "es": "Explorador con Martillo", "pt": "Batedor de martelo"},
+      "name": {"en": "Hammer Scout", "es": "Explorador con Martillo", "pt": "Batedor de martelo", "zh-CN": "巨锤侦察兵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SCOUT",
       "numbers": [
@@ -1985,7 +1985,7 @@
       ]
     },
     {
-      "name": {"en": "Lance Scout", "es": "Explorador con Lanza", "pt": "Batedor de lança"},
+      "name": {"en": "Lance Scout", "es": "Explorador con Lanza", "pt": "Batedor de lança", "zh-CN": "长矛侦察兵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SOLAM",
       "numbers": [
@@ -1993,7 +1993,7 @@
       ]
     },
     {
-      "name": {"en": "Bow Scout", "es": "Explorador con Arco", "pt": "Batedor de arco"},
+      "name": {"en": "Bow Scout", "es": "Explorador con Arco", "pt": "Batedor de arco", "zh-CN": "魔弓侦察兵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_VALAM",
       "numbers": [
@@ -2009,7 +2009,7 @@
       ]
     },
     {
-      "name": {"en": "Scout(Hero)", "es": "Explorador (Héroe)", "pt": "Batedor (Herói)"},
+      "name": {"en": "Scout(Hero)", "es": "Explorador (Héroe)", "pt": "Batedor (Herói)", "zh-CN": "侦察兵（英雄）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SCOUT",
       "numbers": [
@@ -2017,7 +2017,7 @@
       ]
     },
     {
-      "name": {"en": "Werewolf(Hero)", "es": "Hombre Lobo (Héroe)", "pt": "Lobisomem(Herói)"},
+      "name": {"en": "Werewolf(Hero)", "es": "Hombre Lobo (Héroe)", "pt": "Lobisomem(Herói)", "zh-CN": "狼人（英雄）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_WEREWOLF_HERO",
       "numbers": [
@@ -2043,7 +2043,7 @@
       ]
     },
     {
-      "name": {"en": "Scout", "es": "Explorador", "pt": "Batedor"},
+      "name": {"en": "Scout", "es": "Explorador", "pt": "Batedor", "zh-CN": "侦察兵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SCOUT",
       "numbers": [
@@ -2065,7 +2065,7 @@
       ]
     },
     {
-      "name": {"en": "Death spirit", "es": "Espíritu de la Muerte", "pt": "Espírito da morte"},
+      "name": {"en": "Death spirit", "es": "Espíritu de la Muerte", "pt": "Espírito da morte", "zh-CN": "死亡之灵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEATH_SPIRIT",
       "attacks": {
@@ -2078,7 +2078,7 @@
       ]
     },
     {
-      "name": {"en": "Tanker", "es": "Tanker", "pt": "Tanker"},
+      "name": {"en": "Tanker", "es": "Tanker", "pt": "Tanker", "zh-CN": "重装兵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BALLISTA",
       "numbers": [
@@ -2213,7 +2213,7 @@
       ]
     },
     {
-      "name": {"en": "Twin Tale", "es": "Cola Gemela", "pt": "Cauda dupla"},
+      "name": {"en": "Twin Tale", "es": "Cola Gemela", "pt": "Cauda dupla", "zh-CN": "双尾魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_TWIN_TAIL",
       "soundSet": "Twin Tail",
@@ -2350,7 +2350,7 @@
       ]
     },
     {
-      "name": {"en": "Jack Olantern", "es": "Jack Olantern", "pt": "Jack Olantern"},
+      "name": {"en": "Jack Olantern", "es": "Jack Olantern", "pt": "Jack Olantern", "zh-CN": "南瓜灯怪"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -2390,7 +2390,7 @@
       ]
     },
     {
-      "name": {"en": "GameMaster", "es": "Amo del Juego", "pt": "Mestre do jogo"},
+      "name": {"en": "GameMaster", "es": "Amo del Juego", "pt": "Mestre do jogo", "zh-CN": "游戏管理员"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -2414,7 +2414,7 @@
       ]
     },
     {
-      "name": {"en": "MU Allies General", "es": "General de Aliados de MU", "pt": "General dos Aliados do MU"},
+      "name": {"en": "MU Allies General", "es": "General de Aliados de MU", "pt": "General dos Aliados do MU", "zh-CN": "MU联盟将军"},
       "kind": "npc",
       "model": "MODEL_CURSEDTEMPLE_ALLIED_NPC",
       "numbers": [
@@ -2422,7 +2422,7 @@
       ]
     },
     {
-      "name": {"en": "Illusion Sorcerer Elder", "es": "Anciano Hechicero de Ilusiones", "pt": "Ancião feiticeiro da ilusão"},
+      "name": {"en": "Illusion Sorcerer Elder", "es": "Anciano Hechicero de Ilusiones", "pt": "Ancião feiticeiro da ilusão", "zh-CN": "幻影教长老"},
       "kind": "npc",
       "model": "MODEL_CURSEDTEMPLE_ILLUSION_NPC",
       "numbers": [
@@ -2454,7 +2454,7 @@
       ]
     },
     {
-      "name": {"en": "Illusion Sorcerer Spirit", "es": "Espíritu Hechicero de Ilusión", "pt": "Espírito do Feitic. da Ilusão"},
+      "name": {"en": "Illusion Sorcerer Spirit", "es": "Espíritu Hechicero de Ilusión", "pt": "Espírito do Feitic. da Ilusão", "zh-CN": "幻影教之灵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ILLUSION_SORCERER_SPIRIT_LIGHTNING",
       "numbers": [
@@ -2467,7 +2467,7 @@
       ]
     },
     {
-      "name": {"en": "Illusion Sorcerer Spirit", "es": "Espíritu Hechicero de Ilusión", "pt": "Espírito do Feitic. da Ilusão"},
+      "name": {"en": "Illusion Sorcerer Spirit", "es": "Espíritu Hechicero de Ilusión", "pt": "Espírito do Feitic. da Ilusão", "zh-CN": "幻影教之灵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ILLUSION_SORCERER_SPIRIT_ICE",
       "numbers": [
@@ -2480,7 +2480,7 @@
       ]
     },
     {
-      "name": {"en": "Illusion Sorcerer Spirit", "es": "Espíritu Hechicero de Ilusión", "pt": "Espírito do Feitic. da Ilusão"},
+      "name": {"en": "Illusion Sorcerer Spirit", "es": "Espíritu Hechicero de Ilusión", "pt": "Espírito do Feitic. da Ilusão", "zh-CN": "幻影教之灵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_ILLUSION_SORCERER_SPIRIT_POISON",
       "attacks": {
@@ -2498,7 +2498,7 @@
       ]
     },
     {
-      "name": {"en": "MU Allies", "es": "Aliados de MU", "pt": "Aliados do MU"},
+      "name": {"en": "MU Allies", "es": "Aliados de MU", "pt": "Aliados do MU", "zh-CN": "MU联盟成员"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -2506,7 +2506,7 @@
       ]
     },
     {
-      "name": {"en": "Illusion Sorcerer", "es": "Hechicero de Ilusiones", "pt": "Feiticeiro da ilusão"},
+      "name": {"en": "Illusion Sorcerer", "es": "Hechicero de Ilusiones", "pt": "Feiticeiro da ilusão", "zh-CN": "幻影教徒"},
       "kind": "monster",
       "model": "player",
       "numbers": [
@@ -2551,7 +2551,7 @@
       ]
     },
     {
-      "name": {"en": "Death Spirit (Trainee Soldier)", "es": "Espíritu de Muerte (Recluta)", "pt": "Esp. Morte (Trein.)"},
+      "name": {"en": "Death Spirit (Trainee Soldier)", "es": "Espíritu de Muerte (Recluta)", "pt": "Esp. Morte (Trein.)", "zh-CN": "死亡之灵（训练兵）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DEATH_SPIRIT",
       "attacks": {
@@ -2576,7 +2576,7 @@
       ]
     },
     {
-      "name": {"en": "Dark Elf (Trainee Soldier)", "es": "Elfo Oscuro (Soldado Recluta)", "pt": "Elfo Negro (Trein.)"},
+      "name": {"en": "Dark Elf (Trainee Soldier)", "es": "Elfo Oscuro (Soldado Recluta)", "pt": "Elfo Negro (Trein.)", "zh-CN": "暗黑精灵（训练兵）"},
       "kind": "monster",
       "model": "MONSTER_MODEL_DARK_ELF",
       "attacks": {
@@ -2597,7 +2597,7 @@
       ]
     },
     {
-      "name": {"en": "Helper Ellen", "es": "Ayudante Ellen", "pt": "Ajudante Ellen"},
+      "name": {"en": "Helper Ellen", "es": "Ayudante Ellen", "pt": "Ajudante Ellen", "zh-CN": "助手 Ellen"},
       "kind": "npc",
       "model": "player",
       "numbers": [
@@ -2749,7 +2749,7 @@
       ]
     },
     {
-      "name": {"en": "Shadow Pawn", "es": "Peón Sombra", "pt": "Peão das sombras"},
+      "name": {"en": "Shadow Pawn", "es": "Peón Sombra", "pt": "Peão das sombras", "zh-CN": "暗影士兵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SHADOW_PAWN",
       "soundSet": "Shadow Pawn",
@@ -2758,7 +2758,7 @@
       ]
     },
     {
-      "name": {"en": "Shadow Knight", "es": "Caballero de la Sombra", "pt": "Cavaleiro das sombras"},
+      "name": {"en": "Shadow Knight", "es": "Caballero de la Sombra", "pt": "Cavaleiro das sombras", "zh-CN": "暗影骑士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SHADOW_KNIGHT",
       "soundSet": "Shadow Knight",
@@ -2944,7 +2944,7 @@
       ]
     },
     {
-      "name": {"en": "Fire Flame Ghost", "es": "Espíritu de Llama de Fuego", "pt": "Fantasma da chama de fogo"},
+      "name": {"en": "Fire Flame Ghost", "es": "Espíritu de Llama de Fuego", "pt": "Fantasma da chama de fogo", "zh-CN": "烈焰幽灵"},
       "kind": "monster",
       "model": "MONSTER_MODEL_FIRE_FLAME_GHOST",
       "numbers": [
@@ -3094,7 +3094,7 @@
       ]
     },
     {
-      "name": {"en": "Resurrected Gladiator", "es": "Gladiador Resucitado", "pt": "Gladiador ressuscitado"},
+      "name": {"en": "Resurrected Gladiator", "es": "Gladiador Resucitado", "pt": "Gladiador ressuscitado", "zh-CN": "复生角斗士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GLADIATOR",
       "soundSet": "Resurrected Gladiator",
@@ -3104,7 +3104,7 @@
       ]
     },
     {
-      "name": {"en": "Ash Slaughterer", "es": "Descuartizador Ceniza", "pt": "Matador das cinzas"},
+      "name": {"en": "Ash Slaughterer", "es": "Descuartizador Ceniza", "pt": "Matador das cinzas", "zh-CN": "灰烬屠戮者"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SLAUGTHERER",
       "soundSet": "Ash Slaughterer",
@@ -3196,7 +3196,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Satyros", "es": "Sátiro Dorado", "pt": "Sátiro dourado"},
+      "name": {"en": "Golden Satyros", "es": "Sátiro Dorado", "pt": "Sátiro dourado", "zh-CN": "黄金半兽人"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SATYROS",
       "soundSet": "Satyros",
@@ -3205,7 +3205,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Twin Tail", "es": "Cola Gemela Dorada", "pt": "Cauda dupla dourado"},
+      "name": {"en": "Golden Twin Tail", "es": "Cola Gemela Dorada", "pt": "Cauda dupla dourado", "zh-CN": "黄金双尾魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_TWIN_TAIL",
       "soundSet": "Twin Tail",
@@ -3214,7 +3214,7 @@
       ]
     },
     {
-      "name": {"en": "Golden Iron Knight", "es": "Caballero de Hierro Dorado", "pt": "Cavaleiro de ferro dourado"},
+      "name": {"en": "Golden Iron Knight", "es": "Caballero de Hierro Dorado", "pt": "Cavaleiro de ferro dourado", "zh-CN": "黄金铁甲骑士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_IRON_KNIGHT",
       "soundSet": "Iron Knight",
@@ -3272,7 +3272,7 @@
       ]
     },
     {
-      "name": {"en": "Jerint", "es": "Jerint", "pt": "Jerint"},
+      "name": {"en": "Jerint", "es": "Jerint", "pt": "Jerint", "zh-CN": "杰林特"},
       "kind": "monster",
       "model": "MONSTER_MODEL_JERRY",
       "soundSet": "Jerint",
@@ -3560,7 +3560,7 @@
       ]
     },
     {
-      "name": {"en": "Furious Slaughterer", "es": "Descuartizador Furioso", "pt": "Matador furioso"},
+      "name": {"en": "Furious Slaughterer", "es": "Descuartizador Furioso", "pt": "Matador furioso", "zh-CN": "狂暴屠戮者"},
       "kind": "monster",
       "model": "MONSTER_MODEL_TERRIBLE_BUTCHER",
       "soundSet": "Furious Slaughterer",
@@ -3569,7 +3569,7 @@
       ]
     },
     {
-      "name": {"en": "Slaughterer", "es": "Descuartizador", "pt": "Matador"},
+      "name": {"en": "Slaughterer", "es": "Descuartizador", "pt": "Matador", "zh-CN": "屠戮者"},
       "kind": "monster",
       "model": "MONSTER_MODEL_MAD_BUTCHER",
       "soundSet": "Slaughterer",
@@ -3710,7 +3710,7 @@
       ]
     },
     {
-      "name": {"en": "Bloody Orc", "es": "Orc Sangriento", "pt": "Orc sanguinário"},
+      "name": {"en": "Bloody Orc", "es": "Orc Sangriento", "pt": "Orc sanguinário", "zh-CN": "血腥丛林生命体"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BLOODY_ORC",
       "soundSet": "Forest Orc",
@@ -3723,7 +3723,7 @@
       ]
     },
     {
-      "name": {"en": "Bloody Death Rider", "es": "Jinete Sangriento de la Muerte", "pt": "Cavaleiro da morte sanguinário"},
+      "name": {"en": "Bloody Death Rider", "es": "Jinete Sangriento de la Muerte", "pt": "Cavaleiro da morte sanguinário", "zh-CN": "血腥丛林猎杀者"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BLOODY_DEATH_RIDER",
       "soundSet": "Death Rider",
@@ -3736,7 +3736,7 @@
       ]
     },
     {
-      "name": {"en": "Bloody Golem", "es": "Gólem Sangriento", "pt": "Golem sanguinário"},
+      "name": {"en": "Bloody Golem", "es": "Gólem Sangriento", "pt": "Golem sanguinário", "zh-CN": "血腥石魔"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BLOODY_GOLEM",
       "soundSet": "Blue Golem",
@@ -3750,7 +3750,7 @@
       ]
     },
     {
-      "name": {"en": "Bloody Witch Queen", "es": "Reina Bruja Sangrienta", "pt": "Rainha feiticeira sanguinária"},
+      "name": {"en": "Bloody Witch Queen", "es": "Reina Bruja Sangrienta", "pt": "Rainha feiticeira sanguinária", "zh-CN": "血腥丛林女巫师"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BLOODY_WITCH_QUEEN",
       "soundSet": "Witch Queen",
@@ -3764,7 +3764,7 @@
       ]
     },
     {
-      "name": {"en": "Berserker Warrior", "es": "Guerrero Energúmeno", "pt": "Guerreiro berserker"},
+      "name": {"en": "Berserker Warrior", "es": "Guerrero Energúmeno", "pt": "Guerreiro berserker", "zh-CN": "疯魔战士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_BERSERKER_WARRIOR",
       "soundSet": "Berserker",
@@ -3778,7 +3778,7 @@
       ]
     },
     {
-      "name": {"en": "Kentauros Warrior", "es": "Guerrero Centauro", "pt": "Guerreiro Kentauros"},
+      "name": {"en": "Kentauros Warrior", "es": "Guerrero Centauro", "pt": "Guerreiro Kentauros", "zh-CN": "寒冰刺客战士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_KENTAUROS_WARRIOR",
       "soundSet": "Kentauros",
@@ -3792,7 +3792,7 @@
       ]
     },
     {
-      "name": {"en": "Gigantis Warrior", "es": "Guerrero Gigantis", "pt": "Guerreiro Gigantis"},
+      "name": {"en": "Gigantis Warrior", "es": "Guerrero Gigantis", "pt": "Guerreiro Gigantis", "zh-CN": "狂巨人战士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_GIGANTIS_WARRIOR",
       "soundSet": "Gigantis",
@@ -3805,7 +3805,7 @@
       ]
     },
     {
-      "name": {"en": "Genocider Warrior", "es": "Guerrero Genocida", "pt": "Guerreiro genocida"},
+      "name": {"en": "Genocider Warrior", "es": "Guerrero Genocida", "pt": "Guerreiro genocida", "zh-CN": "屠杀者战士"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SOCCERBALL",
       "soundSet": "Genocider",
@@ -3848,7 +3848,7 @@
       ]
     },
     {
-      "name": {"en": "Shadow Master", "es": "Amo de la Sombra", "pt": "Mestre das sombras"},
+      "name": {"en": "Shadow Master", "es": "Amo de la Sombra", "pt": "Mestre das sombras", "zh-CN": "暗影之主"},
       "kind": "monster",
       "model": "MONSTER_MODEL_SHADOW_MASTER",
       "soundSet": "Shadow Master",
@@ -3931,7 +3931,7 @@
       ]
     },
     {
-      "name": {"en": "Mercenary Guild Manager Tercia", "es": "Tercia de Encargados del Gremio Mercenario", "pt": "Administrador da Guilda Mercenária Tercia"},
+      "name": {"en": "Mercenary Guild Manager Tercia", "es": "Tercia de Encargados del Gremio Mercenario", "pt": "Administrador da Guilda Mercenária Tercia", "zh-CN": "佣兵团管理员 Tercia"},
       "kind": "npc",
       "model": "MODEL_TERSIA",
       "numbers": [
@@ -3939,7 +3939,7 @@
       ]
     },
     {
-      "name": {"en": "Priestess Veina", "es": "Sacerdotisa Veina", "pt": "Sacerdotisa Veina"},
+      "name": {"en": "Priestess Veina", "es": "Sacerdotisa Veina", "pt": "Sacerdotisa Veina", "zh-CN": "女祭司 Veina"},
       "kind": "npc",
       "model": "MODEL_BENA",
       "numbers": [
@@ -3947,7 +3947,7 @@
       ]
     },
     {
-      "name": {"en": "Wandering Merchant Zyro", "es": "Comerciante Vagabundo Zyro", "pt": "Mercador Nômade Zyro"},
+      "name": {"en": "Wandering Merchant Zyro", "es": "Comerciante Vagabundo Zyro", "pt": "Mercador Nômade Zyro", "zh-CN": "流浪商人 Zyro"},
       "kind": "npc",
       "model": "MODEL_GAMBLE_NPC_MOSS",
       "numbers": [
@@ -4027,7 +4027,7 @@
       ]
     },
     {
-      "name": {"en": "Leina the General Goods Merchant", "es": "Leina the General Goods Merchant", "pt": "Leina the General Goods Merchant"},
+      "name": {"en": "Leina the General Goods Merchant", "es": "Leina the General Goods Merchant", "pt": "Leina the General Goods Merchant", "zh-CN": "杂货商人 Leina"},
       "kind": "npc",
       "model": "MODEL_KARUTAN_NPC_REINA",
       "numbers": [
@@ -4035,7 +4035,7 @@
       ]
     },
     {
-      "name": {"en": "Weapons Merchant Bolo", "es": "Weapons Merchant Bolo", "pt": "Weapons Merchant Bolo"},
+      "name": {"en": "Weapons Merchant Bolo", "es": "Weapons Merchant Bolo", "pt": "Weapons Merchant Bolo", "zh-CN": "武器商人 Bolo"},
       "kind": "npc",
       "model": "MODEL_KARUTAN_NPC_VOLVO",
       "numbers": [

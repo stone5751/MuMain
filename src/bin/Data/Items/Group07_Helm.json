@@ -495,7 +495,8 @@
         "de": "Göttlicher Helm",
         "es": "Yelmo Divino",
         "pl": "Boski hełm",
-        "pt": "Elmo divino"
+        "pt": "Elmo divino",
+        "zh-CN": "圣灵之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -602,7 +603,8 @@
         "de": "Leichtplattenmaske",
         "es": "Máscara Plata de Luz",
         "pl": "Lekka maska płytowa",
-        "pt": "Máscara de placa leve"
+        "pt": "Máscara de placa leve",
+        "zh-CN": "圣元之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -628,7 +630,8 @@
         "de": "Adamantmaske",
         "es": "Máscara Adamantina",
         "pl": "Adamantytowa maska",
-        "pt": "Máscara de adamantina"
+        "pt": "Máscara de adamantina",
+        "zh-CN": "圣魂之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -654,7 +657,8 @@
         "de": "Dunkelstahlmaske",
         "es": "Máscara Acero Oscuro",
         "pl": "Maska z mrocznej stali",
-        "pt": "Máscara de aço negro"
+        "pt": "Máscara de aço negro",
+        "zh-CN": "神圣之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -680,7 +684,8 @@
         "de": "Dunkelmeistermaske",
         "es": "Máscara Amo Oscuro",
         "pl": "Maska Mrocznego Mistrza",
-        "pt": "Máscara do Mestre Negro"
+        "pt": "Máscara do Mestre Negro",
+        "zh-CN": "至尊之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -733,7 +738,8 @@
         "de": "Giftnebelhelm",
         "es": "Yelmo Bruma de Veneno",
         "pl": "Hełm Jadowitej Mgły",
-        "pt": "Elmo da névoa de veneno"
+        "pt": "Elmo da névoa de veneno",
+        "zh-CN": "法魂玄灵之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -760,7 +766,8 @@
         "de": "Sylphenstrahlhelm",
         "es": "Yelmo Rayo de Sílfide",
         "pl": "Hełm Sylphid Ray",
-        "pt": "Elmo do raio silfídico"
+        "pt": "Elmo do raio silfídico",
+        "zh-CN": "紫灵之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -866,7 +873,8 @@
         "de": "Iris-Helm",
         "es": "Yelmo Iris",
         "pl": "Hełm Iris",
-        "pt": "Elmo de Iris"
+        "pt": "Elmo de Iris",
+        "zh-CN": "碧影之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -891,7 +899,8 @@
         "de": "Glorreiche Maske",
         "es": "Máscara Gloriosa",
         "pl": "Chwalebna maska",
-        "pt": "Máscara gloriosa"
+        "pt": "Máscara gloriosa",
+        "zh-CN": "圣光之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -916,7 +925,8 @@
         "de": "Sturmwindhelm",
         "es": "Yelmo Viento Violento",
         "pl": "Hełm Gwałtownego Wiatru",
-        "pt": "Elmo do vento violento"
+        "pt": "Elmo do vento violento",
+        "zh-CN": "飓风之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -995,7 +1005,8 @@
         "de": "Dämonischer Helm",
         "es": "Yelmo Demoníaco",
         "pl": "Demoniczny hełm",
-        "pt": "Elmo demoníaco"
+        "pt": "Elmo demoníaco",
+        "zh-CN": "魔灵之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -1020,7 +1031,8 @@
         "de": "Sturmblitzhelm",
         "es": "Yelmo Ráfaga Tormentosa",
         "pl": "Hełm Burzowego Błysku",
-        "pt": "Elmo Relâmpago de Tempestade"
+        "pt": "Elmo Relâmpago de Tempestade",
+        "zh-CN": "风影之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -1047,7 +1059,8 @@
         "de": "Ewigschwingenhelm",
         "es": "Yelmo Ala Eterna",
         "pl": "Hełm Wiecznego Skrzydła",
-        "pt": "Elmo da asa eterna"
+        "pt": "Elmo da asa eterna",
+        "zh-CN": "恒翼之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -1074,7 +1087,8 @@
         "de": "Titanenhelm",
         "es": "Yelmo Titán",
         "pl": "Hełm Tytana",
-        "pt": "Elmo do titã"
+        "pt": "Elmo do titã",
+        "zh-CN": "泰坦之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -1126,7 +1140,8 @@
         "de": "Seraphim-Helm",
         "es": "Yelmo Serafín",
         "pl": "Hełm Serafina",
-        "pt": "Elmo de serafim"
+        "pt": "Elmo de serafim",
+        "zh-CN": "恐惧之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -1152,7 +1167,8 @@
         "de": "Glaubenshelm",
         "es": "Yelmo de Fe",
         "pl": "Hełm Wiary",
-        "pt": "Elmo da fé"
+        "pt": "Elmo da fé",
+        "zh-CN": "灵光之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -1179,7 +1195,8 @@
         "de": "Königliche Maske",
         "es": "Máscara Real",
         "pl": "Królewska maska",
-        "pt": "Máscara real"
+        "pt": "Máscara real",
+        "zh-CN": "霸王之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -1205,7 +1222,8 @@
         "de": "Hades-Helm",
         "es": "Yelmo Hades",
         "pl": "Hełm Hadesa",
-        "pt": "Elmo de Hades"
+        "pt": "Elmo de Hades",
+        "zh-CN": "冥王之盔"
       },
       "options": ["luck"],
       "width": 2,
@@ -1413,7 +1431,8 @@
         "de": "Sturmwindhelm",
         "es": "Yelmo Viento Violento",
         "pl": "Hełm Gwałtownego Wiatru",
-        "pt": "Elmo do vento violento"
+        "pt": "Elmo do vento violento",
+        "zh-CN": "飓风之盔"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1445,7 +1464,8 @@
         "de": "Adamantmaske",
         "es": "Máscara Adamantina",
         "pl": "Adamantytowa maska",
-        "pt": "Máscara de adamantina"
+        "pt": "Máscara de adamantina",
+        "zh-CN": "圣魂之盔"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],

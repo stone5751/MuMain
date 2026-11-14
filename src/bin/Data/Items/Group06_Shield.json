@@ -408,7 +408,8 @@
         "de": "Drachenschild",
         "es": "Escudo Dragón",
         "pl": "Smocza tarcza",
-        "pt": "Escudo do dragão"
+        "pt": "Escudo do dragão",
+        "zh-CN": "火龙之盾"
       },
       "options": ["luck"],
       "width": 2,

@@ -1,0 +1,524 @@
+[
+  {
+    "kind": "item",
+    "id": "0,21",
+    "english": "Dark Reign Blade",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "0,23",
+    "english": "Explosion Blade",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "0,25",
+    "english": "Sword Dancer",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "0,26",
+    "english": "Flameberge",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "0,27",
+    "english": "Sword Breaker",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "0,28",
+    "english": "Rune Bastard Sword",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "0,31",
+    "english": "Rune Blade",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "2,5",
+    "english": "Crystal Sword",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "2,8",
+    "english": "Battle Scepter",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "2,9",
+    "english": "Master Scepter",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "2,10",
+    "english": "Great Scepter",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "2,11",
+    "english": "Lord Scepter",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "2,12",
+    "english": "Great Lord Scepter",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "2,15",
+    "english": "Shining Scepter",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "3,11",
+    "english": "Brova",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "4,8",
+    "english": "Crossbow",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "4,21",
+    "english": "Sylph Wind Bow",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "4,23",
+    "english": "Dark Stinger",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "4,24",
+    "english": "Aileen Bowr",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "5,1",
+    "english": "Angelic Staff",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "5,14",
+    "english": "Mystery Stick",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "5,15",
+    "english": "Violent Wind Stick",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "5,18",
+    "english": "Demonic Stick",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,6",
+    "english": "Skull Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,7",
+    "english": "Spiked Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,8",
+    "english": "Tower Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,9",
+    "english": "Plate Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,10",
+    "english": "Large Round Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,11",
+    "english": "Serpent Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,12",
+    "english": "Bronze Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,14",
+    "english": "Legendary Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,15",
+    "english": "Grand Soul Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,16",
+    "english": "Elemental Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,17",
+    "english": "Crimson Glory",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,18",
+    "english": "Salamander Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,19",
+    "english": "Frost Barrier",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,20",
+    "english": "Guardian Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "6,21",
+    "english": "Cross Shield",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "7,29",
+    "english": "Dragon Knight Helm",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "7,33",
+    "english": "Sunlight Mask",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "7,46",
+    "english": "Brave Helm",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "7,60",
+    "english": "Storm Jahad Helm",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "7,61",
+    "english": "Piercing Groove Helm",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "7,72",
+    "english": "Storm Jahad Helm",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "7,73",
+    "english": "Phoenix Soul Helmet",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "8,29",
+    "english": "Dragon Knight Armor",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "8,33",
+    "english": "Sunlight Armor",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "8,46",
+    "english": "Brave Armor",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "8,47",
+    "english": "Phantom  Armor",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "8,48",
+    "english": "Destroy Armor",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "8,60",
+    "english": "Storm Jahad Armor",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "8,61",
+    "english": "Piercing Groove Armor",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "8,72",
+    "english": "Storm Jahad Armor",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "8,73",
+    "english": "Phoenix Soul Armor",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "9,29",
+    "english": "Dragon Knight Pants",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "9,33",
+    "english": "Sunlight Pants",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "9,46",
+    "english": "Brave Pants",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "9,47",
+    "english": "Phantom  Pants",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "9,48",
+    "english": "Destroy Pants",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "9,60",
+    "english": "Storm Jahad Pants",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "9,61",
+    "english": "Piercing Groove Pants",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "9,72",
+    "english": "Storm Jahad Pants",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "9,73",
+    "english": "Phoenix Soul Pants",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "10,29",
+    "english": "Dragon Knight Gloves",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "10,33",
+    "english": "Sunlight Gloves",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "10,46",
+    "english": "Brave Gloves",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "10,47",
+    "english": "Phantom  Gloves",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "10,48",
+    "english": "Destroy Gloves",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "11,29",
+    "english": "Dragon Knight Boots",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "11,33",
+    "english": "Sunlight Boots",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "11,46",
+    "english": "Brave Boots",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "11,47",
+    "english": "Phantom Boots",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "11,48",
+    "english": "Destroy Boots",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "11,60",
+    "english": "Storm Jahad Boots",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "11,61",
+    "english": "Piercing Groove Boots",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "11,72",
+    "english": "Storm Jahad Boots",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "11,73",
+    "english": "Phoenix Soul Boots",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "12,26",
+    "english": "gem of secret",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "14,102",
+    "english": "Gaion's Order",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "14,103",
+    "english": "First Secromicon Fragment",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "14,104",
+    "english": "Second Secromicon Fragment",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "14,105",
+    "english": "Third Secromicon Fragment",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "14,106",
+    "english": "Fourth Secromicon Fragment",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "14,107",
+    "english": "Fifth Secromicon Fragment",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "14,108",
+    "english": "Sixth Secromicon Fragment",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "14,109",
+    "english": "Complete Secromicon",
+    "reason": "proper name/version mapping not yet confirmed"
+  },
+  {
+    "kind": "item",
+    "id": "14,154",
+    "english": "Kalt Stone",
+    "reason": "proper name/version mapping not yet confirmed"
+  }
+]

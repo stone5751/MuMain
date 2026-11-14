@@ -298,7 +298,8 @@
         "de": "Drachenseelenstab",
         "es": "Báculo Alma de Dragón",
         "pl": "Kostur Smoczej Duszy",
-        "pt": "Bastão da alma do dragão"
+        "pt": "Bastão da alma do dragão",
+        "zh-CN": "麒麟之杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -406,7 +407,8 @@
         "de": "Großvipernstab",
         "es": "Gran Báculo Víbora",
         "pl": "Kostur Wielkiej Żmii",
-        "pt": "Grande bastão da víbora"
+        "pt": "Grande bastão da víbora",
+        "zh-CN": "死神之杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -437,7 +439,8 @@
         "de": "Platinstab",
         "es": "Báculo Platina",
         "pl": "Platynowy kostur",
-        "pt": "Bastão de platina"
+        "pt": "Bastão de platina",
+        "zh-CN": "幻月雷杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -613,7 +616,8 @@
         "de": "Sturmblitzstock",
         "es": "Vara Ráfaga Tormentosa",
         "pl": "Różdżka Burzowego Błysku",
-        "pt": "Caj. Relâmpago de Tempestade"
+        "pt": "Caj. Relâmpago de Tempestade",
+        "zh-CN": "风影之杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -644,7 +648,8 @@
         "de": "Ewigschwingenstock",
         "es": "Vara Ala Eterna",
         "pl": "Różdżka Wiecznego Skrzydła",
-        "pt": "Cajado da asa eterna"
+        "pt": "Cajado da asa eterna",
+        "zh-CN": "恒翼之杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -674,7 +679,8 @@
         "de": "Buch von Samut",
         "es": "Libro de Samut",
         "pl": "Księga Samuta",
-        "pt": "Livro de Samut"
+        "pt": "Livro de Samut",
+        "zh-CN": "火龙兽之书"
       },
       "tags": ["summonerBook"],
       "options": ["luck"],
@@ -703,7 +709,8 @@
         "de": "Buch von Neil",
         "es": "Libro de Neil",
         "pl": "Księga Neila",
-        "pt": "Livro de Neil"
+        "pt": "Livro de Neil",
+        "zh-CN": "异灵之书"
       },
       "tags": ["summonerBook"],
       "options": ["luck"],
@@ -732,7 +739,8 @@
         "de": "Buch von Lagle",
         "es": "Libro de Lagle",
         "pl": "Księga Lagle’a",
-        "pt": "Livro de Lagle"
+        "pt": "Livro de Lagle",
+        "zh-CN": "污灵之书"
       },
       "tags": ["summonerBook"],
       "options": ["luck"],
@@ -761,7 +769,8 @@
         "de": "Todesstab",
         "es": "Báculo Mortal",
         "pl": "Śmiercionośny kostur",
-        "pt": "Bastão letal"
+        "pt": "Bastão letal",
+        "zh-CN": "致命魔杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -792,7 +801,8 @@
         "de": "Kaiserlicher Stab",
         "es": "Báculo Inberial",
         "pl": "Imperialny kostur",
-        "pt": "Bastão inberial"
+        "pt": "Bastão inberial",
+        "zh-CN": "魔狱之杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -825,7 +835,8 @@
         "de": "Chromatischer Stab",
         "es": "Báculo Cromático",
         "pl": "Chromatyczny kostur",
-        "pt": "Bastão cromático"
+        "pt": "Bastão cromático",
+        "zh-CN": "多彩魔杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -855,7 +866,8 @@
         "de": "Rabenstock",
         "es": "Vara Cuervo",
         "pl": "Różdżka Kruka",
-        "pt": "Cajado do corvo"
+        "pt": "Cajado do corvo",
+        "zh-CN": "乌鸦之杖"
       },
       "options": ["luck"],
       "width": 1,
@@ -884,7 +896,8 @@
         "de": "Göttlicher Stock des Erzengels",
         "es": "Bastón Divino de Arcángel",
         "pl": "Boska Różdżka Archanioła",
-        "pt": "Bastão Divino do Arcanjo"
+        "pt": "Bastão Divino do Arcanjo",
+        "zh-CN": "大天使绝对魔杖"
       },
       "tags": ["divineArchangelWeapon", "valuable"],
       "options": ["luck"],

@@ -756,7 +756,8 @@
         "de": "Pergament: Chain Drive",
         "es": "Pergamino Acción por Cadena",
         "pl": "Pergamin: Chain Drive",
-        "pt": "Pergaminho de Correia"
+        "pt": "Pergaminho de Correia",
+        "zh-CN": "回旋踢羊皮纸"
       },
       "width": 1,
       "height": 2,
@@ -780,7 +781,8 @@
         "de": "Pergament: Dark Side",
         "es": "Pergamino Lado Oscuro",
         "pl": "Pergamin: Dark Side",
-        "pt": "Pergaminho do Lado Negro"
+        "pt": "Pergaminho do Lado Negro",
+        "zh-CN": "幽冥光速拳羊皮纸"
       },
       "width": 1,
       "height": 2,
@@ -804,7 +806,8 @@
         "de": "Pergament: Dragon Roar",
         "es": "Pergamino Rugido de Dragón",
         "pl": "Pergamin: Dragon Roar",
-        "pt": "Pergaminho do Rugido do Dragão"
+        "pt": "Pergaminho do Rugido do Dragão",
+        "zh-CN": "炎龙拳羊皮纸"
       },
       "width": 1,
       "height": 2,
@@ -828,7 +831,8 @@
         "de": "Pergament: Dragon Slasher",
         "es": "Pergamino Aniquilador de Dragón",
         "pl": "Pergamin: Dragon Slasher",
-        "pt": "Pergaminho Retalhador de Dragões"
+        "pt": "Pergaminho Retalhador de Dragões",
+        "zh-CN": "噬血之龙羊皮纸"
       },
       "width": 1,
       "height": 2,
@@ -852,7 +856,8 @@
         "de": "Pergament: Ignore Defense",
         "es": "Pergamino ignorar Defensa",
         "pl": "Pergamin: Ignore Defense",
-        "pt": "Pergaminho de Ignorar Defesa"
+        "pt": "Pergaminho de Ignorar Defesa",
+        "zh-CN": "斗神·破羊皮纸"
       },
       "width": 1,
       "height": 2,
@@ -877,7 +882,8 @@
         "de": "Pergament: Increase Health",
         "es": "Pergamino aumento de Salud",
         "pl": "Pergamin: Increase Health",
-        "pt": "Pergaminho de Aumento de Vida"
+        "pt": "Pergaminho de Aumento de Vida",
+        "zh-CN": "斗神·命羊皮纸"
       },
       "width": 1,
       "height": 2,
@@ -902,7 +908,8 @@
         "de": "Pergament: Increase Block",
         "es": "Pergamino aumento de Bloqueo",
         "pl": "Pergamin: Increase Block",
-        "pt": "Pergaminho de Aumento de Bloqueio"
+        "pt": "Pergaminho de Aumento de Bloqueio",
+        "zh-CN": "斗神·御羊皮纸"
       },
       "width": 1,
       "height": 2,

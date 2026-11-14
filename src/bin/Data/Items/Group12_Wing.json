@@ -1230,7 +1230,8 @@
         "de": "Sturmflügel",
         "es": "Ala de Tormenta",
         "pl": "Skrzydło Burzy",
-        "pt": "Asa da Tempestade"
+        "pt": "Asa da Tempestade",
+        "zh-CN": "暴风之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -1304,7 +1305,8 @@
         "de": "Ewigkeitsflügel",
         "es": "Ala de Eternidad",
         "pl": "Skrzydło Wieczności",
-        "pt": "Asa da eternidade"
+        "pt": "Asa da eternidade",
+        "zh-CN": "时空之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -1378,7 +1380,8 @@
         "de": "Illusionsflügel",
         "es": "Ala de Ilusión",
         "pl": "Skrzydło Iluzji",
-        "pt": "Asa da ilusão"
+        "pt": "Asa da ilusão",
+        "zh-CN": "幻影之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -1452,7 +1455,8 @@
         "de": "Flügel des Verderbens",
         "es": "Ala de Ruina",
         "pl": "Skrzydło Zagłady",
-        "pt": "Asa da ruína"
+        "pt": "Asa da ruína",
+        "zh-CN": "破灭之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -1601,7 +1605,8 @@
         "de": "Fluchflügel",
         "es": "Ala de Maldición",
         "pl": "Skrzydło Klątwy",
-        "pt": "Asa da maldição"
+        "pt": "Asa da maldição",
+        "zh-CN": "诅咒之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -1640,7 +1645,8 @@
         "de": "Flügel der Verzweiflung",
         "es": "Viento de Desesperación",
         "pl": "Skrzydło Rozpaczy",
-        "pt": "Asa do desespero"
+        "pt": "Asa do desespero",
+        "zh-CN": "绝望之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -1714,7 +1720,8 @@
         "de": "Dimensionsflügel",
         "es": "Ala de Dimensión",
         "pl": "Skrzydło Wymiarów",
-        "pt": "Asa da dimensão"
+        "pt": "Asa da dimensão",
+        "zh-CN": "次元之翼"
       },
       "tags": ["valuable"],
       "options": ["luck"],
@@ -1898,7 +1905,8 @@
         "de": "Kämpferumhang",
         "es": "Capa del Guerrero",
         "pl": "Peleryna Wojownika",
-        "pt": "Manto do Guerreiro"
+        "pt": "Manto do Guerreiro",
+        "zh-CN": "武士披风"
       },
       "tags": ["cape", "valuable"],
       "options": ["luck"],
@@ -1969,7 +1977,8 @@
         "de": "Umhang der Herrschaft",
         "es": "Capa Reinante",
         "pl": "Peleryna Władzy",
-        "pt": "Manto Reinante"
+        "pt": "Manto Reinante",
+        "zh-CN": "统治披风"
       },
       "tags": ["cape", "valuable"],
       "options": ["luck"],
@@ -2247,7 +2256,8 @@
         "de": "Sphäre (Mono)",
         "es": "Esfera (Mono)",
         "pl": "Sfera (Mono)",
-        "pt": "Esfera (Mono)"
+        "pt": "Esfera (Mono)",
+        "zh-CN": "荧光石（初级）"
       },
       "tags": ["socketSphere"],
       "nameLines": [
@@ -2280,7 +2290,8 @@
         "de": "Sphäre (Di)",
         "es": "Esfera (Di)",
         "pl": "Sfera (Di)",
-        "pt": "Esfera (Di)"
+        "pt": "Esfera (Di)",
+        "zh-CN": "荧光石（中级）"
       },
       "tags": ["socketSphere"],
       "nameLines": [
@@ -2313,7 +2324,8 @@
         "de": "Sphäre (Tri)",
         "es": "Esfera (Tri)",
         "pl": "Sfera (Tri)",
-        "pt": "Esfera (Tri)"
+        "pt": "Esfera (Tri)",
+        "zh-CN": "荧光石（高级）"
       },
       "tags": ["socketSphere"],
       "nameLines": [
@@ -3256,7 +3268,8 @@
         "de": "Kleiner Umhang des Lords",
         "es": "Capa de Señor Pequeña",
         "pl": "Mała Peleryna Lorda",
-        "pt": "Pequena capa do Lorde"
+        "pt": "Pequena capa do Lorde",
+        "zh-CN": "小型王者披风"
       },
       "tags": ["cape", "cashShop", "valuable"],
       "description": [
@@ -3301,7 +3314,8 @@
         "de": "Kleine Fluchflügel",
         "es": "Ala de Maldición Pequeña",
         "pl": "Małe Skrzydło Klątwy",
-        "pt": "Pequenas asas da maldição"
+        "pt": "Pequenas asas da maldição",
+        "zh-CN": "小型诅咒之翼"
       },
       "tags": ["cashShop", "valuable"],
       "description": [
@@ -3346,7 +3360,8 @@
         "de": "Kleine Elfenflügel",
         "es": "Alas de Elfa Pequeñas",
         "pl": "Małe Skrzydła Elfa",
-        "pt": "Pequenas asas do elfo"
+        "pt": "Pequenas asas do elfo",
+        "zh-CN": "小型精灵之翼"
       },
       "tags": ["cashShop", "valuable"],
       "description": [
@@ -3391,7 +3406,8 @@
         "de": "Kleine Himmelsflügel",
         "es": "Alas de Cielo Pequeñas",
         "pl": "Małe Skrzydła Niebios",
-        "pt": "Pequenas asas do paraíso"
+        "pt": "Pequenas asas do paraíso",
+        "zh-CN": "小型天使之翼"
       },
       "tags": ["cashShop", "valuable"],
       "description": [
@@ -3437,7 +3453,8 @@
         "de": "Kleine Satansflügel",
         "es": "Alas de Satán Pequeñas",
         "pl": "Małe Skrzydła Szatana",
-        "pt": "Pequenas asas de Satã"
+        "pt": "Pequenas asas de Satã",
+        "zh-CN": "小型恶魔之翼"
       },
       "tags": ["cashShop", "valuable"],
       "description": [
@@ -3483,7 +3500,8 @@
         "de": "Kleiner Kriegerumhang",
         "es": "Capa del Pequeño Guerrero",
         "pl": "Mały Płaszcz Wojownika",
-        "pt": "Manto de Pequeno Guerreiro"
+        "pt": "Manto de Pequeno Guerreiro",
+        "zh-CN": "小型武士披风"
       },
       "tags": ["cape", "cashShop", "valuable"],
       "description": [

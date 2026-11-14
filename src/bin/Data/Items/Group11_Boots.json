@@ -544,7 +544,8 @@
         "de": "Göttliche Stiefel",
         "es": "Botas Divinas",
         "pl": "Boskie buty",
-        "pt": "Botas divinas"
+        "pt": "Botas divinas",
+        "zh-CN": "圣灵之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -570,7 +571,8 @@
         "de": "Donnerfalkenstiefel",
         "es": "Botas Halcón de Trueno",
         "pl": "Buty Gromowego Jastrzębia",
-        "pt": "Botas de Thunder Hawk"
+        "pt": "Botas de Thunder Hawk",
+        "zh-CN": "奔雷之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -651,7 +653,8 @@
         "de": "Orkanstiefel",
         "es": "Botas Huracán",
         "pl": "Buty Huraganu",
-        "pt": "Botas do furacão"
+        "pt": "Botas do furacão",
+        "zh-CN": "魔神之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -704,7 +707,8 @@
         "de": "Leichtplattenstiefel",
         "es": "Botas Plata de Luz",
         "pl": "Lekkie buty płytowe",
-        "pt": "Botas de placa leve"
+        "pt": "Botas de placa leve",
+        "zh-CN": "圣元之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -730,7 +734,8 @@
         "de": "Adamantstiefel",
         "es": "Botas Adamantinas",
         "pl": "Adamantytowe buty",
-        "pt": "Botas de adamantina"
+        "pt": "Botas de adamantina",
+        "zh-CN": "圣魂之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -756,7 +761,8 @@
         "de": "Dunkelstahlstiefel",
         "es": "Botas Acero Oscuro",
         "pl": "Buty z mrocznej stali",
-        "pt": "Botas de aço negro"
+        "pt": "Botas de aço negro",
+        "zh-CN": "神圣之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -782,7 +788,8 @@
         "de": "Dunkelmeisterstiefel",
         "es": "Botas Amo Oscuro",
         "pl": "Buty Mrocznego Mistrza",
-        "pt": "Botas do Mestre negro"
+        "pt": "Botas do Mestre negro",
+        "zh-CN": "至尊之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -835,7 +842,8 @@
         "de": "Giftnebelstiefel",
         "es": "Botas Bruma de Veneno",
         "pl": "Buty Jadowitej Mgły",
-        "pt": "Botas da névoa de veneno"
+        "pt": "Botas da névoa de veneno",
+        "zh-CN": "法魂玄灵之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -862,7 +870,8 @@
         "de": "Sylphenstrahlstiefel",
         "es": "Botas Rayo de Sílfide",
         "pl": "Buty Sylphid Ray",
-        "pt": "Botas do raio silfídico"
+        "pt": "Botas do raio silfídico",
+        "zh-CN": "紫灵之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -889,7 +898,8 @@
         "de": "Vulkanstiefel",
         "es": "Botas Volcán",
         "pl": "Buty Wulkanu",
-        "pt": "Botas do vulcão"
+        "pt": "Botas do vulcão",
+        "zh-CN": "天魔斗神之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -995,7 +1005,8 @@
         "de": "Iris-Stiefel",
         "es": "Botas Iris",
         "pl": "Buty Iris",
-        "pt": "Botas de Iris"
+        "pt": "Botas de Iris",
+        "zh-CN": "碧影之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1020,7 +1031,8 @@
         "de": "Kühne Stiefel",
         "es": "Botas Valientes",
         "pl": "Waleczne buty",
-        "pt": "Botas do valor"
+        "pt": "Botas do valor",
+        "zh-CN": "烈火之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1045,7 +1057,8 @@
         "de": "Glorreiche Stiefel",
         "es": "Botas Gloriosas",
         "pl": "Chwalebne buty",
-        "pt": "Botas gloriosas"
+        "pt": "Botas gloriosas",
+        "zh-CN": "圣光之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1070,7 +1083,8 @@
         "de": "Sturmwindstiefel",
         "es": "Botas Viento Violento",
         "pl": "Buty Gwałtownego Wiatru",
-        "pt": "Botas do vento violento"
+        "pt": "Botas do vento violento",
+        "zh-CN": "飓风之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1149,7 +1163,8 @@
         "de": "Dämonische Stiefel",
         "es": "Botas Demoníacas",
         "pl": "Demoniczne buty",
-        "pt": "Botas demoníacas"
+        "pt": "Botas demoníacas",
+        "zh-CN": "魔灵之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1174,7 +1189,8 @@
         "de": "Sturmblitzstiefel",
         "es": "Botas Ráfaga Tormentosa",
         "pl": "Buty Burzowego Błysku",
-        "pt": "Botas Relâmpago de Tempest."
+        "pt": "Botas Relâmpago de Tempest.",
+        "zh-CN": "风影之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1201,7 +1217,8 @@
         "de": "Ewigschwingenstiefel",
         "es": "Botas Ala Eterna",
         "pl": "Buty Wiecznego Skrzydła",
-        "pt": "Botas da asa eterna"
+        "pt": "Botas da asa eterna",
+        "zh-CN": "恒翼之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1228,7 +1245,8 @@
         "de": "Titanenstiefel",
         "es": "Botas Titán",
         "pl": "Buty Tytana",
-        "pt": "Botas do titã"
+        "pt": "Botas do titã",
+        "zh-CN": "泰坦之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1333,7 +1351,8 @@
         "de": "Seraphim-Stiefel",
         "es": "Botas Serafín",
         "pl": "Buty Serafina",
-        "pt": "Botas do serafim"
+        "pt": "Botas do serafim",
+        "zh-CN": "恐惧之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1359,7 +1378,8 @@
         "de": "Glaubensstiefel",
         "es": "Botas de Fe",
         "pl": "Buty Wiary",
-        "pt": "Botas da fé"
+        "pt": "Botas da fé",
+        "zh-CN": "灵光之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1386,7 +1406,8 @@
         "de": "Königliche Stiefel",
         "es": "Botas Reales",
         "pl": "Królewskie buty",
-        "pt": "Botas reais"
+        "pt": "Botas reais",
+        "zh-CN": "霸王之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1412,7 +1433,8 @@
         "de": "Hades-Stiefel",
         "es": "Botas Hades",
         "pl": "Buty Hadesa",
-        "pt": "Botas de Hades"
+        "pt": "Botas de Hades",
+        "zh-CN": "冥王之靴"
       },
       "options": ["luck"],
       "width": 2,
@@ -1624,7 +1646,8 @@
         "de": "Sturmwindstiefel",
         "es": "Botas Viento Violento",
         "pl": "Buty Gwałtownego Wiatru",
-        "pt": "Botas do vento violento"
+        "pt": "Botas do vento violento",
+        "zh-CN": "飓风之靴"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1656,7 +1679,8 @@
         "de": "Adamantstiefel",
         "es": "Botas Adamantinas",
         "pl": "Adamantytowe buty",
-        "pt": "Botas de adamantina"
+        "pt": "Botas de adamantina",
+        "zh-CN": "圣魂之靴"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],
@@ -1823,7 +1847,8 @@
         "de": "Atlans-Stiefel",
         "es": "Botas Cuervo de Tormenta",
         "pl": "Buty Atlans",
-        "pt": "Botas do corvo da tempestade"
+        "pt": "Botas do corvo da tempestade",
+        "zh-CN": "亚特兰蒂斯之靴"
       },
       "tags": ["luckyItem"],
       "options": ["luck"],

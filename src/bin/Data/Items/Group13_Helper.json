@@ -302,7 +302,8 @@
         "de": "Vertrag (Beschwörung)",
         "es": "Contrato (Invocación)",
         "pl": "Kontrakt (przywołanie)",
-        "pt": "Contrato (Invocação)"
+        "pt": "Contrato (Invocação)",
+        "zh-CN": "召唤卷轴"
       },
       "description": [
         {
@@ -570,7 +571,8 @@
         "de": "Befehl (Wächter/Lebensstein)",
         "es": "Orden (Guardián/Roca de Vida)",
         "pl": "Rozkaz (Strażnik/Kamień Życia)",
-        "pt": "Ordem (Guard./Pedra da Vida)"
+        "pt": "Ordem (Guard./Pedra da Vida)",
+        "zh-CN": "守护卷轴（复活石）"
       },
       "description": [
         {
@@ -1091,7 +1093,8 @@
         "de": "Absolute Waffe des Erzengels",
         "es": "Arma Absoluta de Arcángel",
         "pl": "Absolutna Broń Archanioła",
-        "pt": "Arma absoluta do arcanjo"
+        "pt": "Arma absoluta do arcanjo",
+        "zh-CN": "大天使之绝对武器"
       },
       "tags": ["valuable"],
       "description": [
@@ -2100,7 +2103,8 @@
         "de": "Geist",
         "es": "Espíritu",
         "pl": "Duch",
-        "pt": "Espírito"
+        "pt": "Espírito",
+        "zh-CN": "守护精灵"
       },
       "tags": ["valuable"],
       "description": [
@@ -2596,7 +2600,8 @@
         "de": "Elite-Skelett-Verwandlungsring",
         "es": "Aro Esqueleto Traslado Élite",
         "pl": "Elitarny Pierścień Przemiany w Szkieleta",
-        "pt": "Anel Esqueleto Transf. Acel."
+        "pt": "Anel Esqueleto Transf. Acel.",
+        "zh-CN": "骷髅战士变身戒指"
       },
       "tags": ["transformationRing"],
       "description": [
@@ -2674,7 +2679,8 @@
         "de": "Jack-O'Lantern-Verwandlungsring",
         "es": "Anillo de Jack O'Lantern",
         "pl": "Pierścień Jack O'Lantern",
-        "pt": "Anel do Jack Olantern"
+        "pt": "Anel do Jack Olantern",
+        "zh-CN": "南瓜灯变身戒指"
       },
       "tags": ["transformationRing"],
       "description": [
@@ -2712,7 +2718,8 @@
         "de": "Weihnachts-Verwandlungsring",
         "es": "Aro de Traslado de Navidad",
         "pl": "Świąteczny Pierścień Przemiany",
-        "pt": "Anel do Natal de Transf."
+        "pt": "Anel do Natal de Transf.",
+        "zh-CN": "圣诞变身戒指"
       },
       "tags": ["transformationRing"],
       "description": [
@@ -2809,7 +2816,8 @@
         "de": "GM-Verwandlungsring",
         "es": "Anillo de GM",
         "pl": "Pierścień GM",
-        "pt": "Anel de GM"
+        "pt": "Anel de GM",
+        "zh-CN": "GM变身戒指"
       },
       "tags": ["transformationRing"],
       "description": [
@@ -2974,7 +2982,8 @@
         "de": "Siegel des Aufstiegs",
         "es": "Sello de Ascensión",
         "pl": "Pieczęć Wzniesienia",
-        "pt": "Selo da ascensão"
+        "pt": "Selo da ascensão",
+        "zh-CN": "光之祝福"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3023,7 +3032,8 @@
         "de": "Siegel des Wohlstands",
         "es": "Sello de Riqueza",
         "pl": "Pieczęć Bogactwa",
-        "pt": "Selo da riqueza"
+        "pt": "Selo da riqueza",
+        "zh-CN": "财富印章"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3072,7 +3082,8 @@
         "de": "Siegel der Erhaltung",
         "es": "Sello de Sustento",
         "pl": "Pieczęć Wytrwałości",
-        "pt": "Selo do sustento"
+        "pt": "Selo do sustento",
+        "zh-CN": "禁锢印章"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3306,7 +3317,8 @@
         "de": "Alte Schriftrolle",
         "es": "Antiguo Rollo",
         "pl": "Stary zwój",
-        "pt": "Pergaminho antigo"
+        "pt": "Pergaminho antigo",
+        "zh-CN": "旧卷纸"
       },
       "description": [
         {
@@ -3347,7 +3359,8 @@
         "de": "Vertrag des Illusionszauberers",
         "es": "Pacto Ilusión de Hechicero",
         "pl": "Przymierze Czarnoksiężnika Iluzji",
-        "pt": "Pacto Feiticeiro da Ilusão"
+        "pt": "Pacto Feiticeiro da Ilusão",
+        "zh-CN": "幻影教药水"
       },
       "description": [
         {
@@ -3388,7 +3401,8 @@
         "de": "Schriftrolle des Blutes",
         "es": "Rollo de Sangre",
         "pl": "Zwój Krwi",
-        "pt": "Pergaminho de sangue"
+        "pt": "Pergaminho de sangue",
+        "zh-CN": "血的卷纸"
       },
       "description": [
         {
@@ -3651,7 +3665,8 @@
         "de": "Siegel der Mobilität",
         "es": "Sello de Movilidad",
         "pl": "Pieczęć Mobilności",
-        "pt": "Selo da mobilidade"
+        "pt": "Selo da mobilidade",
+        "zh-CN": "移动印章"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3698,7 +3713,8 @@
         "de": "Ablassbrief",
         "es": "Indulgencia",
         "pl": "Odpust",
-        "pt": "Indulgência"
+        "pt": "Indulgência",
+        "zh-CN": "赎罪券"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3804,7 +3820,8 @@
         "de": "Siegel der Heilung",
         "es": "Sello de Curación",
         "pl": "Pieczęć Uzdrowienia",
-        "pt": "Selo da cura"
+        "pt": "Selo da cura",
+        "zh-CN": "治疗印章"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3887,7 +3904,8 @@
         "de": "Siegel der Göttlichkeit",
         "es": "Sello de Divinidad",
         "pl": "Pieczęć Boskości",
-        "pt": "Selo da divindade"
+        "pt": "Selo da divindade",
+        "zh-CN": "神圣印章"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3966,7 +3984,8 @@
         "de": "Dämon",
         "es": "Demonio",
         "pl": "Demon",
-        "pt": "Demônio"
+        "pt": "Demônio",
+        "zh-CN": "小恶魔"
       },
       "tags": ["guardianPet", "cashShop", "valuable"],
       "description": [
@@ -4029,7 +4048,8 @@
         "de": "Schutzgeist",
         "es": "Espír. Guardián",
         "pl": "Duch Strażnika",
-        "pt": "Espír. Guardião"
+        "pt": "Espír. Guardião",
+        "zh-CN": "守护之魂"
       },
       "tags": ["guardianPet", "cashShop", "valuable"],
       "description": [
@@ -4157,7 +4177,8 @@
         "de": "Haustier Rudolf",
         "es": "Mascota Rudolf",
         "pl": "Zwierzak Rudolf",
-        "pt": "Animal de estimação Rodolfo"
+        "pt": "Animal de estimação Rodolfo",
+        "zh-CN": "鲁道夫"
       },
       "description": [
         {
@@ -4677,7 +4698,8 @@
         "de": "Talisman des Wächters",
         "es": "Talismán de Guardián",
         "pl": "Talizman Strażnika",
-        "pt": "Talismã do Guardião"
+        "pt": "Talismã do Guardião",
+        "zh-CN": "守护护符"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4755,7 +4777,8 @@
         "de": "Talisman des Gegenstandsschutzes",
         "es": "Talismán Protección de Ítems",
         "pl": "Talizman Ochrony Przedmiotu",
-        "pt": "Talismã de Proteção de Item"
+        "pt": "Talismã de Proteção de Item",
+        "zh-CN": "物品保护护符"
       },
       "tags": ["cashShop"],
       "description": [
@@ -4833,7 +4856,8 @@
         "de": "Talisman der Satansflügel",
         "es": "Talismán de Alas de Satán",
         "pl": "Talizman Skrzydeł Szatana",
-        "pt": "Talismã das Asas de Satã"
+        "pt": "Talismã das Asas de Satã",
+        "zh-CN": "恶魔之翼护符"
       },
       "description": [
         {
@@ -4872,7 +4896,8 @@
         "de": "Talisman der Himmelsflügel",
         "es": "Talismán de Alas de Cielo",
         "pl": "Talizman Skrzydeł Niebios",
-        "pt": "Talismã das Asas do Paraíso"
+        "pt": "Talismã das Asas do Paraíso",
+        "zh-CN": "天使之翼护符"
       },
       "description": [
         {
@@ -4911,7 +4936,8 @@
         "de": "Talisman der Elfenflügel",
         "es": "Talismán de Alas de Elfo",
         "pl": "Talizman Skrzydeł Elfa",
-        "pt": "Talismã das Asas do Elfo"
+        "pt": "Talismã das Asas do Elfo",
+        "zh-CN": "精灵之翼护符"
       },
       "description": [
         {
@@ -4950,7 +4976,8 @@
         "de": "Talisman der Fluchflügel",
         "es": "Talismán de Alas de Maldición",
         "pl": "Talizman Skrzydła Klątwy",
-        "pt": "Talismã da Asa da Maldição"
+        "pt": "Talismã da Asa da Maldição",
+        "zh-CN": "诅咒之翼护符"
       },
       "description": [
         {
@@ -4989,7 +5016,8 @@
         "de": "Talisman des Umhangs des Imperators",
         "es": "Talismán de Capa de Emperador",
         "pl": "Talizman Peleryny Cesarza",
-        "pt": "Talismã da Capa do Imperador"
+        "pt": "Talismã da Capa do Imperador",
+        "zh-CN": "帝王披风护符"
       },
       "description": [
         {
@@ -5028,7 +5056,8 @@
         "de": "Talisman der Drachenflügel",
         "es": "Talismán de Alas de Dragón",
         "pl": "Talizman Skrzydeł Smoka",
-        "pt": "Talismã das Asas do Dragão"
+        "pt": "Talismã das Asas do Dragão",
+        "zh-CN": "飞龙之翼护符"
       },
       "description": [
         {
@@ -5067,7 +5096,8 @@
         "de": "Talisman der Seelenflügel",
         "es": "Talismán de Alas del Alma",
         "pl": "Talizman Skrzydeł Duszy",
-        "pt": "Talismã das Asas da Alma"
+        "pt": "Talismã das Asas da Alma",
+        "zh-CN": "魔魂之翼护符"
       },
       "description": [
         {
@@ -5106,7 +5136,8 @@
         "de": "Talisman der Geisterflügel",
         "es": "Talismán de Alas de Espíritus",
         "pl": "Talizman Skrzydeł Duchów",
-        "pt": "Talismã das Asas dos Esp."
+        "pt": "Talismã das Asas dos Esp.",
+        "zh-CN": "圣灵之翼护符"
       },
       "description": [
         {
@@ -5145,7 +5176,8 @@
         "de": "Talisman der Flügel der Verzweiflung",
         "es": "Talismán Alas de Desolación",
         "pl": "Talizman Skrzydła Rozpaczy",
-        "pt": "Talismã da Asa do Desespero"
+        "pt": "Talismã da Asa do Desespero",
+        "zh-CN": "绝望之翼护符"
       },
       "description": [
         {
@@ -5184,7 +5216,8 @@
         "de": "Talisman der Flügel der Dunkelheit",
         "es": "Talismán de Alas de Oscuridad",
         "pl": "Talizman Skrzydeł Ciemności",
-        "pt": "Talismã das Asas da Escuridão"
+        "pt": "Talismã das Asas da Escuridão",
+        "zh-CN": "暗黑之翼护符"
       },
       "description": [
         {
@@ -5223,7 +5256,8 @@
         "de": "Meistersiegel des Aufstiegs",
         "es": "Sello Maestro de Ascensión",
         "pl": "Mistrzowska Pieczęć Wzniesienia",
-        "pt": "Selo Mestre da Ascensão"
+        "pt": "Selo Mestre da Ascensão",
+        "zh-CN": "大师光之祝福"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5267,7 +5301,8 @@
         "de": "Meistersiegel des Wohlstands",
         "es": "Sello Maestro de Riqueza",
         "pl": "Mistrzowska Pieczęć Bogactwa",
-        "pt": "Selo Mestre da Riqueza"
+        "pt": "Selo Mestre da Riqueza",
+        "zh-CN": "大师财富印章"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5306,7 +5341,8 @@
         "de": "Ehre des Gladiators",
         "es": "Honor de Gladiador",
         "pl": "Honor Gladiatora",
-        "pt": "Honra do Gladiador"
+        "pt": "Honra do Gladiador",
+        "zh-CN": "角斗士的荣誉"
       },
       "width": 1,
       "height": 1,
@@ -5328,7 +5364,8 @@
         "de": "Siegel der Stärke",
         "es": "Sello de Fuerza",
         "pl": "Pieczęć Siły",
-        "pt": "Selo da Força"
+        "pt": "Selo da Força",
+        "zh-CN": "力量印章"
       },
       "width": 1,
       "height": 1,
@@ -5601,7 +5638,8 @@
         "de": "Ring des tödlichen Zauberers",
         "es": "Anillo Letal de Mago",
         "pl": "Zabójczy Pierścień Czarodzieja",
-        "pt": "Anel do Mago Letal"
+        "pt": "Anel do Mago Letal",
+        "zh-CN": "致命魔法师之戒"
       },
       "tags": ["cashShop"],
       "description": [
@@ -5990,7 +6028,8 @@
         "de": "Siegel des Wohlstands",
         "es": "Sello de Riqueza",
         "pl": "Pieczęć Bogactwa",
-        "pt": "Selo da riqueza"
+        "pt": "Selo da riqueza",
+        "zh-CN": "财富印章"
       },
       "tags": ["cashShop"],
       "description": [
@@ -6491,7 +6530,8 @@
         "de": "Freikarte für Doppelganger",
         "es": "Boleto Acceso a Doppenganger",
         "pl": "Bilet wolnego wstępu do Doppelganger",
-        "pt": "Bilhete Ac. Livre Doppeganger"
+        "pt": "Bilhete Ac. Livre Doppeganger",
+        "zh-CN": "分身幻影自由入场券"
       },
       "tags": ["cashShop"],
       "description": [
@@ -6545,7 +6585,8 @@
         "de": "Freikarte für Varka",
         "es": "Boleto Acceso a Varka",
         "pl": "Bilet wolnego wstępu do Varka",
-        "pt": "Bilhete Ac. Livre Varka"
+        "pt": "Bilhete Ac. Livre Varka",
+        "zh-CN": "帝国要塞自由入场券"
       },
       "tags": ["cashShop"],
       "description": [
@@ -6614,7 +6655,8 @@
         "de": "Freikarte für Varka, Karte 7",
         "es": "Boleto Acceso Mapa 7 de Varka",
         "pl": "Bilet wolnego wstępu do Varka (mapa 7)",
-        "pt": "Bil. Ac. Livre Mapa 7 Varka"
+        "pt": "Bil. Ac. Livre Mapa 7 Varka",
+        "zh-CN": "帝国要塞第7区域自由入场券"
       },
       "tags": ["cashShop"],
       "description": [
@@ -6683,7 +6725,8 @@
         "de": "Falkenfigur",
         "es": "Figura de Halcón",
         "pl": "Figurka jastrzębia",
-        "pt": "Estatueta de falcão"
+        "pt": "Estatueta de falcão",
+        "zh-CN": "鹰雕像"
       },
       "groundLabels": [{"style": "charm"}],
       "width": 1,
@@ -6707,7 +6750,8 @@
         "de": "Ziegenfigur",
         "es": "Figura de Cabra",
         "pl": "Figurka kozy",
-        "pt": "Estatueta de bode"
+        "pt": "Estatueta de bode",
+        "zh-CN": "山羊雕像"
       },
       "groundLabels": [{"style": "charm"}],
       "width": 1,
@@ -6731,7 +6775,8 @@
         "de": "Eichen-Glücksbringer",
         "es": "Amuleto de Roble",
         "pl": "Dębowy amulet",
-        "pt": "Amuleto de carvalho"
+        "pt": "Amuleto de carvalho",
+        "zh-CN": "橡树护符"
       },
       "groundLabels": [{"style": "charm"}],
       "width": 1,
@@ -6755,7 +6800,8 @@
         "de": "Ahorn-Glücksbringer",
         "es": "Amuleto de Arce",
         "pl": "Klonowy amulet",
-        "pt": "Amuleto de bordo"
+        "pt": "Amuleto de bordo",
+        "zh-CN": "枫树护符"
       },
       "groundLabels": [{"style": "charm"}],
       "width": 1,
@@ -6779,7 +6825,8 @@
         "de": "Goldener Eichen-Glücksbringer",
         "es": "Amuleto Dorado de Roble",
         "pl": "Złoty dębowy amulet",
-        "pt": "Amuleto de carvalho dourado"
+        "pt": "Amuleto de carvalho dourado",
+        "zh-CN": "黄金橡树护符"
       },
       "groundLabels": [{"style": "charm"}],
       "width": 1,
@@ -6803,7 +6850,8 @@
         "de": "Goldener Ahorn-Glücksbringer",
         "es": "Amuleto Dorado de Arce",
         "pl": "Złoty klonowy amulet",
-        "pt": "Amuleto de bordo dourado"
+        "pt": "Amuleto de bordo dourado",
+        "zh-CN": "黄金枫树护符"
       },
       "groundLabels": [{"style": "charm"}],
       "width": 1,
@@ -6827,7 +6875,8 @@
         "de": "Abgenutztes Hufeisen",
         "es": "Herradura usada",
         "pl": "Zużyta podkowa",
-        "pt": "Ferradura gasta"
+        "pt": "Ferradura gasta",
+        "zh-CN": "磨损的马蹄铁"
       },
       "groundLabels": [{"style": "charm"}],
       "width": 1,

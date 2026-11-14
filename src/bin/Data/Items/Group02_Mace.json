@@ -480,7 +480,8 @@
         "de": "Sonnenzepter",
         "es": "Cetro Soleil",
         "pl": "Berło Soleil",
-        "pt": "Cetro Soleil"
+        "pt": "Cetro Soleil",
+        "zh-CN": "圣尊天使权杖"
       },
       "tags": ["sceptre"],
       "options": ["luck"],
@@ -575,7 +576,8 @@
         "de": "Absolutes Zepter",
         "es": "Cetro Absoluto",
         "pl": "Absolutne berło",
-        "pt": "Cetro absoluto"
+        "pt": "Cetro absoluto",
+        "zh-CN": "独裁权杖"
       },
       "tags": ["sceptre"],
       "options": ["luck"],
@@ -607,7 +609,8 @@
         "de": "Stürmerzepter",
         "es": "Cero Ariete",
         "pl": "Berło Uderzenia",
-        "pt": "Cetro golpeador"
+        "pt": "Cetro golpeador",
+        "zh-CN": "弹奏权杖"
       },
       "tags": ["sceptre"],
       "options": ["luck"],

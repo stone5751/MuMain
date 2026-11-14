@@ -177,7 +177,8 @@
         "de": "Belagerungstrank",
         "es": "Pócima de Asedio",
         "pl": "Mikstura oblężnicza",
-        "pt": "Poção de sítio"
+        "pt": "Poção de sítio",
+        "zh-CN": "攻城药水"
       },
       "description": [
         {
@@ -1062,7 +1063,8 @@
         "de": "Heilmittel der Liebe",
         "es": "Remedio de Amor",
         "pl": "Lek Miłości",
-        "pt": "Remédio do amor"
+        "pt": "Remédio do amor",
+        "zh-CN": "爱情药水"
       },
       "width": 1,
       "height": 1,
@@ -1075,7 +1077,8 @@
         "de": "Rena",
         "es": "Rena",
         "pl": "Rena",
-        "pt": "Rena"
+        "pt": "Rena",
+        "zh-CN": "瑞纳"
       },
       "description": [
         {
@@ -2012,7 +2015,8 @@
         "de": "Segen von Jack O'Lantern",
         "es": "Bendiciones de Jack O'Lantern",
         "pl": "Błogosławieństwo Jack O'Lantern",
-        "pt": "Bênçãos do Jack O'Lantern"
+        "pt": "Bênçãos do Jack O'Lantern",
+        "zh-CN": "南瓜灯的祝福"
       },
       "description": [
         {
@@ -2055,7 +2059,8 @@
         "de": "Wut von Jack O'Lantern",
         "es": "Ira de Jack O'Lantern",
         "pl": "Gniew Jack O'Lantern",
-        "pt": "Ira do Jack O'Lantern"
+        "pt": "Ira do Jack O'Lantern",
+        "zh-CN": "南瓜灯的愤怒"
       },
       "description": [
         {
@@ -2098,7 +2103,8 @@
         "de": "Schrei von Jack O'Lantern",
         "es": "Grito de Jack O'Lantern",
         "pl": "Krzyk Jack O'Lantern",
-        "pt": "Grito do Jack O'Lantern"
+        "pt": "Grito do Jack O'Lantern",
+        "zh-CN": "南瓜灯的呐喊"
       },
       "description": [
         {
@@ -2141,7 +2147,8 @@
         "de": "Essen von Jack O'Lantern",
         "es": "Alimento de Jack O'Lantern",
         "pl": "Jedzenie Jack O'Lantern",
-        "pt": "Comida do Jack O'Lantern"
+        "pt": "Comida do Jack O'Lantern",
+        "zh-CN": "南瓜灯食品"
       },
       "description": [
         {
@@ -2184,7 +2191,8 @@
         "de": "Getränk von Jack O'Lantern",
         "es": "Trago de Jack O'Lantern",
         "pl": "Napój Jack O'Lantern",
-        "pt": "Bebida do Jack O'Lantern"
+        "pt": "Bebida do Jack O'Lantern",
+        "zh-CN": "南瓜灯饮料"
       },
       "description": [
         {
@@ -2564,7 +2572,8 @@
         "de": "Verfluchtes Burgwasser",
         "es": "Agua de Castillo Maldito",
         "pl": "Woda z Przeklętego Zamku",
-        "pt": "Água do Castelo Amaldiçoado"
+        "pt": "Água do Castelo Amaldiçoado",
+        "zh-CN": "诅咒城堡之水"
       },
       "description": [
         {
@@ -3425,7 +3434,8 @@
         "de": "Kirschblüten-Spielbox",
         "es": "Caja Juegos Flor de Cerezo",
         "pl": "Szkatuła kwiatu wiśni",
-        "pt": "Cx. de Brinq. Flor de Cereja"
+        "pt": "Cx. de Brinq. Flor de Cereja",
+        "zh-CN": "樱花游戏宝箱"
       },
       "description": [
         {
@@ -3658,7 +3668,8 @@
         "de": "Chaoskarte (Gold)",
         "es": "Tarjeta de Caos Oro",
         "pl": "Złota Karta Chaosu",
-        "pt": "Cartão dourado do caos"
+        "pt": "Cartão dourado do caos",
+        "zh-CN": "黄金玛雅卡片"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3684,7 +3695,8 @@
         "de": "Chaoskarte (Selten)",
         "es": "Tarjeta de Caos Rara",
         "pl": "Rzadka Karta Chaosu",
-        "pt": "Cartão raro do caos"
+        "pt": "Cartão raro do caos",
+        "zh-CN": "稀有玛雅卡片"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3710,7 +3722,8 @@
         "de": "Mittlerer Elite-Heiltrank",
         "es": "Pócima Curación Élite Media",
         "pl": "Średnia elitarna mikstura leczenia",
-        "pt": "Poção média de cura de elite"
+        "pt": "Poção média de cura de elite",
+        "zh-CN": "中瓶高级治疗药水"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3752,7 +3765,8 @@
         "de": "Chaoskarte (Mini)",
         "es": "Tarjeta de Caos Mini",
         "pl": "Mini Karta Chaosu",
-        "pt": "Mini cartão do caos"
+        "pt": "Mini cartão do caos",
+        "zh-CN": "迷你玛雅卡片"
       },
       "tags": ["cashShop"],
       "description": [
@@ -3849,7 +3863,8 @@
         "de": "Schriftrolle des Kampfes",
         "es": "Rollo de Batalla",
         "pl": "Zwój Bitwy",
-        "pt": "Pergaminho da batalha"
+        "pt": "Pergaminho da batalha",
+        "zh-CN": "战斗卷轴"
       },
       "tags": ["battleOrStrengthScroll", "cashShop"],
       "description": [
@@ -3891,7 +3906,8 @@
         "de": "Schriftrolle der Stärke",
         "es": "Rollo de Fuerza",
         "pl": "Zwój Siły",
-        "pt": "Pergaminho da força"
+        "pt": "Pergaminho da força",
+        "zh-CN": "力量卷轴"
       },
       "tags": ["battleOrStrengthScroll", "cashShop"],
       "description": [
@@ -5463,7 +5479,8 @@
         "de": "Tantalos' Rüstung",
         "es": "Armadura de Tantalos",
         "pl": "Zbroja Tantalosa",
-        "pt": "Armadura de Tântalos"
+        "pt": "Armadura de Tântalos",
+        "zh-CN": "铁脊怪的铠甲"
       },
       "description": [
         {
@@ -5483,7 +5500,8 @@
         "de": "Verbrannte Keule des Mörders",
         "es": "Garrote de Asesinos Calcinados",
         "pl": "Spalona Maczuga Mordercy",
-        "pt": "Porrete de Assassino Queimado"
+        "pt": "Porrete de Assassino Queimado",
+        "zh-CN": "燃烧的杀戮者之棒"
       },
       "description": [
         {
@@ -5548,7 +5566,8 @@
         "de": "Juwel der Erweiterung",
         "es": "Joya de Extensión",
         "pl": "Klejnot Rozszerzenia",
-        "pt": "Jóia de Extensão"
+        "pt": "Jóia de Extensão",
+        "zh-CN": "延展宝石"
       },
       "description": [
         {
@@ -5587,7 +5606,8 @@
         "de": "Juwel der Erhebung",
         "es": "Joya de Elevación",
         "pl": "Klejnot Wyniesienia",
-        "pt": "Jóia de Elevação"
+        "pt": "Jóia de Elevação",
+        "zh-CN": "提升宝石"
       },
       "description": [
         {

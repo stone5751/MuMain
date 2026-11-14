@@ -572,7 +572,8 @@
         "de": "Dunkler Brecher",
         "es": "Quebrantador Oscuro",
         "pl": "Mroczny Łamacz",
-        "pt": "Destruidora Negra"
+        "pt": "Destruidora Negra",
+        "zh-CN": "屠龙刀"
       },
       "options": ["luck"],
       "width": 2,
@@ -683,7 +684,8 @@
         "de": "Ritterklinge",
         "es": "Espada de Caballero",
         "pl": "Ostrze Rycerza",
-        "pt": "Lâmina do cavaleiro"
+        "pt": "Lâmina do cavaleiro",
+        "zh-CN": "断月之光"
       },
       "options": ["luck"],
       "width": 1,
@@ -814,7 +816,8 @@
         "de": "Tagesanbruch",
         "es": "Albor",
         "pl": "Świt",
-        "pt": "Aurora"
+        "pt": "Aurora",
+        "zh-CN": "暴风锯齿"
       },
       "options": ["luck"],
       "width": 2,
@@ -1004,7 +1007,8 @@
         "de": "Heiliger Handschuh",
         "es": "Guantes Sagrados",
         "pl": "Święta rękawica",
-        "pt": "Luvas Sagradas"
+        "pt": "Luvas Sagradas",
+        "zh-CN": "神圣火焰拳刃"
       },
       "options": ["luck"],
       "width": 1,
@@ -1034,7 +1038,8 @@
         "de": "Heilige Sturmklaue",
         "es": "Garra de Tormenta Sagrada",
         "pl": "Pazur Świętej Burzy",
-        "pt": "Garra de Tempestade Sagrada"
+        "pt": "Garra de Tempestade Sagrada",
+        "zh-CN": "暴风毁灭拳刃"
       },
       "options": ["luck"],
       "width": 1,
@@ -1063,7 +1068,8 @@
         "de": "Durchbohrerklingen-Handschuh",
         "es": "Guantes de Cuchillas Perforadoras",
         "pl": "Rękawica Przeszywającego Ostrza",
-        "pt": "Luvas de Lâmina Perfurante"
+        "pt": "Luvas de Lâmina Perfurante",
+        "zh-CN": "刀锋拳刃"
       },
       "options": ["luck"],
       "width": 1,
@@ -1092,7 +1098,8 @@
         "de": "Phönixseelenstern",
         "es": "Estrella de Alma de Fénix",
         "pl": "Gwiazda Duszy Feniksa",
-        "pt": "Estrela de Alma de Fênix"
+        "pt": "Estrela de Alma de Fênix",
+        "zh-CN": "凤魂之星"
       },
       "options": ["luck"],
       "width": 1,

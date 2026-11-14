@@ -1,0 +1,64 @@
+kind	id	english	chinese	source
+monster	64	Ogre archer	食人魔弓箭手	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	65	Elite Ogre	精英食人魔	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	66	Cursed king	诅咒之王	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	67	Metal Balrog	金属魔王	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	136	Destructive ogre soldier	毁灭食人魔士兵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	137	Destructive ogre archer	毁灭食人魔弓箭手	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	145,175,183,191,261,269,336	Death Centurion	死亡百夫长	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	150	Bali	守护兽巴里	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	151	Soldier	黄金斗士	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+npc	204	Wolf Status	狼神像	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+npc	258	Luke the Helper	助手 Luke	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+npc	259	Oracle Layla	神谕者 Layla	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	297	PK Dark Knight	红名暗黑骑士	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	300	Hero Mutant	变异英雄	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	303	Gigas Golem	巨型石魔	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	304	Witch Queen	丛林女巫师	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	305	Blue Golem	蓝色石魔	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	310	Hammer Scout	巨锤侦察兵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	311	Lance Scout	长矛侦察兵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	312	Bow Scout	魔弓侦察兵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	314	Scout(Hero)	侦察兵（英雄）	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	315	Werewolf(Hero)	狼人（英雄）	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	318	Scout	侦察兵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	345	Death spirit	死亡之灵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	348	Tanker	重装兵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	359	Twin Tale	双尾魔	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	373	Jack Olantern	南瓜灯怪	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	378	GameMaster	游戏管理员	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+npc	381	MU Allies General	MU联盟将军	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+npc	382	Illusion Sorcerer Elder	幻影教长老	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	386,389,392,395,398,401	Illusion Sorcerer Spirit	幻影教之灵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	387,390,393,396,399,402	Illusion Sorcerer Spirit	幻影教之灵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	388,391,394,397,400,403	Illusion Sorcerer Spirit	幻影教之灵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	404	MU Allies	MU联盟成员	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	405	Illusion Sorcerer	幻影教徒	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	410	Death Spirit (Trainee Soldier)	死亡之灵（训练兵）	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	412	Dark Elf (Trainee Soldier)	暗黑精灵（训练兵）	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+npc	414	Helper Ellen	助手 Ellen	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	444	Shadow Pawn	暗影士兵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	445	Shadow Knight	暗影骑士	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	463	Fire Flame Ghost	烈焰幽灵	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	482,483	Resurrected Gladiator	复生角斗士	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	484,485	Ash Slaughterer	灰烬屠戮者	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	497	Golden Satyros	黄金半兽人	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	498	Golden Twin Tail	黄金双尾魔	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	499	Golden Iron Knight	黄金铁甲骑士	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	505	Jerint	杰林特	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	529	Furious Slaughterer	狂暴屠戮者	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	530	Slaughterer	屠戮者	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	549	Bloody Orc	血腥丛林生命体	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	550	Bloody Death Rider	血腥丛林猎杀者	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	551	Bloody Golem	血腥石魔	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	552	Bloody Witch Queen	血腥丛林女巫师	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	553	Berserker Warrior	疯魔战士	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	554	Kentauros Warrior	寒冰刺客战士	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	555	Gigantis Warrior	狂巨人战士	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	556	Genocider Warrior	屠杀者战士	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+monster	559	Shadow Master	暗影之主	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+npc	566	Mercenary Guild Manager Tercia	佣兵团管理员 Tercia	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+npc	567	Priestess Veina	女祭司 Veina	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+npc	568	Wandering Merchant Zyro	流浪商人 Zyro	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+npc	577	Leina the General Goods Merchant	杂货商人 Leina	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
+npc	578	Weapons Merchant Bolo	武器商人 Bolo	original entity ID; existing base-name glossary or literal role translation; unconfirmed personal names retained
