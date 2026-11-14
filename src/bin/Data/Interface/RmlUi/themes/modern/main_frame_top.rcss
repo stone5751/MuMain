@@ -37,6 +37,10 @@
 	font-effect: outline(1dp #000000);
 	font-size: 8dp;
 }
+.frame-btn-top span {
+	font-family: "token(font-body)";
+	font-size: 8dp;
+}
 .frame-btn-top:hover,
 .frame-btn-top.open {
 	background-color: token(accent-steel);

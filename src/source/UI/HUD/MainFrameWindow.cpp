@@ -1,6 +1,7 @@
 
 #include "stdafx.h"
 #include <algorithm>
+#include <string_view>
 #include "I18N/All.h"
 
 #include "UI/HUD/MainFrameWindow.h"	// self
@@ -151,6 +152,11 @@ void mu::ui::window::CMainFrameWindow::BindRmlModel(Rml::DataModelConstructor& c
     c.Bind("myinven_tooltip", &model.myInvenTooltip);
     c.Bind("friend_tooltip", &model.friendTooltip);
     c.Bind("window_tooltip", &model.windowTooltip);
+    c.Bind("cshop_label", &model.cShopLabel);
+    c.Bind("chainfo_label", &model.chaInfoLabel);
+    c.Bind("myinven_label", &model.myInvenLabel);
+    c.Bind("friend_label", &model.friendLabel);
+    c.Bind("window_label", &model.windowLabel);
     c.Bind("party_open", &model.partyOpen);
     c.Bind("guild_open", &model.guildOpen);
     c.Bind("command_open", &model.commandOpen);
@@ -484,10 +490,33 @@ bool mu::ui::window::CMainFrameWindow::Update()
     return true;
 }
 
+void mu::ui::window::CMainFrameWindow::SyncButtonCaptions()
+{
+    const bool chinese = std::string_view(I18N::GetCurrentLocale()) == "zh-CN";
+    auto syncCaption = [this, chinese](Rml::String MainFrameRmlModel::* field, const char* binding,
+                                       const wchar_t* localized, const char* original)
+    {
+        const Rml::String text = chinese ? StringUtils::WideToNarrow(localized) : original;
+        auto& value = m_RmlView.GetModel().*field;
+        if (value == text)
+            return;
+        value = text;
+        m_RmlView.MarkDirty(binding);
+    };
+    // Keep the original short English captions; synchronize every frame so open
+    // documents and rebuilt themes also follow a language change.
+    syncCaption(&MainFrameRmlModel::cShopLabel, "cshop_label", I18N::Game::Shop, "SHOP");
+    syncCaption(&MainFrameRmlModel::chaInfoLabel, "chainfo_label", I18N::Game::Character, "CHAR");
+    syncCaption(&MainFrameRmlModel::myInvenLabel, "myinven_label", I18N::Game::Inventory, "INV");
+    syncCaption(&MainFrameRmlModel::friendLabel, "friend_label", I18N::Game::FriendsList, "FRIEND");
+    syncCaption(&MainFrameRmlModel::windowLabel, "window_label", I18N::Game::Menu, "MENU");
+}
+
 void mu::ui::window::CMainFrameWindow::SyncRmlModel()
 {
     if (!m_RmlView.Document()) return;
 
+    SyncButtonCaptions();
     auto& model = m_RmlView.GetModel();
 
     // --- HP/MP/AG/SD/EXP: fraction/text/tooltip helper, mirrors CMuHelperBar's syncLabel() ---

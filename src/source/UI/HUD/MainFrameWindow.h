@@ -103,6 +103,7 @@ namespace mu::ui::window
 
     private:
         void SyncRmlModel();
+        void SyncButtonCaptions();
         void BuildRmlUi();
 
     public:
@@ -143,6 +144,7 @@ namespace mu::ui::window
             // Corner buttons: "Open" mirrors SetBtnState()'s bStateDown; tooltips are static strings pushed once.
             bool cShopOpen = false, chaInfoOpen = false, myInvenOpen = false, friendOpen = false, windowOpen = false;
             Rml::String cShopTooltip, chaInfoTooltip, myInvenTooltip, friendTooltip, windowTooltip;
+            Rml::String cShopLabel, chaInfoLabel, myInvenLabel, friendLabel, windowLabel;
 
             // Bar parts the S6 HUD doesn't have, for themes that add them (classic): the Party
             // and Guild buttons (0.97), the command window button (Season 1 / 2) and the hero's

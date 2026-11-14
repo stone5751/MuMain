@@ -68,21 +68,21 @@
 	     modern theme's are in main_frame_top.rml). -->
 	<div id="buttons" class="hud-part">
 		<div id="btn_cshop" class="frame-btn slot-frame slot-fill" data-class-open="cshop_open" data-event-click="mainframe_cshop_click" data-attr-data-hint="cshop_tooltip">
-			<span class="btn-icon-label">SHOP</span>
+			<span class="btn-icon-label">{{ cshop_label }}</span>
 		</div>
 		<div id="btn_chainfo" class="frame-btn slot-frame slot-fill" data-class-open="chainfo_open" data-event-click="mainframe_chainfo_click" data-attr-data-hint="chainfo_tooltip">
-			<span class="btn-icon-label">CHAR</span>
+			<span class="btn-icon-label">{{ chainfo_label }}</span>
 			<div class="alert-dot" data-class-hidden="!chainfo_alert"></div>
 		</div>
 		<div id="btn_myinven" class="frame-btn slot-frame slot-fill" data-class-open="myinven_open" data-event-click="mainframe_myinven_click" data-attr-data-hint="myinven_tooltip">
-			<span class="btn-icon-label">INV</span>
+			<span class="btn-icon-label">{{ myinven_label }}</span>
 		</div>
 		<div id="btn_friend" class="frame-btn slot-frame slot-fill" data-class-open="friend_open" data-event-click="mainframe_friend_click" data-attr-data-hint="friend_tooltip">
-			<span class="btn-icon-label">FRIEND</span>
+			<span class="btn-icon-label">{{ friend_label }}</span>
 			<div class="alert-dot" data-class-hidden="!friend_alert"></div>
 		</div>
 		<div id="btn_window" class="frame-btn slot-frame slot-fill" data-class-open="window_open" data-event-click="mainframe_window_click" data-attr-data-hint="window_tooltip">
-			<span class="btn-icon-label">MENU</span>
+			<span class="btn-icon-label">{{ window_label }}</span>
 		</div>
 	</div>
 

@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 def validate(directory):
-    allowed = re.compile(r'(?:Main\.exe|[^/]+\.dll|README\.zh-CN\.md|localization-build\.txt|ctest-results\.xml|shaders/[^/]+\.(?:spv|msl|dxil)|Data/Items/Group\d+_[A-Za-z]+\.json|Data/Items/Tooltips/(?:Tooltip|OptionTexts)\.json|Data/Monsters/Monsters\.json|Data/Local/BmdText\.zh-CN\.json|Data/Interface/RmlUi/(?:themes/modern/)?(?:quest_progress|my_quest_info|quest_progress_etc)\.rml)')
+    allowed = re.compile(r'(?:Main\.exe|[^/]+\.dll|README\.zh-CN\.md|localization-build\.txt|ctest-results\.xml|shaders/[^/]+\.(?:spv|msl|dxil)|Data/Items/Group\d+_[A-Za-z]+\.json|Data/Items/Tooltips/(?:Tooltip|OptionTexts)\.json|Data/Monsters/Monsters\.json|Data/Local/BmdText\.zh-CN\.json|Data/Interface/RmlUi/themes/modern/main_frame_top\.rcss|Data/Interface/RmlUi/(?:main_frame|main_frame_top)\.rml|Data/Interface/RmlUi/(?:themes/modern/)?(?:quest_progress|my_quest_info|quest_progress_etc)\.rml)')
     files = sorted(p for p in directory.rglob('*') if p.is_file())
     names = {p.relative_to(directory).as_posix() for p in files}
     unexpected = sorted(name for name in names if not allowed.fullmatch(name))
@@ -31,12 +31,14 @@ def validate(directory):
     data_paths = subprocess.check_output(['git', 'diff', '--name-only', 'v1.37.0', 'HEAD', '--', 'src/bin/Data/Items', 'src/bin/Data/Monsters'], cwd=ROOT, text=True).splitlines()
     expected_data = {p.removeprefix('src/bin/') for p in data_paths}
     expected_data.add('Data/Local/BmdText.zh-CN.json')
+    expected_data.add('Data/Interface/RmlUi/themes/modern/main_frame_top.rcss')
     expected_data.update('Data/Interface/RmlUi/' + theme + document + '.rml'
                          for theme in ('', 'themes/modern/') for document in ('quest_progress', 'my_quest_info', 'quest_progress_etc'))
+    expected_data.update('Data/Interface/RmlUi/' + document + '.rml' for document in ('main_frame', 'main_frame_top'))
     if {n for n in names if n.startswith('Data/')} != expected_data:
         raise ValueError('Packaged name files do not match the localized source changes')
     for name in expected_data:
-        if name.endswith('.rml'):
+        if name.endswith(('.rml', '.rcss')):
             if (directory/name).read_bytes() != (ROOT/'src/bin'/name).read_bytes():
                 raise ValueError(f'Packaged RML differs from the build source: {name}')
             continue
