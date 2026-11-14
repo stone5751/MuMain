@@ -1,0 +1,328 @@
+kind	id	english	chinese	source
+skills	35	Summon Bali	召唤守护兽巴里	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	36	Summon Soldier	召唤黄金斗士	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	44	Crescent Moon Slash	半月斩	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	49	Fire Breath	流星焰	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	50	Flame of Evil (Monster)	邪恶火焰（怪物）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	66	Force Wave	冲击波	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	67	Stun	眩晕	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	68	Cancel Stun	解除眩晕	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	69	Swell Mana	魔法值提升	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	70	Invisibility	隐身	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	71	Cancel Invisibility	解除隐身	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	72	Abolish Magic	魔法解除	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	73	Mana Rays	幻魔光束	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	76	Plasma Storm	炎狼闪电链	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	200	Summon Monster	召唤怪物	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	201	Magic Attack Immunity	魔法攻击免疫	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	202	Physical Attack Immunity	物理攻击免疫	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	203	Potion of Bless	祝福药水	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	204	Potion of Soul	灵魂药水	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	210	Spell of Protection	守护咒文	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	211	Spell of Restriction	束缚咒文	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	212	Spell of Pursuit	追击咒文	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	213	Shied-Burn	防护值燃烧	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	222	Innovation	破御阵	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	223	Explosion	爆裂击	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	224	Requiem	安魂弥撒	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	239	Doppeganger Self Explosion Skill	分身自爆	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	260	Killing Blow	幽冥青狼拳	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	261	Beast Uppercut	斗气爆裂拳	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	262	Chain Drive	回旋踢	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	263	Dark Side	幽冥光速拳	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	264	Dragon Roar	炎龙拳	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	265	Dragon Slasher	噬血之龙	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	266	Ignore Defense	斗神-破	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	267	Increase Health	斗神-命	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	268	Increase Block	斗神-御	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	269	Charge	冲锋	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	270	Phoenix Shot	神圣气旋	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	300	Durability Reduction (1)	耐久消耗减少（1）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	301	PvP Defence Rate Increase	PVP防御成功率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	302	Maximum SD increase	最大防护值增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	303	Automatic Mana Recovery Increase	魔法值自动恢复增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	304	Poison Resistance Increase	毒属性抵抗增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	305	Durability Reduction (2)	耐久消耗减少（2）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	306	SD Recovery Speed Increase	防护值恢复速度增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	307	Automatic HP Recovery Increase	生命值自动恢复增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	308	Lightning Resistance Increase	雷属性抵抗增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	309	Defense Increase	防御力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	310	Automatic AG Recovery Increase	技能值自动恢复增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	311	Ice Resistance Increase	冰属性抵抗增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	312	Durability Reduction (3)	耐久消耗减少（3）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	313	Defense Success Rate Increase	防御成功率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	314	Cast Invincibility	无敌术	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	315	Armor Set Bonus Increase	整套防具加成增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	316	Vengeance	复仇	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	317	Energy Increase	智力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	318	Stamina Increase	体力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	319	Agility Increase	敏捷增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	320	Strength Increase	力量增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	321	Wing of Storm Absorption PowUp	暴风之翼吸收伤害强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	322	Wing of Storm Defense PowUp	暴风之翼防御强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	323	Iron Defense	钢铁防御	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	324	Wing of Storm Attack PowUp	暴风之翼攻击强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	325	Attack Success Rate Increase	攻击成功率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	326	Cyclone Strengthener	旋风斩强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	327	Slash Strengthener	天地十字剑强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	328	Falling Slash Strengthener	地裂斩强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	329	Lunge Strengthener	牙突刺强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	330	Twisting Slash Strengthener	霹雳回旋斩强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	331	Rageful Blow Strengthener	雷霆裂闪强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	332	Twisting Slash Mastery	霹雳回旋斩精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	333	Rageful Blow Mastery	雷霆裂闪精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	334	Maximum Life Increase	最大生命值增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	335	Weapon Mastery	武器精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	336	Slash Strengthener	天地十字剑强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	337	Strike of Destruction Strengthener	破坏一击强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	338	Maximum Mana Increase	最大魔法值增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	339	Death Stab Proficiency	袭风刺熟练	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	340	Strike of Destruction Proficiency	破坏一击熟练	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	341	Maximum AG Increase	最大技能值增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	342	Death Stab Mastery	袭风刺精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	343	Strike of Destruction Mastery	破坏一击精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	344	Blood Storm	血腥风暴	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	345	Combo Strengthener	连击强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	346	Blood Storm Strengthener	血腥风暴强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	347	Attack Rate	攻击成功率	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	348	Two-handed Sword Strengthener	双手剑强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	349	One-handed Sword Strengthener	单手剑强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	350	Mace Strengthener	槌类强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	351	Spear Strengthener	矛类强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	352	Two-handed Sword Mastery	双手剑精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	353	One-handed Sword Mastery	单手剑精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	354	Mace Mastery	槌类精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	355	Spear Mastery	矛类精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	356	Swell Life Strengthener	生命之光强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	357	Mana Reduction	魔法值消耗减少	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	358	Monster Attack SD Increment	杀怪恢复防护值	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	359	Monster Attack Life Increment	杀怪恢复生命值	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	360	Swell Life Proficiency	生命之光熟练	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	361	Minimum Attack Power Increase	最小攻击力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	362	Monster Attack Mana Increment	杀怪恢复魔法值	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	363	Swell Life Mastery	生命之光精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	364	Maximum Attack Power Increase	最大攻击力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	366	Increases critical damage rate	会心一击概率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	367	Restores all Mana	魔法值完全恢复	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	368	Restores all HP	生命值完全恢复	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	369	Increases excellent damage rate	卓越一击概率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	370	Increases double damage rate	双倍伤害概率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	371	Increases chance of ignore Def	无视防御概率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	372	Restores all SD	防护值完全恢复	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	373	Increases triple damage rate	三倍伤害概率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	374	Eternal Wings Absorption PowUp	时空之翼吸收伤害强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	375	Eternal Wings Defense PowUp	时空之翼防御强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	377	Eternal Wings Attack PowUp	时空之翼攻击强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	378	Flame Strengthener	火龙术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	379	Lightning Strengthener	掌心雷强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	380	Expansion of Wizardry Strengthener	法神附体强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	381	Inferno Strengthener	毁灭烈焰强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	382	Blast Strengthener	爆炎术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	383	Expansion of Wizardry Mastery	法神附体精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	384	Poison Strengthener	毒咒术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	385	Evil Spirit Strengthener	黑龙波强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	386	Magic Mastery	魔法精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	387	Decay Strengthener	毒炎强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	388	Hellfire Strengthener	地狱火强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	389	Ice Strengthener	冰封术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	390	Meteor Strengthener	陨石术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	391	Ice Storm Strengthener	暴风雪强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	392	Nova Strengthener	星辰一怒强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	393	Ice Storm Mastery	暴风雪精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	394	Meteor Mastery	陨石术精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	395	Nova Cast Strengthener	星辰一怒蓄力强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	397	One-handed Staff Strengthener	单手杖强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	398	Two-handed Staff Strengthener	双手杖强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	399	Shield Strengthener	盾牌强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	400	One-handed Staff Mastery	单手杖精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	401	Two-handed Staff Mastery	双手杖精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	402	Shield Mastery	盾牌精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	403	Soul Barrier Strengthener	守护之魂强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	404	Soul Barrier Proficiency	守护之魂熟练	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	405	Minimum Wizardry Increase	最小魔法攻击力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	406	Soul Barrier Mastery	守护之魂精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	407	Maximum Wizardry Increase	最大魔法攻击力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	409	Illusion Wings Absorption PowUp	幻影之翼吸收伤害强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	410	Illusion Wings Defense PowUp	幻影之翼防御强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	411	Multi-Shot Strengthener	五重箭强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	412	Illusion Wings Attack PowUp	幻影之翼攻击强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	413	Heal Strengthener	治疗强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	414	Triple Shot Strengthener	多重箭强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	415	Summoned Monster Strengthener (1)	召唤兽强化（1）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	416	Penetration Strengthener	穿透箭强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	417	Defense Increase Strengthener	防御力增加强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	418	Triple Shot Mastery	多重箭精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	419	Summoned Monster Strengthener (2)	召唤兽强化（2）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	420	Attack Increase Strengthener	攻击力提升强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	421	Weapon Mastery	武器精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	422	Attack Increase Mastery	攻击力提升精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	423	Defense Increase Mastery	防御力增加精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	424	Ice Arrow Strengthener	冰封箭强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	425	Cure	净化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	426	Party Healing	群体治疗	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	427	Poison Arrow	毒箭	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	428	Summoned Monster Strengthener (3)	召唤兽强化（3）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	429	Party Healing Strengthener	群体治疗强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	430	Bless	祝福	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	431	Multi-Shot Mastery	五重箭精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	432	Summon Satyros	召唤萨特罗斯	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	433	Bless Strengthener	祝福强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	434	Poison Arrow Strengthener	毒箭强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	435	Bow Strengthener	弓类强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	436	Crossbow Strengthener	弩类强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	437	Shield Strengthener	盾牌强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	438	Bow Mastery	弓类精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	439	Crossbow Mastery	弩类精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	440	Shield Mastery	盾牌精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	441	Infinity Arrow Strengthener	无影箭强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	442	Minimum Attack Power Increase	最小攻击力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	443	Maximum Attack Power Increase	最大攻击力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	445	DimensionWings Absorb PowUp	次元之翼吸收伤害强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	446	DimensionWings Defense PowUp	次元之翼防御强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	447	DimensionWings Attack PowUp	次元之翼攻击强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	448	Fire Tome Strengthener	火系之书强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	449	Wind Tome Strengthener	风系之书强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	450	Lightning Tome Strengthener	雷系之书强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	451	Fire Tome Mastery	火系之书精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	452	Wind Tome Mastery	风系之书精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	453	Lightning Tome Mastery	雷系之书精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	454	Sleep Strengthener	昏睡术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	455	Chain Lightning Strengthener	链雷咒强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	456	Lightning Shock Strengthener	雷光闪强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	457	Magic Mastery	魔法精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	458	Drain Life Strengthener	吸血咒强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	459	Weakness Strengthener	虚弱术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	460	Innovation Strengthener	破御阵强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	461	Blind	蒙眼煞	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	462	Drain Life Mastery	吸血咒精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	463	Blind Strengthener	蒙眼煞强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	465	Stick Strengthener	魔杖强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	466	Other World Tome Strengthener	异界之书强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	467	Stick Mastery	魔杖精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	468	Other World Tome Mastery	异界之书精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	469	Berserker Strengthener	狂暴术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	470	Berserker Proficiency	狂暴术熟练	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	471	Minimum Wizardry/Curse Increase	最小魔法及诅咒攻击力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	472	Berserker Mastery	狂暴术精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	473	Maximum Wizardry/Curse Increase	最大魔法及诅咒攻击力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	475	Wing of Ruin Absorption PowUp	破灭之翼吸收伤害强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	476	Wing of Ruin Defense PowUp	破灭之翼防御强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	478	Wing of Ruin Attack PowUp	破灭之翼攻击强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	479	Cyclone Strengthener	旋风斩强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	480	Lightning Strengthener	掌心雷强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	481	Twisting Slash Strengthener	霹雳回旋斩强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	482	Power Slash Strengthener	天雷闪强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	483	Flame Strengthener	火龙术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	484	Blast Strengthener	爆炎术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	485	Weapon Mastery	武器精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	486	Inferno Strengthener	毁灭烈焰强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	487	Evil Spirit Strengthener	黑龙波强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	488	Magic Mastery	魔法精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	489	Ice Strengthener	冰封术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	490	Blood Attack Strengthener	鲜血攻击强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	491	Ice Mastery	冰封术精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	492	Flame Strike Strengthener	火剑袭强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	493	Fire Slash Mastery	玄月斩精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	494	Flame Strike Mastery	火剑袭精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	495	Earth Prison	地牢术	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	496	Gigantic Storm Strengthener	闪电轰顶强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	497	Earth Prison Strengthener	地牢术强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	504	Emperor Cape Absorption PowUp	帝王披风吸收伤害强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	505	Emperor Cape Defense PowUp	帝王披风防御强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	506	Adds Command Stat	统率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	507	Emperor Cape Attack PowUp	帝王披风攻击强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	508	Fire Burst Strengthener	星云火链强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	509	Force Wave Strengthener	冲击波强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	510	Dark Horse Strengthener (1)	黑王马强化（1）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	511	Critical DMG Increase PowUp	致命圣印强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	512	Earthshake Strengthener	地裂强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	513	Weapon Mastery	武器精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	514	Fire Burst Mastery	星云火链精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	515	Critical DMG Increase PowUp (2)	致命圣印强化（2）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	516	Earthshake Mastery	地裂精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	517	Critical DMG Increase PowUp (3)	致命圣印强化（3）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	518	Fire Scream Strengthener	火舞旋风强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	519	Electric Spark Strengthener	圣极光强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	520	Fire Scream Mastery	火舞旋风精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	521	Iron Defense 	钢铁防御	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	522	Critical Damage Increase Mastery	致命圣印精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	523	Chaotic Diseier Strengthener	黑暗之力强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	524	Iron Defense Strengthener	钢铁防御强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	526	Dark Spirit Strengthener	天鹰强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	527	Scepter Strengthener	权杖强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	528	Shield Strengthener	盾牌强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	529	Use Scepter : Pet Strengthener	权杖装备时宠物强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	530	Dark Spirit Strengthener (2)	天鹰强化（2）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	531	Scepter Mastery	权杖精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	532	Shield Mastery	盾牌精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	533	Command Attack Increase	统率攻击力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	534	Dark Spirit Strengthener (3)	天鹰强化（3）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	535	Pet Durability Strengthener	宠物耐久强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	536	Dark Spirit Strengthener (4)	天鹰强化（4）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	538	Dark Spirit Strengthener (5)	天鹰强化（5）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	539	Spirit Lord	天鹰祭祀	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	548	Reigning Cloak Absorption PowUp	统治披风吸收伤害强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	549	Reigning Cloak Defense PowUp	统治披风防御强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	550	Reigning Cloak Attack PowUp	统治披风攻击强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	551	Killing Blow Strengthener	幽冥青狼拳强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	552	Beast Uppercut Strengthener	斗气爆裂拳强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	554	Killing Blow Mastery	幽冥青狼拳精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	555	Beast Uppercut Mastery	斗气爆裂拳精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	556	Def Success Rate Strengthener	防御成功率强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	557	Weapon Mastery	武器精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	558	Chain Drive Strengthener	回旋踢强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	559	Dark Side Strengthener	幽冥光速拳强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	560	Dragon Roar Strengthener	炎龙拳强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	561	Dragon Roar Mastery	炎龙拳精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	562	Chain Drive Mastery	回旋踢精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	563	Dark Side Mastery	幽冥光速拳精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	564	Dragon Slasher Strengthener	噬血之龙强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	565	Blood Howling	鲜血咆哮	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	566	Dragon Slasher Mastery	噬血之龙精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	567	Blood Howling Strengthener	鲜血咆哮强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	568	Equipped Weapon Strengthener	装备武器强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	569	Def SuccessRate Increase PowUp	防御成功率增加强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	571	Equipped Weapon Mastery	装备武器精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	572	DefSuccessRate Increase Mastery	防御成功率增加精通	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	573	Stamina Increase Strengthener	体力增加强化	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	574	Defense Switch	防御转换	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	578	Durability Reduction (1)	耐久消耗减少（1）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	579	Increase PvP Defense Rate	PVP防御成功率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	580	Increase Maximum SD	最大防护值增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	581	Increase Mana Recovery Rate	魔法值恢复速度增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	582	Increase Poison Resistance	毒属性抵抗增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	583	Durability Reduction (2)	耐久消耗减少（2）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	584	Increase SD Recovery Rate	防护值恢复速度增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	585	Increase HP Recovery Rate	生命值恢复速度增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	586	Increase Lightning Resistance	雷属性抵抗增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	587	Increases Defense	防御力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	588	Increases AG Recovery Rate	技能值恢复速度增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	589	Increase Ice Resistance	冰属性抵抗增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	590	Durability Reduction(3)	耐久消耗减少（3）	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	591	Increase Defense Success Rate	防御成功率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	592	Cast Invincibility	无敌术	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	593	Increase Set Defense	整套防具防御力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	594	Vengeance	复仇	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	595	Increase Energy	智力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	596	Increase HP	生命值增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	597	Increase Agility	敏捷增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	598	Increase Strength	力量增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	599	Increase Attack Success Rate	攻击成功率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	600	Increase Maximum HP	最大生命值增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	601	Increase Maximum Mana	最大魔法值增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	602	Increase Maximum AG	最大技能值增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	603	Increase PvP Attack Rate	PVP攻击成功率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	604	Decrease Mana	魔法值消耗减少	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	605	Recover SD from Monster Kills	杀怪恢复防护值	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	606	Recover HP from Monster Kills	杀怪恢复生命值	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	607	Increase Minimum Attack Power	最小攻击力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	608	Recover Mana from Monster Kills	杀怪恢复魔法值	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	609	Increase Maximum Attack Power	最大攻击力增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	610	Increases Critical Damage Chance	会心一击概率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	611	Recover Mana Fully	魔法值完全恢复	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	612	Recovers HP Fully	生命值完全恢复	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	613	Increase Excellent Damage Chance	卓越一击概率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	614	Increase Double Damage Chance	双倍伤害概率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	615	Increase Ignore Def Chance	无视防御概率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	616	Recovers SD Fully	防护值完全恢复	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary
+skills	617	Increase Triple Damage Chance	三倍伤害概率增加	original BMD ID + reviewed base-name glossary and literal modifier; DVG skill ID / official Season X glossary

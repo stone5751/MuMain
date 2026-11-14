@@ -14449,6 +14449,1968 @@
       "id": 238,
       "english": "Chaotic Diseier",
       "zh-CN": "黑暗之力"
+    },
+    {
+      "kind": "skills",
+      "id": 35,
+      "english": "Summon Bali",
+      "zh-CN": "召唤守护兽巴里"
+    },
+    {
+      "kind": "skills",
+      "id": 36,
+      "english": "Summon Soldier",
+      "zh-CN": "召唤黄金斗士"
+    },
+    {
+      "kind": "skills",
+      "id": 44,
+      "english": "Crescent Moon Slash",
+      "zh-CN": "半月斩"
+    },
+    {
+      "kind": "skills",
+      "id": 49,
+      "english": "Fire Breath",
+      "zh-CN": "流星焰"
+    },
+    {
+      "kind": "skills",
+      "id": 50,
+      "english": "Flame of Evil (Monster)",
+      "zh-CN": "邪恶火焰（怪物）"
+    },
+    {
+      "kind": "skills",
+      "id": 66,
+      "english": "Force Wave",
+      "zh-CN": "冲击波"
+    },
+    {
+      "kind": "skills",
+      "id": 67,
+      "english": "Stun",
+      "zh-CN": "眩晕"
+    },
+    {
+      "kind": "skills",
+      "id": 68,
+      "english": "Cancel Stun",
+      "zh-CN": "解除眩晕"
+    },
+    {
+      "kind": "skills",
+      "id": 69,
+      "english": "Swell Mana",
+      "zh-CN": "魔法值提升"
+    },
+    {
+      "kind": "skills",
+      "id": 70,
+      "english": "Invisibility",
+      "zh-CN": "隐身"
+    },
+    {
+      "kind": "skills",
+      "id": 71,
+      "english": "Cancel Invisibility",
+      "zh-CN": "解除隐身"
+    },
+    {
+      "kind": "skills",
+      "id": 72,
+      "english": "Abolish Magic",
+      "zh-CN": "魔法解除"
+    },
+    {
+      "kind": "skills",
+      "id": 73,
+      "english": "Mana Rays",
+      "zh-CN": "幻魔光束"
+    },
+    {
+      "kind": "skills",
+      "id": 76,
+      "english": "Plasma Storm",
+      "zh-CN": "炎狼闪电链"
+    },
+    {
+      "kind": "skills",
+      "id": 200,
+      "english": "Summon Monster",
+      "zh-CN": "召唤怪物"
+    },
+    {
+      "kind": "skills",
+      "id": 201,
+      "english": "Magic Attack Immunity",
+      "zh-CN": "魔法攻击免疫"
+    },
+    {
+      "kind": "skills",
+      "id": 202,
+      "english": "Physical Attack Immunity",
+      "zh-CN": "物理攻击免疫"
+    },
+    {
+      "kind": "skills",
+      "id": 203,
+      "english": "Potion of Bless",
+      "zh-CN": "祝福药水"
+    },
+    {
+      "kind": "skills",
+      "id": 204,
+      "english": "Potion of Soul",
+      "zh-CN": "灵魂药水"
+    },
+    {
+      "kind": "skills",
+      "id": 210,
+      "english": "Spell of Protection",
+      "zh-CN": "守护咒文"
+    },
+    {
+      "kind": "skills",
+      "id": 211,
+      "english": "Spell of Restriction",
+      "zh-CN": "束缚咒文"
+    },
+    {
+      "kind": "skills",
+      "id": 212,
+      "english": "Spell of Pursuit",
+      "zh-CN": "追击咒文"
+    },
+    {
+      "kind": "skills",
+      "id": 213,
+      "english": "Shied-Burn",
+      "zh-CN": "防护值燃烧"
+    },
+    {
+      "kind": "skills",
+      "id": 222,
+      "english": "Innovation",
+      "zh-CN": "破御阵"
+    },
+    {
+      "kind": "skills",
+      "id": 223,
+      "english": "Explosion",
+      "zh-CN": "爆裂击"
+    },
+    {
+      "kind": "skills",
+      "id": 224,
+      "english": "Requiem",
+      "zh-CN": "安魂弥撒"
+    },
+    {
+      "kind": "skills",
+      "id": 239,
+      "english": "Doppeganger Self Explosion Skill",
+      "zh-CN": "分身自爆"
+    },
+    {
+      "kind": "skills",
+      "id": 260,
+      "english": "Killing Blow",
+      "zh-CN": "幽冥青狼拳"
+    },
+    {
+      "kind": "skills",
+      "id": 261,
+      "english": "Beast Uppercut",
+      "zh-CN": "斗气爆裂拳"
+    },
+    {
+      "kind": "skills",
+      "id": 262,
+      "english": "Chain Drive",
+      "zh-CN": "回旋踢"
+    },
+    {
+      "kind": "skills",
+      "id": 263,
+      "english": "Dark Side",
+      "zh-CN": "幽冥光速拳"
+    },
+    {
+      "kind": "skills",
+      "id": 264,
+      "english": "Dragon Roar",
+      "zh-CN": "炎龙拳"
+    },
+    {
+      "kind": "skills",
+      "id": 265,
+      "english": "Dragon Slasher",
+      "zh-CN": "噬血之龙"
+    },
+    {
+      "kind": "skills",
+      "id": 266,
+      "english": "Ignore Defense",
+      "zh-CN": "斗神-破"
+    },
+    {
+      "kind": "skills",
+      "id": 267,
+      "english": "Increase Health",
+      "zh-CN": "斗神-命"
+    },
+    {
+      "kind": "skills",
+      "id": 268,
+      "english": "Increase Block",
+      "zh-CN": "斗神-御"
+    },
+    {
+      "kind": "skills",
+      "id": 269,
+      "english": "Charge",
+      "zh-CN": "冲锋"
+    },
+    {
+      "kind": "skills",
+      "id": 270,
+      "english": "Phoenix Shot",
+      "zh-CN": "神圣气旋"
+    },
+    {
+      "kind": "skills",
+      "id": 300,
+      "english": "Durability Reduction (1)",
+      "zh-CN": "耐久消耗减少（1）"
+    },
+    {
+      "kind": "skills",
+      "id": 301,
+      "english": "PvP Defence Rate Increase",
+      "zh-CN": "PVP防御成功率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 302,
+      "english": "Maximum SD increase",
+      "zh-CN": "最大防护值增加"
+    },
+    {
+      "kind": "skills",
+      "id": 303,
+      "english": "Automatic Mana Recovery Increase",
+      "zh-CN": "魔法值自动恢复增加"
+    },
+    {
+      "kind": "skills",
+      "id": 304,
+      "english": "Poison Resistance Increase",
+      "zh-CN": "毒属性抵抗增加"
+    },
+    {
+      "kind": "skills",
+      "id": 305,
+      "english": "Durability Reduction (2)",
+      "zh-CN": "耐久消耗减少（2）"
+    },
+    {
+      "kind": "skills",
+      "id": 306,
+      "english": "SD Recovery Speed Increase",
+      "zh-CN": "防护值恢复速度增加"
+    },
+    {
+      "kind": "skills",
+      "id": 307,
+      "english": "Automatic HP Recovery Increase",
+      "zh-CN": "生命值自动恢复增加"
+    },
+    {
+      "kind": "skills",
+      "id": 308,
+      "english": "Lightning Resistance Increase",
+      "zh-CN": "雷属性抵抗增加"
+    },
+    {
+      "kind": "skills",
+      "id": 309,
+      "english": "Defense Increase",
+      "zh-CN": "防御力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 310,
+      "english": "Automatic AG Recovery Increase",
+      "zh-CN": "技能值自动恢复增加"
+    },
+    {
+      "kind": "skills",
+      "id": 311,
+      "english": "Ice Resistance Increase",
+      "zh-CN": "冰属性抵抗增加"
+    },
+    {
+      "kind": "skills",
+      "id": 312,
+      "english": "Durability Reduction (3)",
+      "zh-CN": "耐久消耗减少（3）"
+    },
+    {
+      "kind": "skills",
+      "id": 313,
+      "english": "Defense Success Rate Increase",
+      "zh-CN": "防御成功率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 314,
+      "english": "Cast Invincibility",
+      "zh-CN": "无敌术"
+    },
+    {
+      "kind": "skills",
+      "id": 315,
+      "english": "Armor Set Bonus Increase",
+      "zh-CN": "整套防具加成增加"
+    },
+    {
+      "kind": "skills",
+      "id": 316,
+      "english": "Vengeance",
+      "zh-CN": "复仇"
+    },
+    {
+      "kind": "skills",
+      "id": 317,
+      "english": "Energy Increase",
+      "zh-CN": "智力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 318,
+      "english": "Stamina Increase",
+      "zh-CN": "体力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 319,
+      "english": "Agility Increase",
+      "zh-CN": "敏捷增加"
+    },
+    {
+      "kind": "skills",
+      "id": 320,
+      "english": "Strength Increase",
+      "zh-CN": "力量增加"
+    },
+    {
+      "kind": "skills",
+      "id": 321,
+      "english": "Wing of Storm Absorption PowUp",
+      "zh-CN": "暴风之翼吸收伤害强化"
+    },
+    {
+      "kind": "skills",
+      "id": 322,
+      "english": "Wing of Storm Defense PowUp",
+      "zh-CN": "暴风之翼防御强化"
+    },
+    {
+      "kind": "skills",
+      "id": 323,
+      "english": "Iron Defense",
+      "zh-CN": "钢铁防御"
+    },
+    {
+      "kind": "skills",
+      "id": 324,
+      "english": "Wing of Storm Attack PowUp",
+      "zh-CN": "暴风之翼攻击强化"
+    },
+    {
+      "kind": "skills",
+      "id": 325,
+      "english": "Attack Success Rate Increase",
+      "zh-CN": "攻击成功率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 326,
+      "english": "Cyclone Strengthener",
+      "zh-CN": "旋风斩强化"
+    },
+    {
+      "kind": "skills",
+      "id": 327,
+      "english": "Slash Strengthener",
+      "zh-CN": "天地十字剑强化"
+    },
+    {
+      "kind": "skills",
+      "id": 328,
+      "english": "Falling Slash Strengthener",
+      "zh-CN": "地裂斩强化"
+    },
+    {
+      "kind": "skills",
+      "id": 329,
+      "english": "Lunge Strengthener",
+      "zh-CN": "牙突刺强化"
+    },
+    {
+      "kind": "skills",
+      "id": 330,
+      "english": "Twisting Slash Strengthener",
+      "zh-CN": "霹雳回旋斩强化"
+    },
+    {
+      "kind": "skills",
+      "id": 331,
+      "english": "Rageful Blow Strengthener",
+      "zh-CN": "雷霆裂闪强化"
+    },
+    {
+      "kind": "skills",
+      "id": 332,
+      "english": "Twisting Slash Mastery",
+      "zh-CN": "霹雳回旋斩精通"
+    },
+    {
+      "kind": "skills",
+      "id": 333,
+      "english": "Rageful Blow Mastery",
+      "zh-CN": "雷霆裂闪精通"
+    },
+    {
+      "kind": "skills",
+      "id": 334,
+      "english": "Maximum Life Increase",
+      "zh-CN": "最大生命值增加"
+    },
+    {
+      "kind": "skills",
+      "id": 335,
+      "english": "Weapon Mastery",
+      "zh-CN": "武器精通"
+    },
+    {
+      "kind": "skills",
+      "id": 336,
+      "english": "Slash Strengthener",
+      "zh-CN": "天地十字剑强化"
+    },
+    {
+      "kind": "skills",
+      "id": 337,
+      "english": "Strike of Destruction Strengthener",
+      "zh-CN": "破坏一击强化"
+    },
+    {
+      "kind": "skills",
+      "id": 338,
+      "english": "Maximum Mana Increase",
+      "zh-CN": "最大魔法值增加"
+    },
+    {
+      "kind": "skills",
+      "id": 339,
+      "english": "Death Stab Proficiency",
+      "zh-CN": "袭风刺熟练"
+    },
+    {
+      "kind": "skills",
+      "id": 340,
+      "english": "Strike of Destruction Proficiency",
+      "zh-CN": "破坏一击熟练"
+    },
+    {
+      "kind": "skills",
+      "id": 341,
+      "english": "Maximum AG Increase",
+      "zh-CN": "最大技能值增加"
+    },
+    {
+      "kind": "skills",
+      "id": 342,
+      "english": "Death Stab Mastery",
+      "zh-CN": "袭风刺精通"
+    },
+    {
+      "kind": "skills",
+      "id": 343,
+      "english": "Strike of Destruction Mastery",
+      "zh-CN": "破坏一击精通"
+    },
+    {
+      "kind": "skills",
+      "id": 344,
+      "english": "Blood Storm",
+      "zh-CN": "血腥风暴"
+    },
+    {
+      "kind": "skills",
+      "id": 345,
+      "english": "Combo Strengthener",
+      "zh-CN": "连击强化"
+    },
+    {
+      "kind": "skills",
+      "id": 346,
+      "english": "Blood Storm Strengthener",
+      "zh-CN": "血腥风暴强化"
+    },
+    {
+      "kind": "skills",
+      "id": 347,
+      "english": "Attack Rate",
+      "zh-CN": "攻击成功率"
+    },
+    {
+      "kind": "skills",
+      "id": 348,
+      "english": "Two-handed Sword Strengthener",
+      "zh-CN": "双手剑强化"
+    },
+    {
+      "kind": "skills",
+      "id": 349,
+      "english": "One-handed Sword Strengthener",
+      "zh-CN": "单手剑强化"
+    },
+    {
+      "kind": "skills",
+      "id": 350,
+      "english": "Mace Strengthener",
+      "zh-CN": "槌类强化"
+    },
+    {
+      "kind": "skills",
+      "id": 351,
+      "english": "Spear Strengthener",
+      "zh-CN": "矛类强化"
+    },
+    {
+      "kind": "skills",
+      "id": 352,
+      "english": "Two-handed Sword Mastery",
+      "zh-CN": "双手剑精通"
+    },
+    {
+      "kind": "skills",
+      "id": 353,
+      "english": "One-handed Sword Mastery",
+      "zh-CN": "单手剑精通"
+    },
+    {
+      "kind": "skills",
+      "id": 354,
+      "english": "Mace Mastery",
+      "zh-CN": "槌类精通"
+    },
+    {
+      "kind": "skills",
+      "id": 355,
+      "english": "Spear Mastery",
+      "zh-CN": "矛类精通"
+    },
+    {
+      "kind": "skills",
+      "id": 356,
+      "english": "Swell Life Strengthener",
+      "zh-CN": "生命之光强化"
+    },
+    {
+      "kind": "skills",
+      "id": 357,
+      "english": "Mana Reduction",
+      "zh-CN": "魔法值消耗减少"
+    },
+    {
+      "kind": "skills",
+      "id": 358,
+      "english": "Monster Attack SD Increment",
+      "zh-CN": "杀怪恢复防护值"
+    },
+    {
+      "kind": "skills",
+      "id": 359,
+      "english": "Monster Attack Life Increment",
+      "zh-CN": "杀怪恢复生命值"
+    },
+    {
+      "kind": "skills",
+      "id": 360,
+      "english": "Swell Life Proficiency",
+      "zh-CN": "生命之光熟练"
+    },
+    {
+      "kind": "skills",
+      "id": 361,
+      "english": "Minimum Attack Power Increase",
+      "zh-CN": "最小攻击力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 362,
+      "english": "Monster Attack Mana Increment",
+      "zh-CN": "杀怪恢复魔法值"
+    },
+    {
+      "kind": "skills",
+      "id": 363,
+      "english": "Swell Life Mastery",
+      "zh-CN": "生命之光精通"
+    },
+    {
+      "kind": "skills",
+      "id": 364,
+      "english": "Maximum Attack Power Increase",
+      "zh-CN": "最大攻击力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 366,
+      "english": "Increases critical damage rate",
+      "zh-CN": "会心一击概率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 367,
+      "english": "Restores all Mana",
+      "zh-CN": "魔法值完全恢复"
+    },
+    {
+      "kind": "skills",
+      "id": 368,
+      "english": "Restores all HP",
+      "zh-CN": "生命值完全恢复"
+    },
+    {
+      "kind": "skills",
+      "id": 369,
+      "english": "Increases excellent damage rate",
+      "zh-CN": "卓越一击概率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 370,
+      "english": "Increases double damage rate",
+      "zh-CN": "双倍伤害概率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 371,
+      "english": "Increases chance of ignore Def",
+      "zh-CN": "无视防御概率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 372,
+      "english": "Restores all SD",
+      "zh-CN": "防护值完全恢复"
+    },
+    {
+      "kind": "skills",
+      "id": 373,
+      "english": "Increases triple damage rate",
+      "zh-CN": "三倍伤害概率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 374,
+      "english": "Eternal Wings Absorption PowUp",
+      "zh-CN": "时空之翼吸收伤害强化"
+    },
+    {
+      "kind": "skills",
+      "id": 375,
+      "english": "Eternal Wings Defense PowUp",
+      "zh-CN": "时空之翼防御强化"
+    },
+    {
+      "kind": "skills",
+      "id": 377,
+      "english": "Eternal Wings Attack PowUp",
+      "zh-CN": "时空之翼攻击强化"
+    },
+    {
+      "kind": "skills",
+      "id": 378,
+      "english": "Flame Strengthener",
+      "zh-CN": "火龙术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 379,
+      "english": "Lightning Strengthener",
+      "zh-CN": "掌心雷强化"
+    },
+    {
+      "kind": "skills",
+      "id": 380,
+      "english": "Expansion of Wizardry Strengthener",
+      "zh-CN": "法神附体强化"
+    },
+    {
+      "kind": "skills",
+      "id": 381,
+      "english": "Inferno Strengthener",
+      "zh-CN": "毁灭烈焰强化"
+    },
+    {
+      "kind": "skills",
+      "id": 382,
+      "english": "Blast Strengthener",
+      "zh-CN": "爆炎术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 383,
+      "english": "Expansion of Wizardry Mastery",
+      "zh-CN": "法神附体精通"
+    },
+    {
+      "kind": "skills",
+      "id": 384,
+      "english": "Poison Strengthener",
+      "zh-CN": "毒咒术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 385,
+      "english": "Evil Spirit Strengthener",
+      "zh-CN": "黑龙波强化"
+    },
+    {
+      "kind": "skills",
+      "id": 386,
+      "english": "Magic Mastery",
+      "zh-CN": "魔法精通"
+    },
+    {
+      "kind": "skills",
+      "id": 387,
+      "english": "Decay Strengthener",
+      "zh-CN": "毒炎强化"
+    },
+    {
+      "kind": "skills",
+      "id": 388,
+      "english": "Hellfire Strengthener",
+      "zh-CN": "地狱火强化"
+    },
+    {
+      "kind": "skills",
+      "id": 389,
+      "english": "Ice Strengthener",
+      "zh-CN": "冰封术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 390,
+      "english": "Meteor Strengthener",
+      "zh-CN": "陨石术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 391,
+      "english": "Ice Storm Strengthener",
+      "zh-CN": "暴风雪强化"
+    },
+    {
+      "kind": "skills",
+      "id": 392,
+      "english": "Nova Strengthener",
+      "zh-CN": "星辰一怒强化"
+    },
+    {
+      "kind": "skills",
+      "id": 393,
+      "english": "Ice Storm Mastery",
+      "zh-CN": "暴风雪精通"
+    },
+    {
+      "kind": "skills",
+      "id": 394,
+      "english": "Meteor Mastery",
+      "zh-CN": "陨石术精通"
+    },
+    {
+      "kind": "skills",
+      "id": 395,
+      "english": "Nova Cast Strengthener",
+      "zh-CN": "星辰一怒蓄力强化"
+    },
+    {
+      "kind": "skills",
+      "id": 397,
+      "english": "One-handed Staff Strengthener",
+      "zh-CN": "单手杖强化"
+    },
+    {
+      "kind": "skills",
+      "id": 398,
+      "english": "Two-handed Staff Strengthener",
+      "zh-CN": "双手杖强化"
+    },
+    {
+      "kind": "skills",
+      "id": 399,
+      "english": "Shield Strengthener",
+      "zh-CN": "盾牌强化"
+    },
+    {
+      "kind": "skills",
+      "id": 400,
+      "english": "One-handed Staff Mastery",
+      "zh-CN": "单手杖精通"
+    },
+    {
+      "kind": "skills",
+      "id": 401,
+      "english": "Two-handed Staff Mastery",
+      "zh-CN": "双手杖精通"
+    },
+    {
+      "kind": "skills",
+      "id": 402,
+      "english": "Shield Mastery",
+      "zh-CN": "盾牌精通"
+    },
+    {
+      "kind": "skills",
+      "id": 403,
+      "english": "Soul Barrier Strengthener",
+      "zh-CN": "守护之魂强化"
+    },
+    {
+      "kind": "skills",
+      "id": 404,
+      "english": "Soul Barrier Proficiency",
+      "zh-CN": "守护之魂熟练"
+    },
+    {
+      "kind": "skills",
+      "id": 405,
+      "english": "Minimum Wizardry Increase",
+      "zh-CN": "最小魔法攻击力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 406,
+      "english": "Soul Barrier Mastery",
+      "zh-CN": "守护之魂精通"
+    },
+    {
+      "kind": "skills",
+      "id": 407,
+      "english": "Maximum Wizardry Increase",
+      "zh-CN": "最大魔法攻击力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 409,
+      "english": "Illusion Wings Absorption PowUp",
+      "zh-CN": "幻影之翼吸收伤害强化"
+    },
+    {
+      "kind": "skills",
+      "id": 410,
+      "english": "Illusion Wings Defense PowUp",
+      "zh-CN": "幻影之翼防御强化"
+    },
+    {
+      "kind": "skills",
+      "id": 411,
+      "english": "Multi-Shot Strengthener",
+      "zh-CN": "五重箭强化"
+    },
+    {
+      "kind": "skills",
+      "id": 412,
+      "english": "Illusion Wings Attack PowUp",
+      "zh-CN": "幻影之翼攻击强化"
+    },
+    {
+      "kind": "skills",
+      "id": 413,
+      "english": "Heal Strengthener",
+      "zh-CN": "治疗强化"
+    },
+    {
+      "kind": "skills",
+      "id": 414,
+      "english": "Triple Shot Strengthener",
+      "zh-CN": "多重箭强化"
+    },
+    {
+      "kind": "skills",
+      "id": 415,
+      "english": "Summoned Monster Strengthener (1)",
+      "zh-CN": "召唤兽强化（1）"
+    },
+    {
+      "kind": "skills",
+      "id": 416,
+      "english": "Penetration Strengthener",
+      "zh-CN": "穿透箭强化"
+    },
+    {
+      "kind": "skills",
+      "id": 417,
+      "english": "Defense Increase Strengthener",
+      "zh-CN": "防御力增加强化"
+    },
+    {
+      "kind": "skills",
+      "id": 418,
+      "english": "Triple Shot Mastery",
+      "zh-CN": "多重箭精通"
+    },
+    {
+      "kind": "skills",
+      "id": 419,
+      "english": "Summoned Monster Strengthener (2)",
+      "zh-CN": "召唤兽强化（2）"
+    },
+    {
+      "kind": "skills",
+      "id": 420,
+      "english": "Attack Increase Strengthener",
+      "zh-CN": "攻击力提升强化"
+    },
+    {
+      "kind": "skills",
+      "id": 421,
+      "english": "Weapon Mastery",
+      "zh-CN": "武器精通"
+    },
+    {
+      "kind": "skills",
+      "id": 422,
+      "english": "Attack Increase Mastery",
+      "zh-CN": "攻击力提升精通"
+    },
+    {
+      "kind": "skills",
+      "id": 423,
+      "english": "Defense Increase Mastery",
+      "zh-CN": "防御力增加精通"
+    },
+    {
+      "kind": "skills",
+      "id": 424,
+      "english": "Ice Arrow Strengthener",
+      "zh-CN": "冰封箭强化"
+    },
+    {
+      "kind": "skills",
+      "id": 425,
+      "english": "Cure",
+      "zh-CN": "净化"
+    },
+    {
+      "kind": "skills",
+      "id": 426,
+      "english": "Party Healing",
+      "zh-CN": "群体治疗"
+    },
+    {
+      "kind": "skills",
+      "id": 427,
+      "english": "Poison Arrow",
+      "zh-CN": "毒箭"
+    },
+    {
+      "kind": "skills",
+      "id": 428,
+      "english": "Summoned Monster Strengthener (3)",
+      "zh-CN": "召唤兽强化（3）"
+    },
+    {
+      "kind": "skills",
+      "id": 429,
+      "english": "Party Healing Strengthener",
+      "zh-CN": "群体治疗强化"
+    },
+    {
+      "kind": "skills",
+      "id": 430,
+      "english": "Bless",
+      "zh-CN": "祝福"
+    },
+    {
+      "kind": "skills",
+      "id": 431,
+      "english": "Multi-Shot Mastery",
+      "zh-CN": "五重箭精通"
+    },
+    {
+      "kind": "skills",
+      "id": 432,
+      "english": "Summon Satyros",
+      "zh-CN": "召唤萨特罗斯"
+    },
+    {
+      "kind": "skills",
+      "id": 433,
+      "english": "Bless Strengthener",
+      "zh-CN": "祝福强化"
+    },
+    {
+      "kind": "skills",
+      "id": 434,
+      "english": "Poison Arrow Strengthener",
+      "zh-CN": "毒箭强化"
+    },
+    {
+      "kind": "skills",
+      "id": 435,
+      "english": "Bow Strengthener",
+      "zh-CN": "弓类强化"
+    },
+    {
+      "kind": "skills",
+      "id": 436,
+      "english": "Crossbow Strengthener",
+      "zh-CN": "弩类强化"
+    },
+    {
+      "kind": "skills",
+      "id": 437,
+      "english": "Shield Strengthener",
+      "zh-CN": "盾牌强化"
+    },
+    {
+      "kind": "skills",
+      "id": 438,
+      "english": "Bow Mastery",
+      "zh-CN": "弓类精通"
+    },
+    {
+      "kind": "skills",
+      "id": 439,
+      "english": "Crossbow Mastery",
+      "zh-CN": "弩类精通"
+    },
+    {
+      "kind": "skills",
+      "id": 440,
+      "english": "Shield Mastery",
+      "zh-CN": "盾牌精通"
+    },
+    {
+      "kind": "skills",
+      "id": 441,
+      "english": "Infinity Arrow Strengthener",
+      "zh-CN": "无影箭强化"
+    },
+    {
+      "kind": "skills",
+      "id": 442,
+      "english": "Minimum Attack Power Increase",
+      "zh-CN": "最小攻击力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 443,
+      "english": "Maximum Attack Power Increase",
+      "zh-CN": "最大攻击力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 445,
+      "english": "DimensionWings Absorb PowUp",
+      "zh-CN": "次元之翼吸收伤害强化"
+    },
+    {
+      "kind": "skills",
+      "id": 446,
+      "english": "DimensionWings Defense PowUp",
+      "zh-CN": "次元之翼防御强化"
+    },
+    {
+      "kind": "skills",
+      "id": 447,
+      "english": "DimensionWings Attack PowUp",
+      "zh-CN": "次元之翼攻击强化"
+    },
+    {
+      "kind": "skills",
+      "id": 448,
+      "english": "Fire Tome Strengthener",
+      "zh-CN": "火系之书强化"
+    },
+    {
+      "kind": "skills",
+      "id": 449,
+      "english": "Wind Tome Strengthener",
+      "zh-CN": "风系之书强化"
+    },
+    {
+      "kind": "skills",
+      "id": 450,
+      "english": "Lightning Tome Strengthener",
+      "zh-CN": "雷系之书强化"
+    },
+    {
+      "kind": "skills",
+      "id": 451,
+      "english": "Fire Tome Mastery",
+      "zh-CN": "火系之书精通"
+    },
+    {
+      "kind": "skills",
+      "id": 452,
+      "english": "Wind Tome Mastery",
+      "zh-CN": "风系之书精通"
+    },
+    {
+      "kind": "skills",
+      "id": 453,
+      "english": "Lightning Tome Mastery",
+      "zh-CN": "雷系之书精通"
+    },
+    {
+      "kind": "skills",
+      "id": 454,
+      "english": "Sleep Strengthener",
+      "zh-CN": "昏睡术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 455,
+      "english": "Chain Lightning Strengthener",
+      "zh-CN": "链雷咒强化"
+    },
+    {
+      "kind": "skills",
+      "id": 456,
+      "english": "Lightning Shock Strengthener",
+      "zh-CN": "雷光闪强化"
+    },
+    {
+      "kind": "skills",
+      "id": 457,
+      "english": "Magic Mastery",
+      "zh-CN": "魔法精通"
+    },
+    {
+      "kind": "skills",
+      "id": 458,
+      "english": "Drain Life Strengthener",
+      "zh-CN": "吸血咒强化"
+    },
+    {
+      "kind": "skills",
+      "id": 459,
+      "english": "Weakness Strengthener",
+      "zh-CN": "虚弱术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 460,
+      "english": "Innovation Strengthener",
+      "zh-CN": "破御阵强化"
+    },
+    {
+      "kind": "skills",
+      "id": 461,
+      "english": "Blind",
+      "zh-CN": "蒙眼煞"
+    },
+    {
+      "kind": "skills",
+      "id": 462,
+      "english": "Drain Life Mastery",
+      "zh-CN": "吸血咒精通"
+    },
+    {
+      "kind": "skills",
+      "id": 463,
+      "english": "Blind Strengthener",
+      "zh-CN": "蒙眼煞强化"
+    },
+    {
+      "kind": "skills",
+      "id": 465,
+      "english": "Stick Strengthener",
+      "zh-CN": "魔杖强化"
+    },
+    {
+      "kind": "skills",
+      "id": 466,
+      "english": "Other World Tome Strengthener",
+      "zh-CN": "异界之书强化"
+    },
+    {
+      "kind": "skills",
+      "id": 467,
+      "english": "Stick Mastery",
+      "zh-CN": "魔杖精通"
+    },
+    {
+      "kind": "skills",
+      "id": 468,
+      "english": "Other World Tome Mastery",
+      "zh-CN": "异界之书精通"
+    },
+    {
+      "kind": "skills",
+      "id": 469,
+      "english": "Berserker Strengthener",
+      "zh-CN": "狂暴术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 470,
+      "english": "Berserker Proficiency",
+      "zh-CN": "狂暴术熟练"
+    },
+    {
+      "kind": "skills",
+      "id": 471,
+      "english": "Minimum Wizardry/Curse Increase",
+      "zh-CN": "最小魔法及诅咒攻击力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 472,
+      "english": "Berserker Mastery",
+      "zh-CN": "狂暴术精通"
+    },
+    {
+      "kind": "skills",
+      "id": 473,
+      "english": "Maximum Wizardry/Curse Increase",
+      "zh-CN": "最大魔法及诅咒攻击力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 475,
+      "english": "Wing of Ruin Absorption PowUp",
+      "zh-CN": "破灭之翼吸收伤害强化"
+    },
+    {
+      "kind": "skills",
+      "id": 476,
+      "english": "Wing of Ruin Defense PowUp",
+      "zh-CN": "破灭之翼防御强化"
+    },
+    {
+      "kind": "skills",
+      "id": 478,
+      "english": "Wing of Ruin Attack PowUp",
+      "zh-CN": "破灭之翼攻击强化"
+    },
+    {
+      "kind": "skills",
+      "id": 479,
+      "english": "Cyclone Strengthener",
+      "zh-CN": "旋风斩强化"
+    },
+    {
+      "kind": "skills",
+      "id": 480,
+      "english": "Lightning Strengthener",
+      "zh-CN": "掌心雷强化"
+    },
+    {
+      "kind": "skills",
+      "id": 481,
+      "english": "Twisting Slash Strengthener",
+      "zh-CN": "霹雳回旋斩强化"
+    },
+    {
+      "kind": "skills",
+      "id": 482,
+      "english": "Power Slash Strengthener",
+      "zh-CN": "天雷闪强化"
+    },
+    {
+      "kind": "skills",
+      "id": 483,
+      "english": "Flame Strengthener",
+      "zh-CN": "火龙术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 484,
+      "english": "Blast Strengthener",
+      "zh-CN": "爆炎术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 485,
+      "english": "Weapon Mastery",
+      "zh-CN": "武器精通"
+    },
+    {
+      "kind": "skills",
+      "id": 486,
+      "english": "Inferno Strengthener",
+      "zh-CN": "毁灭烈焰强化"
+    },
+    {
+      "kind": "skills",
+      "id": 487,
+      "english": "Evil Spirit Strengthener",
+      "zh-CN": "黑龙波强化"
+    },
+    {
+      "kind": "skills",
+      "id": 488,
+      "english": "Magic Mastery",
+      "zh-CN": "魔法精通"
+    },
+    {
+      "kind": "skills",
+      "id": 489,
+      "english": "Ice Strengthener",
+      "zh-CN": "冰封术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 490,
+      "english": "Blood Attack Strengthener",
+      "zh-CN": "鲜血攻击强化"
+    },
+    {
+      "kind": "skills",
+      "id": 491,
+      "english": "Ice Mastery",
+      "zh-CN": "冰封术精通"
+    },
+    {
+      "kind": "skills",
+      "id": 492,
+      "english": "Flame Strike Strengthener",
+      "zh-CN": "火剑袭强化"
+    },
+    {
+      "kind": "skills",
+      "id": 493,
+      "english": "Fire Slash Mastery",
+      "zh-CN": "玄月斩精通"
+    },
+    {
+      "kind": "skills",
+      "id": 494,
+      "english": "Flame Strike Mastery",
+      "zh-CN": "火剑袭精通"
+    },
+    {
+      "kind": "skills",
+      "id": 495,
+      "english": "Earth Prison",
+      "zh-CN": "地牢术"
+    },
+    {
+      "kind": "skills",
+      "id": 496,
+      "english": "Gigantic Storm Strengthener",
+      "zh-CN": "闪电轰顶强化"
+    },
+    {
+      "kind": "skills",
+      "id": 497,
+      "english": "Earth Prison Strengthener",
+      "zh-CN": "地牢术强化"
+    },
+    {
+      "kind": "skills",
+      "id": 504,
+      "english": "Emperor Cape Absorption PowUp",
+      "zh-CN": "帝王披风吸收伤害强化"
+    },
+    {
+      "kind": "skills",
+      "id": 505,
+      "english": "Emperor Cape Defense PowUp",
+      "zh-CN": "帝王披风防御强化"
+    },
+    {
+      "kind": "skills",
+      "id": 506,
+      "english": "Adds Command Stat",
+      "zh-CN": "统率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 507,
+      "english": "Emperor Cape Attack PowUp",
+      "zh-CN": "帝王披风攻击强化"
+    },
+    {
+      "kind": "skills",
+      "id": 508,
+      "english": "Fire Burst Strengthener",
+      "zh-CN": "星云火链强化"
+    },
+    {
+      "kind": "skills",
+      "id": 509,
+      "english": "Force Wave Strengthener",
+      "zh-CN": "冲击波强化"
+    },
+    {
+      "kind": "skills",
+      "id": 510,
+      "english": "Dark Horse Strengthener (1)",
+      "zh-CN": "黑王马强化（1）"
+    },
+    {
+      "kind": "skills",
+      "id": 511,
+      "english": "Critical DMG Increase PowUp",
+      "zh-CN": "致命圣印强化"
+    },
+    {
+      "kind": "skills",
+      "id": 512,
+      "english": "Earthshake Strengthener",
+      "zh-CN": "地裂强化"
+    },
+    {
+      "kind": "skills",
+      "id": 513,
+      "english": "Weapon Mastery",
+      "zh-CN": "武器精通"
+    },
+    {
+      "kind": "skills",
+      "id": 514,
+      "english": "Fire Burst Mastery",
+      "zh-CN": "星云火链精通"
+    },
+    {
+      "kind": "skills",
+      "id": 515,
+      "english": "Critical DMG Increase PowUp (2)",
+      "zh-CN": "致命圣印强化（2）"
+    },
+    {
+      "kind": "skills",
+      "id": 516,
+      "english": "Earthshake Mastery",
+      "zh-CN": "地裂精通"
+    },
+    {
+      "kind": "skills",
+      "id": 517,
+      "english": "Critical DMG Increase PowUp (3)",
+      "zh-CN": "致命圣印强化（3）"
+    },
+    {
+      "kind": "skills",
+      "id": 518,
+      "english": "Fire Scream Strengthener",
+      "zh-CN": "火舞旋风强化"
+    },
+    {
+      "kind": "skills",
+      "id": 519,
+      "english": "Electric Spark Strengthener",
+      "zh-CN": "圣极光强化"
+    },
+    {
+      "kind": "skills",
+      "id": 520,
+      "english": "Fire Scream Mastery",
+      "zh-CN": "火舞旋风精通"
+    },
+    {
+      "kind": "skills",
+      "id": 521,
+      "english": "Iron Defense ",
+      "zh-CN": "钢铁防御"
+    },
+    {
+      "kind": "skills",
+      "id": 522,
+      "english": "Critical Damage Increase Mastery",
+      "zh-CN": "致命圣印精通"
+    },
+    {
+      "kind": "skills",
+      "id": 523,
+      "english": "Chaotic Diseier Strengthener",
+      "zh-CN": "黑暗之力强化"
+    },
+    {
+      "kind": "skills",
+      "id": 524,
+      "english": "Iron Defense Strengthener",
+      "zh-CN": "钢铁防御强化"
+    },
+    {
+      "kind": "skills",
+      "id": 526,
+      "english": "Dark Spirit Strengthener",
+      "zh-CN": "天鹰强化"
+    },
+    {
+      "kind": "skills",
+      "id": 527,
+      "english": "Scepter Strengthener",
+      "zh-CN": "权杖强化"
+    },
+    {
+      "kind": "skills",
+      "id": 528,
+      "english": "Shield Strengthener",
+      "zh-CN": "盾牌强化"
+    },
+    {
+      "kind": "skills",
+      "id": 529,
+      "english": "Use Scepter : Pet Strengthener",
+      "zh-CN": "权杖装备时宠物强化"
+    },
+    {
+      "kind": "skills",
+      "id": 530,
+      "english": "Dark Spirit Strengthener (2)",
+      "zh-CN": "天鹰强化（2）"
+    },
+    {
+      "kind": "skills",
+      "id": 531,
+      "english": "Scepter Mastery",
+      "zh-CN": "权杖精通"
+    },
+    {
+      "kind": "skills",
+      "id": 532,
+      "english": "Shield Mastery",
+      "zh-CN": "盾牌精通"
+    },
+    {
+      "kind": "skills",
+      "id": 533,
+      "english": "Command Attack Increase",
+      "zh-CN": "统率攻击力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 534,
+      "english": "Dark Spirit Strengthener (3)",
+      "zh-CN": "天鹰强化（3）"
+    },
+    {
+      "kind": "skills",
+      "id": 535,
+      "english": "Pet Durability Strengthener",
+      "zh-CN": "宠物耐久强化"
+    },
+    {
+      "kind": "skills",
+      "id": 536,
+      "english": "Dark Spirit Strengthener (4)",
+      "zh-CN": "天鹰强化（4）"
+    },
+    {
+      "kind": "skills",
+      "id": 538,
+      "english": "Dark Spirit Strengthener (5)",
+      "zh-CN": "天鹰强化（5）"
+    },
+    {
+      "kind": "skills",
+      "id": 539,
+      "english": "Spirit Lord",
+      "zh-CN": "天鹰祭祀"
+    },
+    {
+      "kind": "skills",
+      "id": 548,
+      "english": "Reigning Cloak Absorption PowUp",
+      "zh-CN": "统治披风吸收伤害强化"
+    },
+    {
+      "kind": "skills",
+      "id": 549,
+      "english": "Reigning Cloak Defense PowUp",
+      "zh-CN": "统治披风防御强化"
+    },
+    {
+      "kind": "skills",
+      "id": 550,
+      "english": "Reigning Cloak Attack PowUp",
+      "zh-CN": "统治披风攻击强化"
+    },
+    {
+      "kind": "skills",
+      "id": 551,
+      "english": "Killing Blow Strengthener",
+      "zh-CN": "幽冥青狼拳强化"
+    },
+    {
+      "kind": "skills",
+      "id": 552,
+      "english": "Beast Uppercut Strengthener",
+      "zh-CN": "斗气爆裂拳强化"
+    },
+    {
+      "kind": "skills",
+      "id": 554,
+      "english": "Killing Blow Mastery",
+      "zh-CN": "幽冥青狼拳精通"
+    },
+    {
+      "kind": "skills",
+      "id": 555,
+      "english": "Beast Uppercut Mastery",
+      "zh-CN": "斗气爆裂拳精通"
+    },
+    {
+      "kind": "skills",
+      "id": 556,
+      "english": "Def Success Rate Strengthener",
+      "zh-CN": "防御成功率强化"
+    },
+    {
+      "kind": "skills",
+      "id": 557,
+      "english": "Weapon Mastery",
+      "zh-CN": "武器精通"
+    },
+    {
+      "kind": "skills",
+      "id": 558,
+      "english": "Chain Drive Strengthener",
+      "zh-CN": "回旋踢强化"
+    },
+    {
+      "kind": "skills",
+      "id": 559,
+      "english": "Dark Side Strengthener",
+      "zh-CN": "幽冥光速拳强化"
+    },
+    {
+      "kind": "skills",
+      "id": 560,
+      "english": "Dragon Roar Strengthener",
+      "zh-CN": "炎龙拳强化"
+    },
+    {
+      "kind": "skills",
+      "id": 561,
+      "english": "Dragon Roar Mastery",
+      "zh-CN": "炎龙拳精通"
+    },
+    {
+      "kind": "skills",
+      "id": 562,
+      "english": "Chain Drive Mastery",
+      "zh-CN": "回旋踢精通"
+    },
+    {
+      "kind": "skills",
+      "id": 563,
+      "english": "Dark Side Mastery",
+      "zh-CN": "幽冥光速拳精通"
+    },
+    {
+      "kind": "skills",
+      "id": 564,
+      "english": "Dragon Slasher Strengthener",
+      "zh-CN": "噬血之龙强化"
+    },
+    {
+      "kind": "skills",
+      "id": 565,
+      "english": "Blood Howling",
+      "zh-CN": "鲜血咆哮"
+    },
+    {
+      "kind": "skills",
+      "id": 566,
+      "english": "Dragon Slasher Mastery",
+      "zh-CN": "噬血之龙精通"
+    },
+    {
+      "kind": "skills",
+      "id": 567,
+      "english": "Blood Howling Strengthener",
+      "zh-CN": "鲜血咆哮强化"
+    },
+    {
+      "kind": "skills",
+      "id": 568,
+      "english": "Equipped Weapon Strengthener",
+      "zh-CN": "装备武器强化"
+    },
+    {
+      "kind": "skills",
+      "id": 569,
+      "english": "Def SuccessRate Increase PowUp",
+      "zh-CN": "防御成功率增加强化"
+    },
+    {
+      "kind": "skills",
+      "id": 571,
+      "english": "Equipped Weapon Mastery",
+      "zh-CN": "装备武器精通"
+    },
+    {
+      "kind": "skills",
+      "id": 572,
+      "english": "DefSuccessRate Increase Mastery",
+      "zh-CN": "防御成功率增加精通"
+    },
+    {
+      "kind": "skills",
+      "id": 573,
+      "english": "Stamina Increase Strengthener",
+      "zh-CN": "体力增加强化"
+    },
+    {
+      "kind": "skills",
+      "id": 574,
+      "english": "Defense Switch",
+      "zh-CN": "防御转换"
+    },
+    {
+      "kind": "skills",
+      "id": 578,
+      "english": "Durability Reduction (1)",
+      "zh-CN": "耐久消耗减少（1）"
+    },
+    {
+      "kind": "skills",
+      "id": 579,
+      "english": "Increase PvP Defense Rate",
+      "zh-CN": "PVP防御成功率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 580,
+      "english": "Increase Maximum SD",
+      "zh-CN": "最大防护值增加"
+    },
+    {
+      "kind": "skills",
+      "id": 581,
+      "english": "Increase Mana Recovery Rate",
+      "zh-CN": "魔法值恢复速度增加"
+    },
+    {
+      "kind": "skills",
+      "id": 582,
+      "english": "Increase Poison Resistance",
+      "zh-CN": "毒属性抵抗增加"
+    },
+    {
+      "kind": "skills",
+      "id": 583,
+      "english": "Durability Reduction (2)",
+      "zh-CN": "耐久消耗减少（2）"
+    },
+    {
+      "kind": "skills",
+      "id": 584,
+      "english": "Increase SD Recovery Rate",
+      "zh-CN": "防护值恢复速度增加"
+    },
+    {
+      "kind": "skills",
+      "id": 585,
+      "english": "Increase HP Recovery Rate",
+      "zh-CN": "生命值恢复速度增加"
+    },
+    {
+      "kind": "skills",
+      "id": 586,
+      "english": "Increase Lightning Resistance",
+      "zh-CN": "雷属性抵抗增加"
+    },
+    {
+      "kind": "skills",
+      "id": 587,
+      "english": "Increases Defense",
+      "zh-CN": "防御力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 588,
+      "english": "Increases AG Recovery Rate",
+      "zh-CN": "技能值恢复速度增加"
+    },
+    {
+      "kind": "skills",
+      "id": 589,
+      "english": "Increase Ice Resistance",
+      "zh-CN": "冰属性抵抗增加"
+    },
+    {
+      "kind": "skills",
+      "id": 590,
+      "english": "Durability Reduction(3)",
+      "zh-CN": "耐久消耗减少（3）"
+    },
+    {
+      "kind": "skills",
+      "id": 591,
+      "english": "Increase Defense Success Rate",
+      "zh-CN": "防御成功率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 592,
+      "english": "Cast Invincibility",
+      "zh-CN": "无敌术"
+    },
+    {
+      "kind": "skills",
+      "id": 593,
+      "english": "Increase Set Defense",
+      "zh-CN": "整套防具防御力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 594,
+      "english": "Vengeance",
+      "zh-CN": "复仇"
+    },
+    {
+      "kind": "skills",
+      "id": 595,
+      "english": "Increase Energy",
+      "zh-CN": "智力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 596,
+      "english": "Increase HP",
+      "zh-CN": "生命值增加"
+    },
+    {
+      "kind": "skills",
+      "id": 597,
+      "english": "Increase Agility",
+      "zh-CN": "敏捷增加"
+    },
+    {
+      "kind": "skills",
+      "id": 598,
+      "english": "Increase Strength",
+      "zh-CN": "力量增加"
+    },
+    {
+      "kind": "skills",
+      "id": 599,
+      "english": "Increase Attack Success Rate",
+      "zh-CN": "攻击成功率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 600,
+      "english": "Increase Maximum HP",
+      "zh-CN": "最大生命值增加"
+    },
+    {
+      "kind": "skills",
+      "id": 601,
+      "english": "Increase Maximum Mana",
+      "zh-CN": "最大魔法值增加"
+    },
+    {
+      "kind": "skills",
+      "id": 602,
+      "english": "Increase Maximum AG",
+      "zh-CN": "最大技能值增加"
+    },
+    {
+      "kind": "skills",
+      "id": 603,
+      "english": "Increase PvP Attack Rate",
+      "zh-CN": "PVP攻击成功率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 604,
+      "english": "Decrease Mana",
+      "zh-CN": "魔法值消耗减少"
+    },
+    {
+      "kind": "skills",
+      "id": 605,
+      "english": "Recover SD from Monster Kills",
+      "zh-CN": "杀怪恢复防护值"
+    },
+    {
+      "kind": "skills",
+      "id": 606,
+      "english": "Recover HP from Monster Kills",
+      "zh-CN": "杀怪恢复生命值"
+    },
+    {
+      "kind": "skills",
+      "id": 607,
+      "english": "Increase Minimum Attack Power",
+      "zh-CN": "最小攻击力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 608,
+      "english": "Recover Mana from Monster Kills",
+      "zh-CN": "杀怪恢复魔法值"
+    },
+    {
+      "kind": "skills",
+      "id": 609,
+      "english": "Increase Maximum Attack Power",
+      "zh-CN": "最大攻击力增加"
+    },
+    {
+      "kind": "skills",
+      "id": 610,
+      "english": "Increases Critical Damage Chance",
+      "zh-CN": "会心一击概率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 611,
+      "english": "Recover Mana Fully",
+      "zh-CN": "魔法值完全恢复"
+    },
+    {
+      "kind": "skills",
+      "id": 612,
+      "english": "Recovers HP Fully",
+      "zh-CN": "生命值完全恢复"
+    },
+    {
+      "kind": "skills",
+      "id": 613,
+      "english": "Increase Excellent Damage Chance",
+      "zh-CN": "卓越一击概率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 614,
+      "english": "Increase Double Damage Chance",
+      "zh-CN": "双倍伤害概率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 615,
+      "english": "Increase Ignore Def Chance",
+      "zh-CN": "无视防御概率增加"
+    },
+    {
+      "kind": "skills",
+      "id": 616,
+      "english": "Recovers SD Fully",
+      "zh-CN": "防护值完全恢复"
+    },
+    {
+      "kind": "skills",
+      "id": 617,
+      "english": "Increase Triple Damage Chance",
+      "zh-CN": "三倍伤害概率增加"
     }
   ]
 }

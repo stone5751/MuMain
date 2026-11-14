@@ -129,7 +129,7 @@ def validate(data=None):
             if kind == 'quest-summary':
                 assert number in summaries, f'Not a summary reference: {number}'
         counts[kind] += 1
-    assert counts['skills'] == 66 and counts['slides'] == 20
+    assert counts['skills'] == 393 and counts['slides'] == 20
     assert counts['quest-titles'] >= 2 and counts['quest-words'] >= 19 and counts['quest-dialogue'] >= 1
     assert sum(counts[k] for k in ('quest-words', 'quest-dialogue', 'quest-summary')) == 2288
     assert counts['quest-titles'] == 7
