@@ -41,6 +41,7 @@
             "ru": "Макс. HP +50 увеличен.",
             "tl": "Tumaas ang Max HP +50",
             "uk": "Макс HP +50 збільшено",
+            "zh-CN": "最大生命值 +50",
             "zh-TW": "最大生命值+50增加"
           }
         },
@@ -93,6 +94,7 @@
             "ru": "Увеличение урона от атак и волшебства на 30%.",
             "tl": "Dagdagan ang pag-atake at Wizardry Dmg nang 30%",
             "uk": "Збільшує шкоду від атаки та магії на 30%",
+            "zh-CN": "攻击力和魔法攻击力提高30%",
             "zh-TW": "攻擊力和魔法傷害增加30%"
           }
         },
@@ -433,6 +435,7 @@
             "ru": "Прочность: [{durability}]",
             "tl": "Katatagan: [{durability}]",
             "uk": "Довговічність: [{durability}]",
+            "zh-CN": "耐久：[{durability}]",
             "zh-TW": "耐久性：[{durability}]"
           }
         },
@@ -455,6 +458,7 @@
             "ru": "{monster} Кольцо Трансформации",
             "tl": "{monster} Singsing ng Pagbabago",
             "uk": "{monster} Перстень трансформації",
+            "zh-CN": "{monster}变身戒指",
             "zh-TW": "{monster} 變身戒指"
           },
           "values": {"monster": "monsterName:2"},
@@ -472,6 +476,7 @@
             "ru": "{monster} Кольцо Трансформации",
             "tl": "{monster} Singsing ng Pagbabago",
             "uk": "{monster} Перстень трансформації",
+            "zh-CN": "{monster}变身戒指",
             "zh-TW": "{monster} 變身戒指"
           },
           "values": {"monster": "monsterName:7"},
@@ -489,6 +494,7 @@
             "ru": "{monster} Кольцо Трансформации",
             "tl": "{monster} Singsing ng Pagbabago",
             "uk": "{monster} Перстень трансформації",
+            "zh-CN": "{monster}变身戒指",
             "zh-TW": "{monster} 變身戒指"
           },
           "values": {"monster": "monsterName:14"},
@@ -506,6 +512,7 @@
             "ru": "{monster} Кольцо Трансформации",
             "tl": "{monster} Singsing ng Pagbabago",
             "uk": "{monster} Перстень трансформації",
+            "zh-CN": "{monster}变身戒指",
             "zh-TW": "{monster} 變身戒指"
           },
           "values": {"monster": "monsterName:8"},
@@ -523,6 +530,7 @@
             "ru": "{monster} Кольцо Трансформации",
             "tl": "{monster} Singsing ng Pagbabago",
             "uk": "{monster} Перстень трансформації",
+            "zh-CN": "{monster}变身戒指",
             "zh-TW": "{monster} 變身戒指"
           },
           "values": {"monster": "monsterName:9"},
@@ -540,6 +548,7 @@
             "ru": "{monster} Кольцо Трансформации",
             "tl": "{monster} Singsing ng Pagbabago",
             "uk": "{monster} Перстень трансформації",
+            "zh-CN": "{monster}变身戒指",
             "zh-TW": "{monster} 變身戒指"
           },
           "values": {"monster": "monsterName:41"},
@@ -702,6 +711,7 @@
             "ru": "Используется для улучшения крыльев.",
             "tl": "Ginagamit sa pag-upgrade ng mga pakpak",
             "uk": "Використовується для покращення крил",
+            "zh-CN": "用于升级翅膀",
             "zh-TW": "用於升級翅膀"
           },
           "levels": [0, 0]
@@ -718,6 +728,7 @@
             "ru": "Используется для объединения накидки лорда и плаща воина.",
             "tl": "Ginagamit sa pagsasama-sama ng Cape of Lord at Warrior's Cloak",
             "uk": "Використовується для поєднання накидки лорда та плаща воїна",
+            "zh-CN": "用于合成王者披风和武者披风",
             "zh-TW": "用於組合領主斗篷和戰士斗篷"
           },
           "levels": [1, 1]
@@ -726,7 +737,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow",
           "levels": [0, 0]
@@ -743,6 +755,7 @@
             "ru": "Герб монарха",
             "tl": "Crest of monarch",
             "uk": "Герб монарха",
+            "zh-CN": "王者之证",
             "zh-TW": "君主的紋章"
           },
           "color": "yellow",
@@ -940,7 +953,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{stat} {name}"
+            "en": "{stat} {name}",
+            "zh-CN": "{stat} {name}"
           },
           "color": "yellow",
           "levels": [0, 4]
@@ -1058,6 +1072,7 @@
             "ru": "Используется при входе в Кровавый Замок.",
             "tl": "Ginagamit kapag pumapasok sa Blood Castle",
             "uk": "Використовується при вході в Кривавий замок",
+            "zh-CN": "进入血色城堡时使用",
             "zh-TW": "進入血色城堡時使用"
           }
         },
@@ -1113,6 +1128,7 @@
             "ru": "Награда, полученная при возвращении в Архангельск",
             "tl": "Natanggap ang gantimpala nang ibalik sa Arkanghel",
             "uk": "Нагорода отримана після повернення до Архангела",
+            "zh-CN": "将其交还大天使可获得奖励",
             "zh-TW": "回到大天使身邊時獲得的獎勵"
           },
           "color": "darkRed"
@@ -1132,6 +1148,7 @@
             "ru": "Волшебный урон: 107 ~ 110",
             "tl": "Pinsala ng Wizardry: 107 ~ 110",
             "uk": "Пошкодження магії: 107 ~ 110",
+            "zh-CN": "魔法攻击力：107 ~ 110",
             "zh-TW": "魔法傷害: 107 ~ 110"
           },
           "levels": [0, 0]
@@ -1148,6 +1165,7 @@
             "ru": "Урон одной рукой: 110 ~ 120",
             "tl": "Pinsala ng Isang Kamay: 110 ~ 120",
             "uk": "Пошкодження однією рукою: 110 ~ 120",
+            "zh-CN": "单手攻击力：110 ~ 120",
             "zh-TW": "單手傷害: 110 ~ 120"
           },
           "levels": [1, 1]
@@ -1164,6 +1182,7 @@
             "ru": "Двуручный урон: 120 ~ 140",
             "tl": "Pinsala ng Dalawang Kamay: 120 ~ 140",
             "uk": "Пошкодження двома руками: 120 ~ 140",
+            "zh-CN": "双手攻击力：120 ~ 140",
             "zh-TW": "雙手傷害: 120 ~ 140"
           },
           "levels": [2, 2]
@@ -1180,6 +1199,7 @@
             "ru": "Скорость атаки: 20",
             "tl": "Bilis ng pag-atake: 20",
             "uk": "Швидкість атаки: 20",
+            "zh-CN": "攻击速度：20",
             "zh-TW": "攻擊速度：20"
           },
           "levels": [0, 0]
@@ -1196,6 +1216,7 @@
             "ru": "Скорость атаки: 35",
             "tl": "Bilis ng pag-atake: 35",
             "uk": "Швидкість атаки: 35",
+            "zh-CN": "攻击速度：35",
             "zh-TW": "攻擊速度：35"
           },
           "levels": [1, 1]
@@ -1212,6 +1233,7 @@
             "ru": "Скорость атаки: 35",
             "tl": "Bilis ng pag-atake: 35",
             "uk": "Швидкість атаки: 35",
+            "zh-CN": "攻击速度：35",
             "zh-TW": "攻擊速度：35"
           },
           "levels": [2, 2]
@@ -1228,6 +1250,7 @@
             "ru": "Требование к прочности: 132",
             "tl": "Kinakailangan ng Lakas: 132",
             "uk": "Вимоги до міцності: 132",
+            "zh-CN": "需求力量：132",
             "zh-TW": "強度要求：132"
           },
           "levels": [0, 0]
@@ -1244,6 +1267,7 @@
             "ru": "Требование к прочности: 381",
             "tl": "Kinakailangan ng Lakas: 381",
             "uk": "Вимоги до міцності: 381",
+            "zh-CN": "需求力量：381",
             "zh-TW": "強度要求：381"
           },
           "levels": [1, 1]
@@ -1260,6 +1284,7 @@
             "ru": "Требование к прочности: 140",
             "tl": "Kinakailangan ng Lakas: 140",
             "uk": "Вимоги до міцності: 140",
+            "zh-CN": "需求力量：140",
             "zh-TW": "強度要求：140"
           },
           "levels": [2, 2]
@@ -1276,6 +1301,7 @@
             "ru": "Требование к ловкости: 32",
             "tl": "Kinakailangan sa Liksi: 32",
             "uk": "Вимоги до спритності: 32",
+            "zh-CN": "需求敏捷：32",
             "zh-TW": "敏捷性需求：32"
           },
           "levels": [0, 0]
@@ -1292,6 +1318,7 @@
             "ru": "Требование к ловкости: 149",
             "tl": "Kinakailangan sa Liksi: 149",
             "uk": "Вимоги до спритності: 149",
+            "zh-CN": "需求敏捷：149",
             "zh-TW": "敏捷性需求：149"
           },
           "levels": [1, 1]
@@ -1308,6 +1335,7 @@
             "ru": "Требование к ловкости: 350",
             "tl": "Kinakailangan sa Liksi: 350",
             "uk": "Вимоги до спритності: 350",
+            "zh-CN": "需求敏捷：350",
             "zh-TW": "敏捷性需求：350"
           },
           "levels": [2, 2]
@@ -1327,6 +1355,7 @@
             "ru": "Удача (шанс успеха «Драгоценности души» +25%)",
             "tl": "Suwerte (rate ng tagumpay ng Jewel of Soul +25%)",
             "uk": "Удача (швидкість успіху Jewel of Soul +25%)",
+            "zh-CN": "幸运（灵魂宝石成功率 +25%）",
             "zh-TW": "幸運（靈魂寶石成功率+25%）"
           },
           "color": "blue"
@@ -1343,6 +1372,7 @@
             "ru": "Удача (коэффициент критического урона +5%)",
             "tl": "Swerte (critical damage rate +5%)",
             "uk": "Удача (рівень критичної шкоди +5%)",
+            "zh-CN": "幸运（会心一击率 +5%）",
             "zh-TW": "幸運（暴擊傷害率+5%）"
           },
           "color": "blue"
@@ -1359,6 +1389,7 @@
             "ru": "Волшебный урон 53% увеличивается",
             "tl": "Wizardry Dmg 53% tumaas",
             "uk": "Wizardry Dmg 53% зростання",
+            "zh-CN": "魔法攻击力提高53%",
             "zh-TW": "魔法傷害 53% 上漲"
           },
           "color": "blue",
@@ -1377,6 +1408,7 @@
             "ru": "Увеличение магического урона +уровень/20",
             "tl": "Taasan ang Wizardry Dmg +level/20",
             "uk": "Збільшити Wizardry Dmg +level/20",
+            "zh-CN": "魔法攻击力 +等级/20",
             "zh-TW": "增加魔法傷害+level/20"
           },
           "color": "blue",
@@ -1394,6 +1426,7 @@
             "ru": "Увеличение урона от волшебства +2%",
             "tl": "Dagdagan ang Wizardry Dmg +2%",
             "uk": "Збільшити шкоду магії +2%",
+            "zh-CN": "魔法攻击力 +2%",
             "zh-TW": "增加魔法傷害+2%"
           },
           "color": "blue",
@@ -1411,6 +1444,7 @@
             "ru": "Навык циклонной резки (Мана:{mana})",
             "tl": "Kasanayan sa Cyclone Cutting (Mana:{mana})",
             "uk": "Навички Cyclone Cutting (Мана:{mana})",
+            "zh-CN": "旋风斩（魔法值：{mana}）",
             "zh-TW": "旋風切割技能（法力：{mana}）"
           },
           "values": {"mana": "skillMana:22"},
@@ -1434,6 +1468,7 @@
             "ru": "Увеличение урона +2%",
             "tl": "Palakihin ang Pinsala +2%",
             "uk": "Збільшення шкоди +2%",
+            "zh-CN": "攻击力 +2%",
             "zh-TW": "增加傷害+2%"
           },
           "color": "blue",
@@ -1451,6 +1486,7 @@
             "ru": "Навык «Тройной выстрел» (Мана:{mana})",
             "tl": "Triple Shot skill (Mana:{mana})",
             "uk": "Навичка «Потрійний постріл» (мана:{mana})",
+            "zh-CN": "多重箭（魔法值：{mana}）",
             "zh-TW": "三重射擊技能（法力：{mana}）"
           },
           "values": {"mana": "skillMana:24"},
@@ -1474,6 +1510,7 @@
             "ru": "Увеличение урона +2%",
             "tl": "Palakihin ang Pinsala +2%",
             "uk": "Збільшення шкоди +2%",
+            "zh-CN": "攻击力 +2%",
             "zh-TW": "增加傷害+2%"
           },
           "color": "blue",
@@ -1491,6 +1528,7 @@
             "ru": "Отличный урон +10%",
             "tl": "Napakahusay na Damage rate +10%",
             "uk": "Відмінний рівень шкоди +10%",
+            "zh-CN": "卓越一击率 +10%",
             "zh-TW": "優 破損率+10%"
           },
           "color": "blue"
@@ -1507,6 +1545,7 @@
             "ru": "Увеличение скорости атаки (волшебства) +7",
             "tl": "Dagdagan ang bilis ng Pag-atake(Wizardry) +7",
             "uk": "Збільшити швидкість атаки (чарівництво) +7",
+            "zh-CN": "攻击（施法）速度 +7",
             "zh-TW": "增加攻擊（魔法）速度+7"
           },
           "color": "blue"
@@ -1523,6 +1562,7 @@
             "ru": "Увеличивает скорость получения жизни после охоты на монстров +жизнь/8.",
             "tl": "Pinapataas ang rate ng pagkuha ng Buhay pagkatapos manghuli ng mga halimaw +buhay/8",
             "uk": "Збільшує швидкість отримання життя після полювання на монстрів + життя/8",
+            "zh-CN": "击杀怪物时恢复生命值 +最大生命值/8",
             "zh-TW": "狩獵怪物後生命獲得率增加+life/8"
           },
           "color": "blue"
@@ -1545,6 +1585,7 @@
             "ru": "Абсолютный Посох Архангела",
             "tl": "Ganap na Staff ng Arkanghel",
             "uk": "Абсолютний посох Архангела",
+            "zh-CN": "大天使之绝对魔杖",
             "zh-TW": "大天使的絕對法杖"
           },
           "color": "yellow",
@@ -1562,6 +1603,7 @@
             "ru": "Абсолютный Меч Архангела",
             "tl": "Ganap na Espada ng Arkanghel",
             "uk": "Абсолютний Меч Архангела",
+            "zh-CN": "大天使之绝对剑",
             "zh-TW": "絕對大天使之劍"
           },
           "color": "yellow",
@@ -1579,6 +1621,7 @@
             "ru": "Абсолютный арбалет Архангела",
             "tl": "Ganap na Crossbow ng Arkanghel",
             "uk": "Абсолютний арбалет Архангела",
+            "zh-CN": "大天使之绝对弩",
             "zh-TW": "大天使的絕對弩"
           },
           "color": "yellow",
@@ -1636,6 +1679,7 @@
             "ru": "Можно выбросить после уровня 40.",
             "tl": "Maaaring i-drop pagkatapos ng level 40",
             "uk": "Можна викинути після рівня 40",
+            "zh-CN": "40级后可丢到地上",
             "zh-TW": "等級 40 後可掉落"
           },
           "levels": [1, 1]
@@ -1652,6 +1696,7 @@
             "ru": "Можно выбросить после уровня 80.",
             "tl": "Maaaring i-drop pagkatapos ng level 80",
             "uk": "Можна викинути після рівня 80",
+            "zh-CN": "80级后可丢到地上",
             "zh-TW": "等級 80 後可掉落"
           },
           "levels": [2, 2]
@@ -1679,7 +1724,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow",
           "levels": [0, 0]
@@ -1696,6 +1742,7 @@
             "ru": "Кольцо Воина",
             "tl": "Singsing ng mandirigma",
             "uk": "Перстень Воїна",
+            "zh-CN": "勇士之戒",
             "zh-TW": "戰士之戒"
           },
           "color": "yellow",
@@ -1713,6 +1760,7 @@
             "ru": "Кольцо славы",
             "tl": "Singsing ng kaluwalhatian",
             "uk": "Перстень слави",
+            "zh-CN": "荣耀之戒",
             "zh-TW": "榮耀之戒"
           },
           "color": "yellow",
@@ -2049,7 +2097,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -2066,7 +2115,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -2120,6 +2170,7 @@
             "ru": "Используется в воскрешении Темной Лошади.",
             "tl": "Ginamit sa Dark Horse resurrection",
             "uk": "Використовується у воскресінні Dark Horse",
+            "zh-CN": "用于复活黑王马",
             "zh-TW": "用於黑馬復活"
           },
           "levels": [0, 0]
@@ -2136,6 +2187,7 @@
             "ru": "Используется при воскрешении Темного Ворона.",
             "tl": "Ginamit sa Dark Raven resurrection",
             "uk": "Використовується у воскресінні Dark Raven",
+            "zh-CN": "用于复活天鹰",
             "zh-TW": "用於暗鴉復活"
           },
           "levels": [1, 1]
@@ -2154,6 +2206,7 @@
             "ru": "{name} (Темная лошадка)",
             "tl": "{name} (Maitim na kabayo)",
             "uk": "{name} (Темна конячка)",
+            "zh-CN": "黑王马的{name}",
             "zh-TW": "{name} (黑馬)"
           },
           "levels": [0, 0]
@@ -2170,6 +2223,7 @@
             "ru": "{name} (Темный ворон)",
             "tl": "{name} (Dark Raven)",
             "uk": "{name} (Темний ворон)",
+            "zh-CN": "天鹰的{name}",
             "zh-TW": "{name} (暗鴉)"
           },
           "levels": [1, 1]
@@ -2208,6 +2262,7 @@
             "ru": "Фрагмент рога можно сделать, используя Божественную защиту Богини и фрагмент брони.",
             "tl": "Ang fragment ng sungay ay maaaring gawin gamit ang Banal na proteksyon ng Diyosa at fragment ng baluti.",
             "uk": "Фрагмент рогу можна зробити за допомогою Божественного захисту Богині та фрагмента обладунку.",
+            "zh-CN": "将女神的智慧与铠甲碎片合成，可获得断角碎片。",
             "zh-TW": "角碎片可以用女神的神聖保護和盔甲碎片來製作。"
           },
           "color": "yellow",
@@ -2217,7 +2272,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white"
         }
@@ -2263,6 +2319,7 @@
             "ru": "Фрагмент рога можно сделать, используя Божественную защиту Богини и фрагмент брони.",
             "tl": "Ang fragment ng sungay ay maaaring gawin gamit ang Banal na proteksyon ng Diyosa at fragment ng baluti.",
             "uk": "Фрагмент рогу можна зробити за допомогою Божественного захисту Богині та фрагмента обладунку.",
+            "zh-CN": "将女神的智慧与铠甲碎片合成，可获得断角碎片。",
             "zh-TW": "角碎片可以用女神的神聖保護和盔甲碎片來製作。"
           },
           "color": "yellow",
@@ -2272,7 +2329,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white"
         }
@@ -2307,7 +2365,8 @@
         {
           "text": {
             "en": "{durability} / 10",
-            "ja": "{durability}個/ 10個"
+            "ja": "{durability}個/ 10個",
+            "zh-CN": "{durability} / 10"
           }
         },
         {
@@ -2319,7 +2378,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white"
         }
@@ -2360,7 +2420,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white"
         }
@@ -2404,6 +2465,7 @@
             "ru": "Рог Фенрира можно сделать, комбинируя предметы.",
             "tl": "Ang sungay ni Fenrir ay maaaring gawin sa pamamagitan ng kumbinasyon ng item.",
             "uk": "Ріг Фенріра можна зробити за допомогою комбінації предметів.",
+            "zh-CN": "可通过合成获得炎狼兽的角。",
             "zh-TW": "芬裡爾的號角可以透過物品組合來製作。"
           },
           "color": "yellow",
@@ -2413,7 +2475,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white"
         }
@@ -2462,6 +2525,7 @@
             "ru": "{name} +Уничтожить",
             "tl": "{name} + Wasakin",
             "uk": "{name} +Знищити",
+            "zh-CN": "{name} +破坏",
             "zh-TW": "{name} +摧毀"
           },
           "when": ["excellentFlags=1"],
@@ -2479,6 +2543,7 @@
             "ru": "{name} +Защитить",
             "tl": "{name} +Protektahan",
             "uk": "{name} +Захистити",
+            "zh-CN": "{name} +守护",
             "zh-TW": "{name} +保護"
           },
           "when": ["excellentFlags=2"],
@@ -2496,6 +2561,7 @@
             "ru": "{name} +Иллюзия",
             "tl": "{name} +Ilusyon",
             "uk": "{name} +Ілюзія",
+            "zh-CN": "{name} +幻影",
             "zh-TW": "{name} +幻象"
           },
           "when": ["excellentFlags=4"],
@@ -2503,7 +2569,8 @@
         },
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "blue"
         }
@@ -2565,7 +2632,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -2617,6 +2685,7 @@
             "ru": "Увеличение защитного навыка +10%",
             "tl": "Dagdagan ang defensive skill +10%",
             "uk": "Підвищити оборонний навик +10%",
+            "zh-CN": "防御技能效果 +10%",
             "zh-TW": "增加防禦技能+10%"
           },
           "color": "blue",
@@ -2634,6 +2703,7 @@
             "ru": "жизненная сила +{heroLevel}",
             "tl": "sigla +{heroLevel}",
             "uk": "життєва сила +{heroLevel}",
+            "zh-CN": "体力 +{heroLevel}",
             "zh-TW": "活力+{heroLevel}"
           },
           "color": "blue",
@@ -2735,6 +2805,7 @@
             "ru": "Дополнительный урон +20",
             "tl": "Karagdagang Dmg +20",
             "uk": "Додатковий Dmg +20",
+            "zh-CN": "追加攻击力 +20",
             "zh-TW": "附加傷害+20"
           },
           "color": "blue",
@@ -2752,6 +2823,7 @@
             "ru": "Дополнительный магический урон +20",
             "tl": "Karagdagang Wizardry Dmg +20",
             "uk": "Додатковий Wizardry Dmg +20",
+            "zh-CN": "追加魔法攻击力 +20",
             "zh-TW": "額外魔法傷害+20"
           },
           "color": "blue",
@@ -2773,6 +2845,7 @@
             "ru": "С Рождеством.",
             "tl": "Maligayang Pasko.",
             "uk": "Веселого Різдва.",
+            "zh-CN": "圣诞快乐！",
             "zh-TW": "聖誕快樂。"
           },
           "color": "red",
@@ -2833,6 +2906,7 @@
             "ru": "Навык ледяного атрибута увеличивает урон +255",
             "tl": "Ang kakayahan ng katangian ng yelo ay nagpapataas ng pinsala +255",
             "uk": "Навичка льоду збільшує шкоду +255",
+            "zh-CN": "冰属性技能伤害 +255",
             "zh-TW": "冰屬性技能傷害增加+255"
           },
           "color": "blue",
@@ -2850,6 +2924,7 @@
             "ru": "Навык атрибута яда увеличивает урон +255",
             "tl": "Ang kakayahan ng katangian ng lason ay nagpapataas ng pinsala +255",
             "uk": "Навик атрибута отрути збільшує шкоду +255",
+            "zh-CN": "毒属性技能伤害 +255",
             "zh-TW": "毒屬性技能傷害增加+255"
           },
           "color": "blue",
@@ -2867,6 +2942,7 @@
             "ru": "Навык атрибута молнии увеличивает урон +255",
             "tl": "Ang kakayahan ng katangian ng kidlat ay nagpapataas ng pinsala +255",
             "uk": "Атрибут блискавки збільшує шкоду +255",
+            "zh-CN": "雷属性技能伤害 +255",
             "zh-TW": "雷屬性技能傷害增加+255"
           },
           "color": "blue",
@@ -2884,6 +2960,7 @@
             "ru": "Навык атрибута огня увеличивает урон +255",
             "tl": "Ang kakayahan ng katangian ng sunog ay nagpapataas ng pinsala +255",
             "uk": "Навик атрибута вогню збільшує шкоду +255",
+            "zh-CN": "火属性技能伤害 +255",
             "zh-TW": "火屬性技能傷害增加+255"
           },
           "color": "blue",
@@ -2901,6 +2978,7 @@
             "ru": "Навык атрибута земли увеличивает урон +255",
             "tl": "Ang kakayahan ng Earth attribute ay nagpapataas ng pinsala +255",
             "uk": "Навичка атрибута Землі збільшує шкоду +255",
+            "zh-CN": "地属性技能伤害 +255",
             "zh-TW": "土屬性技能傷害增加+255"
           },
           "color": "blue",
@@ -2918,6 +2996,7 @@
             "ru": "Навык атрибута ветра увеличивает урон +255",
             "tl": "Ang kakayahan ng katangian ng hangin ay nagpapataas ng pinsala +255",
             "uk": "Навик атрибута вітру збільшує шкоду +255",
+            "zh-CN": "风属性技能伤害 +255",
             "zh-TW": "風屬性技能傷害增加+255"
           },
           "color": "blue",
@@ -2935,6 +3014,7 @@
             "ru": "Навык атрибута воды увеличивает урон +255",
             "tl": "Ang kakayahan ng katangian ng tubig ay nagpapataas ng pinsala +255",
             "uk": "Водний атрибут навички збільшує шкоду +255",
+            "zh-CN": "水属性技能伤害 +255",
             "zh-TW": "水屬性技能傷害增加+255"
           },
           "color": "blue",
@@ -3099,6 +3179,7 @@
             "ru": "Мешает приобретению опыта.",
             "tl": "Pinipigilan ang mga karanasan na makuha.",
             "uk": "Заважає отримати досвід.",
+            "zh-CN": "停止获取经验。",
             "zh-TW": "阻止獲得經驗。"
           },
           "color": "blue"
@@ -3157,6 +3238,7 @@
             "ru": "Позволяет войти в Площадь Дьявола.",
             "tl": "Pinapagana ang pagpasok sa Devil Square.",
             "uk": "Дозволяє вхід у Площа диявола.",
+            "zh-CN": "可进入恶魔广场。",
             "zh-TW": "允許進入 魔鬼廣場。"
           },
           "color": "blue"
@@ -3216,6 +3298,7 @@
             "ru": "Позволяет войти в Кровавый Замок.",
             "tl": "Pinapagana ang pagpasok sa Kastilyo ng Dugo.",
             "uk": "Дозволяє вхід у Кривавий замок.",
+            "zh-CN": "可进入血色城堡。",
             "zh-TW": "允許進入 血色城堡。"
           },
           "color": "blue"
@@ -3275,6 +3358,7 @@
             "ru": "Позволяет войти в Калима.",
             "tl": "Pinapagana ang pagpasok sa Kalima.",
             "uk": "Дозволяє вхід у Каліма.",
+            "zh-CN": "可进入卡利玛神庙。",
             "zh-TW": "允許進入 卡利馬。"
           },
           "color": "blue"
@@ -3333,6 +3417,7 @@
             "ru": "Соберите Свиток Крови с помощью контракта Волшебства Иллюзий.",
             "tl": "Ipunin ang Scroll of Blood na may kontrata mula sa Illusion Sorcery.",
             "uk": "Зберіть Сувій крові за контрактом від Illusion Sorcery.",
+            "zh-CN": "使用幻术师的契约合成血的卷纸。",
             "zh-TW": "用幻象魔法的契約組裝血色捲軸。"
           },
           "color": "blue"
@@ -3375,6 +3460,7 @@
             "ru": "Соберите Свиток Крови из старых свитков.",
             "tl": "Ipunin ang Scroll of Blood gamit ang mga lumang scroll.",
             "uk": "Зберіть Сувій крові зі старих сувоїв.",
+            "zh-CN": "使用古老的卷轴合成血的卷纸。",
             "zh-TW": "將血液捲軸與舊捲軸組裝起來。"
           },
           "color": "blue"
@@ -3417,6 +3503,7 @@
             "ru": "Это знак волшебства иллюзий; это необходимо для входа в храм.",
             "tl": "Ito ay isang marka ng Illusion Sorcery; ito ay kinakailangan upang makapasok sa templo.",
             "uk": "Це ознака магії ілюзій; це потрібно для входу в храм.",
+            "zh-CN": "幻术师的印记，进入幻术园时需要此物。",
             "zh-TW": "這是幻術的印記；這是進入寺廟所必需的。"
           },
           "color": "blue"
@@ -3682,6 +3769,7 @@
             "ru": "Вы можете свободно двигаться дальше.",
             "tl": "Maaari kang malayang magpatuloy.",
             "uk": "Ви можете вільно рухатися далі.",
+            "zh-CN": "可以自由移动。",
             "zh-TW": "你可以自由地前進。"
           },
           "color": "blue"
@@ -3730,6 +3818,7 @@
             "ru": "Это снижает уровень убийств.",
             "tl": "Binabawasan nito ang rate ng pagpatay.",
             "uk": "Це знижує швидкість вбивства.",
+            "zh-CN": "降低杀人惩罚值。",
             "zh-TW": "它降低了殺滅率。"
           },
           "color": "blue"
@@ -3778,6 +3867,7 @@
             "ru": "Позволяет войти в Храм иллюзий.",
             "tl": "Pinapagana ang pagpasok sa Templo ng Ilusyon.",
             "uk": "Дозволяє вхід у Храм ілюзій.",
+            "zh-CN": "可进入幻术园。",
             "zh-TW": "允許進入 幻像神殿。"
           },
           "color": "blue"
@@ -3837,6 +3927,7 @@
             "ru": "Процент опыта увеличен {addOptionValue1}%",
             "tl": "Tumaas ang rate ng karanasan {addOptionValue1}%",
             "uk": "Швидкість досвіду збільшено {addOptionValue1}%",
+            "zh-CN": "获得经验提高{addOptionValue1}%",
             "zh-TW": "經驗率增加{addOptionValue1}%"
           },
           "color": "blue"
@@ -3853,6 +3944,7 @@
             "ru": "Увеличение автоматического восстановления ресурса {addOptionValue2}%",
             "tl": "Ang Awtomatikong Life Recover na pagtaas {addOptionValue2}%",
             "uk": "Приріст автоматичного відновлення життя {addOptionValue2}%",
+            "zh-CN": "生命自动恢复提高{addOptionValue2}%",
             "zh-TW": "自動生命復原增量 {addOptionValue2}%"
           },
           "color": "blue"
@@ -3869,6 +3961,7 @@
             "ru": "Достижение опыта и скорость автоматического восстановления жизни увеличиваются.",
             "tl": "EXP achievement at ang awtomatikong pagtaas ng rate ng pagbawi sa buhay.",
             "uk": "Досягнення EXP і швидкість автоматичного відновлення життя збільшуються.",
+            "zh-CN": "提高获得的经验和生命自动恢复速度。",
             "zh-TW": "EXP成就和自動生命恢復率增加。"
           },
           "color": "blue"
@@ -3921,6 +4014,7 @@
             "ru": "Шанс выпадения предметов увеличен {addOptionValue1}%",
             "tl": "Ang rate ng pagbaba ng item ay tumaas {addOptionValue1}%",
             "uk": "Швидкість випадання предметів збільшена {addOptionValue1}%",
+            "zh-CN": "物品掉落率提高{addOptionValue1}%",
             "zh-TW": "物品掉落率增加 {addOptionValue1}%"
           },
           "color": "blue"
@@ -3937,6 +4031,7 @@
             "ru": "Автоматическое увеличение восстановления маны со скоростью {addOptionValue2}%.",
             "tl": "Awtomatikong pagtaas ng Mana recovery sa {addOptionValue2}% rate",
             "uk": "Автоматичне приріст відновлення мани в {addOptionValue2}%.",
+            "zh-CN": "魔法值自动恢复提高{addOptionValue2}%",
             "zh-TW": "自動法力恢復增量（{addOptionValue2}% 率）"
           },
           "color": "blue"
@@ -3953,6 +4048,7 @@
             "ru": "Достижение предмета и автоматическое восстановление маны увеличиваются.",
             "tl": "Ang pagkamit ng item at ang awtomatikong pagbawi ng Mana ay tumataas.",
             "uk": "Досягнення предметів і автоматичне відновлення мани збільшуються.",
+            "zh-CN": "提高物品掉落率和魔法值自动恢复速度。",
             "zh-TW": "物品成就和自動法力恢復量不斷增加。"
           },
           "color": "blue"
@@ -4001,6 +4097,7 @@
             "ru": "Увеличивает силу атаки и волшебство на 40%",
             "tl": "Pinapataas ng 40% ang Attack Power at Wizardry",
             "uk": "Збільшує силу атаки та магію на 40%",
+            "zh-CN": "攻击力和魔法攻击力提高40%",
             "zh-TW": "攻擊力和魔法增加40%"
           },
           "color": "blue"
@@ -4065,6 +4162,7 @@
             "ru": "Уменьшает урон монстра на 30%",
             "tl": "Binabawasan ang pinsala ng halimaw ng 30%",
             "uk": "Зменшує шкоду монстра на 30%",
+            "zh-CN": "受到的怪物伤害降低30%",
             "zh-TW": "減少怪物傷害30%"
           },
           "color": "blue"
@@ -4081,6 +4179,7 @@
             "ru": "Увеличивает максимальное количество жизни на 50.",
             "tl": "Pinapataas ng 50 ang Pinakamataas na Buhay",
             "uk": "Збільшує максимальне життя на 50",
+            "zh-CN": "最大生命值增加50",
             "zh-TW": "最大生命增加 50"
           },
           "color": "purple"
@@ -4145,6 +4244,7 @@
             "ru": "Переместитесь в Деревню Санты по щелчку правой кнопки мыши.",
             "tl": "Lumipat sa Santa's Village sa pamamagitan ng right-mouse click.",
             "uk": "Перемістіть в село Діда Мороза, клацнувши правою кнопкою миші.",
+            "zh-CN": "点击鼠标右键前往圣诞村。",
             "zh-TW": "透過滑鼠右鍵重新定位到聖誕老人村。"
           },
           "color": "blue",
@@ -4305,6 +4405,7 @@
             "ru": "Сохраните местоположение приложения.",
             "tl": "I-save ang lokasyon ng application.",
             "uk": "Збережіть розташування програми.",
+            "zh-CN": "记录使用时的位置。",
             "zh-TW": "儲存應用程式位置。"
           },
           "color": "blue"
@@ -4321,6 +4422,7 @@
             "ru": "Сохраняет местоположение щелчком правой кнопки мыши.",
             "tl": "Sine-save ang lokasyon gamit ang right-mouse-click.",
             "uk": "Зберігає розташування клацанням правою кнопкою миші.",
+            "zh-CN": "点击鼠标右键记录当前位置。",
             "zh-TW": "點選滑鼠右鍵儲存位置。"
           },
           "when": ["durability=2"],
@@ -4338,6 +4440,7 @@
             "ru": "Возвращается в сохраненное место по клику.",
             "tl": "Bumalik sa naka-save na lokasyon sa pamamagitan ng isang pag-click.",
             "uk": "Повернення до збереженого місця клацанням.",
+            "zh-CN": "点击返回已记录的位置。",
             "zh-TW": "單擊即可返回已儲存的位置。"
           },
           "when": ["durability=1"],
@@ -4547,6 +4650,7 @@
             "ru": "Превратитесь в Панду.",
             "tl": "Transform sa Panda.",
             "uk": "Перетворіться на панду.",
+            "zh-CN": "变身为熊猫。",
             "zh-TW": "變身為熊貓。"
           },
           "color": "blue",
@@ -4564,6 +4668,7 @@
             "ru": "Дзен увеличение 50%",
             "tl": "50% ang pagtaas ng Zen",
             "uk": "Дзен збільшення 50%",
+            "zh-CN": "获得金币增加50%",
             "zh-TW": "禪宗增加50%"
           },
           "color": "blue",
@@ -4581,6 +4686,7 @@
             "ru": "Урон/Магия/Проклятие +30",
             "tl": "Pinsala/Wizardry/Curse +30",
             "uk": "Пошкодження/Чарівництво/Прокляття +30",
+            "zh-CN": "攻击力、魔法攻击力、诅咒攻击力 +30",
             "zh-TW": "傷害/魔法/詛咒 +30"
           },
           "color": "blue",
@@ -4651,6 +4757,7 @@
             "ru": "Скорость опыта 50% increase",
             "tl": "EXP rate 50% inadagdagan",
             "uk": "Швидкість досвіду збільшується на 50% in",
+            "zh-CN": "获得经验提高50%",
             "zh-TW": "EXP率50% i增加"
           },
           "color": "blue"
@@ -4715,6 +4822,7 @@
             "ru": "Опыт и предмет будут сохранены после смерти персонажа.",
             "tl": "Mase-secure ang exp at item kapag namatay ang character.",
             "uk": "Досвід і предмет будуть захищені, коли персонаж помре.",
+            "zh-CN": "角色死亡时保留经验和物品。",
             "zh-TW": "當角色死亡時，經驗值和物品將受到保護。"
           },
           "color": "blue"
@@ -4731,6 +4839,7 @@
             "ru": "Никакого наказания за смерть.",
             "tl": "Walang parusa sa pagkamatay.",
             "uk": "Жодного покарання за смерть.",
+            "zh-CN": "死亡时免受惩罚。",
             "zh-TW": "死亡沒有懲罰。"
           },
           "color": "blue"
@@ -4747,6 +4856,7 @@
             "ru": "Щелкните правой кнопкой мыши, чтобы использовать.",
             "tl": "I-right click para gamitin.",
             "uk": "Клацніть правою кнопкою миші, щоб використати.",
+            "zh-CN": "点击鼠标右键使用。",
             "zh-TW": "右鍵點擊即可使用。"
           },
           "color": "blue"
@@ -4794,6 +4904,7 @@
             "ru": "Прочность предмета не будет уменьшаться в течение определенного периода.",
             "tl": "Ang tibay ng item ay hindi bababa sa isang tiyak na panahon.",
             "uk": "Стійкість предмета не буде знижуватися протягом певного періоду.",
+            "zh-CN": "一定时间内物品耐久不会下降。",
             "zh-TW": "物品耐久度在一定時間內不會減少。"
           },
           "color": "blue"
@@ -4810,6 +4921,7 @@
             "ru": "Сохраняет вещь прочной",
             "tl": "Pinapanatiling matibay ang item",
             "uk": "Зберігає предмет міцним",
+            "zh-CN": "保护物品耐久。",
             "zh-TW": "保持物品耐用"
           },
           "color": "blue"
@@ -4826,6 +4938,7 @@
             "ru": "Применимо только к монтируемым предметам, кроме питомца.",
             "tl": "Naaangkop sa mga naka-mount na item lamang bukod sa alagang hayop.",
             "uk": "Застосовується лише для встановлюваних елементів, крім домашніх тварин.",
+            "zh-CN": "仅适用于坐骑，宠物除外。",
             "zh-TW": "僅適用於寵物以外的可安裝物品。"
           },
           "color": "blue"
@@ -5449,6 +5562,7 @@
             "ru": "Увеличение получаемого урона до 170% EXP, в зависимости от количества членов вашей группы.",
             "tl": "Hanggang 170% EXP ang pagtaas ng kita, depende sa bilang ng mga miyembro sa iyong partido.",
             "uk": "Збільшення приросту до 170% EXP, залежно від кількості учасників у вашій групі.",
+            "zh-CN": "根据队伍人数，经验加成最高可达170%。",
             "zh-TW": "增益增加最多 170% EXP，取決於隊伍中的成員數量。"
           },
           "color": "blue"
@@ -5495,6 +5609,7 @@
             "ru": "Увеличить Макс. АГ + Уровень",
             "tl": "Dagdagan ang Max. AG + Level",
             "uk": "Збільшити Макс. AG + рівень",
+            "zh-CN": "最大技能值（AG）+角色等级",
             "zh-TW": "增加最大。 AG+等級"
           },
           "color": "blue"
@@ -5541,6 +5656,7 @@
             "ru": "Увеличить Макс. СД + Уровеньx10",
             "tl": "Dagdagan ang Max. SD + Levelx10",
             "uk": "Збільшити Макс. SD + Рівеньx10",
+            "zh-CN": "最大防护值（SD）+角色等级×10",
             "zh-TW": "增加最大。 SD + 等級x10"
           },
           "color": "blue"
@@ -5591,6 +5707,7 @@
             "ru": "Дзен увеличение 50%",
             "tl": "50% ang pagtaas ng Zen",
             "uk": "Дзен збільшення 50%",
+            "zh-CN": "获得金币增加50%",
             "zh-TW": "禪宗增加50%"
           },
           "color": "blue"
@@ -5651,7 +5768,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -5703,6 +5821,7 @@
             "ru": "Увеличивает максимальное количество маны на 4%",
             "tl": "Tumataas ng Max Mana 4%",
             "uk": "Збільшує максимальну ману на 4%",
+            "zh-CN": "最大魔法值提高4%",
             "zh-TW": "最大法力增加 4%"
           }
         }
@@ -5754,6 +5873,7 @@
             "ru": "Увеличение максимального запаса здоровья +4%",
             "tl": "Taasan ang Max HP +4%",
             "uk": "Збільшити макс. HP +4%",
+            "zh-CN": "最大生命值 +4%",
             "zh-TW": "最大生命值增加+4%"
           }
         }
@@ -5805,6 +5925,7 @@
             "ru": "Увеличивает скорость получения Дзен после охоты на монстров +30%",
             "tl": "Pinapataas ang rate ng pagkuha ng Zen pagkatapos ng pangangaso ng mga halimaw +30%",
             "uk": "Збільшує швидкість отримання Дзен після полювання на монстрів +30%",
+            "zh-CN": "击杀怪物获得的金币 +30%",
             "zh-TW": "狩獵怪物後禪的獲得率增加+30%"
           }
         }
@@ -5856,6 +5977,7 @@
             "ru": "Уменьшение урона +4%",
             "tl": "Pagbawas ng Pinsala +4%",
             "uk": "Зменшення шкоди +4%",
+            "zh-CN": "伤害减少 +4%",
             "zh-TW": "傷害減少 +4%"
           }
         }
@@ -5907,6 +6029,7 @@
             "ru": "Отличный урон +10%",
             "tl": "Napakahusay na Damage rate +10%",
             "uk": "Відмінний рівень шкоди +10%",
+            "zh-CN": "卓越一击率 +10%",
             "zh-TW": "優 破損率+10%"
           }
         }
@@ -5958,6 +6081,7 @@
             "ru": "Увеличение скорости атаки +7",
             "tl": "Tumaas ang Bilis ng Pag-atake +7",
             "uk": "Збільшення швидкості атаки +7",
+            "zh-CN": "攻击速度 +7",
             "zh-TW": "攻擊速度增加+7"
           }
         }
@@ -6045,6 +6169,7 @@
             "ru": "Увеличивает шанс выпадения предметов.",
             "tl": "Pinapalakas ang rate ng pagbagsak ng item.",
             "uk": "Збільшує швидкість випадання предметів.",
+            "zh-CN": "提高物品掉落率。",
             "zh-TW": "提高物品掉落率。"
           },
           "color": "blue"
@@ -6181,6 +6306,7 @@
             "ru": "Позволяет войти в Замок Хаоса.",
             "tl": "Pinapagana ang pagpasok sa Chaos Castle.",
             "uk": "Дозволяє вхід у Замок Хаосу.",
+            "zh-CN": "可进入赤色要塞。",
             "zh-TW": "允許進入 混沌城堡。"
           }
         },
@@ -6243,6 +6369,7 @@
             "ru": "Экипируйтесь, чтобы превратиться в скелета-воина.",
             "tl": "Equip para magtransform sa isang Skeleton Warrior.",
             "uk": "Одягніть, щоб перетворитися на воїна-скелета.",
+            "zh-CN": "装备后变身为骷髅战士。",
             "zh-TW": "裝備後可以變身為骷髏戰士。"
           },
           "color": "blue",
@@ -6260,6 +6387,7 @@
             "ru": "Урон/Магия/Проклятие +40",
             "tl": "Pinsala/Wizardry/Curse +40",
             "uk": "Пошкодження/Чарівництво/Прокляття +40",
+            "zh-CN": "攻击力、魔法攻击力、诅咒攻击力 +40",
             "zh-TW": "傷害/魔法/詛咒 +40"
           },
           "color": "blue",
@@ -6281,6 +6409,7 @@
             "ru": "Экипировка вместе со скелетом питомца",
             "tl": "Equipping kasama ng Pet Skeleton",
             "uk": "Екіпірування разом зі скелетом домашньої тварини",
+            "zh-CN": "同时装备骷髅宠物时，",
             "zh-TW": "與寵物骷髏一起裝備"
           },
           "color": "blue",
@@ -6298,6 +6427,7 @@
             "ru": "увеличивает опыт на 30%.",
             "tl": "nagpapataas ng EXP ng 30%.",
             "uk": "збільшує досвід на 30%.",
+            "zh-CN": "获得经验提高30%。",
             "zh-TW": "經驗值增加 30%。"
           },
           "color": "blue",
@@ -6368,6 +6498,7 @@
             "ru": "увеличивает урон, волшебство и проклятие на 20%",
             "tl": "pinapataas ng 20% ang Damage, Wizardry at Curse",
             "uk": "збільшує шкоду, магію та прокляття на 20%",
+            "zh-CN": "攻击力、魔法攻击力和诅咒攻击力提高20%，",
             "zh-TW": "傷害、魔法和詛咒增加 20%"
           },
           "color": "blue"
@@ -6388,6 +6519,7 @@
             "ru": "и EXP на 30%.",
             "tl": "at EXP ng 30%.",
             "uk": "і EXP на 30%.",
+            "zh-CN": "获得经验提高30%。",
             "zh-TW": "經驗值增加 30%。"
           },
           "color": "blue"
@@ -6408,6 +6540,7 @@
             "ru": "Экипировка вместе с кольцом трансформации скелета.",
             "tl": "Equipping kasama ng isang Skeleton Transformation Ring",
             "uk": "Екіпірування разом із кільцем трансформації скелета",
+            "zh-CN": "同时装备骷髅变身戒指时，",
             "zh-TW": "與骷髏變身戒指一起裝備"
           },
           "color": "blue",
@@ -6425,6 +6558,7 @@
             "ru": "увеличивает опыт на 30%.",
             "tl": "nagpapataas ng EXP ng 30%.",
             "uk": "збільшує досвід на 30%.",
+            "zh-CN": "获得经验提高30%。",
             "zh-TW": "經驗值增加 30%。"
           },
           "color": "blue",
@@ -6484,6 +6618,7 @@
             "ru": "Вы можете войти в Золотой канал.",
             "tl": "Maaari kang pumasok sa Gold Channel.",
             "uk": "Ви можете увійти в Gold Channel.",
+            "zh-CN": "可进入黄金频道。",
             "zh-TW": "您可以進入黃金通道。"
           },
           "color": "blue"
@@ -6500,6 +6635,7 @@
             "ru": "7 дней до истечения срока действия",
             "tl": "7 Araw bago ang Expiration",
             "uk": "7 днів до закінчення терміну дії",
+            "zh-CN": "有效期7天",
             "zh-TW": "距離到期還有 7 天"
           },
           "color": "yellow",
@@ -6547,6 +6683,7 @@
             "ru": "Позволяет войти в двойник.",
             "tl": "Pinapagana ang pagpasok sa Doppelganger.",
             "uk": "Дозволяє вхід у Двійник.",
+            "zh-CN": "可进入分身幻影活动。",
             "zh-TW": "允許進入 分身。"
           },
           "color": "blue"
@@ -6602,6 +6739,7 @@
             "ru": "Позволяет войти в Варка.",
             "tl": "Pinapagana ang pagpasok sa Varka.",
             "uk": "Дозволяє вхід у Варка.",
+            "zh-CN": "可进入帝国要塞。",
             "zh-TW": "允許進入 瓦爾卡。"
           },
           "color": "blue"
@@ -6624,6 +6762,7 @@
             "ru": "Можно войти на карту понедельник-суббота.",
             "tl": "Maaaring pumasok sa mapa ng Lunes - Sabado.",
             "uk": "Можна ввести карту понеділок - субота.",
+            "zh-CN": "可进入周一至周六的地图。",
             "zh-TW": "可以輸入週一-週六的地圖。"
           }
         }
@@ -6672,6 +6811,7 @@
             "ru": "Позволяет войти в Карта Варки 7.",
             "tl": "Pinapagana ang pagpasok sa Varka Mapa 7.",
             "uk": "Дозволяє вхід у Варка Карта 7.",
+            "zh-CN": "可进入帝国要塞第7张地图。",
             "zh-TW": "允許進入 瓦爾卡地圖 7。"
           },
           "color": "blue"
@@ -6694,6 +6834,7 @@
             "ru": "Можно войти в воскресную карту.",
             "tl": "Maaaring pumasok sa mapa ng Linggo.",
             "uk": "Можна ввести недільну карту.",
+            "zh-CN": "可进入周日地图。",
             "zh-TW": "可以進入周日地圖。"
           }
         }

@@ -82,6 +82,32 @@ def check_names(errors):
     return additions
 
 
+def item_lines(item):
+    for field in ('description', 'nameLines'):
+        for row in item.get(field, []):
+            text = row.get('text') if isinstance(row, dict) else None
+            if isinstance(text, dict) and 'en' in text:
+                yield field, text
+
+
+def check_item_lines(errors):
+    counts = {}
+    for path in (ROOT / 'src/bin/Data/Items').glob('Group*.json'):
+        original_items = json.loads(original(path))['items']
+        for item, old_item in zip(json.loads(path.read_bytes())['items'], original_items, strict=True):
+            for (field, text), (_, old) in zip(item_lines(item), item_lines(old_item), strict=True):
+                counts[field] = counts.get(field, 0) + 1
+                en, zh = text['en'], text.get('zh-CN', '')
+                if not zh or len(zh.encode('utf-16-le')) // 2 > 255:
+                    errors.append(f'{path.name}/{field}/{en}: missing or oversized display text')
+                if old.get('zh-CN') == zh:
+                    continue  # Existing translations may spell numbers with Chinese numerals.
+                for pattern in (r'\{[^{}]*\}|[{}]', r'\d+', r'[%\r\n\t]'):
+                    if sorted(re.findall(pattern, en)) != sorted(re.findall(pattern, zh)):
+                        errors.append(f'{path.name}/{field}/{en}: mismatched {pattern}')
+    return counts
+
+
 def check_tooltip_texts(errors):
     additions = 0
     for filename in ('Tooltip.json', 'OptionTexts.json'):
@@ -115,14 +141,16 @@ def check_tooltip_texts(errors):
 
 def main():
     errors = []
-    result = dict(resource_additions=check_resources(errors), name_additions=check_names(errors),
+    result = dict(inline_item_texts=check_item_lines(errors), resource_additions=check_resources(errors), name_additions=check_names(errors),
                   tooltip_additions=check_tooltip_texts(errors))
     # Font cmap validation supplements, but does not replace, visual UI testing.
     try:
         from fontTools.ttLib import TTFont
         text = ''.join(''.join(resources(p).values()) for p in (ROOT / 'src/Localization').glob('*.zh-CN.resx'))
         for path in (ROOT / 'src/bin/Data/Items').glob('Group*.json'):
-            text += ''.join(i.get('name', {}).get('zh-CN', '') for i in json.loads(path.read_text(encoding='utf-8'))['items'])
+            for item in json.loads(path.read_bytes())['items']:
+                text += item.get('name', {}).get('zh-CN', '')
+                text += ''.join(row['zh-CN'] for _, row in item_lines(item) if 'zh-CN' in row)
         text += ''.join(i.get('name', {}).get('zh-CN', '') for i in json.loads((ROOT / 'src/bin/Data/Monsters/Monsters.json').read_text(encoding='utf-8'))['monsters'])
         for filename in ('Tooltip.json', 'OptionTexts.json'):
             document = json.loads((ROOT / 'src/bin/Data/Items/Tooltips' / filename).read_text(encoding='utf-8'))

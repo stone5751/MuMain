@@ -193,6 +193,7 @@
             "ru": "Урон +20% увеличение эффекта",
             "tl": "Pinsala +20% pagtaas na epekto",
             "uk": "Пошкодження +20% посилення ефекту",
+            "zh-CN": "伤害提高20%",
             "zh-TW": "傷害+20% 效果增加"
           },
           "color": "darkRed",
@@ -210,6 +211,7 @@
             "ru": "Продолжительность 60 секунд",
             "tl": "Tagal 60 segundo",
             "uk": "Тривалість 60 секунд",
+            "zh-CN": "持续60秒",
             "zh-TW": "持續時間 60 秒"
           },
           "color": "darkRed",
@@ -227,6 +229,7 @@
             "ru": "Применимо только для ворот замка и статуи.",
             "tl": "Naaangkop lamang para sa gate ng kastilyo at rebulto",
             "uk": "Застосовується лише для воріт і статуї замку",
+            "zh-CN": "仅对城门和石像生效",
             "zh-TW": "僅適用於城堡大門和雕像"
           },
           "color": "darkRed",
@@ -244,6 +247,7 @@
             "ru": "Увеличение скорости восстановления AG на +8.",
             "tl": "Taasan ang +8 AG na bilis ng pagbawi",
             "uk": "Збільшити швидкість відновлення AG на +8",
+            "zh-CN": "技能值（AG）恢复速度 +8",
             "zh-TW": "增加+8 AG恢復速度"
           },
           "color": "darkRed",
@@ -261,6 +265,7 @@
             "ru": "Увеличение сопротивления молнии и льду.",
             "tl": "Dagdagan ang resistensya ng Kidlat at Yelo",
             "uk": "Збільшити опір блискавки та льоду",
+            "zh-CN": "提高雷属性和冰属性抗性",
             "zh-TW": "增加閃電和冰的抗性"
           },
           "color": "darkRed",
@@ -278,6 +283,7 @@
             "ru": "Скорость атаки увеличится +20.",
             "tl": "Ang bilis ng pag-atake ay tataas ang +20",
             "uk": "Швидкість атаки збільшиться на +20",
+            "zh-CN": "攻击速度 +20",
             "zh-TW": "攻擊速度增加+20"
           },
           "color": "darkRed",
@@ -297,6 +303,7 @@
             "ru": "Зелье благословения",
             "tl": "Gayuma ng pagpapala",
             "uk": "Зілля благословення",
+            "zh-CN": "祝福药水",
             "zh-TW": "祝福藥水"
           },
           "levels": [0, 0]
@@ -313,6 +320,7 @@
             "ru": "Зелье души",
             "tl": "Gayuma ng kaluluwa",
             "uk": "Зілля душі",
+            "zh-CN": "灵魂药水",
             "zh-TW": "靈魂藥水"
           },
           "levels": [1, 1]
@@ -359,7 +367,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "levels": [0, 0]
         },
@@ -398,6 +407,7 @@
             "ru": "Переместитесь в соответствующую область через 3 секунд.",
             "tl": "Warp sa kaukulang lugar pagkatapos ng 3 segundo",
             "uk": "Деформація до відповідної області через 3 секунд",
+            "zh-CN": "3秒后传送至相应区域",
             "zh-TW": "3秒後扭曲到對應區域"
           },
           "levels": [1, 8]
@@ -432,6 +442,7 @@
             "ru": "Когда ты уронишь его на землю,",
             "tl": "Kapag ibinagsak mo ito sa lupa,",
             "uk": "Коли ти впустиш його на землю,",
+            "zh-CN": "丢到地上后，",
             "zh-TW": "當你把它丟到地上時，"
           },
           "levels": [7, 7]
@@ -448,6 +459,7 @@
             "ru": "[Рена/Дзен/Драгоценный камень/Предмет]",
             "tl": "[Rena/Zen/Jewel/Item]",
             "uk": "[Rena/Zen/Jewel/Item]",
+            "zh-CN": "[瑞纳/金币/宝石/物品]",
             "zh-TW": "[蕾娜/禪/寶石/物品]"
           },
           "levels": [7, 7]
@@ -464,6 +476,7 @@
             "ru": "вы получите один из вышеперечисленных предметов.",
             "tl": "makakakuha ka ng isa sa mga item sa itaas.",
             "uk": "ви отримаєте один із зазначених вище предметів.",
+            "zh-CN": "可获得其中一项。",
             "zh-TW": "您將獲得上述物品之一。"
           },
           "levels": [7, 7]
@@ -480,6 +493,7 @@
             "ru": "Бесплатный вход в Калиму.",
             "tl": "Libreng pasukan sa Kalima",
             "uk": "Безкоштовний вхід в Каліму",
+            "zh-CN": "可自由进入卡利玛神庙",
             "zh-TW": "免費進入卡利馬"
           },
           "levels": [14, 14]
@@ -496,6 +510,7 @@
             "ru": "Увеличение выносливости",
             "tl": "Dagdagan ang tibay",
             "uk": "Підвищити витривалість",
+            "zh-CN": "提高耐力",
             "zh-TW": "增加耐力"
           },
           "levels": [14, 14]
@@ -517,7 +532,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "levels": [0, 0]
         },
@@ -533,6 +549,7 @@
             "ru": "Звезда Священного Рождения",
             "tl": "Bituin ng Sagradong Kapanganakan",
             "uk": "Зірка священного народження",
+            "zh-CN": "圣诞之星",
             "zh-TW": "神聖誕生之星"
           },
           "levels": [1, 1]
@@ -549,6 +566,7 @@
             "ru": "Петарда",
             "tl": "Paputok",
             "uk": "петарда",
+            "zh-CN": "烟花",
             "zh-TW": "鞭炮"
           },
           "levels": [2, 2]
@@ -565,6 +583,7 @@
             "ru": "Сердце любви",
             "tl": "Puso ng pag-ibig",
             "uk": "Серце кохання",
+            "zh-CN": "爱之心",
             "zh-TW": "愛的心"
           },
           "levels": [3, 3]
@@ -585,6 +604,7 @@
             "ru": "Серебряная медаль",
             "tl": "medalyang pilak",
             "uk": "Срібна медаль",
+            "zh-CN": "银质勋章",
             "zh-TW": "銀牌"
           },
           "levels": [5, 5]
@@ -601,6 +621,7 @@
             "ru": "Золотая медаль",
             "tl": "Gintong medalya",
             "uk": "Золота медаль",
+            "zh-CN": "金质勋章",
             "zh-TW": "金牌"
           },
           "levels": [6, 6]
@@ -617,6 +638,7 @@
             "ru": "Коробка Небес",
             "tl": "Kahon ng Langit",
             "uk": "Скринька Неба",
+            "zh-CN": "天界宝箱",
             "zh-TW": "天堂之盒"
           },
           "levels": [7, 7]
@@ -633,6 +655,7 @@
             "ru": "Коробка Кундуна +1",
             "tl": "Kahon ng Kundun +1",
             "uk": "Коробка Кундуна +1",
+            "zh-CN": "昆顿宝箱 +1",
             "zh-TW": "昆頓之盒 +1"
           },
           "levels": [8, 8]
@@ -649,6 +672,7 @@
             "ru": "Коробка Кундуна +2",
             "tl": "Kahon ng Kundun +2",
             "uk": "Коробка Кундуна +2",
+            "zh-CN": "昆顿宝箱 +2",
             "zh-TW": "昆頓之盒 +2"
           },
           "levels": [9, 9]
@@ -665,6 +689,7 @@
             "ru": "Коробка Кундуна +3",
             "tl": "Kahon ng Kundun +3",
             "uk": "Коробка Кундуна +3",
+            "zh-CN": "昆顿宝箱 +3",
             "zh-TW": "昆頓之盒 +3"
           },
           "levels": [10, 10]
@@ -681,6 +706,7 @@
             "ru": "Коробка Кундуна +4",
             "tl": "Kahon ng Kundun +4",
             "uk": "Коробка Кундуна +4",
+            "zh-CN": "昆顿宝箱 +4",
             "zh-TW": "昆頓之盒 +4"
           },
           "levels": [11, 11]
@@ -697,6 +723,7 @@
             "ru": "Коробка Кундуна +5",
             "tl": "Kahon ng Kundun +5",
             "uk": "Коробка Кундуна +5",
+            "zh-CN": "昆顿宝箱 +5",
             "zh-TW": "昆頓之盒 +5"
           },
           "levels": [12, 12]
@@ -713,6 +740,7 @@
             "ru": "Сердце Темного Лорда",
             "tl": "Puso ng Dark Lord",
             "uk": "Серце Темного Лорда",
+            "zh-CN": "魔王之心",
             "zh-TW": "黑暗領主之心"
           },
           "levels": [13, 13]
@@ -729,6 +757,7 @@
             "ru": "Синий счастливый мешочек",
             "tl": "Blue lucky pouch",
             "uk": "Синій мішечок на щастя",
+            "zh-CN": "蓝色幸运袋",
             "zh-TW": "藍色福袋"
           },
           "levels": [14, 14]
@@ -745,6 +774,7 @@
             "ru": "Красный счастливый мешочек",
             "tl": "Pulang lucky pouch",
             "uk": "Червоний щасливчик",
+            "zh-CN": "红色幸运袋",
             "zh-TW": "紅色福袋"
           },
           "levels": [15, 15]
@@ -779,6 +809,7 @@
             "ru": "Зарегистрироваться можно отдав его NPC.",
             "tl": "Maaari kang magparehistro sa pamamagitan ng pagbibigay nito sa NPC",
             "uk": "Ви можете зареєструватися, передавши його NPC",
+            "zh-CN": "交给相应的NPC即可登记",
             "zh-TW": "交給NPC即可註冊"
           },
           "levels": [0, 1]
@@ -797,6 +828,7 @@
             "ru": "Дзен",
             "tl": "Zen",
             "uk": "Дзен",
+            "zh-CN": "金币",
             "zh-TW": "禪"
           },
           "levels": [0, 0]
@@ -813,6 +845,7 @@
             "ru": "Сердце",
             "tl": "Puso",
             "uk": "серце",
+            "zh-CN": "爱心",
             "zh-TW": "心"
           },
           "levels": [1, 1]
@@ -829,6 +862,7 @@
             "ru": "Подарочный сертификат на событие Хаоса",
             "tl": "Chaos Event Gift Certificate",
             "uk": "Подарунковий сертифікат на подію Chaos",
+            "zh-CN": "玛雅活动礼券",
             "zh-TW": "混沌活動禮券"
           },
           "levels": [2, 2]
@@ -1093,6 +1127,7 @@
             "ru": "Используется в онлайн-мероприятии",
             "tl": "Ginamit sa online na kaganapan",
             "uk": "Використовується в онлайн-події",
+            "zh-CN": "用于线上活动",
             "zh-TW": "用於線上活動"
           },
           "levels": [1, 1]
@@ -1109,6 +1144,7 @@
             "ru": "Используется в событии «Мой друг».",
             "tl": "Ginamit sa kaganapang Aking Kaibigan.",
             "uk": "Використовується в події My Friend.",
+            "zh-CN": "用于好友活动。",
             "zh-TW": "在「我的朋友」活動中使用。"
           },
           "levels": [2, 2]
@@ -1125,6 +1161,7 @@
             "ru": "Использование при регистрации осады",
             "tl": "Gamitin sa pagpaparehistro ng pagkubkob",
             "uk": "Використання при реєстрації облоги",
+            "zh-CN": "用于申请攻城",
             "zh-TW": "用於攻城登記"
           },
           "levels": [3, 3]
@@ -1138,7 +1175,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow",
           "levels": [0, 0]
@@ -1155,6 +1193,7 @@
             "ru": "Камень",
             "tl": "Bato",
             "uk": "Камінь",
+            "zh-CN": "宝石",
             "zh-TW": "結石"
           },
           "color": "yellow",
@@ -1172,6 +1211,7 @@
             "ru": "Камень Дружбы",
             "tl": "Bato ng Pagkakaibigan",
             "uk": "Камінь Дружби",
+            "zh-CN": "友谊之石",
             "zh-TW": "友誼之石"
           },
           "color": "yellow",
@@ -1189,6 +1229,7 @@
             "ru": "Знак лорда",
             "tl": "Tanda ng panginoon",
             "uk": "Знак владики",
+            "zh-CN": "城主标志",
             "zh-TW": "主的標誌"
           },
           "color": "yellow",
@@ -1273,7 +1314,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow",
           "levels": [0, 0]
@@ -1290,6 +1332,7 @@
             "ru": "Кольцо Почета",
             "tl": "Ring of Honor",
             "uk": "Перстень Пошани",
+            "zh-CN": "荣誉戒指",
             "zh-TW": "榮譽戒指"
           },
           "color": "yellow",
@@ -1335,7 +1378,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow",
           "levels": [0, 0]
@@ -1352,6 +1396,7 @@
             "ru": "Темный камень",
             "tl": "Madilim na Bato",
             "uk": "Темний камінь",
+            "zh-CN": "暗黑之石",
             "zh-TW": "暗黑石"
           },
           "color": "yellow",
@@ -1397,7 +1442,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -1437,7 +1483,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -1466,14 +1513,16 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow",
           "levels": [0, 0]
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "yellow"
         }
@@ -1496,13 +1545,15 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "levels": [0, 0]
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           }
         }
       ],
@@ -1575,7 +1626,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "levels": [0, 0]
         },
@@ -1591,6 +1643,7 @@
             "ru": "Коробка конфет сиреневого цвета",
             "tl": "Lilac na kahon ng kendi",
             "uk": "Бузкова цукерниця",
+            "zh-CN": "紫色糖果盒",
             "zh-TW": "紫丁香糖果盒"
           },
           "levels": [1, 1]
@@ -1625,7 +1678,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "levels": [0, 0]
         },
@@ -1641,6 +1695,7 @@
             "ru": "Коробочка апельсиновых конфет",
             "tl": "Kahon ng orange na kendi",
             "uk": "Помаранчева цукерниця",
+            "zh-CN": "橙色糖果盒",
             "zh-TW": "橘色糖果盒"
           },
           "levels": [1, 1]
@@ -1675,7 +1730,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "levels": [0, 0]
         },
@@ -1691,6 +1747,7 @@
             "ru": "Коробка конфет темно-синего цвета",
             "tl": "Navy na kahon ng kendi",
             "uk": "Темно-синя цукерниця",
+            "zh-CN": "深蓝色糖果盒",
             "zh-TW": "海軍藍糖果盒"
           },
           "levels": [1, 1]
@@ -1874,7 +1931,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -1905,7 +1963,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -1936,7 +1995,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -1967,7 +2027,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -1998,7 +2059,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           }
         }
       ],
@@ -2031,6 +2093,7 @@
             "ru": "Увеличение скорости атаки +{addOptionValue1}",
             "tl": "Tumaas ang Bilis ng Pag-atake +{addOptionValue1}",
             "uk": "Збільшення швидкості атаки +{addOptionValue1}",
+            "zh-CN": "攻击速度 +{addOptionValue1}",
             "zh-TW": "攻擊速度增加+{addOptionValue1}"
           },
           "color": "darkYellow"
@@ -2043,7 +2106,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           }
         }
       ],
@@ -2075,6 +2139,7 @@
             "ru": "Увеличение силы атаки +{addOptionValue1}",
             "tl": "Pagtaas ng Attack Power +{addOptionValue1}",
             "uk": "Збільшення сили атаки +{addOptionValue1}",
+            "zh-CN": "攻击力 +{addOptionValue1}",
             "zh-TW": "攻擊力增加+{addOptionValue1}"
           },
           "color": "darkYellow"
@@ -2087,7 +2152,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           }
         }
       ],
@@ -2119,6 +2185,7 @@
             "ru": "Увеличение защитной силы +{addOptionValue1}",
             "tl": "Pagtaas ng Defense Power +{addOptionValue1}",
             "uk": "Збільшення сили захисту +{addOptionValue1}",
+            "zh-CN": "防御力 +{addOptionValue1}",
             "zh-TW": "防禦力增加+{addOptionValue1}"
           },
           "color": "darkYellow"
@@ -2131,7 +2198,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           }
         }
       ],
@@ -2163,6 +2231,7 @@
             "ru": "Увеличить макс. жизнь +{addOptionValue1}",
             "tl": "Taasan ang max. buhay +{addOptionValue1}",
             "uk": "Збільшити макс. життя +{addOptionValue1}",
+            "zh-CN": "最大生命值 +{addOptionValue1}",
             "zh-TW": "增加最大生命+{addOptionValue1}"
           },
           "color": "darkYellow"
@@ -2175,7 +2244,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           }
         }
       ],
@@ -2207,6 +2277,7 @@
             "ru": "Увеличить макс. мана +{addOptionValue1}",
             "tl": "Taasan ang max. mana +{addOptionValue1}",
             "uk": "Збільшити макс. мана +{addOptionValue1}",
+            "zh-CN": "最大魔法值 +{addOptionValue1}",
             "zh-TW": "增加最大法力+{addOptionValue1}"
           },
           "color": "darkYellow"
@@ -2219,7 +2290,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           }
         }
       ],
@@ -2272,6 +2344,7 @@
             "ru": "Компания GM подарила эту специальную коробку.",
             "tl": "Niregalo ni GM ang espesyal na kahon na ito.",
             "uk": "GM подарував цю особливу коробку.",
+            "zh-CN": "游戏管理员赠送的特殊宝箱。",
             "zh-TW": "通用汽車贈送了這個特殊的盒子。"
           },
           "after": "options"
@@ -2310,6 +2383,7 @@
             "ru": "Увеличивает коэффициент комбинации, но только до максимального коэффициента.",
             "tl": "Pinapataas ang rate ng kumbinasyon, ngunit hanggang sa maximum na rate lamang.",
             "uk": "Збільшує швидкість комбінації, але лише до максимальної швидкості.",
+            "zh-CN": "提高合成成功率，最高可达该合成的成功率上限。",
             "zh-TW": "增加組合速率，但僅達最大速率。"
           },
           "color": "blue"
@@ -2326,6 +2400,7 @@
             "ru": "{durability}% Увеличение шанса успешной комбинации",
             "tl": "{durability}% Pagtaas ng rate ng tagumpay ng kumbinasyon",
             "uk": "{durability}% Збільшення рівня успіху комбінації",
+            "zh-CN": "合成成功率提高{durability}%",
             "zh-TW": "{durability}% 組合成功率提升"
           },
           "when": ["durability"]
@@ -2588,6 +2663,7 @@
             "ru": "Скорость мобильности снижается при достижении.",
             "tl": "Ang bilis ng paggalaw ay bumababa kapag nakamit.",
             "uk": "Швидкість рухливості знижується після досягнення.",
+            "zh-CN": "获得后移动速度降低。",
             "zh-TW": "成就後移動速度會降低。"
           },
           "color": "blue"
@@ -2775,6 +2851,7 @@
             "ru": "Мгновенно восстанавливает HP на 100% i.",
             "tl": "Ibinabalik ang HP nang 100% i kaagad.",
             "uk": "Негайно відновлює HP на 100% i.",
+            "zh-CN": "立即恢复100%生命值。",
             "zh-TW": "立即恢復HP 100% i。"
           },
           "color": "blue"
@@ -2818,6 +2895,7 @@
             "ru": "Мгновенно восстанавливает ману на 100% i.",
             "tl": "Ibinabalik ang Mana ng 100% i kaagad.",
             "uk": "Негайно відновлює ману на 100% i.",
+            "zh-CN": "立即恢复100%魔法值。",
             "zh-TW": "立即恢復 100% i 法力。"
           },
           "color": "blue"
@@ -2857,6 +2935,7 @@
             "ru": "Увеличивает скорость атаки на {addOptionValue1}.",
             "tl": "Pinapataas ng {addOptionValue1} ang Bilis ng Pag-atake",
             "uk": "Збільшує швидкість атаки на {addOptionValue1}",
+            "zh-CN": "攻击速度提高{addOptionValue1}",
             "zh-TW": "攻擊速度增加 {addOptionValue1}"
           },
           "color": "blue"
@@ -2900,6 +2979,7 @@
             "ru": "Увеличивает защиту на {addOptionValue1}.",
             "tl": "Pinapataas ang Depensa ng {addOptionValue1}",
             "uk": "Збільшує захист на {addOptionValue1}",
+            "zh-CN": "防御力提高{addOptionValue1}",
             "zh-TW": "防禦力增加 {addOptionValue1}"
           },
           "color": "blue"
@@ -2943,6 +3023,7 @@
             "ru": "Увеличивает силу атаки на {addOptionValue1}.",
             "tl": "Pinapataas ng {addOptionValue1} ang Attack Power",
             "uk": "Збільшує силу атаки на {addOptionValue1}",
+            "zh-CN": "攻击力提高{addOptionValue1}",
             "zh-TW": "攻擊力增加 {addOptionValue1}"
           },
           "color": "blue"
@@ -2986,6 +3067,7 @@
             "ru": "Увеличивает волшебство на {addOptionValue1}",
             "tl": "Pinapataas ang Wizardry ng {addOptionValue1}",
             "uk": "Збільшує Wizardry на {addOptionValue1}",
+            "zh-CN": "魔法攻击力提高{addOptionValue1}",
             "zh-TW": "增加巫術 {addOptionValue1}"
           },
           "color": "blue"
@@ -3029,6 +3111,7 @@
             "ru": "Увеличивает HP на {addOptionValue1}.",
             "tl": "Tumataas ang HP ng {addOptionValue1}",
             "uk": "Збільшує HP на {addOptionValue1}",
+            "zh-CN": "生命值提高{addOptionValue1}",
             "zh-TW": "HP 增加 {addOptionValue1}"
           },
           "color": "blue"
@@ -3072,6 +3155,7 @@
             "ru": "Увеличивает ману на {addOptionValue1}.",
             "tl": "Pinapataas ang Mana ng {addOptionValue1}",
             "uk": "Збільшує ману на {addOptionValue1}",
+            "zh-CN": "魔法值提高{addOptionValue1}",
             "zh-TW": "法力增加 {addOptionValue1}"
           },
           "color": "blue"
@@ -3119,6 +3203,7 @@
             "ru": "Прирост силы +{addOptionValue1}",
             "tl": "Pagtaas ng lakas +{addOptionValue1}",
             "uk": "Приріст сили +{addOptionValue1}",
+            "zh-CN": "力量 +{addOptionValue1}",
             "zh-TW": "強度增量+{addOptionValue1}"
           },
           "color": "blue"
@@ -3133,7 +3218,8 @@
         },
         {
           "text": {
-            "en": "{addOptionDuration}"
+            "en": "{addOptionDuration}",
+            "zh-CN": "{addOptionDuration}"
           },
           "color": "purple"
         },
@@ -3179,6 +3265,7 @@
             "ru": "Увеличение быстроты +{addOptionValue1}",
             "tl": "Pagtaas ng bilis +{addOptionValue1}",
             "uk": "Приріст швидкості +{addOptionValue1}",
+            "zh-CN": "敏捷 +{addOptionValue1}",
             "zh-TW": "速度增量+{addOptionValue1}"
           },
           "color": "blue"
@@ -3193,7 +3280,8 @@
         },
         {
           "text": {
-            "en": "{addOptionDuration}"
+            "en": "{addOptionDuration}",
+            "zh-CN": "{addOptionDuration}"
           },
           "color": "purple"
         },
@@ -3239,6 +3327,7 @@
             "ru": "прирост выносливости +{addOptionValue1}",
             "tl": "pagtaas ng tibay +{addOptionValue1}",
             "uk": "приріст витривалості +{addOptionValue1}",
+            "zh-CN": "体力 +{addOptionValue1}",
             "zh-TW": "體力增量+{addOptionValue1}"
           },
           "color": "blue"
@@ -3253,7 +3342,8 @@
         },
         {
           "text": {
-            "en": "{addOptionDuration}"
+            "en": "{addOptionDuration}",
+            "zh-CN": "{addOptionDuration}"
           },
           "color": "purple"
         },
@@ -3299,6 +3389,7 @@
             "ru": "Приращение энергии +{addOptionValue1}",
             "tl": "Pagtaas ng enerhiya +{addOptionValue1}",
             "uk": "Приріст енергії +{addOptionValue1}",
+            "zh-CN": "智力 +{addOptionValue1}",
             "zh-TW": "能量增量+{addOptionValue1}"
           },
           "color": "blue"
@@ -3313,7 +3404,8 @@
         },
         {
           "text": {
-            "en": "{addOptionDuration}"
+            "en": "{addOptionDuration}",
+            "zh-CN": "{addOptionDuration}"
           },
           "color": "purple"
         },
@@ -3359,6 +3451,7 @@
             "ru": "Приращение управления +{addOptionValue1}",
             "tl": "Kontrolin ang pagtaas +{addOptionValue1}",
             "uk": "Приріст контролю +{addOptionValue1}",
+            "zh-CN": "统率 +{addOptionValue1}",
             "zh-TW": "控制增量+{addOptionValue1}"
           },
           "color": "blue"
@@ -3382,13 +3475,15 @@
             "ru": "Используйте только Темного Лорда.",
             "tl": "Dark Lord gamitin lang.",
             "uk": "Темний Лорд використовувати тільки.",
+            "zh-CN": "仅限圣导师使用。",
             "zh-TW": "僅限黑暗領主使用。"
           },
           "color": "yellow"
         },
         {
           "text": {
-            "en": "{addOptionDuration}"
+            "en": "{addOptionDuration}",
+            "zh-CN": "{addOptionDuration}"
           },
           "color": "purple"
         },
@@ -3471,13 +3566,15 @@
             "ru": "700 Максимальное приращение маны",
             "tl": "700 Maximum Mana increment",
             "uk": "700 Максимальний приріст мани",
+            "zh-CN": "最大魔法值增加700",
             "zh-TW": "700 最大法力增量"
           },
           "color": "blue"
         },
         {
           "text": {
-            "en": "{addOptionDuration}"
+            "en": "{addOptionDuration}",
+            "zh-CN": "{addOptionDuration}"
           },
           "color": "purple"
         }
@@ -3510,13 +3607,15 @@
             "ru": "700 максимального увеличения жизни",
             "tl": "700 Maximum Life increment",
             "uk": "700 Максимальний приріст життя",
+            "zh-CN": "最大生命值增加700",
             "zh-TW": "700 最大生命增量"
           },
           "color": "blue"
         },
         {
           "text": {
-            "en": "{addOptionDuration}"
+            "en": "{addOptionDuration}",
+            "zh-CN": "{addOptionDuration}"
           },
           "color": "purple"
         }
@@ -3549,13 +3648,15 @@
             "ru": "Увеличение силы атаки +40.",
             "tl": "Pagtaas ng lakas ng pag-atake +40",
             "uk": "Приріст сили атаки +40",
+            "zh-CN": "攻击力 +40",
             "zh-TW": "攻擊力增量+40"
           },
           "color": "blue"
         },
         {
           "text": {
-            "en": "{addOptionDuration}"
+            "en": "{addOptionDuration}",
+            "zh-CN": "{addOptionDuration}"
           },
           "color": "purple"
         }
@@ -3743,6 +3844,7 @@
             "ru": "Мгновенно восстанавливает HP на 65% i.",
             "tl": "Ibinabalik ang HP nang 65% i kaagad.",
             "uk": "Відновлює HP на 65% iмразово.",
+            "zh-CN": "立即恢复65%生命值。",
             "zh-TW": "立即恢復生命值65% i。"
           },
           "color": "blue"
@@ -3809,6 +3911,7 @@
             "ru": "Минимум +10–+15 повышение уровня предмета.",
             "tl": "Pinakamababang +10 - +15 na antas ng pag-upgrade ng item",
             "uk": "Мінімальне підвищення рівня +10 - +15",
+            "zh-CN": "强化+10至+15的物品时，",
             "zh-TW": "最低 +10 - +15 級物品升級"
           },
           "color": "blue"
@@ -3825,6 +3928,7 @@
             "ru": "блокирует рассеивание предмета.",
             "tl": "hinaharangan ang pagwawaldas ng item.",
             "uk": "блокує розсіювання предмета.",
+            "zh-CN": "可防止物品消失。",
             "zh-TW": "阻止物品耗散。"
           },
           "color": "purple"
@@ -3841,6 +3945,7 @@
             "ru": "+10~+15 При обновлении предмета уровня поместите его в окно комбинации.",
             "tl": "+10~+15 Kapag nag-a-upgrade ng item sa antas, mangyaring ilagay ito sa window ng kumbinasyon.",
             "uk": "+10~+15 Під час підвищення рівня предмета, будь ласка, помістіть його у вікно комбінацій.",
+            "zh-CN": "强化+10至+15的物品时，请将此物放入合成窗口。",
             "zh-TW": "+10~+15 升級等級項目時請將其放在組合視窗中。"
           },
           "color": "purple"
@@ -3880,6 +3985,7 @@
             "ru": "Увеличивает критический урон на 20%",
             "tl": "Pinapataas ng 20% ang Kritikal na Pinsala",
             "uk": "Збільшує критичну шкоду на 20%",
+            "zh-CN": "会心一击伤害提高20%",
             "zh-TW": "暴擊傷害增加 20%"
           },
           "color": "blue"
@@ -3923,6 +4029,7 @@
             "ru": "Увеличивает отличный урон на 20%",
             "tl": "Pinapataas ng 20% ang Napakahusay na Pinsala",
             "uk": "Збільшує чудову шкоду на 20%",
+            "zh-CN": "卓越一击伤害提高20%",
             "zh-TW": "優秀傷害增加20%"
           },
           "color": "blue"
@@ -3983,6 +4090,7 @@
             "ru": "Зарегистрируйтесь у NPC, чтобы получать различные подарки.",
             "tl": "Magrehistro sa NPC upang makatanggap ng iba't ibang mga regalo.",
             "uk": "Зареєструйтесь у NPC, щоб отримувати різні подарунки.",
+            "zh-CN": "在相应的NPC处登记可领取礼物。",
             "zh-TW": "註冊NPC即可領取各種禮物。"
           },
           "color": "blue",
@@ -4013,7 +4121,8 @@
         {
           "text": {
             "en": "{durability} / 5",
-            "ja": "{durability}個/ 5個"
+            "ja": "{durability}個/ 5個",
+            "zh-CN": "{durability} / 5"
           }
         },
         {
@@ -4028,6 +4137,7 @@
             "ru": "Это потертый листок бумаги с непонятным текстом.",
             "tl": "Isa itong pagod na papel na naglalaman ng hindi maintindihang teksto.",
             "uk": "Це потертий аркуш паперу з незрозумілим текстом.",
+            "zh-CN": "一张破旧的纸片，上面写着难以辨认的文字。",
             "zh-TW": "這是一張破舊的紙，上面寫著難以理解的文字。"
           }
         }
@@ -4035,7 +4145,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -4068,6 +4179,7 @@
             "ru": "В нем содержатся планы Гайона по разрушению империи.",
             "tl": "Naglalaman ito ng mga plano ni Gaion para sa pagkawasak ng imperyo",
             "uk": "Він містить плани Гайона щодо знищення імперії",
+            "zh-CN": "记载着Gaion毁灭帝国的计划",
             "zh-TW": "它包含蓋昂毀滅帝國的計劃"
           }
         },
@@ -4083,6 +4195,7 @@
             "ru": "и заказы для Стражей Империи.",
             "tl": "at mga order para sa Empire Guardians.",
             "uk": "і накази для Вартових Імперії.",
+            "zh-CN": "以及他给帝国守护军的命令。",
             "zh-TW": "以及帝國守護者的命令。"
           }
         },
@@ -4098,6 +4211,7 @@
             "ru": "Вы можете войти в Крепость Хранителей Империи.",
             "tl": "Maaari kang pumasok sa Fortress of Empire Guardians.",
             "uk": "Ви можете увійти до Фортеці Вартових Імперії.",
+            "zh-CN": "可进入帝国要塞。",
             "zh-TW": "您可以進入帝國守護者要塞。"
           }
         }
@@ -4105,7 +4219,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -4132,7 +4247,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -4159,7 +4275,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -4186,7 +4303,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -4213,7 +4331,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -4240,7 +4359,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -4267,7 +4387,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -4299,6 +4420,7 @@
             "ru": "Неразрушимый металлический секромикон",
             "tl": "Hindi Masisirang Metal Secromicon",
             "uk": "Непорушний металевий секромікон",
+            "zh-CN": "坚不可摧的金属Secromicon",
             "zh-TW": "堅不可摧的金屬 Secromicon"
           }
         },
@@ -4314,6 +4436,7 @@
             "ru": "Содержит информацию об исследованиях Великого Волшебника Этраму Леноса.",
             "tl": "Naglalaman ng impormasyon tungkol sa pananaliksik ni Grand Wizard Etramu Lenos.",
             "uk": "Містить інформацію про дослідження великого чарівника Етраму Леноса.",
+            "zh-CN": "记载着大魔法师Etramu Lenos的研究。",
             "zh-TW": "包含大巫師埃特拉姆·萊諾斯研究的資訊。"
           }
         }
@@ -4321,7 +4444,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -4369,6 +4493,7 @@
             "ru": "Это единственное, что заставит Лугарда помочь вам.",
             "tl": "Iyan lang ang makakatutulong sa iyo ni Lugard",
             "uk": "Це єдине, що змусить Лугарда вам допомогти",
+            "zh-CN": "唯有凭此物，陆迦德才会帮助你",
             "zh-TW": "這是唯一能讓盧加德幫助你的事情"
           },
           "color": "darkBlue"
@@ -4385,6 +4510,7 @@
             "ru": "войдите в зону Доппельгангера.",
             "tl": "pumasok sa lugar ng Doppelganger.",
             "uk": "увійдіть у зону Doppelganger.",
+            "zh-CN": "进入分身幻影活动区域。",
             "zh-TW": "進入分身區域。"
           },
           "color": "darkBlue"
@@ -4393,7 +4519,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "yellow"
         }
@@ -4427,6 +4554,7 @@
             "ru": "Вы можете создать комбинацию Гоблина с Запечатанной Серебряной Коробкой, чтобы создать Серебряную Коробку.",
             "tl": "Maaari kang gumawa ng kumbinasyon ng Goblin na may Sealed Silver Box para gumawa ng Silver Box.",
             "uk": "Ви можете поєднати Гобліна з Запечатаною Срібною Скринькою, щоб створити Срібну Скриньку.",
+            "zh-CN": "与封印的银箱交给玛雅哥布林合成，可获得银箱。",
             "zh-TW": "您可以將哥布林與密封銀盒進行組合來創建銀盒。"
           }
         }
@@ -4465,6 +4593,7 @@
             "ru": "Вы можете создать комбинацию Гоблина с Запечатанной Золотой Коробкой, чтобы создать Золотую Коробку.",
             "tl": "Maaari kang gumawa ng kumbinasyon ng Goblin na may Sealed Golden Box para gumawa ng Golden Box.",
             "uk": "Ви можете створити комбінацію гобліна із запечатаною золотою скринькою, щоб створити золоту скриньку.",
+            "zh-CN": "与封印的金箱交给玛雅哥布林合成，可获得金箱。",
             "zh-TW": "您可以將哥布林與密封金盒進行組合來創建金盒。"
           }
         }
@@ -4623,6 +4752,7 @@
             "ru": "Вы можете получить очки гоблинов, используя хранилище магазина предметов MU.",
             "tl": "Maaari kang makakuha ng Goblin Points sa pamamagitan ng paggamit ng storage ng MU Item Shop.",
             "uk": "Ви можете отримати бали гоблінів, використовуючи сховище MU Item Shop.",
+            "zh-CN": "使用奇迹商城保管箱可获得哥布林积分。",
             "zh-TW": "您可以使用 MU 物品商店的存儲來獲取哥布林點數。"
           }
         }
@@ -4660,6 +4790,7 @@
             "ru": "Вы можете создать комбинацию Гоблина с Золотым ключом, чтобы создать Золотую шкатулку.",
             "tl": "Maaari kang gumawa ng kumbinasyon ng Goblin gamit ang isang Gold Key upang lumikha ng isang Golden Box.",
             "uk": "Ви можете створити комбінацію гобліна із золотим ключем, щоб створити золоту скриньку.",
+            "zh-CN": "与金钥匙交给玛雅哥布林合成，可获得金箱。",
             "zh-TW": "您可以將哥布林與金鑰匙組合來創建金盒子。"
           }
         }
@@ -4694,6 +4825,7 @@
             "ru": "Вы можете создать комбинацию гоблина с серебряным ключом, чтобы создать серебряную шкатулку.",
             "tl": "Maaari kang gumawa ng kumbinasyon ng Goblin na may Silver Key para gumawa ng Silver Box.",
             "uk": "Ви можете створити комбінацію гобліна зі срібним ключем, щоб створити срібну скриню.",
+            "zh-CN": "与银钥匙交给玛雅哥布林合成，可获得银箱。",
             "zh-TW": "您可以將哥布林與銀鑰匙組合來創建銀盒子。"
           }
         }
@@ -4936,6 +5068,7 @@
             "ru": "Восстанавливает SD на 65% i сразу.",
             "tl": "Ibinabalik kaagad ang SD nang 65% i.",
             "uk": "Миттєво відновлює SD на 65% i.",
+            "zh-CN": "立即恢复65%防护值（SD）。",
             "zh-TW": "立即恢復 SD 65% i。"
           },
           "color": "blue"
@@ -5128,6 +5261,7 @@
             "ru": "Макс. Увеличение HP +100",
             "tl": "Max. Tumaas ang HP +100",
             "uk": "Макс. HP збільшення +100",
+            "zh-CN": "最大生命值 +100",
             "zh-TW": "最大限度。生命值增加+100"
           },
           "color": "blue"

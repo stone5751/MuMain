@@ -440,14 +440,16 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "purple",
           "levels": [0, 0]
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "purple"
         }

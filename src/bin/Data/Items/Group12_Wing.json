@@ -152,7 +152,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -169,7 +170,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -227,7 +229,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -244,7 +247,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -302,7 +306,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -319,7 +324,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -377,7 +383,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -394,7 +401,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -539,6 +547,7 @@
             "ru": "{skill} Драгоценность",
             "tl": "{skill} Jewel",
             "uk": "{skill} Коштовність",
+            "zh-CN": "{skill}之石",
             "zh-TW": "{skill} 寶石"
           },
           "values": {"skill": "skillName:30"},
@@ -556,6 +565,7 @@
             "ru": "{skill} Драгоценность",
             "tl": "{skill} Jewel",
             "uk": "{skill} Коштовність",
+            "zh-CN": "{skill}之石",
             "zh-TW": "{skill} 寶石"
           },
           "values": {"skill": "skillName:31"},
@@ -573,6 +583,7 @@
             "ru": "{skill} Драгоценность",
             "tl": "{skill} Jewel",
             "uk": "{skill} Коштовність",
+            "zh-CN": "{skill}之石",
             "zh-TW": "{skill} 寶石"
           },
           "values": {"skill": "skillName:32"},
@@ -590,6 +601,7 @@
             "ru": "{skill} Драгоценность",
             "tl": "{skill} Jewel",
             "uk": "{skill} Коштовність",
+            "zh-CN": "{skill}之石",
             "zh-TW": "{skill} 寶石"
           },
           "values": {"skill": "skillName:33"},
@@ -607,6 +619,7 @@
             "ru": "{skill} Драгоценность",
             "tl": "{skill} Jewel",
             "uk": "{skill} Коштовність",
+            "zh-CN": "{skill}之石",
             "zh-TW": "{skill} 寶石"
           },
           "values": {"skill": "skillName:34"},
@@ -624,6 +637,7 @@
             "ru": "{skill} Драгоценность",
             "tl": "{skill} Jewel",
             "uk": "{skill} Коштовність",
+            "zh-CN": "{skill}之石",
             "zh-TW": "{skill} 寶石"
           },
           "values": {"skill": "skillName:35"},
@@ -641,6 +655,7 @@
             "ru": "{skill} Драгоценность",
             "tl": "{skill} Jewel",
             "uk": "{skill} Коштовність",
+            "zh-CN": "{skill}之石",
             "zh-TW": "{skill} 寶石"
           },
           "values": {"skill": "skillName:36"},
@@ -1002,6 +1017,7 @@
             "ru": "{bundleCount} Драгоценный камень благословения комбинированный",
             "tl": "{bundleCount} Hiyas ng Pagpapala ay pinagsama-sama",
             "uk": "{bundleCount} Jewel of Bless комбінований",
+            "zh-CN": "已合并{bundleCount}颗祝福宝石",
             "zh-TW": "{bundleCount} 祝福寶石 組合"
           }
         },
@@ -1012,7 +1028,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name} x{bundleCount}"
+            "en": "{name} x{bundleCount}",
+            "zh-CN": "{name} ×{bundleCount}"
           },
           "color": "yellow"
         }
@@ -1055,6 +1072,7 @@
             "ru": "{bundleCount} Драгоценность души комбинированный",
             "tl": "{bundleCount} Hiyas ng Kaluluwa ay pinagsama-sama",
             "uk": "{bundleCount} Перлина душі комбінований",
+            "zh-CN": "已合并{bundleCount}颗灵魂宝石",
             "zh-TW": "{bundleCount} 靈魂寶石 組合"
           }
         },
@@ -1065,7 +1083,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name} x{bundleCount}"
+            "en": "{name} x{bundleCount}",
+            "zh-CN": "{name} ×{bundleCount}"
           },
           "color": "yellow"
         }
@@ -1103,7 +1122,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           }
         }
       ],
@@ -1139,7 +1159,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           }
         }
       ],
@@ -1175,7 +1196,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           }
         }
       ],
@@ -1205,7 +1227,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           }
         }
       ],
@@ -1251,7 +1274,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -1268,7 +1292,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -1326,7 +1351,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -1343,7 +1369,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -1401,7 +1428,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -1418,7 +1446,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -1476,7 +1505,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -1493,7 +1523,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -1551,7 +1582,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -1568,7 +1600,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -1666,7 +1699,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -1683,7 +1717,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -1741,7 +1776,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -1758,7 +1794,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -1923,7 +1960,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -1940,7 +1978,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -1998,7 +2037,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "white",
           "colors": [
@@ -2015,7 +2055,8 @@
         },
         {
           "text": {
-            "en": "{name} +{level}"
+            "en": "{name} +{level}",
+            "zh-CN": "{name} +{level}"
           },
           "color": "white",
           "colors": [
@@ -2059,7 +2100,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2093,7 +2135,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2127,7 +2170,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2161,7 +2205,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2195,7 +2240,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2229,7 +2275,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2263,7 +2310,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2297,7 +2345,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2331,7 +2380,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2375,7 +2425,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2409,7 +2460,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2443,7 +2495,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2477,7 +2530,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2511,7 +2565,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2545,7 +2600,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2579,7 +2635,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2613,7 +2670,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2647,7 +2705,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2681,7 +2740,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2715,7 +2775,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2749,7 +2810,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2783,7 +2845,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2817,7 +2880,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2851,7 +2915,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2885,7 +2950,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2919,7 +2985,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2953,7 +3020,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -2987,7 +3055,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3011,7 +3080,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3035,7 +3105,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3059,7 +3130,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3083,7 +3155,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3107,7 +3180,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3131,7 +3205,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3155,7 +3230,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3179,7 +3255,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3203,7 +3280,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3227,7 +3305,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3251,7 +3330,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name}"
+            "en": "{name}",
+            "zh-CN": "{name}"
           },
           "color": "violet"
         }
@@ -3563,6 +3643,7 @@
             "ru": "{bundleCount} Жемчужина жизни комбинированный",
             "tl": "{bundleCount} Hiyas ng Buhay ay pinagsama-sama",
             "uk": "{bundleCount} Перлина життя комбінований",
+            "zh-CN": "已合并{bundleCount}颗生命宝石",
             "zh-TW": "{bundleCount} 生命寶石 組合"
           }
         },
@@ -3573,7 +3654,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name} x{bundleCount}"
+            "en": "{name} x{bundleCount}",
+            "zh-CN": "{name} ×{bundleCount}"
           },
           "color": "yellow"
         }
@@ -3616,6 +3698,7 @@
             "ru": "{bundleCount} Драгоценность творения комбинированный",
             "tl": "{bundleCount} Hiyas ng Paglikha ay pinagsama-sama",
             "uk": "{bundleCount} Перлина Творіння комбінований",
+            "zh-CN": "已合并{bundleCount}颗创造宝石",
             "zh-TW": "{bundleCount} 創造寶石 組合"
           }
         },
@@ -3626,7 +3709,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name} x{bundleCount}"
+            "en": "{name} x{bundleCount}",
+            "zh-CN": "{name} ×{bundleCount}"
           },
           "color": "yellow"
         }
@@ -3669,6 +3753,7 @@
             "ru": "{bundleCount} Сокровище Хранителя комбинированный",
             "tl": "{bundleCount} Hiyas ng Tagapangalaga ay pinagsama-sama",
             "uk": "{bundleCount} Jewel of Guardian комбінований",
+            "zh-CN": "已合并{bundleCount}颗守护宝石",
             "zh-TW": "{bundleCount} 守護者寶石 組合"
           }
         },
@@ -3679,7 +3764,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name} x{bundleCount}"
+            "en": "{name} x{bundleCount}",
+            "zh-CN": "{name} ×{bundleCount}"
           },
           "color": "yellow"
         }
@@ -3722,6 +3808,7 @@
             "ru": "{bundleCount} Драгоценный камень комбинированный",
             "tl": "{bundleCount} Bato ng hiyas ay pinagsama-sama",
             "uk": "{bundleCount} Коштовний камінь комбінований",
+            "zh-CN": "已合并{bundleCount}颗宝石原石",
             "zh-TW": "{bundleCount} 寶石石 組合"
           }
         },
@@ -3732,7 +3819,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name} x{bundleCount}"
+            "en": "{name} x{bundleCount}",
+            "zh-CN": "{name} ×{bundleCount}"
           },
           "color": "yellow"
         }
@@ -3775,6 +3863,7 @@
             "ru": "{bundleCount} Жемчужина гармонии комбинированный",
             "tl": "{bundleCount} Jewel of Harmony ay pinagsama-sama",
             "uk": "{bundleCount} Перлина гармонії комбінований",
+            "zh-CN": "已合并{bundleCount}颗再生宝石",
             "zh-TW": "{bundleCount} 和諧寶石 組合"
           }
         },
@@ -3785,7 +3874,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name} x{bundleCount}"
+            "en": "{name} x{bundleCount}",
+            "zh-CN": "{name} ×{bundleCount}"
           },
           "color": "yellow"
         }
@@ -3828,6 +3918,7 @@
             "ru": "{bundleCount} Жемчужина хаоса комбинированный",
             "tl": "{bundleCount} Hiyas ng Chaos ay pinagsama-sama",
             "uk": "{bundleCount} Перлина Хаосу комбінований",
+            "zh-CN": "已合并{bundleCount}颗玛雅之石",
             "zh-TW": "{bundleCount} 混沌寶石 組合"
           }
         },
@@ -3838,7 +3929,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name} x{bundleCount}"
+            "en": "{name} x{bundleCount}",
+            "zh-CN": "{name} ×{bundleCount}"
           },
           "color": "yellow"
         }
@@ -3881,6 +3973,7 @@
             "ru": "{bundleCount} Нижний очищающий камень комбинированный",
             "tl": "{bundleCount} Lower Refining Stone ay pinagsama-sama",
             "uk": "{bundleCount} Нижній очисний камінь комбінований",
+            "zh-CN": "已合并{bundleCount}颗低级进化宝石",
             "zh-TW": "{bundleCount} 下層精煉石 組合"
           }
         },
@@ -3891,7 +3984,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name} x{bundleCount}"
+            "en": "{name} x{bundleCount}",
+            "zh-CN": "{name} ×{bundleCount}"
           },
           "color": "yellow"
         }
@@ -3934,6 +4028,7 @@
             "ru": "{bundleCount} Камень высшей очистки комбинированный",
             "tl": "{bundleCount} Higher Refining Stone ay pinagsama-sama",
             "uk": "{bundleCount} Вищий очисний камінь комбінований",
+            "zh-CN": "已合并{bundleCount}颗高级进化宝石",
             "zh-TW": "{bundleCount} 高等精煉石 組合"
           }
         },
@@ -3944,7 +4039,8 @@
       "nameLines": [
         {
           "text": {
-            "en": "{name} x{bundleCount}"
+            "en": "{name} x{bundleCount}",
+            "zh-CN": "{name} ×{bundleCount}"
           },
           "color": "yellow"
         }
