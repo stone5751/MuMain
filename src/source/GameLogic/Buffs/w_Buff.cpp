@@ -188,7 +188,7 @@ bool Buff::IsEqualBuffType(IN int iBuffType, OUT wchar_t* szBuffName)
         buffinfo = TheBuffInfo().GetBuffinfo(iter->first);
         if (buffinfo.s_BuffEffectType == iBuffType)
         {
-            wcscpy(szBuffName, buffinfo.s_BuffName);
+            wcscpy(szBuffName, buffinfo.DisplayName());
             return true;
         }
 

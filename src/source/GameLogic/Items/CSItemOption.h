@@ -145,6 +145,7 @@ public:
 
     std::uint8_t    IsChangeSetItem(const int Type, const int SubType = -1);
     std::uint16_t    GetMixItemLevel(const int Type) const;
+    const wchar_t* GetDisplaySetName(int index) const;
     bool	GetSetItemName(wchar_t* strName, const int iType, const int setType) const;
 
     void	PlusSpecial(std::uint16_t* Value, int Special) const;
@@ -199,7 +200,7 @@ public:
     // draws it through RmlUi); returns the line count, 0 for none.
     int BuildOptionHelperTextList();
     // The option table of `setOption`, as BuildOptionHelperTextList() writes it; returns the line count.
-    static int BuildSetOptionTextList(const ITEM_SET_OPTION& setOption);
+    static int BuildSetOptionTextList(const ITEM_SET_OPTION& setOption, const wchar_t* displayName = nullptr);
 
     bool IsAncientSetEquipped() const { return m_SetSearchResultCount > 0; }
 

@@ -22,6 +22,8 @@ class BuffInfo
 public:
     BuffInfo();
     virtual ~BuffInfo();
+    const wchar_t* DisplayName() const;
+    std::list<std::wstring> DisplayDescriptionLines() const;
 
 public:
     short s_BuffIndex;

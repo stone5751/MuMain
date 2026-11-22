@@ -45,6 +45,24 @@ TEST_CASE("BMD overlay resolves only the guarded ID and Chinese locale [data][i1
     CHECK(overlay.Resolve(Kind::Skill, 4, nullptr, "zh-CN") == nullptr);
 }
 
+TEST_CASE("buff and set translations retain source, locale and line-break guards [data][i18n]")
+{
+    auto doc = Sample();
+    doc["entries"] = {
+        {{"kind", "buff-descriptions"}, {"id", 7}, {"english", "170% EXP/+10%%"}, {"zh-CN", "经验170%/+10%%"}},
+        {{"kind", "buff-names"}, {"id", 7}, {"english", "Aura"}, {"zh-CN", "光环"}},
+        {{"kind", "set-names"}, {"id", 7}, {"english", "Set"}, {"zh-CN", "套装"}}};
+    BmdTextOverlay overlay;
+    REQUIRE(Load(overlay, doc));
+    CHECK(std::wstring(overlay.Resolve(Kind::BuffDescription, 7, L"170% EXP/+10%%", "zh-CN")) == L"经验170%/+10%%");
+    CHECK(std::wstring(overlay.Resolve(Kind::BuffName, 7, L"Aura", "en")) == L"Aura");
+    CHECK(std::wstring(overlay.Resolve(Kind::BuffName, 7, L"Aura", "zh-CN")) == L"光环");
+    CHECK(std::wstring(overlay.Resolve(Kind::SetName, 7, L"Set", "zh-CN")) == L"套装");
+    CHECK(std::wstring(overlay.Resolve(Kind::SetName, 7, L"Different", "zh-CN")) == L"Different");
+    doc["entries"][0]["zh-CN"] = "经验170%+10%%";
+    CHECK_FALSE(Load(overlay, doc));
+}
+
 TEST_CASE("BMD overlay rejects invalid documents atomically [data][i18n]")
 {
     BmdTextOverlay overlay;
@@ -151,7 +169,10 @@ TEST_CASE("BMD overlay limits each display buffer in UTF16 units [data][i18n]")
                                                                                          {"quest-words", 50},
                                                                                          {"slides", 255},
                                                                                          {"quest-dialogue", 200},
-                                                                                         {"quest-summary", 200}})
+                                                                                         {"quest-summary", 200},
+                                                                                         {"buff-names", 49},
+                                                                                         {"buff-descriptions", 99},
+                                                                                         {"set-names", 62}})
     {
         BmdTextOverlay overlay;
         auto document = Sample();

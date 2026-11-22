@@ -24,7 +24,7 @@ constexpr int SlideCount = 5 * BmdTextOverlay::SlideSlotsPerLevel;
 // space for the numbered prefix, even when a future entry is used as a subject.
 // Dialogue-only accessors wrap into 35 rows; never use this larger limit for
 // list subjects or answers that share the original QuestWords table.
-constexpr std::array<std::size_t, 6> TextLimits = {49, 31, 50, 255, 200, 200};
+constexpr std::array<std::size_t, 9> TextLimits = {49, 31, 50, 255, 200, 200, 49, 99, 62};
 
 Kind ParseKind(const std::string& name)
 {
@@ -40,13 +40,19 @@ Kind ParseKind(const std::string& name)
         return Kind::QuestDialogue;
     if (name == "quest-summary")
         return Kind::QuestSummary;
+    if (name == "buff-names")
+        return Kind::BuffName;
+    if (name == "buff-descriptions")
+        return Kind::BuffDescription;
+    if (name == "set-names")
+        return Kind::SetName;
     throw std::runtime_error("Unknown BMD text kind");
 }
 
 int ReadId(const nlohmann::json& value, Kind kind)
 {
-    constexpr std::array<int, 6> limits = {SkillCount, QuestCount,     MaximumWordsId,
-                                           SlideCount, MaximumWordsId, MaximumWordsId};
+    constexpr std::array<int, 9> limits = {
+        SkillCount, QuestCount, MaximumWordsId, SlideCount, MaximumWordsId, MaximumWordsId, 256, 256, 64};
     if (!value.is_number_integer() || value < 0 || value >= limits[static_cast<std::size_t>(kind)])
         throw std::runtime_error("Invalid BMD text ID");
     return value.get<int>();
@@ -71,12 +77,15 @@ std::size_t Utf16Length(std::wstring_view text)
     return length;
 }
 
-std::vector<std::wstring> TextTokens(const std::wstring& text)
+std::vector<std::wstring> TextTokens(const std::wstring& text, Kind kind)
 {
     static const std::wregex tokens(
         LR"(%(?:%|(?:[0-9]+\$)?[-+ #0]*(?:[0-9]+|\*)?(?:\.(?:[0-9]+|\*))?(?:I64|I32|hh|ll|[hlLjztI])?[diuoxXfFeEgGaAcCsSpn])|\{[^{}]*\}|[{}%;\r\n\t])");
+    // Buff descriptions display literal percentages and use '/' for line breaks.
+    static const std::wregex buffTokens(LR"(%(?:%|d)?|[{};/\r\n\t])");
+    const auto& pattern = kind == Kind::BuffDescription ? buffTokens : tokens;
     std::vector<std::wstring> result;
-    for (std::wsregex_iterator it(text.begin(), text.end(), tokens), end; it != end; ++it)
+    for (std::wsregex_iterator it(text.begin(), text.end(), pattern), end; it != end; ++it)
         result.push_back(it->str());
     return result;
 }
@@ -88,7 +97,7 @@ void ValidateText(Kind kind, const std::wstring& english, const std::wstring& ch
     for (const auto ch : chinese)
         if ((ch < L' ' && ch != L'\r' && ch != L'\n' && ch != L'\t') || ch == 0x7f || ch == 0xfffd)
             throw std::runtime_error("Unsupported control character");
-    if (TextTokens(english) != TextTokens(chinese))
+    if (TextTokens(english, kind) != TextTokens(chinese, kind))
         throw std::runtime_error("Placeholder or paragraph separator mismatch");
     if (std::count(english.begin(), english.end(), L'%') != std::count(chinese.begin(), chinese.end(), L'%'))
         throw std::runtime_error("Percent token mismatch");

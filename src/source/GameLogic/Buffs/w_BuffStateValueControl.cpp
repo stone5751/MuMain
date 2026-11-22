@@ -100,9 +100,9 @@ void BuffStateValueControl::GetBuffInfoString(std::list<std::wstring>& outstr, e
 
     const BuffInfo buffinfo = g_BuffInfo(bufftype);
 
-    outstr = buffinfo.s_BuffDescriptlist;
+    outstr = buffinfo.DisplayDescriptionLines();
     outstr.push_front(L"\n");
-    outstr.push_front(buffinfo.s_BuffName);
+    outstr.push_front(buffinfo.DisplayName());
 
     /*
         if( tempvalueinfo.s_Value1 != 0 && tempvalueinfo.s_Value2 != 0 )

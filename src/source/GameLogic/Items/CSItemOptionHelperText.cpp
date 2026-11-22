@@ -20,11 +20,11 @@ int CSItemOption::BuildOptionHelperTextList()
         return 0;
     }
 
-    return BuildSetOptionTextList(setOption);
+    return BuildSetOptionTextList(setOption, GetDisplaySetName(m_byRenderOptionList - 1));
 }
 
 // The original RenderOptionHelper()'s table, line for line, without its RenderTipTextList().
-int CSItemOption::BuildSetOptionTextList(const ITEM_SET_OPTION& setOption)
+int CSItemOption::BuildSetOptionTextList(const ITEM_SET_OPTION& setOption, const wchar_t* displayName)
 {
     int TextNum = 0;
     std::fill(std::begin(TextListColor), std::end(TextListColor), 0);
@@ -35,7 +35,8 @@ int CSItemOption::BuildSetOptionTextList(const ITEM_SET_OPTION& setOption)
 
     mu_swprintf(TextList[TextNum], L"\n");
     TextNum++;
-    mu_swprintf(TextList[TextNum], L"%ls %ls %ls", setOption.strSetName, I18N::Game::Set, I18N::Game::ItemOptionInfo);
+    mu_swprintf(TextList[TextNum], L"%ls %ls %ls", displayName ? displayName : setOption.strSetName, I18N::Game::Set,
+                I18N::Game::ItemOptionInfo);
     TextListColor[TextNum] = TEXT_COLOR_YELLOW;
     TextNum++;
 

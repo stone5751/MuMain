@@ -6,6 +6,7 @@
 #include "UI/Core/UIManager.h"
 #include "GameLogic/Items/ItemAddOptioninfo.h"
 #include "w_BuffScriptLoader.h"
+#include "Data/Translation/BmdTextOverlay.h"
 #include "Core/Platform/WinCompat.h"
 #include "Core/Utilities/Log/MuLogger.h"
 
@@ -15,7 +16,7 @@
 
 namespace
 {
-void CutTokenString(wchar_t* pcCuttoken, std::list<std::wstring>& out)
+void CutTokenString(const wchar_t* pcCuttoken, std::list<std::wstring>& out)
 {
     if (wcslen(pcCuttoken) == 0)
         return;
@@ -49,6 +50,23 @@ BuffInfo::BuffInfo()
 }
 
 BuffInfo::~BuffInfo() {}
+
+const wchar_t* BuffInfo::DisplayName() const
+{
+    using namespace Data::Translation;
+    return BmdDisplayText(BmdTextOverlay::Kind::BuffName, s_BuffIndex, s_BuffName);
+}
+
+std::list<std::wstring> BuffInfo::DisplayDescriptionLines() const
+{
+    using namespace Data::Translation;
+    const auto* text = BmdDisplayText(BmdTextOverlay::Kind::BuffDescription, s_BuffIndex, s_BuffDescript);
+    if (text == s_BuffDescript)
+        return s_BuffDescriptlist;
+    std::list<std::wstring> lines;
+    CutTokenString(text, lines);
+    return lines;
+}
 
 BuffScriptLoaderPtr BuffScriptLoader::Make()
 {

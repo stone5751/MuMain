@@ -5,7 +5,9 @@
     "skill_eng.bmd": "8ca29f43317552a639fea84153dafb1cc263453318bbbe6d40ca41caacb69982",
     "Quest_eng.bmd": "561994c1857edf66c253d868c9babc9b86ab41af104ec162c4131e3bd850f89b",
     "QuestWords_eng.bmd": "2487b6e90ac044f70506936add51eb069c4c6a4a7451e2aaa831d5ed0da2297e",
-    "slide_eng.bmd": "e029f7e6dd0610dfe5d3aa17bc98ca50cf2bde43520e09746c407ccdd5667662"
+    "slide_eng.bmd": "e029f7e6dd0610dfe5d3aa17bc98ca50cf2bde43520e09746c407ccdd5667662",
+    "BuffEffect_Eng.bmd": "a25b832b384dfbfab7d861a81b8111d97bb3e473a98c97431a67a3296a151e48",
+    "itemsetoption_eng.bmd": "fc88f2668feffcee653be49fea341dfbd9a0240b8c2d63deffa62464fc9a4590"
   },
   "entries": [
     {
@@ -16411,6 +16413,2052 @@
       "id": 617,
       "english": "Increase Triple Damage Chance",
       "zh-CN": "三倍伤害概率增加"
+    },
+    {
+      "kind": "buff-names",
+      "id": 1,
+      "english": "Increase Attack Power",
+      "zh-CN": "攻击力提升"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 1,
+      "english": "Attack power increases.",
+      "zh-CN": "攻击力提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 2,
+      "english": "Increase Defense",
+      "zh-CN": "防御力提升"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 2,
+      "english": "Defensibility increases.",
+      "zh-CN": "防御力提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 3,
+      "english": "Shadow Phantom effect",
+      "zh-CN": "幻影导师的祝福"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 3,
+      "english": "Attack power and Defensibility increases",
+      "zh-CN": "攻击力和防御力提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 4,
+      "english": "Soul Barrier",
+      "zh-CN": "守护之魂"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 4,
+      "english": "Manna absorbs the damage.",
+      "zh-CN": "消耗魔法值吸收伤害。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 5,
+      "english": "Critical Damage increase",
+      "zh-CN": "会心一击伤害提升"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 5,
+      "english": "Critical damage increases.",
+      "zh-CN": "会心一击的伤害提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 6,
+      "english": "Infinity Arrow",
+      "zh-CN": "无影箭"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 6,
+      "english": "Arrows do not become consumed.",
+      "zh-CN": "攻击时不消耗箭矢。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 7,
+      "english": "AG recovery speed increase",
+      "zh-CN": "技能值（AG）恢复加速"
+    },
+    {
+      "kind": "buff-names",
+      "id": 8,
+      "english": "Swell Life",
+      "zh-CN": "生命之光"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 8,
+      "english": "Health stat increases to maximum.",
+      "zh-CN": "最大生命值提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 9,
+      "english": "Swell Mana",
+      "zh-CN": "魔法值提升"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 9,
+      "english": "Mana stat increases to maximum.",
+      "zh-CN": "最大魔法值提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 10,
+      "english": "Potion of Blessing",
+      "zh-CN": "祝福药水"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 10,
+      "english": "Attack power +20%% increase",
+      "zh-CN": "攻击力提高20%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 11,
+      "english": "Potion of Soul",
+      "zh-CN": "灵魂药水"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 11,
+      "english": "AG recovery speed increase +8/Lightning and Ice resistance increase/attack speed increase +20",
+      "zh-CN": "技能值（AG）恢复速度 +8/雷、冰属性抗性提高/攻击速度 +20"
+    },
+    {
+      "kind": "buff-names",
+      "id": 12,
+      "english": "Abolish Magic",
+      "zh-CN": "魔法解除"
+    },
+    {
+      "kind": "buff-names",
+      "id": 13,
+      "english": "Gate Open/Close Status",
+      "zh-CN": "城门开关状态"
+    },
+    {
+      "kind": "buff-names",
+      "id": 14,
+      "english": "Watchtower",
+      "zh-CN": "瞭望塔"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 14,
+      "english": "Watching over the castle.",
+      "zh-CN": "监视城堡。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 15,
+      "english": "Besiegement Guild1",
+      "zh-CN": "攻城战盟1"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 15,
+      "english": "In the process of attacking the castle",
+      "zh-CN": "正在攻打城堡。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 16,
+      "english": "Besiegement Guild2",
+      "zh-CN": "攻城战盟2"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 16,
+      "english": "In the process of attacking the castle",
+      "zh-CN": "正在攻打城堡。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 17,
+      "english": "Besiegement Guild3",
+      "zh-CN": "攻城战盟3"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 17,
+      "english": "In the process of attacking the castle",
+      "zh-CN": "正在攻打城堡。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 18,
+      "english": "Invisibility",
+      "zh-CN": "隐身"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 18,
+      "english": "Transparency Status",
+      "zh-CN": "处于隐身状态。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 19,
+      "english": "Dark Rod Battle Skill",
+      "zh-CN": "圣导师攻城战技"
+    },
+    {
+      "kind": "buff-names",
+      "id": 20,
+      "english": "Crown Registration Status",
+      "zh-CN": "皇冠登记状态"
+    },
+    {
+      "kind": "buff-names",
+      "id": 21,
+      "english": "Altar of Wolf contract enabled",
+      "zh-CN": "狼魂祭坛可缔结契约"
+    },
+    {
+      "kind": "buff-names",
+      "id": 22,
+      "english": "Altar of Wolf contract disabled",
+      "zh-CN": "狼魂祭坛无法缔结契约"
+    },
+    {
+      "kind": "buff-names",
+      "id": 23,
+      "english": "Altar of Wolf contract Status",
+      "zh-CN": "狼魂祭坛契约状态"
+    },
+    {
+      "kind": "buff-names",
+      "id": 24,
+      "english": "Altar of Wolf contract attempt",
+      "zh-CN": "正在与狼魂祭坛缔结契约"
+    },
+    {
+      "kind": "buff-names",
+      "id": 25,
+      "english": "Altar of Wolf besiegement Status",
+      "zh-CN": "狼魂祭坛被围攻"
+    },
+    {
+      "kind": "buff-names",
+      "id": 26,
+      "english": "Altar of Wolf hero contract Status",
+      "zh-CN": "狼魂祭坛英雄契约状态"
+    },
+    {
+      "kind": "buff-names",
+      "id": 27,
+      "english": "Cry Wolf NPC transparency",
+      "zh-CN": "狼魂要塞NPC隐身"
+    },
+    {
+      "kind": "buff-names",
+      "id": 28,
+      "english": "GM",
+      "zh-CN": "游戏管理员"
+    },
+    {
+      "kind": "buff-names",
+      "id": 29,
+      "english": "Seal of Ascension",
+      "zh-CN": "光之祝福"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 29,
+      "english": "EXP gain increase 150%%",
+      "zh-CN": "获得经验提高150%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 30,
+      "english": "Seal of Wealth",
+      "zh-CN": "财富印章"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 30,
+      "english": "EXP gain increase 150%%/item gain increase 200%%",
+      "zh-CN": "获得经验提高150%%/物品掉落率提高200%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 31,
+      "english": "Seal of Sustenance",
+      "zh-CN": "禁锢印章"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 31,
+      "english": "EXP gain disabled",
+      "zh-CN": "停止获取经验。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 32,
+      "english": "Temple - Spell of Quickness",
+      "zh-CN": "幻术园疾速咒文"
+    },
+    {
+      "kind": "buff-names",
+      "id": 33,
+      "english": "Temple - Spell of Sublimation",
+      "zh-CN": "幻术园升华咒文"
+    },
+    {
+      "kind": "buff-names",
+      "id": 34,
+      "english": "Spell of Protection",
+      "zh-CN": "守护咒文"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 34,
+      "english": "Damage absorbed at 100%%.",
+      "zh-CN": "吸收100%%伤害。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 35,
+      "english": "Jack O'Lantern Blessings",
+      "zh-CN": "南瓜灯的祝福"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 35,
+      "english": "Attack speed increase +10",
+      "zh-CN": "攻击速度 +10"
+    },
+    {
+      "kind": "buff-names",
+      "id": 36,
+      "english": "Jack O'Lantern Wrath",
+      "zh-CN": "南瓜灯的愤怒"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 36,
+      "english": "Attack power increase +25",
+      "zh-CN": "攻击力 +25"
+    },
+    {
+      "kind": "buff-names",
+      "id": 37,
+      "english": "Jack O'Lantern Cry",
+      "zh-CN": "南瓜灯的呐喊"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 37,
+      "english": "Defensibility increase +100",
+      "zh-CN": "防御力 +100"
+    },
+    {
+      "kind": "buff-names",
+      "id": 38,
+      "english": "Jack O'Lantern Food",
+      "zh-CN": "南瓜灯食品"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 38,
+      "english": "Maximum Life increase +500",
+      "zh-CN": "最大生命值 +500"
+    },
+    {
+      "kind": "buff-names",
+      "id": 39,
+      "english": "Jack O'Lantern Drink",
+      "zh-CN": "南瓜灯饮料"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 39,
+      "english": "Maximum Mana increase +500",
+      "zh-CN": "最大魔法值 +500"
+    },
+    {
+      "kind": "buff-names",
+      "id": 40,
+      "english": "Seal of Ascension",
+      "zh-CN": "光之祝福"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 40,
+      "english": "EXP gain increase 150%%",
+      "zh-CN": "获得经验提高150%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 41,
+      "english": "Seal of Wealth",
+      "zh-CN": "财富印章"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 41,
+      "english": "EXP gain increase 200%%/Item gain increase 150%%",
+      "zh-CN": "获得经验提高200%%/物品掉落率提高150%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 42,
+      "english": "Seal of Sustenance",
+      "zh-CN": "禁锢印章"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 42,
+      "english": "EXP gain disabled",
+      "zh-CN": "停止获取经验。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 43,
+      "english": "Seal of Mobility",
+      "zh-CN": "移动印章"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 43,
+      "english": "Mobility enabled",
+      "zh-CN": "可以移动。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 44,
+      "english": "Scroll of Quickness",
+      "zh-CN": "敏捷卷轴"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 44,
+      "english": "Attack speed increase +15",
+      "zh-CN": "攻击速度 +15"
+    },
+    {
+      "kind": "buff-names",
+      "id": 45,
+      "english": "Scroll of Defense",
+      "zh-CN": "防御卷轴"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 45,
+      "english": "Defensibility increase +60",
+      "zh-CN": "防御力 +60"
+    },
+    {
+      "kind": "buff-names",
+      "id": 46,
+      "english": "Scroll of Wrath",
+      "zh-CN": "愤怒卷轴"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 46,
+      "english": "Attack power increase +30",
+      "zh-CN": "攻击力 +30"
+    },
+    {
+      "kind": "buff-names",
+      "id": 47,
+      "english": "Scroll of Wizardry",
+      "zh-CN": "魔力卷轴"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 47,
+      "english": "Wizardry increase +30",
+      "zh-CN": "魔法攻击力 +30"
+    },
+    {
+      "kind": "buff-names",
+      "id": 48,
+      "english": "Scroll of Health",
+      "zh-CN": "生命卷轴"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 48,
+      "english": "HP increase +200",
+      "zh-CN": "生命值 +200"
+    },
+    {
+      "kind": "buff-names",
+      "id": 49,
+      "english": "Scroll of Mana",
+      "zh-CN": "魔法卷轴"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 49,
+      "english": "Mana increase +300",
+      "zh-CN": "魔法值 +300"
+    },
+    {
+      "kind": "buff-names",
+      "id": 50,
+      "english": "Elixir of Strength",
+      "zh-CN": "力量秘药"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 50,
+      "english": "Strength Status +50",
+      "zh-CN": "力量 +50"
+    },
+    {
+      "kind": "buff-names",
+      "id": 51,
+      "english": "Elixir of Agility",
+      "zh-CN": "敏捷秘药"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 51,
+      "english": "Agility Status +50",
+      "zh-CN": "敏捷 +50"
+    },
+    {
+      "kind": "buff-names",
+      "id": 52,
+      "english": "Elixir of Health",
+      "zh-CN": "体力秘药"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 52,
+      "english": "Health Status +50",
+      "zh-CN": "体力 +50"
+    },
+    {
+      "kind": "buff-names",
+      "id": 53,
+      "english": "Elixir of Energy",
+      "zh-CN": "智力秘药"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 53,
+      "english": "Energy Status +50",
+      "zh-CN": "智力 +50"
+    },
+    {
+      "kind": "buff-names",
+      "id": 54,
+      "english": "Elixir of Control",
+      "zh-CN": "统率秘药"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 54,
+      "english": "Control Status +50",
+      "zh-CN": "统率 +50"
+    },
+    {
+      "kind": "buff-names",
+      "id": 55,
+      "english": "Poison",
+      "zh-CN": "中毒"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 55,
+      "english": "Poisoned status of condition",
+      "zh-CN": "处于中毒状态。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 56,
+      "english": "Ice",
+      "zh-CN": "冰冻减速"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 56,
+      "english": "Mobility speed decreases.",
+      "zh-CN": "移动速度降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 57,
+      "english": "Iced Arrow",
+      "zh-CN": "冰封箭"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 57,
+      "english": "Mobility disabled",
+      "zh-CN": "无法移动。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 58,
+      "english": "Defensibility reduction",
+      "zh-CN": "防御力下降"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 58,
+      "english": "Random defensibility decreases at 10%%.",
+      "zh-CN": "防御力随机降低10%%。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 59,
+      "english": "Attack power reduction",
+      "zh-CN": "攻击力下降"
+    },
+    {
+      "kind": "buff-names",
+      "id": 60,
+      "english": "Wizardry increase reduction",
+      "zh-CN": "魔法攻击加成降低"
+    },
+    {
+      "kind": "buff-names",
+      "id": 61,
+      "english": "Stun",
+      "zh-CN": "眩晕"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 61,
+      "english": "Mobility disabled",
+      "zh-CN": "无法移动。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 62,
+      "english": "Magic Defense",
+      "zh-CN": "魔法防御"
+    },
+    {
+      "kind": "buff-names",
+      "id": 63,
+      "english": "Monster Magic Attack Resistance",
+      "zh-CN": "怪物魔法攻击抗性"
+    },
+    {
+      "kind": "buff-names",
+      "id": 64,
+      "english": "Monster Chemistry Attack Resistance",
+      "zh-CN": "怪物化学攻击抗性"
+    },
+    {
+      "kind": "buff-names",
+      "id": 65,
+      "english": "Spell of Restriction",
+      "zh-CN": "束缚咒文"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 65,
+      "english": "Mobility disabled",
+      "zh-CN": "无法移动。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 66,
+      "english": "Cry Wolf Divine Protection Status",
+      "zh-CN": "狼魂要塞的神圣守护"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 66,
+      "english": "Cry Wolf Divine Protection Status",
+      "zh-CN": "受到狼魂要塞的神圣守护。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 67,
+      "english": "Cry Wolf Divine Protection Status",
+      "zh-CN": "狼魂要塞的神圣守护"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 67,
+      "english": "Cry Wolf Divine Protection Status",
+      "zh-CN": "受到狼魂要塞的神圣守护。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 68,
+      "english": "Cry Wolf Divine Protection Status",
+      "zh-CN": "狼魂要塞的神圣守护"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 68,
+      "english": "Cry Wolf Divine Protection Status",
+      "zh-CN": "受到狼魂要塞的神圣守护。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 69,
+      "english": "Cry Wolf Divine Protection Status",
+      "zh-CN": "狼魂要塞的神圣守护"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 69,
+      "english": "Cry Wolf Divine Protection Status",
+      "zh-CN": "受到狼魂要塞的神圣守护。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 70,
+      "english": "Cry Wolf Divine Protection Status",
+      "zh-CN": "狼魂要塞的神圣守护"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 70,
+      "english": "Cry Wolf Divine Protection Status",
+      "zh-CN": "受到狼魂要塞的神圣守护。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 71,
+      "english": "Damage Reflection",
+      "zh-CN": "反射咒"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 71,
+      "english": "Partial damage reflected out.",
+      "zh-CN": "将部分伤害反射给攻击者。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 72,
+      "english": "Sleep",
+      "zh-CN": "昏睡"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 72,
+      "english": "Short period of nap",
+      "zh-CN": "短时间内陷入昏睡。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 73,
+      "english": "Blind",
+      "zh-CN": "蒙眼煞"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 73,
+      "english": "Shortened view and the attack accuracy decreases.",
+      "zh-CN": "视野缩小，攻击命中率降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 74,
+      "english": "Requiem",
+      "zh-CN": "安魂弥撒"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 74,
+      "english": "Summoner Neil attack",
+      "zh-CN": "受到召唤术师异灵之书的攻击。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 75,
+      "english": "Explosion",
+      "zh-CN": "爆裂击"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 75,
+      "english": "Summoner Shamut attack",
+      "zh-CN": "受到召唤术师火龙兽之书的攻击。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 76,
+      "english": "Weakness",
+      "zh-CN": "虚弱术"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 76,
+      "english": "Attack power reduction",
+      "zh-CN": "攻击力降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 77,
+      "english": "Innovation",
+      "zh-CN": "破御阵"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 77,
+      "english": "Defensibility reduction",
+      "zh-CN": "防御力降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 78,
+      "english": "Cherry Blossom Wine",
+      "zh-CN": "樱花酒"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 78,
+      "english": "Maximum Mana increase +700",
+      "zh-CN": "最大魔法值 +700"
+    },
+    {
+      "kind": "buff-names",
+      "id": 79,
+      "english": "Cherry Blossom Rice Cake",
+      "zh-CN": "樱花年糕"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 79,
+      "english": "Maximum Life increase +700",
+      "zh-CN": "最大生命值 +700"
+    },
+    {
+      "kind": "buff-names",
+      "id": 80,
+      "english": "Cherry Blossom Flower Petal",
+      "zh-CN": "樱花花瓣"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 80,
+      "english": "Attack power increase +40",
+      "zh-CN": "攻击力 +40"
+    },
+    {
+      "kind": "buff-names",
+      "id": 81,
+      "english": "Berserker",
+      "zh-CN": "狂暴术"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 81,
+      "english": "Curse spell, Wizardry, Attack power and Maximum Mana increases, Defense and Maximum Life decreases",
+      "zh-CN": "诅咒攻击力、魔法攻击力、攻击力和最大魔法值提高，防御力和最大生命值降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 82,
+      "english": "Expansion of Wizardry",
+      "zh-CN": "法神附体"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 82,
+      "english": "Minimum Wizardry increases.",
+      "zh-CN": "最小魔法攻击力提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 83,
+      "english": "Flame Strike",
+      "zh-CN": "火剑袭"
+    },
+    {
+      "kind": "buff-names",
+      "id": 84,
+      "english": "Gigantic Storm",
+      "zh-CN": "闪电轰顶"
+    },
+    {
+      "kind": "buff-names",
+      "id": 85,
+      "english": "Lightning Shock",
+      "zh-CN": "雷光闪"
+    },
+    {
+      "kind": "buff-names",
+      "id": 86,
+      "english": "Cold",
+      "zh-CN": "寒冷"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 86,
+      "english": "Detrimental cold reduces /the mobility speed.",
+      "zh-CN": "受寒气影响，/移动速度降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 87,
+      "english": "Seal of Healing",
+      "zh-CN": "治疗印章"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 87,
+      "english": "EXP gain increase 150%%/Automatic Life recovery at 5%%",
+      "zh-CN": "获得经验提高150%%/生命自动恢复5%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 88,
+      "english": "Seal of Divinity",
+      "zh-CN": "神圣印章"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 88,
+      "english": "Item gain increase at 150%%/Automatic Mana recovery at 5%%",
+      "zh-CN": "物品掉落率提高150%%/魔法值自动恢复5%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 89,
+      "english": "Scroll of Battle",
+      "zh-CN": "战斗卷轴"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 89,
+      "english": "Critical damage increase at 20%%",
+      "zh-CN": "会心一击伤害提高20%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 90,
+      "english": "Scroll of Strength",
+      "zh-CN": "力量卷轴"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 90,
+      "english": "Excellent damage increase at 20%%",
+      "zh-CN": "卓越一击伤害提高20%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 91,
+      "english": "Blessing of Christmas",
+      "zh-CN": "圣诞祝福"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 91,
+      "english": "Attack power and Defensibility increases",
+      "zh-CN": "攻击力和防御力提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 92,
+      "english": "Santa Healing",
+      "zh-CN": "圣诞老人的治疗"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 92,
+      "english": "Maximum Life increase +500",
+      "zh-CN": "最大生命值 +500"
+    },
+    {
+      "kind": "buff-names",
+      "id": 93,
+      "english": "Santa Protection",
+      "zh-CN": "圣诞老人的守护"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 93,
+      "english": "Maximum Mana increase +500",
+      "zh-CN": "最大魔法值 +500"
+    },
+    {
+      "kind": "buff-names",
+      "id": 94,
+      "english": "Santa Strengthener",
+      "zh-CN": "圣诞老人的力量"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 94,
+      "english": "Attack power +30",
+      "zh-CN": "攻击力 +30"
+    },
+    {
+      "kind": "buff-names",
+      "id": 95,
+      "english": "Santa Defense",
+      "zh-CN": "圣诞老人的防御"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 95,
+      "english": "Defensibility +100",
+      "zh-CN": "防御力 +100"
+    },
+    {
+      "kind": "buff-names",
+      "id": 96,
+      "english": "Santa Quickness",
+      "zh-CN": "圣诞老人的敏捷"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 96,
+      "english": "Attack speed +15",
+      "zh-CN": "攻击速度 +15"
+    },
+    {
+      "kind": "buff-names",
+      "id": 97,
+      "english": "Santa Fortune",
+      "zh-CN": "圣诞老人的幸运"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 97,
+      "english": "AG recovery speed increase +10",
+      "zh-CN": "技能值（AG）恢复速度 +10"
+    },
+    {
+      "kind": "buff-names",
+      "id": 98,
+      "english": "Watch",
+      "zh-CN": "观战"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 98,
+      "english": "You may enter and watch a duel in Arena.",
+      "zh-CN": "可以进入竞技场观看决斗。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 99,
+      "english": "Talisman of Guardian",
+      "zh-CN": "守护护符"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 99,
+      "english": "No penalty for dying.",
+      "zh-CN": "死亡时免受惩罚。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 100,
+      "english": "Talisman of Item Protection",
+      "zh-CN": "物品保护护符"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 100,
+      "english": "Keeps item durable",
+      "zh-CN": "保护物品耐久。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 101,
+      "english": "Master Seal of Ascension",
+      "zh-CN": "大师光之祝福"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 101,
+      "english": "EXP gain increase 150%%",
+      "zh-CN": "获得经验提高150%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 102,
+      "english": "Master Seal of Wealth",
+      "zh-CN": "大师财富印章"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 102,
+      "english": "EXP gain increase 200%%/Item gain increase 150%%",
+      "zh-CN": "获得经验提高200%%/物品掉落率提高150%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 103,
+      "english": "Gladiator's Honor",
+      "zh-CN": "角斗士的荣誉"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 103,
+      "english": "Increases EXP by 20%% /Rare Item drop rate/can be used in Vulcanus only.",
+      "zh-CN": "获得经验提高20%%/稀有物品掉落率提高/仅在决斗地图生效。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 104,
+      "english": "Seal of Strength",
+      "zh-CN": "力量印章"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 104,
+      "english": "Increases Attack Rate and Defense Rate'",
+      "zh-CN": "攻击成功率和防御成功率提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 105,
+      "english": "Ascension",
+      "zh-CN": "升华"
+    },
+    {
+      "kind": "buff-names",
+      "id": 106,
+      "english": "PK Penalty",
+      "zh-CN": "红名惩罚"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 106,
+      "english": "Warp Command Window access restricted for five minutes.",
+      "zh-CN": "五分钟内无法使用移动命令窗口。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 107,
+      "english": "You feel tired.",
+      "zh-CN": "疲劳"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 107,
+      "english": "50%% EXP Gain /50%% Item Drop Rate ",
+      "zh-CN": "获得经验为50%%/物品掉落率为50%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 108,
+      "english": "You feel exhausted.",
+      "zh-CN": "筋疲力尽"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 108,
+      "english": "50%% EXP Gain /0%% Item Drop Rate ",
+      "zh-CN": "获得经验为50%%/物品掉落率为0%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 112,
+      "english": "Party EXP Bonus Item",
+      "zh-CN": "组队经验加成"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 112,
+      "english": "Up to 170% EXP gain, depending on the number of members in the party.",
+      "zh-CN": "根据队伍人数，获得经验最高可达170%。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 113,
+      "english": "Max AG Boost Aura",
+      "zh-CN": "最大AG提升光环"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 113,
+      "english": "Increases your max AG.",
+      "zh-CN": "最大技能值（AG）提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 114,
+      "english": "Max SD Boost Aura",
+      "zh-CN": "最大SD提升光环"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 114,
+      "english": "Increases your max SD.",
+      "zh-CN": "最大防护值（SD）提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 115,
+      "english": "Minimum Vitality",
+      "zh-CN": "活力极低"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 115,
+      "english": "100%% EXP Gain/100%% Item Drop Rate/Stops stamina from diminishing for a fixed duration of time.",
+      "zh-CN": "获得经验为100%%/物品掉落率为100%%/一定时间内耐力不会下降。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 116,
+      "english": "Low Vitality",
+      "zh-CN": "活力较低"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 116,
+      "english": "100%% EXP Gain/100%% Item Drop Rate/Stops stamina from diminishing for a fixed duration of time.",
+      "zh-CN": "获得经验为100%%/物品掉落率为100%%/一定时间内耐力不会下降。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 117,
+      "english": "Medium Vitality",
+      "zh-CN": "活力适中"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 117,
+      "english": "100%% EXP Gain/100%% Item Drop Rate/Stops stamina from diminishing for a fixed duration of time.",
+      "zh-CN": "获得经验为100%%/物品掉落率为100%%/一定时间内耐力不会下降。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 118,
+      "english": "High Vitality",
+      "zh-CN": "活力充沛"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 118,
+      "english": "100%% EXP Gain/100%% Item Drop Rate/Stops stamina from diminishing for a fixed duration of time.",
+      "zh-CN": "获得经验为100%%/物品掉落率为100%%/一定时间内耐力不会下降。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 119,
+      "english": "Seal of Wealth",
+      "zh-CN": "财富印章"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 119,
+      "english": "Increases Item Drop Rate to 150%%.",
+      "zh-CN": "物品掉落率提高至150%%。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 120,
+      "english": "Punishment for Illicit Software Use",
+      "zh-CN": "使用非法软件的惩罚"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 120,
+      "english": "50%% EXP Gain /0%% Item Drop Rate ",
+      "zh-CN": "获得经验为50%%/物品掉落率为0%%"
+    },
+    {
+      "kind": "buff-names",
+      "id": 121,
+      "english": "Scroll of Healing",
+      "zh-CN": "治疗卷轴"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 121,
+      "english": "+3%% HP Regen/+100 HP",
+      "zh-CN": "生命恢复 +3%%/生命值 +100"
+    },
+    {
+      "kind": "buff-names",
+      "id": 129,
+      "english": "Ignore Enemy's Defense",
+      "zh-CN": "无视敌人防御"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 129,
+      "english": "Increases chance to ignore enemy's defense and inflict damage.",
+      "zh-CN": "攻击时有更高几率无视敌人的防御。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 130,
+      "english": "Increase Health",
+      "zh-CN": "斗神-命"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 130,
+      "english": "Increases health stat.",
+      "zh-CN": "体力提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 131,
+      "english": "Increase Defense Rate",
+      "zh-CN": "防御成功率提升"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 131,
+      "english": "Increases maximum defend rate.",
+      "zh-CN": "最大防御成功率提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 132,
+      "english": "Defense success rate decrease",
+      "zh-CN": "防御成功率下降"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 132,
+      "english": "Decreases defense success rate.",
+      "zh-CN": "防御成功率降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 133,
+      "english": "Invincibility",
+      "zh-CN": "无敌"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 133,
+      "english": "Invincible",
+      "zh-CN": "处于无敌状态。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 134,
+      "english": "Iron Defense",
+      "zh-CN": "钢铁防御"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 134,
+      "english": "Significantly increases defense and HP.",
+      "zh-CN": "大幅提高防御力和生命值。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 135,
+      "english": "Swell Life",
+      "zh-CN": "生命之光"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 135,
+      "english": "Increases max life and Mana.",
+      "zh-CN": "最大生命值和最大魔法值提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 136,
+      "english": "Swell Life",
+      "zh-CN": "生命之光"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 136,
+      "english": "Increases max life, Mana, and AG.",
+      "zh-CN": "最大生命值、魔法值和技能值（AG）提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 137,
+      "english": "Bleeding",
+      "zh-CN": "流血"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 137,
+      "english": "Drains HP per every second.",
+      "zh-CN": "每秒损失生命值。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 138,
+      "english": "Expansion of Wizardry",
+      "zh-CN": "法神附体"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 138,
+      "english": "Increases min Wizardry and max Wizardry.",
+      "zh-CN": "最小和最大魔法攻击力提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 139,
+      "english": "Expansion of Wizardry",
+      "zh-CN": "法神附体"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 139,
+      "english": "Increases min Wizardry, max Wizardry,/ and critical damage rate.",
+      "zh-CN": "最小和最大魔法攻击力提高，/会心一击率也会提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 140,
+      "english": "Soul Barrier",
+      "zh-CN": "守护之魂"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 140,
+      "english": "Uses Mana to absorb damage,/ and increases max Mana.",
+      "zh-CN": "消耗魔法值吸收伤害，/同时提高最大魔法值。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 141,
+      "english": "Reduce attack speed",
+      "zh-CN": "攻击减速"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 141,
+      "english": "Reduces Attack speed.",
+      "zh-CN": "攻击速度降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 142,
+      "english": "Bless",
+      "zh-CN": "祝福"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 142,
+      "english": "Increases all stats by %d.",
+      "zh-CN": "所有属性提高%d点。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 143,
+      "english": "Infinity Arrow",
+      "zh-CN": "无影箭"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 143,
+      "english": "Arrows are not consumed,/ and increases your damage.",
+      "zh-CN": "攻击时不消耗箭矢，/同时提高伤害。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 144,
+      "english": "Blind",
+      "zh-CN": "蒙眼煞"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 144,
+      "english": "You are blinded./Decreases attack success rate.",
+      "zh-CN": "处于失明状态。/攻击成功率降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 145,
+      "english": "Vampiric",
+      "zh-CN": "吸血"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 145,
+      "english": "HP is drained every second and transferred to the target.",
+      "zh-CN": "每秒损失生命值，并将其转移给目标。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 146,
+      "english": "Freeze",
+      "zh-CN": "冻结"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 146,
+      "english": "Immobilized when you are frozen.",
+      "zh-CN": "冻结期间无法移动。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 147,
+      "english": "Earth Binds",
+      "zh-CN": "大地束缚"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 147,
+      "english": "Earth Binds",
+      "zh-CN": "受到大地束缚。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 148,
+      "english": "Critical Damage increase",
+      "zh-CN": "会心一击伤害提升"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 148,
+      "english": "Increases critical damage and critical damage rate.",
+      "zh-CN": "会心一击伤害和会心一击率提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 149,
+      "english": "Critical Damage increase",
+      "zh-CN": "会心一击伤害提升"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 149,
+      "english": "Increases critical damage and critical damage rate,/ and also increases excellent damage rate.",
+      "zh-CN": "会心一击伤害和会心一击率提高，/卓越一击率也会提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 150,
+      "english": "Berserker",
+      "zh-CN": "狂暴术"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 150,
+      "english": "Curse spell, Wizardry, Attack power and Maximum Mana increases, Defense and Maximum Life decreases",
+      "zh-CN": "诅咒攻击力、魔法攻击力、攻击力和最大魔法值提高，防御力和最大生命值降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 151,
+      "english": "Berserker",
+      "zh-CN": "狂暴术"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 151,
+      "english": "Curse spell, Wizardry, Attack power and Maximum Mana increases, Defense and Maximum Life decreases",
+      "zh-CN": "诅咒攻击力、魔法攻击力、攻击力和最大魔法值提高，防御力和最大生命值降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 152,
+      "english": "Berserker",
+      "zh-CN": "狂暴术"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 152,
+      "english": "Curse spell, Wizardry, Attack power and Maximum Mana increases, Defense and Maximum Life decreases",
+      "zh-CN": "诅咒攻击力、魔法攻击力、攻击力和最大魔法值提高，防御力和最大生命值降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 153,
+      "english": "Increase Defense Success Rate",
+      "zh-CN": "防御成功率增加"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 153,
+      "english": "Increases defense success rate.",
+      "zh-CN": "防御成功率提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 154,
+      "english": "Increase Defense Success Rate",
+      "zh-CN": "防御成功率增加"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 154,
+      "english": "Increases maximum defense and defense success rate.",
+      "zh-CN": "最大防御力和防御成功率提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 155,
+      "english": "Increase HP",
+      "zh-CN": "生命值增加"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 155,
+      "english": "Increases HP.",
+      "zh-CN": "生命值提高。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 156,
+      "english": "Ignore Enemy's Defense",
+      "zh-CN": "无视敌人防御"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 156,
+      "english": "Increases the chance of ignoring Enemy DEF. If successful, enemy a chance to take a Penetrate Armor.",
+      "zh-CN": "无视敌人防御的几率提高。成功时有几率使敌人进入破甲状态。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 157,
+      "english": "Fire",
+      "zh-CN": "灼烧"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 157,
+      "english": "HP is reduced for every second of fire damage.",
+      "zh-CN": "受到火焰伤害，每秒损失生命值。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 158,
+      "english": "Frost",
+      "zh-CN": "霜寒"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 158,
+      "english": "HP is reduced for every second of frost damage.",
+      "zh-CN": "受到寒霜伤害，每秒损失生命值。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 159,
+      "english": "Poison",
+      "zh-CN": "中毒"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 159,
+      "english": "HP is reduced for every second of poison damage.",
+      "zh-CN": "受到毒素伤害，每秒损失生命值。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 160,
+      "english": "Poison",
+      "zh-CN": "中毒"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 160,
+      "english": "HP is reduced for every second of poison damage.",
+      "zh-CN": "受到毒素伤害，每秒损失生命值。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 161,
+      "english": "Bless",
+      "zh-CN": "祝福"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 161,
+      "english": "Increases all stats by %d.",
+      "zh-CN": "所有属性提高%d点。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 162,
+      "english": "Weaken",
+      "zh-CN": "虚弱"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 162,
+      "english": "Decreases attack rate.",
+      "zh-CN": "攻击成功率降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 163,
+      "english": "Innovate",
+      "zh-CN": "破御"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 163,
+      "english": "Decreases defense rate.",
+      "zh-CN": "防御成功率降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 164,
+      "english": "Decrease Defense Rate",
+      "zh-CN": "防御成功率下降"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 164,
+      "english": "Decreases defense rate.",
+      "zh-CN": "防御成功率降低。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 165,
+      "english": "Iron Defense",
+      "zh-CN": "钢铁防御"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 165,
+      "english": "Significantly increases defense rate and HP.",
+      "zh-CN": "大幅提高防御成功率和生命值。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 166,
+      "english": "Blood Howl",
+      "zh-CN": "鲜血咆哮"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 166,
+      "english": "HP is reduced every second.",
+      "zh-CN": "每秒损失生命值。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 167,
+      "english": "Blood Howl",
+      "zh-CN": "鲜血咆哮"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 167,
+      "english": "HP is reduced every second.",
+      "zh-CN": "每秒损失生命值。"
+    },
+    {
+      "kind": "buff-names",
+      "id": 169,
+      "english": "Penetrate Armor",
+      "zh-CN": "破甲"
+    },
+    {
+      "kind": "buff-descriptions",
+      "id": 169,
+      "english": "Decreases defense and defense success rate.",
+      "zh-CN": "防御力和防御成功率降低。"
+    },
+    {
+      "kind": "set-names",
+      "id": 1,
+      "english": "Warrior's",
+      "zh-CN": "汉斯的"
+    },
+    {
+      "kind": "set-names",
+      "id": 2,
+      "english": "Anonymous's",
+      "zh-CN": "汉斯的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 3,
+      "english": "Hyperion's",
+      "zh-CN": "汉斯的"
+    },
+    {
+      "kind": "set-names",
+      "id": 4,
+      "english": "Mist's",
+      "zh-CN": "汉斯的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 5,
+      "english": "Eplete's",
+      "zh-CN": "汉斯的"
+    },
+    {
+      "kind": "set-names",
+      "id": 6,
+      "english": "Berserker's",
+      "zh-CN": "汉斯的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 7,
+      "english": "Garuda's",
+      "zh-CN": "汉斯的"
+    },
+    {
+      "kind": "set-names",
+      "id": 8,
+      "english": "Cloud's",
+      "zh-CN": "汉斯的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 9,
+      "english": "Kantata's",
+      "zh-CN": "汉斯的"
+    },
+    {
+      "kind": "set-names",
+      "id": 10,
+      "english": "Rave's",
+      "zh-CN": "汉斯的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 11,
+      "english": "Hyon's",
+      "zh-CN": "汉斯的"
+    },
+    {
+      "kind": "set-names",
+      "id": 12,
+      "english": "Vicious's",
+      "zh-CN": "汉斯的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 13,
+      "english": "Apollo's",
+      "zh-CN": "帕希的"
+    },
+    {
+      "kind": "set-names",
+      "id": 14,
+      "english": "Barnake's",
+      "zh-CN": "帕希的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 15,
+      "english": "Evis's",
+      "zh-CN": "帕希的"
+    },
+    {
+      "kind": "set-names",
+      "id": 16,
+      "english": "Sylion's",
+      "zh-CN": "帕希的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 17,
+      "english": "Heras's",
+      "zh-CN": "帕希的"
+    },
+    {
+      "kind": "set-names",
+      "id": 18,
+      "english": "Minet's",
+      "zh-CN": "帕希的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 19,
+      "english": "Anubis's",
+      "zh-CN": "帕希的"
+    },
+    {
+      "kind": "set-names",
+      "id": 20,
+      "english": "Enis",
+      "zh-CN": "帕希的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 21,
+      "english": "Ceto's",
+      "zh-CN": "安吉拉的"
+    },
+    {
+      "kind": "set-names",
+      "id": 22,
+      "english": "Drake's",
+      "zh-CN": "安吉拉的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 23,
+      "english": "Gaia's",
+      "zh-CN": "安吉拉的"
+    },
+    {
+      "kind": "set-names",
+      "id": 24,
+      "english": "Fase's",
+      "zh-CN": "安吉拉的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 25,
+      "english": "Odin's",
+      "zh-CN": "安吉拉的"
+    },
+    {
+      "kind": "set-names",
+      "id": 26,
+      "english": "Elvian's",
+      "zh-CN": "安吉拉的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 27,
+      "english": "Argo's",
+      "zh-CN": "安吉拉的"
+    },
+    {
+      "kind": "set-names",
+      "id": 28,
+      "english": "Karis's",
+      "zh-CN": "安吉拉的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 29,
+      "english": "Gywen's",
+      "zh-CN": "安吉拉的"
+    },
+    {
+      "kind": "set-names",
+      "id": 30,
+      "english": "Aruan's",
+      "zh-CN": "安吉拉的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 31,
+      "english": "Gaion's",
+      "zh-CN": "凯文的"
+    },
+    {
+      "kind": "set-names",
+      "id": 32,
+      "english": "Muren's",
+      "zh-CN": "凯文的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 33,
+      "english": "Agnis's",
+      "zh-CN": "阿莱斯的"
+    },
+    {
+      "kind": "set-names",
+      "id": 34,
+      "english": "Broy's",
+      "zh-CN": "阿莱斯的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 35,
+      "english": "Chrono’s",
+      "zh-CN": "露茜的"
+    },
+    {
+      "kind": "set-names",
+      "id": 36,
+      "english": "Semeden’s",
+      "zh-CN": "露茜的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 37,
+      "english": "Vega's",
+      "zh-CN": "贝加的"
+    },
+    {
+      "kind": "set-names",
+      "id": 38,
+      "english": "Chamer's",
+      "zh-CN": "贝加的强化"
+    },
+    {
+      "kind": "set-names",
+      "id": 39,
+      "english": "Moros's",
+      "zh-CN": "哈德的传承"
+    },
+    {
+      "kind": "set-names",
+      "id": 40,
+      "english": "Dione's",
+      "zh-CN": "洛迪丝的传承"
+    },
+    {
+      "kind": "set-names",
+      "id": 41,
+      "english": "Hades's",
+      "zh-CN": "安东尼斯的传承"
+    },
+    {
+      "kind": "set-names",
+      "id": 42,
+      "english": "Ophion's",
+      "zh-CN": "莉娜的传承"
+    },
+    {
+      "kind": "set-names",
+      "id": 43,
+      "english": "Meter's",
+      "zh-CN": "阿莱斯的传承"
+    },
+    {
+      "kind": "set-names",
+      "id": 44,
+      "english": "Hegaton's",
+      "zh-CN": "汉斯的传承"
+    },
+    {
+      "kind": "set-names",
+      "id": 45,
+      "english": "Castol's",
+      "zh-CN": "安吉拉的传承"
+    },
+    {
+      "kind": "set-names",
+      "id": 46,
+      "english": "Taros's",
+      "zh-CN": "帕希的传承"
+    },
+    {
+      "kind": "set-names",
+      "id": 47,
+      "english": "Nemesis's",
+      "zh-CN": "露茜的传承"
+    },
+    {
+      "kind": "set-names",
+      "id": 48,
+      "english": "Amis's",
+      "zh-CN": "亚米斯的"
+    },
+    {
+      "kind": "set-names",
+      "id": 49,
+      "english": "Trite's",
+      "zh-CN": "凯文的传承"
     }
   ]
 }

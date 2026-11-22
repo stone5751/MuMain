@@ -497,7 +497,7 @@ void FormatRewardText(SRequestRewardText& line, const SQuestReward& reward)
     case QUEST_REWARD_BUFF:
     {
         const BuffInfo buffinfo = g_BuffInfo((eBuffState)reward.m_wIndex);
-        FormatRequestRewardText(line, I18N::Game::QuestRewardBuffBonus, buffinfo.s_BuffName,
+        FormatRequestRewardText(line, I18N::Game::QuestRewardBuffBonus, buffinfo.DisplayName(),
                                 static_cast<unsigned long>(reward.m_dwValue));
     }
     break;
@@ -734,7 +734,7 @@ bool CQuestMng::GetRequestRewardText(SRequestRewardText* aDest, int nDestCount, 
                 aDest[nLine].m_eKind = RRTK_REQUIREMENT;
 
             const BuffInfo buffinfo = g_BuffInfo((eBuffState)pRequestInfo->m_wIndex);
-            FormatRequestRewardText(aDest[nLine], I18N::Game::QuestRequirementBuff, buffinfo.s_BuffName);
+            FormatRequestRewardText(aDest[nLine], I18N::Game::QuestRequirementBuff, buffinfo.DisplayName());
         }
         break;
 

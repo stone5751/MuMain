@@ -2,6 +2,8 @@
     INCLUDE.
 +++++++++++++++++++++++++++++++++++++*/
 #include "stdafx.h"
+#include "Data/GameData/ItemData/ItemDatabase.h"
+#include "Data/Translation/BmdTextOverlay.h"
 #include "Render/Textures/ZzzOpenglUtil.h"
 #include "Core/Utilities/FileHandle.h"
 #include "Data/DataHandler/DataFileIO.h"
@@ -286,6 +288,13 @@ std::uint16_t CSItemOption::GetMixItemLevel(const int Type) const
     return static_cast<std::uint16_t>(itemSType.byMixItemLevel[0] | (static_cast<std::uint16_t>(itemSType.byMixItemLevel[1]) << 8));
 }
 
+const wchar_t* CSItemOption::GetDisplaySetName(int index) const
+{
+    using Data::Translation::BmdTextOverlay;
+    return BmdTextOverlay::Instance().Resolve(BmdTextOverlay::Kind::SetName, index, m_ItemSetOption[index].strSetName,
+                                              g_ItemDatabase.GetDisplayLocale());
+}
+
 bool CSItemOption::GetSetItemName(wchar_t* strName, const int iType, const int setType) const
 {
     const int setItemType = (setType % 0x04);
@@ -295,14 +304,11 @@ bool CSItemOption::GetSetItemName(wchar_t* strName, const int iType, const int s
         const ITEM_SET_TYPE& itemSType = m_ItemSetType[iType];
         if (itemSType.byOption[setItemType - 1] != 255 && itemSType.byOption[setItemType - 1] != 0)
         {
-            const ITEM_SET_OPTION& itemOption = m_ItemSetOption[itemSType.byOption[setItemType - 1]];
-
-            
-            memcpy(strName, itemOption.strSetName, sizeof itemOption.strSetName);
-
-            const int length = wcslen(strName);
-            strName[length] = ' ';
-            strName[length + 1] = 0;
+            const auto* name = GetDisplaySetName(itemSType.byOption[setItemType - 1]);
+            const auto length = std::min<std::size_t>(wcslen(name), MAX_ITEM_SET_NAME - 2);
+            std::wmemcpy(strName, name, length);
+            strName[length] = L' ';
+            strName[length + 1] = L'\0';
             return true;
         }
     }
@@ -921,7 +927,7 @@ bool CSItemOption::BuildSetOptionTooltipModel(UI::Inventory::Tooltip::Model& out
         const auto& set = m_SetSearchResult[i];
 
         // print set name:
-        mu_swprintf(TextList[TextNum], L"%ls %ls", set.SetName, I18N::Game::Set);
+        mu_swprintf(TextList[TextNum], L"%ls %ls", GetDisplaySetName(set.SetNumber), I18N::Game::Set);
         TextListColor[TextNum] = TEXT_COLOR_YELLOW;
         TextBold[TextNum] = true;
         TextNum++;

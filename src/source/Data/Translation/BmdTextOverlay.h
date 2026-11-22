@@ -17,7 +17,10 @@ public:
         QuestWords,
         Slide,
         QuestDialogue,
-        QuestSummary
+        QuestSummary,
+        BuffName,
+        BuffDescription,
+        SetName
     };
     static constexpr int SlideSlotsPerLevel = 32;
     static constexpr const char* FilePath = "Data/Local/BmdText.zh-CN.json";
