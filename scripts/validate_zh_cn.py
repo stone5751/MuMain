@@ -98,7 +98,8 @@ def check_item_lines(errors):
             for (field, text), (_, old) in zip(item_lines(item), item_lines(old_item), strict=True):
                 counts[field] = counts.get(field, 0) + 1
                 en, zh = text['en'], text.get('zh-CN', '')
-                if not zh or len(zh.encode('utf-16-le')) // 2 > 255:
+                limit = 255 if field == 'nameLines' else 511
+                if not zh or len(zh.encode('utf-16-le')) // 2 > limit:
                     errors.append(f'{path.name}/{field}/{en}: missing or oversized display text')
                 if old.get('zh-CN') == zh:
                     continue  # Existing translations may spell numbers with Chinese numerals.

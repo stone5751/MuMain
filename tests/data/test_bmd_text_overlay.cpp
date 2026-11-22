@@ -3,6 +3,7 @@
 #include "Data/Translation/BmdTextOverlay.h"
 #include "GameLogic/Skills/SkillManager.h"
 #include "GameLogic/Quests/QuestMng.h"
+#include "GameLogic/Buffs/w_BuffScriptLoader.h"
 #include "Core/Text/TextLineWrap.h"
 #include "Core/Utilities/StringUtils.h"
 #include "I18N/All.h"
@@ -61,6 +62,34 @@ TEST_CASE("buff and set translations retain source, locale and line-break guards
     CHECK(std::wstring(overlay.Resolve(Kind::SetName, 7, L"Different", "zh-CN")) == L"Different");
     doc["entries"][0]["zh-CN"] = "经验170%+10%%";
     CHECK_FALSE(Load(overlay, doc));
+}
+
+TEST_CASE("buff tooltip and quest buff names switch together without altering the source [data][i18n]")
+{
+    auto doc = Sample();
+    doc["entries"] = {
+        {{"kind", "buff-names"}, {"id", 3}, {"english", "Blessing"}, {"zh-CN", "祝福"}},
+        {{"kind", "buff-descriptions"}, {"id", 3}, {"english", "Attack/Defense"}, {"zh-CN", "攻击/防御"}}};
+    BuffInfo buff;
+    buff.s_BuffIndex = 3;
+    wcscpy(buff.s_BuffName, L"Blessing");
+    wcscpy(buff.s_BuffDescript, L"Attack/Defense");
+    buff.s_BuffDescriptlist = {L"Attack", L"Defense"};
+    const std::list<std::wstring> chinese = {L"攻击", L"防御"};
+    const auto previous = std::string(I18N::GetCurrentLocale());
+    auto& overlay = BmdTextOverlay::Instance();
+    REQUIRE(Load(overlay, doc));
+    for (const auto* locale : {"zh-CN", "en", "zh-CN"})
+    {
+        I18N::SetLocale(locale);
+        const bool zh = std::string_view(locale) == "zh-CN";
+        CHECK(std::wstring(buff.DisplayName()) == (zh ? L"祝福" : L"Blessing"));
+        CHECK(buff.DisplayDescriptionLines() == (zh ? chinese : buff.s_BuffDescriptlist));
+        CHECK(std::wstring(buff.s_BuffDescript) == L"Attack/Defense");
+    }
+    I18N::SetLocale(previous.c_str());
+    doc["entries"] = nlohmann::json::array();
+    CHECK(Load(overlay, doc));
 }
 
 TEST_CASE("BMD overlay rejects invalid documents atomically [data][i18n]")
